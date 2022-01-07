@@ -1,0 +1,3065 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+<w:body>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:pPr>
+<w:pStyle w:val="Tutkielmankirjoittaja"/>
+</w:pPr>
+<w:r>
+<w:t>Etunimi Sukunimi</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="009342D7" w:rsidP="00E6009A">
+<w:pPr>
+<w:pStyle w:val="Tutkielmannimi"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:pict>
+<v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+<v:stroke joinstyle="miter"/>
+<v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype>
+<v:shape id="Text Box 2" o:spid="_x0000_s1035" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:251656192;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
+<v:textbox style="mso-next-textbox:#Text Box 2" inset="0,0,0,0">
+<w:txbxContent>
+<w:p w:rsidR="0038549D" w:rsidRDefault="009342D7" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:noProof/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:pict>
+<v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+<v:stroke joinstyle="miter"/>
+<v:formulas>
+<v:f eqn="if lineDrawn pixelLineWidth 0"/>
+<v:f eqn="sum @0 1 0"/>
+<v:f eqn="sum 0 0 @1"/>
+<v:f eqn="prod @2 1 2"/>
+<v:f eqn="prod @3 21600 pixelWidth"/>
+<v:f eqn="prod @3 21600 pixelHeight"/>
+<v:f eqn="sum @0 0 1"/>
+<v:f eqn="prod @6 1 2"/>
+<v:f eqn="prod @7 21600 pixelWidth"/>
+<v:f eqn="sum @8 21600 0"/>
+<v:f eqn="prod @7 21600 pixelHeight"/>
+<v:f eqn="sum @10 21600 0"/>
+</v:formulas>
+<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+<o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype>
+<v:shape id="_x0000_i1040" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:34pt;height:76.5pt;visibility:visible">
+<v:imagedata r:id="rId8" o:title="jyu_soihtu"/>
+</v:shape>
+</w:pict>
+</w:r>
+</w:p>
+<w:p w:rsidR="0038549D" w:rsidRDefault="0038549D" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:t>Jyväskylän yliopisto</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00235FE4" w:rsidRDefault="00235FE4" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:t>informaatioteknologian tiedekunta</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Laitoksennimi"/>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> DATE  \@ "yyyy"  \* MERGEFORMAT </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="00656FEE">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:t>2020</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+<w10:wrap type="square" anchorx="page" anchory="margin"/>
+</v:shape>
+</w:pict>
+</w:r>
+<w:r w:rsidR="00E6009A">
+<w:t>Tutkimusraportin nimi</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+</w:pPr>
+<w:bookmarkStart w:id="0" w:name="_Toc274315268"/>
+<w:bookmarkStart w:id="1" w:name="_Toc274315646"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>TIIVISTELMÄ</w:t>
+</w:r>
+<w:bookmarkEnd w:id="0"/>
+<w:bookmarkEnd w:id="1"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r>
+<w:t>Sukunimi, Etunimi</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusraportin otsikko</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r>
+<w:t>Jyväs</w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7">
+<w:t>kylä: Jyväskylän yliopisto, 2020</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="007B4468">
+<w:t>70</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> s.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r>
+<w:t>Pääaine, tutkimusraportin tyyppi (</w:t>
+</w:r>
+<w:r w:rsidR="009A6365">
+<w:t xml:space="preserve">esim. </w:t>
+</w:r>
+<w:r w:rsidR="009A6365" w:rsidRPr="009A6365">
+<w:t>Tietojärjestelmätiede/Kognitiotiede</w:t>
+</w:r>
+<w:r w:rsidR="00D80065">
+<w:t>/</w:t>
+</w:r>
+<w:r w:rsidR="009A6365">
+<w:t xml:space="preserve"> Kyberturvallisuus, pro gradu </w:t>
+</w:r>
+<w:r>
+<w:t>-tutkielma)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r>
+<w:t>Ohjaaja(t): Sukunimi, Etunimi</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Tii</w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7">
+<w:t>vistelmässä kerrotaan tiiviisti</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> mutta tarkasti olennaiset asiat tutkimuksesta, sen tekotavasta, tarkoituksesta ja tuloksista. Tiivistelmän tulee olla suppea ja tarkka, itsenäisesti ymmärrettävä, johdonmukainen ja täydellisin lausein kirjoitettu teksti ilman kirjallisuusviitteitä. Tiivistelmän kielen tulee perustua tutkimuksessa käytettyyn käsitteistöön. Tiivistelmäosan maksimipituus on 250 sanaa. </w:t>
+</w:r>
+<w:r w:rsidR="00372F2B">
+<w:t>Tiivistelmän perään merkitään 3–</w:t>
+</w:r>
+<w:r>
+<w:t>7 tutkimuksen aihetta kuvaavaa avainsanaa. Tiivistelmä kirjoitetaan myös englanniksi.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Asiasanat: asiasana1, asiasana2, asiasana3, …</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:bookmarkStart w:id="2" w:name="_Toc274315269"/>
+<w:bookmarkStart w:id="3" w:name="_Toc274315647"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>ABSTRACT</w:t>
+</w:r>
+<w:bookmarkEnd w:id="2"/>
+<w:bookmarkEnd w:id="3"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Last name, First name</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Name of the publication</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Jyväskyl</w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>ä: University of Jyväskylä, 2020</w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="007B4468">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>70</w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> p</w:t>
+</w:r>
+<w:r w:rsidR="007B4468">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>p</w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Major subject, type of the publica</w:t>
+</w:r>
+<w:r w:rsidR="009A6365">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>tion (e.g. Information Systems</w:t>
+</w:r>
+<w:r w:rsidR="00D80065">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>/C</w:t>
+</w:r>
+<w:r w:rsidR="00B1420C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>ognitive</w:t>
+</w:r>
+<w:r w:rsidR="009A6365">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> Science, </w:t>
+</w:r>
+<w:r w:rsidR="00B1420C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Cyber Security, </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Master’s Thesis)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Supervisor(s): Last name, First name</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Text of the abstract is written here. Make sure the abstract fits in this page with the keywords as well. </w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00372F2B" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r w:rsidRPr="00372F2B">
+<w:t>Keywords: keyword1, keyword2, keyword3, …</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+</w:pPr>
+<w:bookmarkStart w:id="4" w:name="_Toc274315270"/>
+<w:bookmarkStart w:id="5" w:name="_Toc274315648"/>
+<w:r w:rsidRPr="0038549D">
+<w:lastRenderedPageBreak/>
+<w:t>KUVIOT</w:t>
+</w:r>
+<w:bookmarkEnd w:id="4"/>
+<w:bookmarkEnd w:id="5"/>
+</w:p>
+<w:p w:rsidR="002C446E" w:rsidRDefault="0006628B">
+<w:pPr>
+<w:pStyle w:val="TableofFigures"/>
+<w:tabs>
+<w:tab w:val="left" w:pos="1701"/>
+<w:tab w:val="right" w:leader="dot" w:pos="8494"/>
+</w:tabs>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00AF5221">
+<w:instrText xml:space="preserve"> TOC \h \z \c "KUVIO" </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:hyperlink w:anchor="_Toc58412788" w:history="1">
+<w:r w:rsidR="002C446E" w:rsidRPr="00F2045C">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>KUVIO 1</w:t>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="002C446E" w:rsidRPr="00F2045C">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Pelkistetty diagrammiesimerkki</w:t>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc58412788 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>8</w:t>
+</w:r>
+<w:r w:rsidR="002C446E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="002C446E" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikkoeisivunvaihtoa"/>
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:bookmarkStart w:id="6" w:name="_Toc274315271"/>
+<w:bookmarkStart w:id="7" w:name="_Toc274315649"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00E6009A">
+<w:t>TAULUKOT</w:t>
+</w:r>
+<w:bookmarkEnd w:id="6"/>
+<w:bookmarkEnd w:id="7"/>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="006B5BEF">
+<w:instrText xml:space="preserve"> TOC \h \z \c "TAULUKKO" </w:instrText>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+</w:p>
+<w:p w:rsidR="002C446E" w:rsidRDefault="002C446E">
+<w:pPr>
+<w:pStyle w:val="TableofFigures"/>
+<w:tabs>
+<w:tab w:val="left" w:pos="1791"/>
+<w:tab w:val="right" w:leader="dot" w:pos="8494"/>
+</w:tabs>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc58412792" w:history="1">
+<w:r w:rsidRPr="00997605">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>TAULUKKO 1</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidRPr="00997605">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Esimerkki taulukon selitetekstistä</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc58412792 \h </w:instrText>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>8</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+<w:p w:rsidR="00A62C2B" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+</w:pPr>
+<w:bookmarkStart w:id="8" w:name="_Toc274315272"/>
+<w:bookmarkStart w:id="9" w:name="_Toc274315650"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>SISÄLLYS</w:t>
+</w:r>
+<w:bookmarkStart w:id="10" w:name="_Toc274315273"/>
+<w:bookmarkEnd w:id="8"/>
+<w:bookmarkEnd w:id="9"/>
+</w:p>
+<w:p w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
+<w:pPr>
+<w:ind w:firstLine="0"/>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:t>TIIVISTELMÄ</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
+<w:pPr>
+<w:pStyle w:val="Normaltextfirstchapter"/>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:t>ABSTRACT</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Normaltextfirstchapter"/>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:t>KUVIOT JA TAULUKOT</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> TOC \o "1-3" \h \z \u </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:hyperlink w:anchor="_Toc56597987" w:history="1">
+<w:r w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>1</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Johdanto</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597987 \h </w:instrText>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597988" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>1.1</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Toisen tason alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597988 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC3"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597989" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>1.1.1</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Kolmannen tason alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597989 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC3"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597990" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>1.1.2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Kolmannen tason toinen alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597990 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597991" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>1.2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Toisen tason toinen alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597991 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597992" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>TOINEN PÄÄOTSIKKO</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597992 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597993" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>2.1</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597993 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC2"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597994" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>2.2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>Toinen alaotsikko</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597994 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597995" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>KOLMAS PÄÄOTSIKKO</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597995 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597996" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>LÄHTEET</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597996 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:pPr>
+<w:pStyle w:val="TOC1"/>
+<w:rPr>
+<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:caps w:val="0"/>
+<w:noProof/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:pPr>
+<w:hyperlink w:anchor="_Toc56597997" w:history="1">
+<w:r w:rsidR="00B02A9E" w:rsidRPr="00350E45">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:noProof/>
+</w:rPr>
+<w:t>LIITE 1 ENSIMMÄINEN LIITE</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:instrText xml:space="preserve"> PAGEREF _Toc56597997 \h </w:instrText>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="006D6CC8">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:t>2</w:t>
+</w:r>
+<w:r w:rsidR="00B02A9E">
+<w:rPr>
+<w:noProof/>
+<w:webHidden/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:hyperlink>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:sectPr w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidSect="00A90FC7">
+<w:headerReference w:type="first" r:id="rId9"/>
+<w:pgSz w:w="11906" w:h="16838"/>
+<w:pgMar w:top="1701" w:right="1701" w:bottom="1418" w:left="1701" w:header="709" w:footer="709" w:gutter="0"/>
+<w:cols w:space="708"/>
+<w:docGrid w:linePitch="360"/>
+</w:sectPr>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+<w:p w:rsidR="0094200D" w:rsidRDefault="0094200D" w:rsidP="00A62C2B">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:sectPr w:rsidR="0094200D" w:rsidSect="0094200D">
+<w:headerReference w:type="default" r:id="rId10"/>
+<w:type w:val="continuous"/>
+<w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+<w:pgMar w:top="1701" w:right="1701" w:bottom="1701" w:left="1701" w:header="1134" w:footer="851" w:gutter="0"/>
+<w:cols w:space="708"/>
+<w:titlePg/>
+<w:docGrid w:linePitch="360"/>
+</w:sectPr>
+</w:pPr>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="009D4F35" w:rsidP="00A62C2B">
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+<w:framePr w:wrap="notBeside"/>
+</w:pPr>
+<w:bookmarkStart w:id="11" w:name="_Toc56597508"/>
+<w:bookmarkStart w:id="12" w:name="_Toc56597987"/>
+<w:bookmarkEnd w:id="10"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Johdanto</w:t>
+</w:r>
+<w:bookmarkEnd w:id="11"/>
+<w:bookmarkEnd w:id="12"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusraportin runko-osan ensimmäinen luku on johdanto. Sen tehtävänä on johdattaa lukija aihealueeseen. Johdannossa kuvataan lyhyesti tutkimuksen tausta, ongelmat, tutkimuksen tarkoitus ja tarve perusteluineen, tavoitteet, tutkimusmenetelmä sekä saavutetut tulokset ja niiden merkitys. Lukijalle pitää käydä selväksi, mitä, miksi ja miten tutkittiin. Tutkimuksen taustojen kuvauksella lukija johdatetaan tutkimuksen aihealueeseen, sen käsitteistöön sekä prob</w:t>
+</w:r>
+<w:r w:rsidR="00372F2B">
+<w:t>lematiikkaan.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:r>
+<w:t xml:space="preserve">Johdannon tarkoituksena on antaa realistinen kuva siitä, mitä muissa tutkimusraportin osissa on odotettavissa. Johdannon ohjepituus on </w:t>
+</w:r>
+<w:r w:rsidR="00B00A80">
+<w:t>2-</w:t>
+</w:r>
+<w:r w:rsidR="00AF2D37">
+<w:t>-</w:t>
+</w:r>
+<w:r w:rsidR="00B00A80">
+<w:t>4</w:t>
+</w:r>
+<w:r w:rsidR="00AF2D37">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+<w:t>sivua. Johdanto on järkevää kirjoittaa lopulliseen asuun joko rinnan tarkasteluosuuden kanssa tai aivan viimeiseksi (Hirsjärvi ym., 2009).</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="13" w:name="_Toc274315274"/>
+<w:bookmarkStart w:id="14" w:name="_Toc56597509"/>
+<w:bookmarkStart w:id="15" w:name="_Toc56597988"/>
+<w:r>
+<w:t>Toisen tason alaotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="13"/>
+<w:bookmarkEnd w:id="14"/>
+<w:bookmarkEnd w:id="15"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Mikäli tutkielmassa käytetään toisen tason otsikoita, niitä tulee olla vähintään kaksi. Lisäksi yhden tekstikappaleen vähimmäisrivimäärä on kolme ja näin ollen tässä tekstikappaleessa on tämä kyseinen virke.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:bookmarkStart w:id="16" w:name="_Toc274315275"/>
+<w:bookmarkStart w:id="17" w:name="_Toc56597510"/>
+<w:bookmarkStart w:id="18" w:name="_Toc56597989"/>
+<w:bookmarkStart w:id="19" w:name="_Toc274315276"/>
+<w:bookmarkStart w:id="20" w:name="_Toc56597511"/>
+<w:r>
+<w:t>Kolmannen tason alaotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="16"/>
+<w:bookmarkEnd w:id="17"/>
+<w:bookmarkEnd w:id="18"/>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00AF5221" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+</w:pPr>
+<w:bookmarkStart w:id="21" w:name="_Toc56597990"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Kolmannen tason toinen alaotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="21"/>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+</w:pPr>
+<w:bookmarkStart w:id="22" w:name="_Toc56597991"/>
+<w:r>
+<w:t>Toisen tason toinen alaotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="22"/>
+</w:p>
+<w:p w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
+</w:pPr>
+<w:r>
+<w:t>Mikäli tutkielmassa käytetään toisen tason otsikoita, niitä tulee olla vähintään kaksi. Lisäksi yhden tekstikappaleen vähimmäisrivimäärä on kolme ja näin ollen tässä tekstikappaleessa on tämä kyseinen virke.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+<w:framePr w:wrap="notBeside"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:bookmarkStart w:id="23" w:name="_Toc56597992"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>TOINEN PÄÄOTSIKKO</w:t>
+</w:r>
+<w:bookmarkEnd w:id="19"/>
+<w:bookmarkEnd w:id="20"/>
+<w:bookmarkEnd w:id="23"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkielman yksi luku voi olla omistettu tutkimuksen pääkysymykselle, tutkimusongelmille sekä mahdollis</w:t>
+</w:r>
+<w:r w:rsidR="00B00A80">
+<w:t>ille hypoteeseille. Pro gradu –</w:t>
+</w:r>
+<w:r>
+<w:t>tutkielmassa voi yksi runko-osan luku esitellä käytetyn tutkimusmenetelmän sekä tutkimusprosessin. Menetelmäosassa kerrotaan, mitä tutkimuksessa tehtiin ja miten tutki</w:t>
+</w:r>
+<w:r w:rsidR="00B00A80">
+<w:t xml:space="preserve">mus suoritettiin. </w:t>
+</w:r>
+<w:r>
+<w:t>Luvussa voidaan myös esittää tutkimuksen teoreettinen tausta tai mahdollinen viitekehys.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="24" w:name="_Toc274315277"/>
+<w:bookmarkStart w:id="25" w:name="_Toc56597512"/>
+<w:bookmarkStart w:id="26" w:name="_Toc56597993"/>
+<w:r>
+<w:t>Alaotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="24"/>
+<w:bookmarkEnd w:id="25"/>
+<w:bookmarkEnd w:id="26"/>
+</w:p>
+<w:p w:rsidR="00F6019C" w:rsidRPr="00F6019C" w:rsidRDefault="00E6009A" w:rsidP="00F6019C">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Tässä esimerkkejä taulukoiden (taulukko 1) ja kuvioiden (kuvio 1) selitysteksteistä, jotka oikeita tyylejä käyttämällä päivittyvät myös dokumentin alussa oleviin luetteloihin.</w:t>
+</w:r>
+<w:r w:rsidR="00F6019C">
+<w:t xml:space="preserve"> Kuviot ja taulukot</w:t>
+</w:r>
+<w:r w:rsidR="00F6019C" w:rsidRPr="00F6019C">
+<w:t xml:space="preserve"> numeroidaan juoksevasti työn alusta alkaen.</w:t>
+</w:r>
+<w:r w:rsidR="00F6019C">
+<w:t xml:space="preserve"> Niihin </w:t>
+</w:r>
+<w:r w:rsidR="00F6019C" w:rsidRPr="00F6019C">
+<w:t>on viitattava tekstissä ennen kuin ne esiintyvät.</w:t>
+</w:r>
+<w:r w:rsidR="00F6019C">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00F6019C" w:rsidRPr="00F6019C">
+<w:t>Kuviot ja taulukot sijoitetaan mahdollisimman lähelle viitta</w:t>
+</w:r>
+<w:r w:rsidR="00F6019C">
+<w:t>usta, mieluiten samalle sivulle.</w:t>
+</w:r>
+<w:r w:rsidR="009D4F35">
+<w:t xml:space="preserve"> Jos niitä on enemmän kuin yksi samalla sivulla, ne on laitettava peräkkäin</w:t>
+</w:r>
+<w:r w:rsidR="006971B3">
+<w:t xml:space="preserve"> sivun ylä- tai alareunaan</w:t>
+</w:r>
+<w:r w:rsidR="009D4F35">
+<w:t>.</w:t>
+</w:r>
+<w:r w:rsidR="006971B3">
+<w:t xml:space="preserve"> Viittaus saa olla jäljempänä, jos se on samalla sivulla.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="007D44E2" w:rsidRDefault="007D44E2" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="Taulukonselite"/>
+</w:pPr>
+<w:bookmarkStart w:id="27" w:name="_Toc58412792"/>
+<w:r>
+<w:t xml:space="preserve">TAULUKKO </w:t>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="00AC4236">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:t>1</w:t>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r w:rsidR="00257167">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:tab/>
+</w:r>
+<w:r w:rsidRPr="00713B59">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:t>Esimerkki taulukon selitetekstistä</w:t>
+</w:r>
+<w:bookmarkEnd w:id="27"/>
+</w:p>
+<w:tbl>
+<w:tblPr>
+<w:tblW w:w="0" w:type="auto"/>
+<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+</w:tblPr>
+<w:tblGrid>
+<w:gridCol w:w="2235"/>
+<w:gridCol w:w="1275"/>
+<w:gridCol w:w="1276"/>
+</w:tblGrid>
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2235" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonotsikkorivinteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00AE4B9D">
+<w:t>Dokumenttityyppi</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1275" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonotsikkorivinteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00AE4B9D">
+<w:t>Muistio</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1276" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonotsikkorivinteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00AE4B9D">
+<w:t>Lasku</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2235" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00257167" w:rsidRDefault="00AE4B9D" w:rsidP="00257167">
+<w:pPr>
+<w:pStyle w:val="Taulukonotsikkorivinteksti"/>
+<w:rPr>
+<w:b w:val="0"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00257167">
+<w:rPr>
+<w:b w:val="0"/>
+</w:rPr>
+<w:t>Organisaation logo</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1275" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Ei esiinny</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1276" w:type="dxa"/>
+<w:tcBorders>
+<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Esiintyy</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2235" w:type="dxa"/>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Yhteystiedot</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1275" w:type="dxa"/>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Esiintyy</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1276" w:type="dxa"/>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Esiintyy</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="2235" w:type="dxa"/>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Laatijan nimi</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1275" w:type="dxa"/>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Esiintyy</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="1276" w:type="dxa"/>
+<w:tcBorders>
+<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+</w:tcBorders>
+</w:tcPr>
+<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:pPr>
+<w:pStyle w:val="Taulukonteksti"/>
+</w:pPr>
+<w:r w:rsidRPr="00741FD4">
+<w:t>Ei esiinny</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p w:rsidR="00635AD1" w:rsidRDefault="00635AD1" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+</w:p>
+<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
+<w:p w:rsidR="00B00A80" w:rsidRDefault="009342D7" w:rsidP="00B00A80">
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:pict>
+<v:group id="_x0000_s1036" style="position:absolute;left:0;text-align:left;margin-left:3.5pt;margin-top:.4pt;width:200.5pt;height:46.25pt;z-index:251660288" coordorigin="3315,12869" coordsize="3780,735">
+<v:oval id="Oval 4" o:spid="_x0000_s1034" style="position:absolute;left:5655;top:12869;width:1440;height:735;visibility:visible" o:gfxdata="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&#xA;BgAAAAAEAAQA8wAAAH8FAAAAAA==&#xA;">
+<v:textbox style="mso-next-textbox:#Oval 4">
+<w:txbxContent>
+<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
+<w:pPr>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:sz w:val="21"/>
+<w:szCs w:val="21"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007B4468">
+<w:rPr>
+<w:sz w:val="21"/>
+<w:szCs w:val="21"/>
+</w:rPr>
+<w:t>Seuraus</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:oval>
+<v:oval id="Oval 5" o:spid="_x0000_s1033" style="position:absolute;left:3315;top:12944;width:1440;height:660;visibility:visible" o:gfxdata="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&#xA;BQYAAAAABAAEAPMAAACABQAAAAA=&#xA;">
+<v:textbox style="mso-next-textbox:#Oval 5">
+<w:txbxContent>
+<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
+<w:pPr>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:sz w:val="21"/>
+<w:szCs w:val="21"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="21"/>
+</w:rPr>
+<w:t xml:space="preserve">Syy </w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:oval>
+<v:shapetype id="_x0000_t32" coordsize="21600,21600" o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
+<v:path arrowok="t" fillok="f" o:connecttype="none"/>
+<o:lock v:ext="edit" shapetype="t"/>
+</v:shapetype>
+<v:shape id="AutoShape 7" o:spid="_x0000_s1032" type="#_x0000_t32" style="position:absolute;left:4755;top:13291;width:885;height:0;visibility:visible" o:gfxdata="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&#xA;">
+<v:stroke endarrow="block"/>
+</v:shape>
+</v:group>
+</w:pict>
+</w:r>
+</w:p>
+<w:p w:rsidR="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
+<w:p w:rsidR="004647A6" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
+<w:p w:rsidR="004647A6" w:rsidRPr="007B4468" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
+<w:p w:rsidR="009D4F35" w:rsidRDefault="007D44E2" w:rsidP="009D4F35">
+<w:pPr>
+<w:pStyle w:val="Caption"/>
+</w:pPr>
+<w:bookmarkStart w:id="28" w:name="_Toc58412788"/>
+<w:r>
+<w:t xml:space="preserve">KUVIO </w:t>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="00AC4236">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:t>1</w:t>
+</w:r>
+<w:r w:rsidR="009342D7">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+<w:r w:rsidR="00257167">
+<w:tab/>
+</w:r>
+<w:r w:rsidR="00B00A80" w:rsidRPr="00B00A80">
+<w:t>Pelkistetty diagrammiesimerkki</w:t>
+</w:r>
+<w:bookmarkEnd w:id="28"/>
+</w:p>
+<w:p w:rsidR="00AC4236" w:rsidRDefault="00F91E31" w:rsidP="00C7340F">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>K</w:t>
+</w:r>
+<w:r w:rsidR="00205B12">
+<w:t>uvioissa ja taulukoissa käytetään automaattista numerointia. Sen tähden</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> selitete</w:t>
+</w:r>
+<w:r w:rsidR="00205B12">
+<w:t>ksti</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> on </w:t>
+</w:r>
+<w:r w:rsidR="00572D8D">
+<w:t xml:space="preserve">lisättävä </w:t>
+</w:r>
+<w:r w:rsidR="00205B12">
+<w:t xml:space="preserve">Viittaukset (References) </w:t>
+</w:r>
+<w:r w:rsidR="00B8061B">
+<w:t xml:space="preserve">-välilehdellä </w:t>
+</w:r>
+<w:r w:rsidR="00205B12">
+<w:t>Lisää kuvateksti (Insert Caption)</w:t>
+</w:r>
+<w:r w:rsidR="00572D8D">
+<w:t xml:space="preserve"> -toiminnolla</w:t>
+</w:r>
+<w:r w:rsidR="00205B12">
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:r w:rsidR="00AC4236">
+<w:t>Taulukkoa lisättäessä tyyliksi täytyy vaihtaa Taulukon selite, jotta asettelu menee oikein.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00C7340F" w:rsidRDefault="00205B12" w:rsidP="00C7340F">
+<w:r w:rsidRPr="00AC4236">
+<w:t xml:space="preserve">Jos kuvioiden/taulukoiden järjestys muuttuu tai väliin </w:t>
+</w:r>
+<w:r w:rsidR="00283586" w:rsidRPr="00AC4236">
+<w:t>tulee uus</w:t>
+</w:r>
+<w:r w:rsidR="00572D8D" w:rsidRPr="00AC4236">
+<w:t>i tai välistä poistetaan kuvio/taulukko</w:t>
+</w:r>
+<w:r w:rsidR="00F3477A">
+<w:t>, järjestys on päivitettävä manuaalisesti:</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00F3477A" w:rsidRDefault="00F3477A" w:rsidP="00F3477A">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:ind w:left="709" w:hanging="425"/>
+</w:pPr>
+<w:r>
+<w:t>Napsauta mitä tahansa asiakirjan kohtaa ja valitse koko asiakirja painamalla CTRL+A.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00205B12" w:rsidRPr="00C7340F" w:rsidRDefault="00F3477A" w:rsidP="00B8061B">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="13"/>
+</w:numPr>
+<w:ind w:left="709" w:hanging="425"/>
+</w:pPr>
+<w:r>
+<w:t>Napsauta hiiren kakkospainikkeella ja valitse sitten pikavalikosta Päivitä kenttä. Kaikki asiakirjan kuvatekstit on nyt päivitetty.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:bookmarkStart w:id="29" w:name="_Toc274315278"/>
+<w:bookmarkStart w:id="30" w:name="_Toc56597513"/>
+<w:bookmarkStart w:id="31" w:name="_Toc56597994"/>
+<w:r>
+<w:t>Toinen a</w:t>
+</w:r>
+<w:r w:rsidR="00E6009A">
+<w:t>laotsikko</w:t>
+</w:r>
+<w:bookmarkEnd w:id="29"/>
+<w:bookmarkEnd w:id="30"/>
+<w:bookmarkEnd w:id="31"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Luetelman tehtävänä on helpottaa asiakokonaisuuksien hahmottamista. Se voidaan sulauttaa tekstiin tai kukin sen osa voidaan kirjoittaa omalle rivilleen. Edellinen on suositeltava tapa silloin, kun luetelmia on paljon tai kun osat ovat hyvin lyhyitä. Jälkimmäistä tapausta koskevat seuraavat säännöt:</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t>Luetelman osien pitää sisällöltään ja muodoltaan olla rinnastuskelpoisia.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t>Kunkin osan eteen laitetaan järjestysnumero (sulkuihin tai pisteen kera) tai erikoismerkki (tavuviiva, tähti, pallo).</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t>Sanamuodosta riippuu, käytetäänkö luetelman edessä kaksoispistettä vai ei.</w:t>
+</w:r>
+<w:r w:rsidR="00A93D4B">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+<w:t>Jos alakohdat ovat samaa lausetta kuin johdantojakso, ei kaksoispistettä tule; muuten tulee.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="ListParagraph"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="1"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t>Jos osa on kokonainen lause, se alkaa suurella kirjaimella ja päättyy pisteeseen. Muussa tapauksessa aloitetaan pienellä kirjaimella ja piste laitetaan vasta viimeisen osan päätteeksi.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00925676" w:rsidRDefault="00E6009A" w:rsidP="00925676">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Luetelman jälkeen esiintyvä tekstikappale aloitetaan ilman sisennystä. </w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00925676" w:rsidRPr="00656FEE" w:rsidRDefault="00925676" w:rsidP="00925676">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00E6009A">
+<w:t>Seuraavaksi esitetään sitaatin eli suoran lainauksen käyttö. Sitaattia käytetään silloin, kun tiedon referoiminen ei ole mielekästä.</w:t>
+</w:r>
+<w:r w:rsidR="003A1661">
+<w:t xml:space="preserve"> Teksti on esitettävä juuri niin kuin se on lähteessä, kirjoitusvirheitä</w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t>kään</w:t>
+</w:r>
+<w:r w:rsidR="003A1661">
+<w:t xml:space="preserve"> ei</w:t>
+</w:r>
+<w:r w:rsidR="00E6009A">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t>saa korjata. Välistä voi jättää pois tekstiä mutta tila</w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t>lle on laitettava kaksi ajatusviivaa, joiden välissä on välilyönti</w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:r w:rsidR="00B8061B" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Seuraavaksi</w:t>
+</w:r>
+<w:r w:rsidR="00572D8D" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>esimerkki sitaatin muotoilusta:</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00F91E31" w:rsidRPr="00656FEE" w:rsidRDefault="00F91E31" w:rsidP="00F91E31">
+<w:pPr>
+<w:pStyle w:val="Sitaatti"/>
+</w:pPr>
+<w:r w:rsidRPr="00F91E31">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>This research improves our understanding of the importance</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00F91E31">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>of leadership</w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> – –</w:t>
+</w:r>
+<w:r w:rsidRPr="00F91E31">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> for team performance. It provides an explanation for the inconclusive findings that have left practitioners with little guidance as to what</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00F91E31">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>leadership type is more effective in software development.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00656FEE">
+<w:t>(Faraj &amp; Sambamurthy, 2006</w:t>
+</w:r>
+<w:r w:rsidR="00906A52">
+<w:t>, s. 247</w:t>
+</w:r>
+<w:r w:rsidRPr="00656FEE">
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="003A1661" w:rsidRDefault="003A1661" w:rsidP="003A1661">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Haastattelu</w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t>lainausten</w:t>
+</w:r>
+<w:r w:rsidRPr="003A1661">
+<w:t xml:space="preserve"> ei</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> tarvitse </w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t xml:space="preserve">olla aivan </w:t>
+</w:r>
+<w:r w:rsidRPr="003A1661">
+<w:t>sanatarkkoja</w:t>
+</w:r>
+<w:r w:rsidR="00E3001B">
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t xml:space="preserve">Niistä voi </w:t>
+</w:r>
+<w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
+<w:t>poista</w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t>a</w:t>
+</w:r>
+<w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
+<w:t xml:space="preserve"> turhat sidesanat </w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t>(niinku,</w:t>
+</w:r>
+<w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
+<w:t xml:space="preserve"> tota</w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t xml:space="preserve">) </w:t>
+</w:r>
+<w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
+<w:t>ja toisto</w:t>
+</w:r>
+<w:r w:rsidR="00656FEE">
+<w:t>n</w:t>
+</w:r>
+<w:r w:rsidR="000F720A">
+<w:t xml:space="preserve"> (änkytys).</w:t>
+</w:r>
+<w:r w:rsidR="00ED50A7">
+<w:t xml:space="preserve"> Tässä esimerkki haastattelulainauksesta:</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00ED50A7" w:rsidRDefault="00934A08" w:rsidP="00934A08">
+<w:pPr>
+<w:pStyle w:val="Haastattelulainaus"/>
+</w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Meidän täytyy ottaa asiakkaiden tarpeet huomioon, jotta organisaatiomme</w:t>
+</w:r>
+<w:r w:rsidR="00ED50A7" w:rsidRPr="00ED50A7">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r>
+<w:t>toimisi</w:t>
+</w:r>
+<w:r w:rsidR="00ED50A7" w:rsidRPr="00ED50A7">
+<w:t xml:space="preserve"> optimaalisella tavalla</w:t>
+</w:r>
+<w:r>
+<w:t>. Kun lisäksi annamme a</w:t>
+</w:r>
+<w:r w:rsidRPr="00934A08">
+<w:t xml:space="preserve">siantuntijoille </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">valtaa päättää asioista, hommat hoituvat </w:t>
+</w:r>
+<w:r w:rsidRPr="00934A08">
+<w:t>ilman raskast</w:t>
+</w:r>
+<w:r>
+<w:t>a hierarkk</w:t>
+</w:r>
+<w:r w:rsidRPr="00934A08">
+<w:t>ista organisaatiorakennetta.</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> (haastattelun numero/koodi</w:t>
+</w:r>
+<w:r w:rsidR="00635683">
+<w:t xml:space="preserve"> tms.</w:t>
+</w:r>
+<w:r>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00934A08" w:rsidRDefault="00934A08" w:rsidP="00934A08">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Lainausmerkkejä käytetään vain silloin kun </w:t>
+</w:r>
+<w:r w:rsidR="00556DBB">
+<w:t xml:space="preserve">(lyhyehkö) </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">lainaus on osa tekstikappaletta. </w:t>
+</w:r>
+<w:bookmarkStart w:id="32" w:name="_GoBack"/>
+<w:bookmarkEnd w:id="32"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00635683" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:pPr>
+<w:pStyle w:val="Heading1"/>
+<w:framePr w:wrap="notBeside"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:bookmarkStart w:id="33" w:name="_Toc274315279"/>
+<w:bookmarkStart w:id="34" w:name="_Toc56597514"/>
+<w:bookmarkStart w:id="35" w:name="_Toc56597995"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>KOLMAS PÄÄOTSIKKO</w:t>
+</w:r>
+<w:bookmarkEnd w:id="33"/>
+<w:bookmarkEnd w:id="34"/>
+<w:bookmarkEnd w:id="35"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor </w:t>
+</w:r>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="0038549D" w:rsidRPr="0038549D" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+</w:r>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem ve</w:t>
+</w:r>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nenatis eleifend. Ut nonummy.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+<w:outlineLvl w:val="0"/>
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+</w:pPr>
+<w:bookmarkStart w:id="36" w:name="_Toc274315280"/>
+<w:bookmarkStart w:id="37" w:name="_Toc56597996"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>LÄHTEET</w:t>
+</w:r>
+<w:bookmarkEnd w:id="36"/>
+<w:bookmarkEnd w:id="37"/>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="00263B97" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Faraj, S. &amp; Sambamurthy, V. (2006). Leadership of </w:t>
+</w:r>
+<w:r w:rsidR="00DF78D9" w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>information systems development projects</w:t>
+</w:r>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:i/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>IEEE Transactions on Engineering Management</w:t>
+</w:r>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 53(2), 238–249.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Google (2020). Google privacy policy. Effective September 30, 2020. </w:t>
+</w:r>
+<w:hyperlink r:id="rId11" w:history="1">
+<w:r w:rsidRPr="004733D9">
+<w:rPr>
+<w:rStyle w:val="Hyperlink"/>
+<w:color w:val="auto"/>
+<w:u w:val="none"/>
+</w:rPr>
+<w:t>http://www.google.com/intl/en/policies/privacy/</w:t>
+</w:r>
+</w:hyperlink>
+<w:r w:rsidRPr="004733D9">
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRPr="004733D9" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+<w:r w:rsidRPr="004733D9">
+<w:t xml:space="preserve">Hirsjärvi, S., Remes, P. &amp; Sajavaara, P. (2009). </w:t>
+</w:r>
+<w:r w:rsidR="00D81E6B" w:rsidRPr="004733D9">
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t>Tutki ja kirjoita</w:t>
+</w:r>
+<w:r w:rsidR="00D81E6B" w:rsidRPr="004733D9">
+<w:t>.</w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00D81E6B" w:rsidRPr="004733D9">
+<w:t>15. uud. painos</w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidR="00D81E6B" w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t>Tammi, Helsinki</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+<w:r w:rsidRPr="004733D9">
+<w:t>Jalonen, H</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>.</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> (2015)</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>.</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> Tiedolla johtamisen näyttämö ja kulissit. Teoksessa Virtanen</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>, P.</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>, Stenvall</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>, J.</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>, &amp; Rannisto</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>, P.-H.</w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t xml:space="preserve">(toim.), </w:t>
+</w:r>
+<w:r w:rsidRPr="008E5138">
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t>Tiedolla johtaminen</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="008E5138">
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t>:</w:t>
+</w:r>
+<w:r w:rsidRPr="008E5138">
+<w:rPr>
+<w:i/>
+</w:rPr>
+<w:t xml:space="preserve"> Teoriaa ja käytäntöjä</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t xml:space="preserve">ss. </w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>40</w:t>
+</w:r>
+<w:r w:rsidR="00373F5D" w:rsidRPr="004733D9">
+<w:t>–</w:t>
+</w:r>
+<w:r w:rsidRPr="004733D9">
+<w:t>68. Tampereen Yliopistopaino, Tampere.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00DF78D9" w:rsidRDefault="00DF78D9" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Nunamaker, J. F., Briggs, R. O., &amp; Mittleman, D. D. (1996). Lessons from a decade of group support systems research. In </w:t>
+</w:r>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:i/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Proceedings of HICSS-29: 29th Hawaii International Conference on System Sciences, Vol. 3</w:t>
+</w:r>
+<w:r w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, pp. 418-427.</w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="00263B97">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="008C745F" w:rsidRPr="004733D9">
+<w:t>IEEE.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="00BF7599" w:rsidRDefault="00BF7599" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+<w:r>
+<w:t>Toikka, S. (2008). Monikulttuurisen organisaation johtaminen esimiesnäkökulmasta. Pro gradu –tutkielma, Tampereen yliopisto.</w:t>
+</w:r>
+</w:p>
+<w:p w:rsidR="008E5138" w:rsidRPr="004733D9" w:rsidRDefault="008E5138" w:rsidP="004733D9">
+<w:pPr>
+<w:pStyle w:val="Lhde"/>
+</w:pPr>
+</w:p>
+<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
+<w:pPr>
+<w:pStyle w:val="Numeroimatonotsikko"/>
+<w:outlineLvl w:val="0"/>
+</w:pPr>
+<w:bookmarkStart w:id="38" w:name="_Toc274314865"/>
+<w:bookmarkStart w:id="39" w:name="_Toc274315281"/>
+<w:bookmarkStart w:id="40" w:name="_Toc56597997"/>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>LIITE 1 ENSIMMÄINEN LIITE</w:t>
+</w:r>
+<w:bookmarkEnd w:id="38"/>
+<w:bookmarkEnd w:id="39"/>
+<w:bookmarkEnd w:id="40"/>
+</w:p>
+<w:p w:rsidR="00A9362E" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+</w:pPr>
+<w:r>
+<w:t>Tämä on tutkielman mahdolliselle liitteelle varattu sivu. Mikäli liitteitä on useampia, ne sijoitetaan omille sivuilleen. Eli jos tässä raportointipohjassa olisi liite kaksi, se alkaisi omalta sivultaan.</w:t>
+</w:r>
+</w:p>
+<w:sectPr w:rsidR="00A9362E" w:rsidSect="00900134">
+<w:headerReference w:type="first" r:id="rId12"/>
+<w:pgSz w:w="11906" w:h="16838" w:code="9"/>
+<w:pgMar w:top="1701" w:right="1701" w:bottom="1418" w:left="1701" w:header="1134" w:footer="851" w:gutter="0"/>
+<w:cols w:space="708"/>
+<w:titlePg/>
+<w:docGrid w:linePitch="360"/>
+</w:sectPr>
+</w:body>
+</w:document>
