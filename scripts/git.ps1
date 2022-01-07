@@ -6,6 +6,6 @@ git commit
 Write-Output "`nPush to remote?`n"
 Pause
 git push
-# Write-Output "`nOpen the repository in Microsoft Edge?`n"
-# Pause
-# Start-Process microsoft-edge:<insert-url-here>
+Write-Output "`nOpen the repository in Microsoft Edge?`n"
+Pause
+Start-Process microsoft-edge:https://github.com/anttiharju/bachelors-thesis
