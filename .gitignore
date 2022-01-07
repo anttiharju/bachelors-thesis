@@ -1,0 +1,12 @@
+# Avoid committing file locks to remote
+~$*
+# Ignore .docx and .xlsx
+# 
+# It's better to sync these with OneDrive or another cloud service as Github isn't meant for file
+# storage and these are binary files. You can recreate the original files by running the zi.ps1
+# script.
+#
+# The unzipped form of these files will benefit from Git's compression abilities and as the
+# script also adds line breaks, the diffs will be somewhat readable.
+*.docx
+*.xlsx
