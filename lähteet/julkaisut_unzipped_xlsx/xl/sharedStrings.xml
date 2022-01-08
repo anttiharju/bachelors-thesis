@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="4879" uniqueCount="800">
+<si>
+<t>JUFOID</t>
+</si>
+<si>
+<t>TASO/LEVEL/NIVÅ</t>
+</si>
+<si>
+<t>NIMI/NAME/NAMN</t>
+</si>
+<si>
+<t>MUU NIMITIETO/OTHER TITLE/PARALLELLTITEL</t>
+</si>
+<si>
+<t>ISSN1</t>
+</si>
+<si>
+<t>ISSN2</t>
+</si>
+<si>
+<t>ISBN-JUURI/ISBN PREFIX</t>
+</si>
+<si>
+<t>TYYPPI/TYPE/TYP</t>
+</si>
+<si>
+<t>ARVIOINTIHISTORIA/PAST RATINGS/BEDÖMNINGSHISTORIA</t>
+</si>
+<si>
+<t>S/R</t>
+</si>
+<si>
+<t>DOAJ</t>
+</si>
+<si>
+<t>J.fi</t>
+</si>
+<si>
+<t>Bfeld</t>
+</si>
+<si>
+<t>VirtaGold</t>
+</si>
+<si>
+<t>Virta Hybrid</t>
+</si>
+<si>
+<t>Virta Green</t>
+</si>
+<si>
+<t>Wos</t>
+</si>
+<si>
+<t>Scopus</t>
+</si>
+<si>
+<t>ERIH+</t>
+</si>
+<si>
+<t>VOL</t>
+</si>
+<si>
+<t>3</t>
+</si>
+<si>
+<t>Accounting organizations and society</t>
+</si>
+<si>
+<t/>
+</si>
+<si>
+<t>0361-3682</t>
+</si>
+<si>
+<t>1873-6289</t>
+</si>
+<si>
+<t>Lehti/sarja</t>
+</si>
+<si>
+<t>2012:3;2013:3;2014:3;2015:3;2016:3;2017:3;2018:3;2019:3;2020:3;2021:3;</t>
+</si>
+<si>
+<t>X</t>
+</si>
+<si>
+<t>50</t>
+</si>
+<si>
+<t>1</t>
+</si>
+<si>
+<t>ACM journal of data and information quality</t>
+</si>
+<si>
+<t>1936-1955</t>
+</si>
+<si>
+<t>1936-1963</t>
+</si>
+<si>
+<t>2012:1;2013:1;2014:1;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>25</t>
+</si>
+<si>
+<t>ACM transactions on architecture and code optimization</t>
+</si>
+<si>
+<t>1544-3566</t>
+</si>
+<si>
+<t>1544-3973</t>
+</si>
+<si>
+<t>75</t>
+</si>
+<si>
+<t>ACM transactions on database systems</t>
+</si>
+<si>
+<t>0362-5915</t>
+</si>
+<si>
+<t>1557-4644</t>
+</si>
+<si>
+<t>ACM transactions on information systems</t>
+</si>
+<si>
+<t>0734-2047</t>
+</si>
+<si>
+<t>1558-2868</t>
+</si>
+<si>
+<t>ACM transactions on management information systems</t>
+</si>
+<si>
+<t>2158-656X</t>
+</si>
+<si>
+<t>2158-6578</t>
+</si>
+<si>
+<t>2012:;2013:;2014:;2015:;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>Advanced engineering informatics</t>
+</si>
+<si>
+<t>1474-0346</t>
+</si>
+<si>
+<t>1873-5320</t>
+</si>
+<si>
+<t>Advances in information security</t>
+</si>
+<si>
+<t>1568-2633</t>
+</si>
+<si>
+<t>2</t>
+</si>
+<si>
+<t>Briefings in bioinformatics</t>
+</si>
+<si>
+<t>1467-5463</t>
+</si>
+<si>
+<t>1477-4054</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:2;2016:2;2017:2;2018:2;2019:2;2020:2;2021:2;</t>
+</si>
+<si>
+<t>100</t>
+</si>
+<si>
+<t>Bulletin of the polish academy of sciences: technical sciences</t>
+</si>
+<si>
+<t>0239-7528</t>
+</si>
+<si>
+<t>2300-1917</t>
+</si>
+<si>
+<t>2012:;2013:1;2014:1;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>Communications of the association for information systems</t>
+</si>
+<si>
+<t>1529-3181</t>
+</si>
+<si>
+<t>2012:1;2013:1;2014:1;2015:2;2016:2;2017:2;2018:2;2019:2;2020:2;2021:2;</t>
+</si>
+<si>
+<t>Computational management science</t>
+</si>
+<si>
+<t>1619-697X</t>
+</si>
+<si>
+<t>1619-6988</t>
+</si>
+<si>
+<t>Computers and geosciences</t>
+</si>
+<si>
+<t>0098-3004</t>
+</si>
+<si>
+<t>1873-7803</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>225</t>
+</si>
+<si>
+<t>Construction management and economics</t>
+</si>
+<si>
+<t>0144-6193</t>
+</si>
+<si>
+<t>1466-433X</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:2;2016:2;2017:2;2018:2;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>Critical perspectives on accounting</t>
+</si>
+<si>
+<t>1045-2354</t>
+</si>
+<si>
+<t>1095-9955</t>
+</si>
+<si>
+<t>Cybernetics and systems</t>
+</si>
+<si>
+<t>0196-9722</t>
+</si>
+<si>
+<t>1087-6553</t>
+</si>
+<si>
+<t>Data and knowledge engineering</t>
+</si>
+<si>
+<t>0169-023X</t>
+</si>
+<si>
+<t>1872-6933</t>
+</si>
+<si>
+<t>Data mining and knowledge discovery</t>
+</si>
+<si>
+<t>1384-5810</t>
+</si>
+<si>
+<t>1573-756X</t>
+</si>
+<si>
+<t>Database-the journal of biological databases and curation</t>
+</si>
+<si>
+<t>1758-0463</t>
+</si>
+<si>
+<t>2012:;2013:;2014:1;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>150</t>
+</si>
+<si>
+<t>Decision sciences</t>
+</si>
+<si>
+<t>0011-7315</t>
+</si>
+<si>
+<t>1540-5915</t>
+</si>
+<si>
+<t>2012:3;2013:3;2014:3;2015:3;2016:3;2017:3;2018:3;2019:2;2020:2;2021:2;</t>
+</si>
+<si>
+<t>Decision support systems</t>
+</si>
+<si>
+<t>0167-9236</t>
+</si>
+<si>
+<t>1873-5797</t>
+</si>
+<si>
+<t>175</t>
+</si>
+<si>
+<t>Distributed and parallel databases</t>
+</si>
+<si>
+<t>0926-8782</t>
+</si>
+<si>
+<t>1573-7578</t>
+</si>
+<si>
+<t>Econtent</t>
+</si>
+<si>
+<t>1525-2531</t>
+</si>
+<si>
+<t>Education for information</t>
+</si>
+<si>
+<t>0167-8329</t>
+</si>
+<si>
+<t>1875-8649</t>
+</si>
+<si>
+<t>Electronic journal of information systems in developing countries</t>
+</si>
+<si>
+<t>1681-4835</t>
+</si>
+<si>
+<t>Enterprise information systems</t>
+</si>
+<si>
+<t>1751-7575</t>
+</si>
+<si>
+<t>1751-7583</t>
+</si>
+<si>
+<t>Eurasip journal on image and video processing</t>
+</si>
+<si>
+<t>1687-5176</t>
+</si>
+<si>
+<t>1687-5281</t>
+</si>
+<si>
+<t>European journal of information systems</t>
+</si>
+<si>
+<t>0960-085X</t>
+</si>
+<si>
+<t>1476-9344</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:3;2016:3;2017:3;2018:3;2019:3;2020:3;2021:3;</t>
+</si>
+<si>
+<t>European journal of operational research</t>
+</si>
+<si>
+<t>0377-2217</t>
+</si>
+<si>
+<t>1872-6860</t>
+</si>
+<si>
+<t>625</t>
+</si>
+<si>
+<t>Foundations and trends in information retrieval</t>
+</si>
+<si>
+<t>1554-0669</t>
+</si>
+<si>
+<t>1554-0677</t>
+</si>
+<si>
+<t>Fundamenta informaticae</t>
+</si>
+<si>
+<t>0169-2968</t>
+</si>
+<si>
+<t>1875-8681</t>
+</si>
+<si>
+<t>Geoinformatica</t>
+</si>
+<si>
+<t>1384-6175</t>
+</si>
+<si>
+<t>1573-7624</t>
+</si>
+<si>
+<t>IEEE network</t>
+</si>
+<si>
+<t>0890-8044</t>
+</si>
+<si>
+<t>1558-156X</t>
+</si>
+<si>
+<t>2012:3;2013:3;2014:3;2015:2;2016:2;2017:2;2018:2;2019:2;2020:2;2021:2;</t>
+</si>
+<si>
+<t>IEEE transactions on cybernetics</t>
+</si>
+<si>
+<t>2168-2267</t>
+</si>
+<si>
+<t>2168-2275</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:2;2016:2;2017:2;2018:2;2019:3;2020:3;2021:3;</t>
+</si>
+<si>
+<t>300</t>
+</si>
+<si>
+<t>IEEE transactions on human-machine systems</t>
+</si>
+<si>
+<t>2168-2291</t>
+</si>
+<si>
+<t>2168-2305</t>
+</si>
+<si>
+<t>IEEE transactions on industrial informatics</t>
+</si>
+<si>
+<t>1551-3203</t>
+</si>
+<si>
+<t>1941-0050</t>
+</si>
+<si>
+<t>250</t>
+</si>
+<si>
+<t>IEEE transactions on information theory</t>
+</si>
+<si>
+<t>0018-9448</t>
+</si>
+<si>
+<t>1557-9654</t>
+</si>
+<si>
+<t>525</t>
+</si>
+<si>
+<t>IEEE transactions on knowledge and data engineering</t>
+</si>
+<si>
+<t>1041-4347</t>
+</si>
+<si>
+<t>2326-3865</t>
+</si>
+<si>
+<t>IEEE transactions on systems, man, and cybernetics : systems</t>
+</si>
+<si>
+<t>2168-2216</t>
+</si>
+<si>
+<t>2168-2232</t>
+</si>
+<si>
+<t>200</t>
+</si>
+<si>
+<t>Iet information security</t>
+</si>
+<si>
+<t>1751-8709</t>
+</si>
+<si>
+<t>1751-8717</t>
+</si>
+<si>
+<t>Ima journal of management mathematics</t>
+</si>
+<si>
+<t>1471-678X</t>
+</si>
+<si>
+<t>1471-6798</t>
+</si>
+<si>
+<t>Industrial management and data systems</t>
+</si>
+<si>
+<t>0263-5577</t>
+</si>
+<si>
+<t>1758-5783</t>
+</si>
+<si>
+<t>Informatica</t>
+</si>
+<si>
+<t>0868-4952</t>
+</si>
+<si>
+<t>1822-8844</t>
+</si>
+<si>
+<t>Information and computation</t>
+</si>
+<si>
+<t>0890-5401</t>
+</si>
+<si>
+<t>1090-2651</t>
+</si>
+<si>
+<t>Information and management</t>
+</si>
+<si>
+<t>0378-7206</t>
+</si>
+<si>
+<t>1872-7530</t>
+</si>
+<si>
+<t>Information and organization</t>
+</si>
+<si>
+<t>1471-7727</t>
+</si>
+<si>
+<t>1873-7919</t>
+</si>
+<si>
+<t>2012:3;2013:3;2014:3;2015:2;2016:2;2017:2;2018:2;2019:3;2020:3;2021:3;</t>
+</si>
+<si>
+<t>Information and software technology</t>
+</si>
+<si>
+<t>0950-5849</t>
+</si>
+<si>
+<t>1873-6025</t>
+</si>
+<si>
+<t>125</t>
+</si>
+<si>
+<t>Information fusion</t>
+</si>
+<si>
+<t>1566-2535</t>
+</si>
+<si>
+<t>1872-6305</t>
+</si>
+<si>
+<t>Information polity</t>
+</si>
+<si>
+<t>1570-1255</t>
+</si>
+<si>
+<t>1875-8754</t>
+</si>
+<si>
+<t>Information processing and management</t>
+</si>
+<si>
+<t>0306-4573</t>
+</si>
+<si>
+<t>1873-5371</t>
+</si>
+<si>
+<t>Information processing letters</t>
+</si>
+<si>
+<t>0020-0190</t>
+</si>
+<si>
+<t>1872-6119</t>
+</si>
+<si>
+<t>Information retrieval</t>
+</si>
+<si>
+<t>1386-4564</t>
+</si>
+<si>
+<t>1573-7659</t>
+</si>
+<si>
+<t>Information sciences</t>
+</si>
+<si>
+<t>0020-0255</t>
+</si>
+<si>
+<t>1872-6291</t>
+</si>
+<si>
+<t>2012:1;2013:1;2014:1;2015:1;2016:1;2017:1;2018:1;2019:2;2020:2;2021:2;</t>
+</si>
+<si>
+<t>700</t>
+</si>
+<si>
+<t>Information services and use</t>
+</si>
+<si>
+<t>0167-5265</t>
+</si>
+<si>
+<t>1875-8789</t>
+</si>
+<si>
+<t>Information society</t>
+</si>
+<si>
+<t>0197-2243</t>
+</si>
+<si>
+<t>1087-6537</t>
+</si>
+<si>
+<t>Information systems and e-business management</t>
+</si>
+<si>
+<t>1617-9846</t>
+</si>
+<si>
+<t>1617-9854</t>
+</si>
+<si>
+<t>Information systems frontiers</t>
+</si>
+<si>
+<t>1387-3326</t>
+</si>
+<si>
+<t>1572-9419</t>
+</si>
+<si>
+<t>Information systems journal</t>
+</si>
+<si>
+<t>1350-1917</t>
+</si>
+<si>
+<t>1365-2575</t>
+</si>
+<si>
+<t>Information systems management</t>
+</si>
+<si>
+<t>1058-0530</t>
+</si>
+<si>
+<t>1934-8703</t>
+</si>
+<si>
+<t>Information systems research</t>
+</si>
+<si>
+<t>1047-7047</t>
+</si>
+<si>
+<t>1526-5536</t>
+</si>
+<si>
+<t>Information technology and libraries</t>
+</si>
+<si>
+<t>0730-9295</t>
+</si>
+<si>
+<t>2163-5226</t>
+</si>
+<si>
+<t>Information technology and management</t>
+</si>
+<si>
+<t>1385-951X</t>
+</si>
+<si>
+<t>1573-7667</t>
+</si>
+<si>
+<t>Information technology and people</t>
+</si>
+<si>
+<t>0959-3845</t>
+</si>
+<si>
+<t>1758-5813</t>
+</si>
+<si>
+<t>Informs journal on computing</t>
+</si>
+<si>
+<t>1091-9856</t>
+</si>
+<si>
+<t>1526-5528</t>
+</si>
+<si>
+<t>Interdisciplinary journal of information, knowledge, and management</t>
+</si>
+<si>
+<t>1555-1229</t>
+</si>
+<si>
+<t>1555-1245</t>
+</si>
+<si>
+<t>International entrepreneurship and management journal</t>
+</si>
+<si>
+<t>1554-7191</t>
+</si>
+<si>
+<t>1555-1938</t>
+</si>
+<si>
+<t>International journal of accounting and information management</t>
+</si>
+<si>
+<t>1834-7649</t>
+</si>
+<si>
+<t>1758-9037</t>
+</si>
+<si>
+<t>International journal of accounting information systems</t>
+</si>
+<si>
+<t>1467-0895</t>
+</si>
+<si>
+<t>1873-4723</t>
+</si>
+<si>
+<t>International journal of applied systemic studies</t>
+</si>
+<si>
+<t>1751-0589</t>
+</si>
+<si>
+<t>1751-0597</t>
+</si>
+<si>
+<t>International journal of business and systems research</t>
+</si>
+<si>
+<t>1751-200X</t>
+</si>
+<si>
+<t>1751-2018</t>
+</si>
+<si>
+<t>International journal of business data communications and networking</t>
+</si>
+<si>
+<t>1548-0631</t>
+</si>
+<si>
+<t>1548-064X</t>
+</si>
+<si>
+<t>International journal of business information systems</t>
+</si>
+<si>
+<t>1746-0972</t>
+</si>
+<si>
+<t>1746-0980</t>
+</si>
+<si>
+<t>International journal of computer applications in technology</t>
+</si>
+<si>
+<t>0952-8091</t>
+</si>
+<si>
+<t>1741-5047</t>
+</si>
+<si>
+<t>International journal of cooperative information systems</t>
+</si>
+<si>
+<t>0218-8430</t>
+</si>
+<si>
+<t>1793-6365</t>
+</si>
+<si>
+<t>International journal of critical infrastructure protection</t>
+</si>
+<si>
+<t>1874-5482</t>
+</si>
+<si>
+<t>2212-2087</t>
+</si>
+<si>
+<t>International journal of data mining and bioinformatics</t>
+</si>
+<si>
+<t>1748-5673</t>
+</si>
+<si>
+<t>1748-5681</t>
+</si>
+<si>
+<t>International journal of data mining, modelling and management</t>
+</si>
+<si>
+<t>1759-1163</t>
+</si>
+<si>
+<t>1759-1171</t>
+</si>
+<si>
+<t>International journal of e-business research</t>
+</si>
+<si>
+<t>1548-1131</t>
+</si>
+<si>
+<t>1548-114X</t>
+</si>
+<si>
+<t>International journal of enterprise information systems</t>
+</si>
+<si>
+<t>1548-1115</t>
+</si>
+<si>
+<t>1548-1123</t>
+</si>
+<si>
+<t>International journal of general systems</t>
+</si>
+<si>
+<t>0308-1079</t>
+</si>
+<si>
+<t>1026-7492</t>
+</si>
+<si>
+<t>International journal of geographical information science</t>
+</si>
+<si>
+<t>1365-8816</t>
+</si>
+<si>
+<t>1365-8824</t>
+</si>
+<si>
+<t>International journal of globalisation and small business</t>
+</si>
+<si>
+<t>1479-3059</t>
+</si>
+<si>
+<t>1479-3067</t>
+</si>
+<si>
+<t>International journal of healthcare information systems and informatics</t>
+</si>
+<si>
+<t>1555-3396</t>
+</si>
+<si>
+<t>1555-340X</t>
+</si>
+<si>
+<t>International journal of information and decision sciences</t>
+</si>
+<si>
+<t>1756-7017</t>
+</si>
+<si>
+<t>1756-7025</t>
+</si>
+<si>
+<t>International journal of information management</t>
+</si>
+<si>
+<t>0268-4012</t>
+</si>
+<si>
+<t>1873-4707</t>
+</si>
+<si>
+<t>2012:2;2013:2;2014:2;2015:2;2016:2;2017:2;2018:2;2019:2;2020:3;2021:3;</t>
+</si>
+<si>
+<t>International journal of information quality</t>
+</si>
+<si>
+<t>1751-0457</t>
+</si>
+<si>
+<t>1751-0465</t>
+</si>
+<si>
+<t>International journal of information security</t>
+</si>
+<si>
+<t>1615-5262</t>
+</si>
+<si>
+<t>1615-5270</t>
+</si>
+<si>
+<t>International journal of information security and privacy</t>
+</si>
+<si>
+<t>1930-1650</t>
+</si>
+<si>
+<t>1930-1669</t>
+</si>
+<si>
+<t>International journal of information system modeling and design</t>
+</si>
+<si>
+<t>1947-8186</t>
+</si>
+<si>
+<t>1947-8194</t>
+</si>
+<si>
+<t>International journal of information systems in the service sector</t>
+</si>
+<si>
+<t>1935-5688</t>
+</si>
+<si>
+<t>1935-5696</t>
+</si>
+<si>
+<t>International journal of innovative computing information and control</t>
+</si>
+<si>
+<t>1349-4198</t>
+</si>
+<si>
+<t>International journal of intelligent information and database systems</t>
+</si>
+<si>
+<t>1751-5858</t>
+</si>
+<si>
+<t>1751-5866</t>
+</si>
+<si>
+<t>International journal of intelligent information technologies</t>
+</si>
+<si>
+<t>1548-3657</t>
+</si>
+<si>
+<t>1548-3665</t>
+</si>
+<si>
+<t>International journal of knowledge management</t>
+</si>
+<si>
+<t>1548-0666</t>
+</si>
+<si>
+<t>1548-0658</t>
+</si>
+<si>
+<t>International journal of knowledge management studies</t>
+</si>
+<si>
+<t>1743-8268</t>
+</si>
+<si>
+<t>1743-8276</t>
+</si>
+<si>
+<t>International journal of knowledge-based development</t>
+</si>
+<si>
+<t>2040-4468</t>
+</si>
+<si>
+<t>2040-4476</t>
+</si>
+<si>
+<t>International journal of logistics systems and management</t>
+</si>
+<si>
+<t>1742-7967</t>
+</si>
+<si>
+<t>1742-7975</t>
+</si>
+<si>
+<t>International journal of logistics: research and applications</t>
+</si>
+<si>
+<t>1367-5567</t>
+</si>
+<si>
+<t>1469-848X</t>
+</si>
+<si>
+<t>International journal of manufacturing technology and management</t>
+</si>
+<si>
+<t>1368-2148</t>
+</si>
+<si>
+<t>1741-5195</t>
+</si>
+<si>
+<t>International journal of metadata, semantics and ontologies</t>
+</si>
+<si>
+<t>1744-2621</t>
+</si>
+<si>
+<t>1744-263X</t>
+</si>
+<si>
+<t>International journal of networking and virtual organisations</t>
+</si>
+<si>
+<t>1470-9503</t>
+</si>
+<si>
+<t>1741-5225</t>
+</si>
+<si>
+<t>International journal of parallel programming</t>
+</si>
+<si>
+<t>0885-7458</t>
+</si>
+<si>
+<t>1573-7640</t>
+</si>
+<si>
+<t>International journal of services operations and informatics</t>
+</si>
+<si>
+<t>1741-539X</t>
+</si>
+<si>
+<t>1741-5403</t>
+</si>
+<si>
+<t>International journal of sociotechnology and knowledge development</t>
+</si>
+<si>
+<t>1941-6253</t>
+</si>
+<si>
+<t>1941-6261</t>
+</si>
+<si>
+<t>International journal of technology and human interaction</t>
+</si>
+<si>
+<t>1548-3908</t>
+</si>
+<si>
+<t>1548-3916</t>
+</si>
+<si>
+<t>International journal of technology intelligence and planning</t>
+</si>
+<si>
+<t>1740-2832</t>
+</si>
+<si>
+<t>1740-2840</t>
+</si>
+<si>
+<t>International journal of uncertainty fuzziness and knowledge-based systems</t>
+</si>
+<si>
+<t>0218-4885</t>
+</si>
+<si>
+<t>1793-6411</t>
+</si>
+<si>
+<t>International journal of value chain management</t>
+</si>
+<si>
+<t>1741-5357</t>
+</si>
+<si>
+<t>1741-5365</t>
+</si>
+<si>
+<t>International journal of wavelets multiresolution and information processing</t>
+</si>
+<si>
+<t>0219-6913</t>
+</si>
+<si>
+<t>1793-690X</t>
+</si>
+<si>
+<t>International journal of web engineering and technology</t>
+</si>
+<si>
+<t>1476-1289</t>
+</si>
+<si>
+<t>1741-9212</t>
+</si>
+<si>
+<t>International journal of web information systems</t>
+</si>
+<si>
+<t>1744-0084</t>
+</si>
+<si>
+<t>1744-0092</t>
+</si>
+<si>
+<t>International journal of web services research</t>
+</si>
+<si>
+<t>1545-7362</t>
+</si>
+<si>
+<t>1546-5004</t>
+</si>
+<si>
+<t>International journal on semantic web and information systems</t>
+</si>
+<si>
+<t>1552-6283</t>
+</si>
+<si>
+<t>1552-6291</t>
+</si>
+<si>
+<t>International journal on software tools for technology transfer</t>
+</si>
+<si>
+<t>1433-2779</t>
+</si>
+<si>
+<t>1433-2787</t>
+</si>
+<si>
+<t>Iranian journal of fuzzy systems</t>
+</si>
+<si>
+<t>1735-0654</t>
+</si>
+<si>
+<t>Journal of Advances in Information Fusion</t>
+</si>
+<si>
+<t>1557-6418</t>
+</si>
+<si>
+<t>Journal of agricultural and food information</t>
+</si>
+<si>
+<t>1049-6505</t>
+</si>
+<si>
+<t>1540-4722</t>
+</si>
+<si>
+<t>Journal of asset management</t>
+</si>
+<si>
+<t>1470-8272</t>
+</si>
+<si>
+<t>1479-179X</t>
+</si>
+<si>
+<t>Journal of automation and information sciences</t>
+</si>
+<si>
+<t>1064-2315</t>
+</si>
+<si>
+<t>2163-9337</t>
+</si>
+<si>
+<t>Journal of biomedical semantics</t>
+</si>
+<si>
+<t>2041-1480</t>
+</si>
+<si>
+<t>Journal of business and finance librarianship</t>
+</si>
+<si>
+<t>0896-3568</t>
+</si>
+<si>
+<t>1547-0644</t>
+</si>
+<si>
+<t>Journal of business strategy</t>
+</si>
+<si>
+<t>0275-6668</t>
+</si>
+<si>
+<t>2052-1197</t>
+</si>
+<si>
+<t>Journal of business-to-business marketing</t>
+</si>
+<si>
+<t>1051-712X</t>
+</si>
+<si>
+<t>1547-0628</t>
+</si>
+<si>
+<t>Journal of cases on information technology</t>
+</si>
+<si>
+<t>1548-7717</t>
+</si>
+<si>
+<t>1548-7725</t>
+</si>
+<si>
+<t>Journal of communications and networks</t>
+</si>
+<si>
+<t>1229-2370</t>
+</si>
+<si>
+<t>1976-5541</t>
+</si>
+<si>
+<t>Journal of computational information systems</t>
+</si>
+<si>
+<t>1553-9105</t>
+</si>
+<si>
+<t>2374-7447</t>
+</si>
+<si>
+<t>Journal of computer and systems sciences international</t>
+</si>
+<si>
+<t>1064-2307</t>
+</si>
+<si>
+<t>1555-6530</t>
+</si>
+<si>
+<t>Journal of computer information systems</t>
+</si>
+<si>
+<t>0887-4417</t>
+</si>
+<si>
+<t>2380-2057</t>
+</si>
+<si>
+<t>Journal of computer networks and communications</t>
+</si>
+<si>
+<t>2090-7141</t>
+</si>
+<si>
+<t>2090-715X</t>
+</si>
+<si>
+<t>Journal of contingencies and crisis management</t>
+</si>
+<si>
+<t>0966-0879</t>
+</si>
+<si>
+<t>1468-5973</t>
+</si>
+<si>
+<t>Journal of database management</t>
+</si>
+<si>
+<t>1063-8016</t>
+</si>
+<si>
+<t>1533-8010</t>
+</si>
+<si>
+<t>Journal of decision systems</t>
+</si>
+<si>
+<t>1246-0125</t>
+</si>
+<si>
+<t>2116-7052</t>
+</si>
+<si>
+<t>Journal of digital information management</t>
+</si>
+<si>
+<t>0972-7272</t>
+</si>
+<si>
+<t>Journal of documentation</t>
+</si>
+<si>
+<t>0022-0418</t>
+</si>
+<si>
+<t>1758-7379</t>
+</si>
+<si>
+<t>Journal of dynamic systems measurement and control: transactions of the ASME</t>
+</si>
+<si>
+<t>0022-0434</t>
+</si>
+<si>
+<t>1528-9028</t>
+</si>
+<si>
+<t>Journal of electronic publishing</t>
+</si>
+<si>
+<t>1080-2711</t>
+</si>
+<si>
+<t>Journal of engineering and technology management</t>
+</si>
+<si>
+<t>0923-4748</t>
+</si>
+<si>
+<t>1879-1719</t>
+</si>
+<si>
+<t>Journal of enterprise information management</t>
+</si>
+<si>
+<t>1741-0398</t>
+</si>
+<si>
+<t>1758-7409</t>
+</si>
+<si>
+<t>Journal of global information management</t>
+</si>
+<si>
+<t>1062-7375</t>
+</si>
+<si>
+<t>1533-7995</t>
+</si>
+<si>
+<t>Journal of global information technology management</t>
+</si>
+<si>
+<t>1097-198X</t>
+</si>
+<si>
+<t>Green</t>
+</si>
+<si>
+<t>Journal of grid computing</t>
+</si>
+<si>
+<t>1570-7873</t>
+</si>
+<si>
+<t>1572-9184</t>
+</si>
+<si>
+<t>Journal of heuristics</t>
+</si>
+<si>
+<t>1381-1231</t>
+</si>
+<si>
+<t>1572-9397</t>
+</si>
+<si>
+<t>Journal of high speed networks</t>
+</si>
+<si>
+<t>0926-6801</t>
+</si>
+<si>
+<t>1875-8940</t>
+</si>
+<si>
+<t>Journal of high technology management research</t>
+</si>
+<si>
+<t>1047-8310</t>
+</si>
+<si>
+<t>1879-1638</t>
+</si>
+<si>
+<t>Journal of hospitality marketing and management</t>
+</si>
+<si>
+<t>1936-8623</t>
+</si>
+<si>
+<t>1936-8631</t>
+</si>
+<si>
+<t>Journal of information and computational science</t>
+</si>
+<si>
+<t>1548-7741</t>
+</si>
+<si>
+<t>Journal of information information technology and organizations</t>
+</si>
+<si>
+<t>1557-1319</t>
+</si>
+<si>
+<t>1557-1335</t>
+</si>
+<si>
+<t>Journal of information science</t>
+</si>
+<si>
+<t>0165-5515</t>
+</si>
+<si>
+<t>1741-6485</t>
+</si>
+<si>
+<t>Journal of information systems</t>
+</si>
+<si>
+<t>0888-7985</t>
+</si>
+<si>
+<t>1558-7959</t>
+</si>
+<si>
+<t>Journal of information technology</t>
+</si>
+<si>
+<t>0268-3962</t>
+</si>
+<si>
+<t>1466-4437</t>
+</si>
+<si>
+<t>Journal of intelligent information systems</t>
+</si>
+<si>
+<t>0925-9902</t>
+</si>
+<si>
+<t>1573-7675</t>
+</si>
+<si>
+<t>Journal of intelligent transportation systems</t>
+</si>
+<si>
+<t>1547-2450</t>
+</si>
+<si>
+<t>1547-2442</t>
+</si>
+<si>
+<t>Journal of international consumer marketing</t>
+</si>
+<si>
+<t>0896-1530</t>
+</si>
+<si>
+<t>1528-7068</t>
+</si>
+<si>
+<t>Journal of management control</t>
+</si>
+<si>
+<t>2191-4761</t>
+</si>
+<si>
+<t>2191-477X</t>
+</si>
+<si>
+<t>2012:;2013:0;2014:1;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>Journal of management information systems</t>
+</si>
+<si>
+<t>0742-1222</t>
+</si>
+<si>
+<t>1557-928X</t>
+</si>
+<si>
+<t>Journal of medical systems</t>
+</si>
+<si>
+<t>0148-5598</t>
+</si>
+<si>
+<t>1573-689X</t>
+</si>
+<si>
+<t>Journal of network and systems management</t>
+</si>
+<si>
+<t>1064-7570</t>
+</si>
+<si>
+<t>1573-7705</t>
+</si>
+<si>
+<t>Journal of organizational computing and electronic commerce</t>
+</si>
+<si>
+<t>1054-1721</t>
+</si>
+<si>
+<t>1532-7744</t>
+</si>
+<si>
+<t>Journal of real estate portfolio management</t>
+</si>
+<si>
+<t>1083-5547</t>
+</si>
+<si>
+<t>Journal of real-time image processing</t>
+</si>
+<si>
+<t>1861-8200</t>
+</si>
+<si>
+<t>1861-8219</t>
+</si>
+<si>
+<t>Journal of research and practice in information technology</t>
+</si>
+<si>
+<t>1443-458X</t>
+</si>
+<si>
+<t>Journal of service research</t>
+</si>
+<si>
+<t>1094-6705</t>
+</si>
+<si>
+<t>1552-7379</t>
+</si>
+<si>
+<t>Journal of signal processing systems for signal image and video technology</t>
+</si>
+<si>
+<t>1939-8018</t>
+</si>
+<si>
+<t>1939-8115</t>
+</si>
+<si>
+<t>Journal of spatial information science</t>
+</si>
+<si>
+<t>1948-660X</t>
+</si>
+<si>
+<t>Journal of strategic information systems</t>
+</si>
+<si>
+<t>0963-8687</t>
+</si>
+<si>
+<t>1873-1198</t>
+</si>
+<si>
+<t>Journal of supercomputing</t>
+</si>
+<si>
+<t>0920-8542</t>
+</si>
+<si>
+<t>1573-0484</t>
+</si>
+<si>
+<t>Journal of supply chain management</t>
+</si>
+<si>
+<t>1523-2409</t>
+</si>
+<si>
+<t>1745-493X</t>
+</si>
+<si>
+<t>2012:1;2013:1;2014:1;2015:2;2016:2;2017:2;2018:2;2019:3;2020:3;2021:3;</t>
+</si>
+<si>
+<t>Journal of systems and information technology</t>
+</si>
+<si>
+<t>1328-7265</t>
+</si>
+<si>
+<t>1758-8847</t>
+</si>
+<si>
+<t>Journal of systems and software</t>
+</si>
+<si>
+<t>0164-1212</t>
+</si>
+<si>
+<t>1873-1228</t>
+</si>
+<si>
+<t>Journal of systems science and complexity</t>
+</si>
+<si>
+<t>1009-6124</t>
+</si>
+<si>
+<t>Journal of systems science and systems engineering</t>
+</si>
+<si>
+<t>1004-3756</t>
+</si>
+<si>
+<t>1861-9576</t>
+</si>
+<si>
+<t>Journal of the ACM</t>
+</si>
+<si>
+<t>0004-5411</t>
+</si>
+<si>
+<t>1557-735X</t>
+</si>
+<si>
+<t>Journal of the Association for Information Science and Technology</t>
+</si>
+<si>
+<t>JASIST;</t>
+</si>
+<si>
+<t>2330-1635</t>
+</si>
+<si>
+<t>2330-1643</t>
+</si>
+<si>
+<t>Journal of the association for information systems</t>
+</si>
+<si>
+<t>1536-9323</t>
+</si>
+<si>
+<t>Journal of the operational research society</t>
+</si>
+<si>
+<t>0160-5682</t>
+</si>
+<si>
+<t>1476-9360</t>
+</si>
+<si>
+<t>Journal of web engineering</t>
+</si>
+<si>
+<t>1540-9589</t>
+</si>
+<si>
+<t>1544-5976</t>
+</si>
+<si>
+<t>Journal on chain and network science</t>
+</si>
+<si>
+<t>1569-1829</t>
+</si>
+<si>
+<t>1875-0931</t>
+</si>
+<si>
+<t>Journal on computing and cultural heritage</t>
+</si>
+<si>
+<t>1556-4673</t>
+</si>
+<si>
+<t>1556-4711</t>
+</si>
+<si>
+<t>Knowledge and information systems</t>
+</si>
+<si>
+<t>0219-1377</t>
+</si>
+<si>
+<t>0219-3116</t>
+</si>
+<si>
+<t>Knowledge management research and practice</t>
+</si>
+<si>
+<t>1477-8238</t>
+</si>
+<si>
+<t>1477-8246</t>
+</si>
+<si>
+<t>Knowledge-based systems</t>
+</si>
+<si>
+<t>0950-7051</t>
+</si>
+<si>
+<t>1872-7409</t>
+</si>
+<si>
+<t>325</t>
+</si>
+<si>
+<t>Ksii transactions on internet and information systems</t>
+</si>
+<si>
+<t>2288-1468</t>
+</si>
+<si>
+<t>1976-7277</t>
+</si>
+<si>
+<t>Kybernetes</t>
+</si>
+<si>
+<t>0368-492X</t>
+</si>
+<si>
+<t>1758-7883</t>
+</si>
+<si>
+<t>Kybernetika</t>
+</si>
+<si>
+<t>0023-5954</t>
+</si>
+<si>
+<t>1805-949X</t>
+</si>
+<si>
+<t>Library and information science research</t>
+</si>
+<si>
+<t>0740-8188</t>
+</si>
+<si>
+<t>1873-1848</t>
+</si>
+<si>
+<t>Library collections acquisitions and technical services</t>
+</si>
+<si>
+<t>1464-9055</t>
+</si>
+<si>
+<t>1873-1821</t>
+</si>
+<si>
+<t>Library hi tech</t>
+</si>
+<si>
+<t>0737-8831</t>
+</si>
+<si>
+<t>2054-166X</t>
+</si>
+<si>
+<t>Library resources and technical services</t>
+</si>
+<si>
+<t>0024-2527</t>
+</si>
+<si>
+<t>2159-9610</t>
+</si>
+<si>
+<t>Literary and linguistic computing</t>
+</si>
+<si>
+<t>0268-1145</t>
+</si>
+<si>
+<t>1477-4615</t>
+</si>
+<si>
+<t>Logistics research</t>
+</si>
+<si>
+<t>1865-035X</t>
+</si>
+<si>
+<t>1865-0368</t>
+</si>
+<si>
+<t>2012:;2013:;2014:;2015:1;2016:1;2017:1;2018:1;2019:1;2020:1;2021:1;</t>
+</si>
+<si>
+<t>Management accounting research</t>
+</si>
+<si>
+<t>1044-5005</t>
+</si>
+<si>
+<t>1096-1224</t>
+</si>
+<si>
+<t>Mis quarterly</t>
+</si>
+<si>
+<t>0276-7783</t>
+</si>
+<si>
+<t>2162-9730</t>
+</si>
+<si>
+<t>Mobile networks and applications</t>
+</si>
+<si>
+<t>1383-469X</t>
+</si>
+<si>
+<t>1572-8153</t>
+</si>
+<si>
+<t>Molecular diversity</t>
+</si>
+<si>
+<t>1381-1991</t>
+</si>
+<si>
+<t>1573-501X</t>
+</si>
+<si>
+<t>Molecular simulation</t>
+</si>
+<si>
+<t>0892-7022</t>
+</si>
+<si>
+<t>1026-7638</t>
+</si>
+<si>
+<t>Molecular systems biology</t>
+</si>
+<si>
+<t>1744-4292</t>
+</si>
+<si>
+<t>Multidimensional systems and signal processing</t>
+</si>
+<si>
+<t>0923-6082</t>
+</si>
+<si>
+<t>1573-0824</t>
+</si>
+<si>
+<t>Multimedia systems</t>
+</si>
+<si>
+<t>0942-4962</t>
+</si>
+<si>
+<t>1432-1882</t>
+</si>
+<si>
+<t>Netnomics: economic research and electronic networking</t>
+</si>
+<si>
+<t>1385-9587</t>
+</si>
+<si>
+<t>1573-7071</t>
+</si>
+<si>
+<t>Networks</t>
+</si>
+<si>
+<t>0028-3045</t>
+</si>
+<si>
+<t>1097-0037</t>
+</si>
+<si>
+<t>Neuroinformatics</t>
+</si>
+<si>
+<t>1539-2791</t>
+</si>
+<si>
+<t>1559-0089</t>
+</si>
+<si>
+<t>New review of hypermedia and multimedia</t>
+</si>
+<si>
+<t>1361-4568</t>
+</si>
+<si>
+<t>1740-7842</t>
+</si>
+<si>
+<t>New review of information networking</t>
+</si>
+<si>
+<t>1361-4576</t>
+</si>
+<si>
+<t>1740-7869</t>
+</si>
+<si>
+<t>Oclc systems and services</t>
+</si>
+<si>
+<t>1065-075X</t>
+</si>
+<si>
+<t>2054-1694</t>
+</si>
+<si>
+<t>Omega: international journal of management science</t>
+</si>
+<si>
+<t>0305-0483</t>
+</si>
+<si>
+<t>1873-5274</t>
+</si>
+<si>
+<t>Online information review</t>
+</si>
+<si>
+<t>1468-4527</t>
+</si>
+<si>
+<t>1468-4535</t>
+</si>
+<si>
+<t>Open systems and information dynamics</t>
+</si>
+<si>
+<t>1230-1612</t>
+</si>
+<si>
+<t>1793-7191</t>
+</si>
+<si>
+<t>Problems of information transmission</t>
+</si>
+<si>
+<t>0032-9460</t>
+</si>
+<si>
+<t>1608-3253</t>
+</si>
+<si>
+<t>Program: electronic library and information systems</t>
+</si>
+<si>
+<t>0033-0337</t>
+</si>
+<si>
+<t>1758-7301</t>
+</si>
+<si>
+<t>Public management review</t>
+</si>
+<si>
+<t>1471-9037</t>
+</si>
+<si>
+<t>1471-9045</t>
+</si>
+<si>
+<t>Quality technology and quantitative management</t>
+</si>
+<si>
+<t>1684-3703</t>
+</si>
+<si>
+<t>1811-4857</t>
+</si>
+<si>
+<t>Records management journal</t>
+</si>
+<si>
+<t>0956-5698</t>
+</si>
+<si>
+<t>1758-7689</t>
+</si>
+<si>
+<t>Reference and user services quarterly</t>
+</si>
+<si>
+<t>1094-9054</t>
+</si>
+<si>
+<t>2163-5242</t>
+</si>
+<si>
+<t>Requirements engineering</t>
+</si>
+<si>
+<t>0947-3602</t>
+</si>
+<si>
+<t>1432-010X</t>
+</si>
+<si>
+<t>Scandinavian journal of information systems</t>
+</si>
+<si>
+<t>0905-0167</t>
+</si>
+<si>
+<t>1901-0990</t>
+</si>
+<si>
+<t>Security and communication networks</t>
+</si>
+<si>
+<t>1939-0114</t>
+</si>
+<si>
+<t>1939-0122</t>
+</si>
+<si>
+<t>Semantic web</t>
+</si>
+<si>
+<t>1570-0844</t>
+</si>
+<si>
+<t>2210-4968</t>
+</si>
+<si>
+<t>Sigir forum</t>
+</si>
+<si>
+<t>0163-5840</t>
+</si>
+<si>
+<t>1558-0229</t>
+</si>
+<si>
+<t>Sigmod record</t>
+</si>
+<si>
+<t>0163-5808</t>
+</si>
+<si>
+<t>1943-5835</t>
+</si>
+<si>
+<t>Statistical analysis and data mining</t>
+</si>
+<si>
+<t>1932-1864</t>
+</si>
+<si>
+<t>1932-1872</t>
+</si>
+<si>
+<t>Surveys in operations research and management science</t>
+</si>
+<si>
+<t>1876-7354</t>
+</si>
+<si>
+<t>1876-7362</t>
+</si>
+<si>
+<t>Systems research and behavioral science</t>
+</si>
+<si>
+<t>1092-7026</t>
+</si>
+<si>
+<t>1099-1743</t>
+</si>
+<si>
+<t>Technology and health care</t>
+</si>
+<si>
+<t>0928-7329</t>
+</si>
+<si>
+<t>1878-7401</t>
+</si>
+<si>
+<t>Technology, pedagogy and education</t>
+</si>
+<si>
+<t>1475-939X</t>
+</si>
+<si>
+<t>1747-5139</t>
+</si>
+<si>
+<t>Telecommunications policy</t>
+</si>
+<si>
+<t>0308-5961</t>
+</si>
+<si>
+<t>1879-3258</t>
+</si>
+<si>
+<t>Transforming government: people, process and policy</t>
+</si>
+<si>
+<t>1750-6166</t>
+</si>
+<si>
+<t>1750-6174</t>
+</si>
+<si>
+<t>Universal access in the information society</t>
+</si>
+<si>
+<t>1615-5289</t>
+</si>
+<si>
+<t>1615-5297</t>
+</si>
+<si>
+<t>Vldb journal</t>
+</si>
+<si>
+<t>1066-8888</t>
+</si>
+<si>
+<t>0949-877X</t>
+</si>
+<si>
+<t>Webology</t>
+</si>
+<si>
+<t>1735-188X</t>
+</si>
+<si>
+<t>Wireless communications and mobile computing</t>
+</si>
+<si>
+<t>1530-8669</t>
+</si>
+<si>
+<t>1530-8677</t>
+</si>
+<si>
+<t>Wireless networks</t>
+</si>
+<si>
+<t>1022-0038</t>
+</si>
+<si>
+<t>1572-8196</t>
+</si>
+<si>
+<t>Julkaisu</t>
+</si>
+<si>
+<t>Syy hylkäykseen</t>
+</si>
+<si>
+<t>Accounting</t>
+</si>
+<si>
+<t>Molecular</t>
+</si>
+<si>
+<t>Public</t>
+</si>
+<si>
+<t>Knowledge</t>
+</si>
+<si>
+<t>Retrieval</t>
+</si>
+<si>
+<t>Network</t>
+</si>
+<si>
+<t>Fusion</t>
+</si>
+<si>
+<t>Programming</t>
+</si>
+<si>
+<t>Informatics</t>
+</si>
+<si>
+<t>Security</t>
+</si>
+<si>
+<t>Mining</t>
+</si>
+<si>
+<t>Globalisation</t>
+</si>
+<si>
+<t>Bio</t>
+</si>
+<si>
+<t>Geo</t>
+</si>
+<si>
+<t>Medical</t>
+</si>
+<si>
+<t>Database</t>
+</si>
+<si>
+<t>Developing</t>
+</si>
+<si>
+<t>Cybernetics</t>
+</si>
+<si>
+<t>Librar</t>
+</si>
+<si>
+<t>Asset</t>
+</si>
+<si>
+<t>Grid</t>
+</si>
+<si>
+<t>Transportation</t>
+</si>
+<si>
+<t>Health</t>
+</si>
+<si>
+<t>Documentation</t>
+</si>
+<si>
+<t>Education</t>
+</si>
+<si>
+<t>Logistics</t>
+</si>
+<si>
+<t>Web</t>
+</si>
+<si>
+<t>Multimedia</t>
+</si>
+<si>
+<t>Kyber</t>
+</si>
+<si>
+<t>Literary</t>
+</si>
+<si>
+<t>Construction</t>
+</si>
+<si>
+<t>Marketing</t>
+</si>
+<si>
+<t>Spatial</t>
+</si>
+<si>
+<t>Mukana</t>
+</si>
+<si>
+<t>✔</t>
+</si>
+<si>
+<t>Transfer</t>
+</si>
+<si>
+<t>Supply</t>
+</si>
+<si>
+<t>Vldb = Very Large Data Base</t>
+</si>
+<si>
+<t>Signal</t>
+</si>
+<si>
+<t>Cultural</t>
+</si>
+<si>
+<t>Portfolio</t>
+</si>
+<si>
+<t>Image</t>
+</si>
+<si>
+<t>Publishing</t>
+</si>
+<si>
+<t>Architecture</t>
+</si>
+<si>
+<t>Data and information quality</t>
+</si>
+<si>
+<t>National (Polish)</t>
+</si>
+<si>
+<t>Infrastructure</t>
+</si>
+<si>
+<t>Automation</t>
+</si>
+<si>
+<t>Meta</t>
+</si>
+<si>
+<t>Resolution</t>
+</si>
+<si>
+<t>National (Iranian)</t>
+</si>
+<si>
+<t>Agri</t>
+</si>
+<si>
+<t>Super</t>
+</si>
+<si>
+<t>Transmission</t>
+</si>
+<si>
+<t>User</t>
+</si>
+<si>
+<t>Tele</t>
+</si>
+<si>
+<t>Government</t>
+</si>
+<si>
+<t>Wireless</t>
+</si>
+<si>
+<t>Plus projektin hallinnasta:</t>
+</si>
+<si>
+<t>International journal of information technology project management</t>
+</si>
+<si>
+<t>International journal of project management</t>
+</si>
+<si>
+<t>International journal of project organisation and management</t>
+</si>
+<si>
+<t>Project management journal</t>
+</si>
+</sst>
