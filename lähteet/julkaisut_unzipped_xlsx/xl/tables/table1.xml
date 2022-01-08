@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="1" xr:uid="{A364305E-5054-41E6-87D8-08AFB7314DC1}" name="Table1" displayName="Table1" ref="A1:T232" totalsRowShown="0">
+<autoFilter ref="A1:T232" xr:uid="{A364305E-5054-41E6-87D8-08AFB7314DC1}"/>
+<sortState ref="A2:T232" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
+<sortCondition descending="1" ref="B1:B232"/>
+</sortState>
+<tableColumns count="20">
+<tableColumn id="1" xr3:uid="{36C79B76-17E0-4B1D-A3FE-04FA37538C02}" name="JUFOID"/>
+<tableColumn id="2" xr3:uid="{CC301738-6166-4D0E-B6EA-9081102C4DD9}" name="TASO/LEVEL/NIVÅ"/>
+<tableColumn id="3" xr3:uid="{CC44CAA5-B842-4D36-BD58-111E59B03371}" name="NIMI/NAME/NAMN"/>
+<tableColumn id="4" xr3:uid="{0273943B-BEDD-4BD5-B01B-F79101DC291C}" name="MUU NIMITIETO/OTHER TITLE/PARALLELLTITEL"/>
+<tableColumn id="5" xr3:uid="{1FA53B1F-F40D-4728-A225-46C69F637AE8}" name="ISSN1"/>
+<tableColumn id="6" xr3:uid="{F93E41B5-677A-4665-9058-21EE469C23C4}" name="ISSN2"/>
+<tableColumn id="7" xr3:uid="{73542FF7-9DDA-4C3A-9C88-4DD6B1B71B6A}" name="ISBN-JUURI/ISBN PREFIX"/>
+<tableColumn id="8" xr3:uid="{DEAF151B-5D98-4FFD-86D2-FB28FC928A95}" name="TYYPPI/TYPE/TYP"/>
+<tableColumn id="9" xr3:uid="{56249CAC-481F-4B4A-87C7-F7E769EA4100}" name="ARVIOINTIHISTORIA/PAST RATINGS/BEDÖMNINGSHISTORIA"/>
+<tableColumn id="10" xr3:uid="{07A1A9DF-2A52-4143-A622-BC7A0B65DC97}" name="S/R"/>
+<tableColumn id="11" xr3:uid="{F6BF24DE-E432-4B18-B304-701C1DD5F84F}" name="DOAJ"/>
+<tableColumn id="12" xr3:uid="{A56700FA-2728-4741-9E0E-03BC59A37F8B}" name="J.fi"/>
+<tableColumn id="13" xr3:uid="{2CC4A742-5DF7-4B7E-A427-6C99EA59AE7F}" name="Bfeld"/>
+<tableColumn id="14" xr3:uid="{E4EA4F90-87B0-416B-AE3D-46933CCA3685}" name="VirtaGold"/>
+<tableColumn id="15" xr3:uid="{D3F72BF1-4E47-4622-80D6-4EBCC478F9B6}" name="Virta Hybrid"/>
+<tableColumn id="16" xr3:uid="{5C1C284F-66EC-482A-8AFE-71D0E02720C4}" name="Virta Green"/>
+<tableColumn id="17" xr3:uid="{B2D96BCA-5BB0-4352-B07E-995035CE2A73}" name="Wos"/>
+<tableColumn id="18" xr3:uid="{AD19CD1E-2795-46F3-8380-DC7399A1BFAF}" name="Scopus"/>
+<tableColumn id="19" xr3:uid="{55B927F7-04AD-4601-9E1F-03936B7B634A}" name="ERIH+"/>
+<tableColumn id="20" xr3:uid="{2014F238-170B-47AE-A89C-44B5DD71A90A}" name="VOL"/>
+</tableColumns>
+<tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
+</table>
