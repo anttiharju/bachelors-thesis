@@ -1,5 +1,8 @@
 # Eteneminen
 
+## Sunnuntaina 09.01.2022
+- Aloitin esiselvityksen teon siitä paljonko tuloksia löytyy kustakin julkaisusta milläkin hakutermillä.
+
 ## Lauantaina 08.01.2022
 - Kävin ohjaajan palautteen läpi. Se oli erinomaista.
 

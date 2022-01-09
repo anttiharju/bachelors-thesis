@@ -6,8 +6,8 @@
 </sortState>
 <tableColumns count="3">
 <tableColumn id="1" xr3:uid="{8D6AFA42-8295-4289-A7F8-C263A4243A53}" name="Mukana"/>
-<tableColumn id="2" xr3:uid="{2B39F180-1C6F-4570-8D64-469085D1E0A6}" name="Julkaisu" dataDxfId="1"/>
-<tableColumn id="3" xr3:uid="{18E48FF7-B86F-4F63-8758-942A746700B1}" name="Syy hylkäykseen" dataDxfId="0"/>
+<tableColumn id="2" xr3:uid="{2B39F180-1C6F-4570-8D64-469085D1E0A6}" name="Julkaisu" dataDxfId="2"/>
+<tableColumn id="3" xr3:uid="{18E48FF7-B86F-4F63-8758-942A746700B1}" name="Syy hylkäykseen" dataDxfId="1"/>
 </tableColumns>
 <tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
 </table>
