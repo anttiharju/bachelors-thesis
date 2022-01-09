@@ -7,13 +7,25 @@
 <x15ac:absPath url="https://jyu-my.sharepoint.com/personal/anvemaha_jyu_fi/Documents/TJTA3001 Kandidaattiseminaari/TJTA3002 Kandidaatin tutkielma/lähteet/" xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
 </mc:Choice>
 </mc:AlternateContent>
-<xr:revisionPtr revIDLastSave="295" documentId="11_872E447034AF7C99E2B97AB80050FA6A62BC18E6" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{B8DC36A0-CE9A-4401-82F8-2483B767E285}"/>
+<xr:revisionPtr revIDLastSave="676" documentId="11_872E447034AF7C99E2B97AB80050FA6A62BC18E6" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{AD402D95-BAD6-4178-BFFC-6862BB97842C}"/>
 <bookViews>
-<workbookView xWindow="-28920" yWindow="-120" windowWidth="29040" windowHeight="16440" activeTab="1" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+<workbookView xWindow="-28920" yWindow="-120" windowWidth="29040" windowHeight="16440" activeTab="2" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
 </bookViews>
 <sheets>
 <sheet name="Alkuperäinen" sheetId="1" r:id="rId1"/>
 <sheet name="Oma rajaus" sheetId="2" r:id="rId2"/>
+<sheet name="Esiselvitys" sheetId="3" r:id="rId3"/>
 </sheets>
-<calcPr calcId="0"/>
+<calcPr calcId="191029"/>
+<extLst>
+<ext uri="{B58B0392-4F1F-4190-BB64-5DF3571DCE5F}" xmlns:xcalcf="http://schemas.microsoft.com/office/spreadsheetml/2018/calcfeatures">
+<xcalcf:calcFeatures>
+<xcalcf:feature name="microsoft.com:RD"/>
+<xcalcf:feature name="microsoft.com:Single"/>
+<xcalcf:feature name="microsoft.com:FV"/>
+<xcalcf:feature name="microsoft.com:CNMTM"/>
+<xcalcf:feature name="microsoft.com:LET_WF"/>
+</xcalcf:calcFeatures>
+</ext>
+</extLst>
 </workbook>
