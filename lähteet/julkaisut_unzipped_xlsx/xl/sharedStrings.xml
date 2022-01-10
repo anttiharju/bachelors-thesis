@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5277" uniqueCount="860">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5424" uniqueCount="864">
 <si>
 <t>JUFOID</t>
 </si>
@@ -2579,5 +2579,17 @@
 </si>
 <si>
 <t>Lisäselvitys projektin hallinnan julkaisuille</t>
+</si>
+<si>
+<t>Project management journal*</t>
+</si>
+<si>
+<t>International journal of project management*</t>
+</si>
+<si>
+<t>International journal of information technology project management*</t>
+</si>
+<si>
+<t>(projektin hallinta) *lisätty software, että rajataan suurin osa epärelevanteista pois. Muut ovat valmiiksi IT-alan julkaisuja, joten siksi ei rajattu</t>
 </si>
 </sst>

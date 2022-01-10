@@ -2,6 +2,17 @@
 
 ## Maanantaina 10.01.2022
 - Viimeistelin eilen aloitetun esiselvityksen
+- Käsittelin esiselvityksen
+    - 106 (102 oman alan + 4 projektin hallinnan) julkaisusta jäi hakutermien esiselvityksen jälkeen jäljelle 60
+        - Lopullisen aineiston keruuseen on kaksi hakutermivaihtoehtoa:
+            - "project success factors"
+                - Projektin hallinnan julkaisuilla mukaan vielä rajoitukseksi AND "software" täysin rakennusalaan keskittyvien (Construction) rajaamiseksi pois.
+            - "project success" AND "factors" AND "software"
+        - Jälkimmäisellä artikkeleita löytyy 2216, edeltävällä 341 (joista valtaosa projektin hallinnan julkaisuista)
+        - Ongelma: jos käytetään takaperoista lumipallomenetelmää, 341 artikkelia on jo valmiiksi iso aineisto joten ei haluta sitä enempää.
+        - Koska signaalin (eli hyvien artikkeleiden osuus hakutuloksista) odotetaan olevan paljon parempi edeltävällä hakutermillä, koetaan pienemmän lähtöaineiston valinta perustelluksi.
+- Aloitin otsikkotason esiselvityksen
+    - Kuvaa prosessi myöhemmin tähän
 
 ## Sunnuntaina 09.01.2022
 - Aloitin esiselvityksen teon siitä paljonko tuloksia löytyy kustakin julkaisusta milläkin hakutermillä.
