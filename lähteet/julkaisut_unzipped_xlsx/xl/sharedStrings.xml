@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5056" uniqueCount="840">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5277" uniqueCount="860">
 <si>
 <t>JUFOID</t>
 </si>
@@ -2488,13 +2488,7 @@
 <t>PUBID(26425)</t>
 </si>
 <si>
-<t>Julkaisun hakutermi ID</t>
-</si>
-<si>
 <t>Taylor &amp; Francis Social Science &amp; Humanities with Science &amp; Technology </t>
-</si>
-<si>
-<t>Ei löydy JYKDOK:ista</t>
 </si>
 <si>
 <t>FinELib SpringerLink Contemporary Journals </t>
@@ -2509,9 +2503,6 @@
 <t>Ei tuloksia</t>
 </si>
 <si>
-<t>Rikki</t>
-</si>
-<si>
 <t>Ei tuloksia haulla 4</t>
 </si>
 <si>
@@ -2519,5 +2510,74 @@
 </si>
 <si>
 <t>-</t>
+</si>
+<si>
+<t>JSTOR Arts and Sciences IV </t>
+</si>
+<si>
+<t>jid:(j100934 OR j100935 OR j100307 OR j100539)</t>
+</si>
+<si>
+<t>Ei saatavilla JYKDOK:ista</t>
+</si>
+<si>
+<t>Oxford University Press Journals Current </t>
+</si>
+<si>
+<t>PUBID(1616336)</t>
+</si>
+<si>
+<t>Haun ID</t>
+</si>
+<si>
+<t>JN "Information Services &amp; Use"</t>
+</si>
+<si>
+<t>FinELib SpringerLink Contemporary Journals A</t>
+</si>
+<si>
+<t>Inderscience Publishers A</t>
+</si>
+<si>
+<t>Haun rajaaminen julkaisuun erittäin vaikeaa</t>
+</si>
+<si>
+<t>World Scientific Journals </t>
+</si>
+<si>
+<t>IGI Global InfoSci-Journals </t>
+</si>
+<si>
+<t>Ei tuloksia haulla 4. Mukaan laskettu haut joiden relevanssi &gt; 1 %.</t>
+</si>
+<si>
+<t>PUBID(28330)</t>
+</si>
+<si>
+<t>PUBID(27797)</t>
+</si>
+<si>
+<t>PUBID(21864)</t>
+</si>
+<si>
+<t>Rikkinäinen hakutoiminto</t>
+</si>
+<si>
+<t>PUBID(30692) </t>
+</si>
+<si>
+<t>JN "Journal of Information Systems"</t>
+</si>
+<si>
+<t>Emerald Complete Journals </t>
+</si>
+<si>
+<t>Emerald eJournals Premier</t>
+</si>
+<si>
+<t>"project success factors" AND "software"</t>
+</si>
+<si>
+<t>Lisäselvitys projektin hallinnan julkaisuille</t>
 </si>
 </sst>
