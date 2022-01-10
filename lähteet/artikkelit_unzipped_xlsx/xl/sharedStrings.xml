@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="392" uniqueCount="273">
+<si>
+<t>The Process Aspect of Project Success: An Empirical Test</t>
+</si>
+<si>
+<t>International Journal of Information Technology Project Management (IJITPM)</t>
+</si>
+<si>
+<t>Durmic, Nermina</t>
+</si>
+<si>
+<t>Evaluation of Determinants of Software Quality in Offshored Software Projects: Empirical Evidences From India</t>
+</si>
+<si>
+<t>Kannabiran, Ganesan; Sankaran, K.</t>
+</si>
+<si>
+<t>Investigating the Relationship between Activities of Project Management Offices and Project Stakeholder Satisfaction</t>
+</si>
+<si>
+<t>Güngör, Dilek Özdemir; Gözlü, S&amp;#305;tk&amp;#305;</t>
+</si>
+<si>
+<t>Patterns of Social Intelligence and Leadership Style for Effective Virtual Project Management</t>
+</si>
+<si>
+<t>Nauman, Shazia</t>
+</si>
+<si>
+<t>Building Resilience in Large High-Technology Projects: Front End Conditioning for Success</t>
+</si>
+<si>
+<t>Crosby, Phil</t>
+</si>
+<si>
+<t>Information Technology Project Performance: The Impact of Critical Success Factors</t>
+</si>
+<si>
+<t>Lind, Mary R.; Culler, Evetta</t>
+</si>
+<si>
+<t>Understanding the Factors Affecting the Adoption of Project Portfolio Management Software Through Topic Modeling of Online Software Reviews</t>
+</si>
+<si>
+<t>Daradkeh, Mohammad</t>
+</si>
+<si>
+<t>How Can Agile Methodologies Be Used to Enhance the Success of Information Technology Projects?</t>
+</si>
+<si>
+<t>Truong, Dothang; Jitbaipoon, Thawatchai</t>
+</si>
+<si>
+<t>Probabilistic Method for Managing Common Risks in Software Project Scheduling Based on Program Evaluation Review Technique</t>
+</si>
+<si>
+<t>Huynh, Quyet-Thang; Nguyen, Ngoc-Tuan</t>
+</si>
+<si>
+<t>Knowledge of IT Project Success and Failure Factors: Towards an Integration into the SDLC</t>
+</si>
+<si>
+<t>Al-Ahmad, Walid</t>
+</si>
+<si>
+<t>Comparing development approaches and reuse strategies: An empirical evaluation of developer views from the aerospace industry</t>
+</si>
+<si>
+<t>Information and Software Technology</t>
+</si>
+<si>
+<t>Varnell-Sarjeant, Julia; Amschler Andrews, Anneliese; Lucente, Joe; Stefik, Andreas</t>
+</si>
+<si>
+<t>A systematic literature review on software measurement programs</t>
+</si>
+<si>
+<t>Tahir, Touseef; Rasool, Ghulam; Gencel, Cigdem</t>
+</si>
+<si>
+<t>The longitudinal, chronological case study research strategy: A definition, and an example from IBM Hursley Park</t>
+</si>
+<si>
+<t>Rainer, Austen</t>
+</si>
+<si>
+<t>Time pressure in software engineering: A systematic review</t>
+</si>
+<si>
+<t>Kuutila, Miikka; Mäntylä, Mika; Farooq, Umar; Claes, Maëlick</t>
+</si>
+<si>
+<t>A model of requirements engineering in software startups</t>
+</si>
+<si>
+<t>Melegati, Jorge; Goldman, Alfredo; Kon, Fabio; Wang, Xiaofeng</t>
+</si>
+<si>
+<t>State of the practice: An exploratory analysis of schedule estimation and software project success prediction</t>
+</si>
+<si>
+<t>Verner, J. M.; Evanco, W. M.; Cerpa, N.</t>
+</si>
+<si>
+<t>Evaluating logistic regression models to estimate software project outcomes</t>
+</si>
+<si>
+<t>Cerpa, Narciso; Bardeen, Matthew; Kitchenham, Barbara; Verner, June</t>
+</si>
+<si>
+<t>Case study: factors for early prediction of software development success</t>
+</si>
+<si>
+<t>Drew Procaccino, J; Verner, June M; Overmyer, Scott P; Darter, Marvin E</t>
+</si>
+<si>
+<t>Determinants of software quality: A survey of information systems project managers</t>
+</si>
+<si>
+<t>Gorla, Narasimhaiah; Lin, Shang-Che</t>
+</si>
+<si>
+<t>Formal model for assigning human resources to teams in software projects</t>
+</si>
+<si>
+<t>André, Margarita; Baldoquín, María G.; Acuña, Silvia T.</t>
+</si>
+<si>
+<t>Understanding the relationship of conflict and success in software development projects</t>
+</si>
+<si>
+<t>Basirati, Mohammad R.; Otasevic, Marko; Rajavi, Koushyar; Böhm, Markus; Krcmar, Helmut</t>
+</si>
+<si>
+<t>A survey on the characteristics of projects with success in delivering client benefits</t>
+</si>
+<si>
+<t>Jørgensen, Magne</t>
+</si>
+<si>
+<t>Architecture of Sysperanto: A Model-Based Ontology of the IS Field</t>
+</si>
+<si>
+<t>Communications of the Association for Information Systems</t>
+</si>
+<si>
+<t>Alter, Steven.</t>
+</si>
+<si>
+<t>How Does Enterprise Architecture Add Value to Organisations?</t>
+</si>
+<si>
+<t>Tamm, Toomas; Seddon, Peter B; Shanks, Graeme; Reynolds, Peter.</t>
+</si>
+<si>
+<t>The Work System Method for Understanding Information Systems and Information Systems Research</t>
+</si>
+<si>
+<t>An Updated ERP Systems Annotated Bibliography: 2001-2005</t>
+</si>
+<si>
+<t>Esteves, Jose; Bohorquez, Victor.</t>
+</si>
+<si>
+<t>Customer Satisfaction in IS Projects: Assessing the Role of Process and Product Performance</t>
+</si>
+<si>
+<t>Basten, Dirk; Pankratz, Oleg.</t>
+</si>
+<si>
+<t>Determinants of Information Systems and Information Technology Project Team Success: A Literature Review and a Conceptual Model</t>
+</si>
+<si>
+<t>Fanta, Tesgera Jetu; Riedl, René.</t>
+</si>
+<si>
+<t>Institutional entrepreneurship and infrastructure public-private partnership (PPP): Unpacking the role of social actors in implementing PPP projects</t>
+</si>
+<si>
+<t>International Journal of Project Management</t>
+</si>
+<si>
+<t>Biygautane, Mhamed; Neesham, Cristina; Al-Yahya, Khalid Othman</t>
+</si>
+<si>
+<t>Errors, lies and misunderstandings: Systematic review on behavioural decision making in projects</t>
+</si>
+<si>
+<t>Stingl, Verena; Geraldi, Joana</t>
+</si>
+<si>
+<t>The process of social alignment and misalignment within a complex IT project</t>
+</si>
+<si>
+<t>Gilchrist, Alicia; Burton-Jones, Andrew; Green, Peter</t>
+</si>
+<si>
+<t>Toward gendered projects in international development: Paradoxes, resistance and convergent approaches</t>
+</si>
+<si>
+<t>Brière, Sophie; Auclair, Isabelle</t>
+</si>
+<si>
+<t>Towards a better modelling and assessment of construction risk: Insights from a literature review</t>
+</si>
+<si>
+<t>Taroun, Abdulmaten</t>
+</si>
+<si>
+<t>Improving project management performance of large contractors using benchmarking approach</t>
+</si>
+<si>
+<t>Luu, Van Truong; Kim, Soo-Yong; Huynh, Tuan-Anh</t>
+</si>
+<si>
+<t>How to assess stakeholders' influence in project management? A proposal based on the Analytic Network Process</t>
+</si>
+<si>
+<t>Aragonés-Beltrán, Pablo; García-Melón, Mónica; Montesinos-Valera, Jesús</t>
+</si>
+<si>
+<t>The effectiveness in managing a group of multiple projects: Factors of influence and measurement criteria</t>
+</si>
+<si>
+<t>Patanakul, Peerasit; Milosevic, Dragan</t>
+</si>
+<si>
+<t>Evaluating the level of stakeholder involvement during the project planning processes of building projects</t>
+</si>
+<si>
+<t>Heravi, Amirhossein; Coffey, Vaughan; Trigunarsyah, Bambang</t>
+</si>
+<si>
+<t>The relative importance of tender evaluation and contractor selection criteria</t>
+</si>
+<si>
+<t>Watt, D. J.; Kayis, B.; Willey, K.</t>
+</si>
+<si>
+<t>Conceptualising the lessons-learned process in project management: Towards a triple-loop learning framework</t>
+</si>
+<si>
+<t>McClory, Sue; Read, Martin; Labib, Ashraf</t>
+</si>
+<si>
+<t>Theory and practice of project management in construction</t>
+</si>
+<si>
+<t>Knoepfel, H</t>
+</si>
+<si>
+<t>What is project governance and what are its origins?</t>
+</si>
+<si>
+<t>Ahola, Tuomas; Ruuska, Inkeri; Artto, Karlos; Kujala, Jaakko</t>
+</si>
+<si>
+<t>The development and delivery of an industry led project management professional development programme: A case study in project management education and success management</t>
+</si>
+<si>
+<t>Alam, Mehmood; Gale, Andrew; Brown, Mike; Kidd, Callum</t>
+</si>
+<si>
+<t>Key project management practices affecting Singaporean firms’ project performance in China</t>
+</si>
+<si>
+<t>Ling, Florence Yean Yng; Low, Sui Pheng; Wang, Shou Qing; Lim, Hwee Hua</t>
+</si>
+<si>
+<t>Factors affecting cost performance: evidence from Indian construction projects</t>
+</si>
+<si>
+<t>Iyer, K. C.; Jha, K. N.</t>
+</si>
+<si>
+<t>Standardized project management may increase development projects success</t>
+</si>
+<si>
+<t>Milosevic, Dragan; Patanakul, Peerasit</t>
+</si>
+<si>
+<t>HRM in project groups: The effect of project duration on team development effectiveness</t>
+</si>
+<si>
+<t>Zwikael, Ofer; Unger-Aviram, Esther</t>
+</si>
+<si>
+<t>A case study approach for developing a project performance evaluation system</t>
+</si>
+<si>
+<t>Cao, Qing; Hoffman, James J.</t>
+</si>
+<si>
+<t>Applying a Risk Management Process (RMP) to manage cost risk for an EHV transmission line project</t>
+</si>
+<si>
+<t>Tummala, V M Rao; Burchett, John F</t>
+</si>
+<si>
+<t>Rethinking dichotomization: A critical perspective on the use of “hard” and “soft” in project management research</t>
+</si>
+<si>
+<t>Karrbom Gustavsson, Tina; Hallin, Anette</t>
+</si>
+<si>
+<t>Modeling construction time in Spanish building projects</t>
+</si>
+<si>
+<t>Guerrero, Miguel A.; Villacampa, Yolanda; Montoyo, Andrés</t>
+</si>
+<si>
+<t>Project planning practices based on enterprise resource planning systems in small and medium enterprises — A case study from the Republic of Macedonia</t>
+</si>
+<si>
+<t>Tasevska, Frosina; Damij, Talib; Damij, Nadja</t>
+</si>
+<si>
+<t>MPCS: Multidimensional Project Control System</t>
+</si>
+<si>
+<t>Rozenes, Shai; Vitner, Gad; Spraggett, Stuart</t>
+</si>
+<si>
+<t>Structural equation model for assessing impacts of contractor's performance on project success</t>
+</si>
+<si>
+<t>Doloi, Hemanta; Iyer, K. C.; Sawhney, Anil</t>
+</si>
+<si>
+<t>A study of the impact of project classification on project risk indicators</t>
+</si>
+<si>
+<t>Yim, Rachel; Castaneda, Jason; Doolen, Toni; Tumer, Irem; Malak, Richard</t>
+</si>
+<si>
+<t>Project management in the live entertainment industry: what is different?</t>
+</si>
+<si>
+<t>Hartman, Francis; Ashrafi, Rafi; Jergeas, George</t>
+</si>
+<si>
+<t>Critical COMs of success in large-scale construction projects: Evidence from Thailand construction industry</t>
+</si>
+<si>
+<t>Toor, Shamas-ur-Rehman; Ogunlana, Stephen O.</t>
+</si>
+<si>
+<t>Rating defence major project success: The role of personal attributes and stakeholder relationships</t>
+</si>
+<si>
+<t>Mazur, Alicia; Pisarski, Anne; Chang, Artemis; Ashkanasy, Neal M.</t>
+</si>
+<si>
+<t>The influence of business managers' IT competence on IT project success</t>
+</si>
+<si>
+<t>Engelbrecht, Jacus; Johnston, Kevin Allan; Hooper, Val</t>
+</si>
+<si>
+<t>Manager emotional intelligence and project success: The mediating role of job satisfaction and trust</t>
+</si>
+<si>
+<t>Rezvani, Azadeh; Chang, Artemis; Wiewiora, Anna; Ashkanasy, Neal M.; Jordan, Peter J.; Zolin, Roxanne</t>
+</si>
+<si>
+<t>Linking entrepreneurial orientation to project success</t>
+</si>
+<si>
+<t>Martens, Cristina Dai Prá; Machado, Franklin Jean; Martens, Mauro Luiz; Silva, Filipe Quevedo Pires de Oliveira e; Freitas, Henrique Mello Rodrigues de</t>
+</si>
+<si>
+<t>Critical success factors for World Bank projects: An empirical investigation</t>
+</si>
+<si>
+<t>Ika, Lavagnon A.; Diallo, Amadou; Thuillier, Denis</t>
+</si>
+<si>
+<t>Towards a contingent approach of customer involvement in defence projects: An exploratory study</t>
+</si>
+<si>
+<t>Peled, Michael; Dvir, Dov</t>
+</si>
+<si>
+<t>Systems Engineering to improve the governance in complex project environments</t>
+</si>
+<si>
+<t>Locatelli, Giorgio; Mancini, Mauro; Romano, Erika</t>
+</si>
+<si>
+<t>Selecting the appropriate project delivery method using AHP</t>
+</si>
+<si>
+<t>Al Khalil, Mohammed I</t>
+</si>
+<si>
+<t>The impact of contractors’ attributes on construction project success: A post construction evaluation</t>
+</si>
+<si>
+<t>Alzahrani, Jaman I.; Emsley, Margaret W.</t>
+</si>
+<si>
+<t>Success conditions for international development capacity building projects</t>
+</si>
+<si>
+<t>Ika, Lavagnon A.; Donnelly, Jennifer</t>
+</si>
+<si>
+<t>The integration of project management and organizational change management is now a necessity</t>
+</si>
+<si>
+<t>Hornstein, Henry A.</t>
+</si>
+<si>
+<t>Different stakeholder groups and their perceptions of project success</t>
+</si>
+<si>
+<t>Davis, Kate</t>
+</si>
+<si>
+<t>Software development project success and failure from the supplier's perspective: A systematic literature review</t>
+</si>
+<si>
+<t>Savolainen, Paula; Ahonen, Jarmo J.; Richardson, Ita</t>
+</si>
+<si>
+<t>How to go global: A transformative process model for the transition towards globally distributed software development projects</t>
+</si>
+<si>
+<t>Drechsler, Andreas; Breth, Sophia</t>
+</si>
+<si>
+<t>Cultural Patterns Influencing Project Team Behavior in Sub-Saharan Africa: A Case Study in Ethiopia</t>
+</si>
+<si>
+<t>Project Management Journal</t>
+</si>
+<si>
+<t>Jetu, Fanta Tesgera; Riedl, René; Roithmayr, Friedrich</t>
+</si>
+<si>
+<t>Identifying and Acting on Early Warning Signs in Complex Projects</t>
+</si>
+<si>
+<t>Williams, Terry; Klakegg, Ole Jonny; Walker, Derek H. T.; Andersen, Bjørn; Magnussen, Ole Morten</t>
+</si>
+<si>
+<t>The Three Secrets of Megaproject Success: Clear Strategic Vision, Total Alignment, and Adapting to Complexity</t>
+</si>
+<si>
+<t>Shenhar, Aaron; Holzmann, Vered</t>
+</si>
+<si>
+<t>The Dynamics of Collaboration in Multipartner Projects</t>
+</si>
+<si>
+<t>Dietrich, Perttu; Eskerod, Pernille; Dalcher, Darren; Sandhawalia, Birinder</t>
+</si>
+<si>
+<t>New Insights into Project Management Research: A Natural Sciences Comparative</t>
+</si>
+<si>
+<t>Joslin, Robert; Müller, Ralf</t>
+</si>
+<si>
+<t>A Project Management Research Framework Integrating Multiple Theoretical Perspectives and Influencing Factors</t>
+</si>
+<si>
+<t>Hanisch, Bastian; Wald, Andreas</t>
+</si>
+<si>
+<t>The Influence of Project Commitment and Team Commitment on the Relationship between Trust and Knowledge Sharing in Project Teams</t>
+</si>
+<si>
+<t>Buvik, Marte Pettersen; Tvedt, Sturle Danielsen</t>
+</si>
+<si>
+<t>Leadership in Temporary Organizations: A Review of Leadership Theories and a Research Agenda</t>
+</si>
+<si>
+<t>Tyssen, Ana K.; Wald, Andreas; Spieth, Patrick</t>
+</si>
+<si>
+<t>Developing a Cost Overrun Predictive Model for Complex Systems Development Projects</t>
+</si>
+<si>
+<t>Adoko, Moses T.; Mazzuchi, Thomas A.; Sarkani, Shahram</t>
+</si>
+<si>
+<t>Identifying Success Factors in Construction Projects: A Case Study</t>
+</si>
+<si>
+<t>Williams, Terry</t>
+</si>
+<si>
+<t>Effort of EAI Projects: A Repertory Grid Investigation of Influencing Factors</t>
+</si>
+<si>
+<t>Wagner, Holger; Pankratz, Oleg; Mellis, Werner; Basten, Dirk</t>
+</si>
+<si>
+<t>Closing the Stakeholder Expectation Gap: Managing Customer Expectations toward the Process of Developing Information Systems</t>
+</si>
+<si>
+<t>Basten, Dirk; Stavrou, Georgios; Pankratz, Oleg</t>
+</si>
+<si>
+<t>Understanding the Value of Project Management: First Steps on an International Investigation in Search of Value</t>
+</si>
+<si>
+<t>Thomas, Janice; Mullaly, Mark</t>
+</si>
+<si>
+<t>Managing the Institutional Context for Projects</t>
+</si>
+<si>
+<t>Morris, Peter W. G.; Geraldi, Joana</t>
+</si>
+<si>
+<t>How Standard Are Standards: An Examination of Language Emphasis in Project Management Standards</t>
+</si>
+<si>
+<t>Crawford, Lynn; Pollack, Julien; England, David</t>
+</si>
+<si>
+<t>The Influence of Critical Success Factors on Value for Money Viability Analysis in Public–Private Partnership Projects</t>
+</si>
+<si>
+<t>Almarri, Khalid; Boussabaine, Halim</t>
+</si>
+<si>
+<t>A Bibliometric View on the Use of Contingency Theory in Project Management Research</t>
+</si>
+<si>
+<t>The Logical Framework Approach-Millennium</t>
+</si>
+<si>
+<t>Couillard, Jean; Garon, Serge; Riznic, Jovica</t>
+</si>
+<si>
+<t>Lagomizing, Organic Integration, and Systems Emergency Wards: Innovative Practices in Managing Complex Systems Development Projects</t>
+</si>
+<si>
+<t>Berggren, Christian; Järkvik, Jack; Söderlund, Jonas</t>
+</si>
+<si>
+<t>Project Management Systems: Moving Project Management from an Operational to a Strategic Discipline</t>
+</si>
+<si>
+<t>Cooke-Davies, Terence J.; Crawford, Lynn H.; Lechler, Thomas G.</t>
+</si>
+<si>
+<t>Exploring the Relationship between Rework Projects and Risk Indicators</t>
+</si>
+<si>
+<t>Yim, Rachel L.; Castaneda, Jason M.; Doolen, Toni L.; Tumer, Irem Y.; Malak, Richard</t>
+</si>
+<si>
+<t>Inter-Team Coordination Patterns and Outcomes in Multi-Team Projects</t>
+</si>
+<si>
+<t>Dietrich, Perttu; Kujala, Jaakko; Artto, Karlos</t>
+</si>
+<si>
+<t>Project Management Training Curricula at South African Public Universities: Is the Balanced Demand of the Profession Sufficiently Accommodated?</t>
+</si>
+<si>
+<t>Louw, Thelma; Rwelamila, P. D.</t>
+</si>
+<si>
+<t>Discriminating Contexts and Project Management Best Practices on Innovative and Noninnovative Projects</t>
+</si>
+<si>
+<t>Besner, Claude; Hobbs, Brian</t>
+</si>
+<si>
+<t>Project Stakeholder Management—Past and Present</t>
+</si>
+<si>
+<t>Eskerod, Pernille; Huemann, Martina; Savage, Grant</t>
+</si>
+<si>
+<t>The Project Manager/Functional Manager Partnership</t>
+</si>
+<si>
+<t>Pitagorsky, George</t>
+</si>
+<si>
+<t>The Sales Process of Information Systems: Implications for Project Execution and Business Benefits</t>
+</si>
+<si>
+<t>Fulford, Richard</t>
+</si>
+<si>
+<t>The Perceived Value and Potential Contribution of Project Management Practices to Project Success</t>
+</si>
+<si>
+<t>MBTI Personality Types of Project Managers and Their Success: A Field Survey</t>
+</si>
+<si>
+<t>Cohen, Yuval; Ornoy, Hana; Keren, Baruch</t>
+</si>
+<si>
+<t>Development of a Project Management Model for a Government Research and Development Organization</t>
+</si>
+<si>
+<t>Procca, Andrew E.</t>
+</si>
+<si>
+<t>Project Management for Development in Africa: Why Projects are Failing and What Can be Done about It</t>
+</si>
+<si>
+<t>Ika, Lavagnon A.</t>
+</si>
+<si>
+<t>An Empirical Investigation of the Sponsor's Role in Project Initiation</t>
+</si>
+<si>
+<t>Kloppenborg, Timothy J.; Tesch, Deborah; Manolis, Chris; Heitkamp, Mark</t>
+</si>
+<si>
+<t>Applying the Slevin-Pinto Project Implementation Profile to an Information Systems Project</t>
+</si>
+<si>
+<t>Finch, Peter</t>
+</si>
+<si>
+<t>Influence of Communication on Client Satisfaction in Information System Projects: A Quantitative Field Study</t>
+</si>
+<si>
+<t>Diegmann, Phil; Basten, Dirk; Pankratz, Oleg</t>
+</si>
+<si>
+<t>The Successful Delivery of Megaprojects: A Novel Research Method</t>
+</si>
+<si>
+<t>Locatelli, Giorgio; Mikic, Miljan; Kovacevic, Milos; Brookes, Naomi; Ivanisevic, Nenad</t>
+</si>
+<si>
+<t>Managerial Complexity in Process Industrial R&amp;D Projects: A Swedish Study</t>
+</si>
+<si>
+<t>Chronéer, Diana; Bergquist, Bjarne</t>
+</si>
+<si>
+<t>An Empirical Assessment of IT Project Selection and Evaluation Methods in State Government</t>
+</si>
+<si>
+<t>Rosacker, Kirsten M.; Olson, David L.</t>
+</si>
+<si>
+<t>Exploring Research in Project Management: Nine Schools of Project Management Research (Part 4)</t>
+</si>
+<si>
+<t>Bredillet, Christophe N.</t>
+</si>
+<si>
+<t>Using a Social Capital Lens to Identify the Mechanisms of Top Management Commitment: A Case Study of a Technology Project</t>
+</si>
+<si>
+<t>Amoako-Gyampah, Kwasi; Meredith, Jack; Loyd, Kathy White</t>
+</si>
+<si>
+<t>Success of Projects in Different Organizational Conditions</t>
+</si>
+<si>
+<t>Hyväri, Irja</t>
+</si>
+<si>
+<t>Project Control: Literature Review</t>
+</si>
+<si>
+<t>Project Management Research—The Challenge and Opportunity</t>
+</si>
+<si>
+<t>Shenhar, Aaron J.; Dvir, Dov</t>
+</si>
+<si>
+<t>Lessons for IT Project Manager Efficacy: A Review of the Literature Associated with Project Success</t>
+</si>
+<si>
+<t>Millhollan, Chuck; Kaarst-Brown, Michelle</t>
+</si>
+<si>
+<t>Early Warning Signals for R&amp;D Projects: An Empirical Study</t>
+</si>
+<si>
+<t>Sánchez, Angel Martínez; Pérez, Manuela Pérez</t>
+</si>
+<si>
+<t>The Importance of Building a Foundation for User Involvement in Information System Projects</t>
+</si>
+<si>
+<t>Jiang, James J.; Chen, Edward; Klein, Gary</t>
+</si>
+<si>
+<t>Managing Geographically Distributed Clients throughout the Project Management Life Cycle</t>
+</si>
+<si>
+<t>Javed, Talha; Manzil-E-Maqsood; Durrani, Qaiser S.</t>
+</si>
+<si>
+<t>Project Management in the Information Systems and Information Technologies Industries</t>
+</si>
+<si>
+<t>Hartman, Francis; Ashrafi, Rafi A.</t>
+</si>
+<si>
+<t>Project Success: A Cultural Framework</t>
+</si>
+<si>
+<t>Kendra, Korin; Taplin, Laura J.</t>
+</si>
+<si>
+<t>Impact of Organizational and Project Factors on Acceptance and Usage of Project Management Software and Perceived Project Success</t>
+</si>
+<si>
+<t>Bani Ali, Abdullah Saeed; Anbari, Frank T.; Money, William H.</t>
+</si>
+<si>
+<t>Critical Success Factors Affecting Project Performance: An Analysis of Tools, Practices, and Managerial Support</t>
+</si>
+<si>
+<t>Jitpaiboon, Thawatchai; Smith, Sheila M.; Gu, Qiannong</t>
+</si>
+<si>
+<t>Legislative Body</t>
+</si>
+<si>
+<t>History</t>
+</si>
+<si>
+<t>Committee</t>
+</si>
+<si>
+<t>Session</t>
+</si>
+<si>
+<t>Section</t>
+</si>
+<si>
+<t>Code Number</t>
+</si>
+<si>
+<t>Code</t>
+</si>
+<si>
+<t>System</t>
+</si>
+<si>
+<t>Version</t>
+</si>
+<si>
+<t>Programming Language</t>
+</si>
+<si>
+<t>Priority Numbers</t>
+</si>
+<si>
+<t>Legal Status</t>
+</si>
+<si>
+<t>Reporter</t>
+</si>
+<si>
+<t>References</t>
+</si>
+<si>
+<t>Court</t>
+</si>
+<si>
+<t>Conference Name</t>
+</si>
+<si>
+<t>Meeting Name</t>
+</si>
+<si>
+<t>Country</t>
+</si>
+<si>
+<t>Issuing Authority</t>
+</si>
+<si>
+<t>Assignee</t>
+</si>
+<si>
+<t>Application Number</t>
+</si>
+<si>
+<t>Filing Date</t>
+</si>
+<si>
+<t>Artwork Size</t>
+</si>
+<si>
+<t>Medium</t>
+</si>
+<si>
+<t>Scale</t>
+</si>
+<si>
+<t>Running Time</t>
+</si>
+<si>
+<t>Otsikko</t>
+</si>
+<si>
+<t>Arvio</t>
+</si>
+<si>
+<t>Vuosi</t>
+</si>
+<si>
+<t>Julkaisu</t>
+</si>
+<si>
+<t>Tekijä(t)</t>
+</si>
+<si>
+<t>Viittauksia (Semantic Scholar)</t>
+</si>
+</sst>
