@@ -1,5 +1,8 @@
 # Eteneminen
 
+## Maanantaina 10.01.2022
+- Viimeistelin eilen aloitetun esiselvityksen
+
 ## Sunnuntaina 09.01.2022
 - Aloitin esiselvityksen teon siitä paljonko tuloksia löytyy kustakin julkaisusta milläkin hakutermillä.
 
