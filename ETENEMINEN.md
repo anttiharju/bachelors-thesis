@@ -1,5 +1,11 @@
 # Eteneminen
 
+## Tiistaina 11.01.2022
+- Viimeistelin otsikkotason esiselvityksen
+    - Löytyi 56 potentiaalista artikkelia
+        - Näille tehdään karsinta sisällön perusteella (käsitteleekö ohjelmisto tai edes IT -projekteja, onko tiivistelmän (abstract) perusteella soveltuva?)
+        - Harkitaan "backwards snowballing", sillä systemaattisessa kirjallisuuskartoituksessa ilmeisesti tehdään niin.
+
 ## Maanantaina 10.01.2022
 - Viimeistelin eilen aloitetun esiselvityksen
 - Käsittelin esiselvityksen
@@ -12,7 +18,14 @@
         - Ongelma: jos käytetään takaperoista lumipallomenetelmää, 341 artikkelia on jo valmiiksi iso aineisto joten ei haluta sitä enempää.
         - Koska signaalin (eli hyvien artikkeleiden osuus hakutuloksista) odotetaan olevan paljon parempi edeltävällä hakutermillä, koetaan pienemmän lähtöaineiston valinta perustelluksi.
 - Aloitin otsikkotason esiselvityksen
-    - Kuvaa prosessi myöhemmin tähän
+    - Hae artikkelit julkaisusta tietokannassa x
+    - Tallenna ne Zoteroon
+    - Hae viittausmäärät Zoteron pluginilla (Semantic Scholarista, vaikutti antavan parhaat/suurimmat luvut)
+    - Exporttaa .csv
+    - Avaa .csv LibreOffice Calcissa (open-source Excel)
+        - Koska Excel ei käytä oletuksena oikeita erottelumerkkejä enkä jaksa conffata
+    - Copy-paste Calcista Exceliin
+    - Sarakkeet oikeaan järjestykseen Excelissä
 
 ## Sunnuntaina 09.01.2022
 - Aloitin esiselvityksen teon siitä paljonko tuloksia löytyy kustakin julkaisusta milläkin hakutermillä.
