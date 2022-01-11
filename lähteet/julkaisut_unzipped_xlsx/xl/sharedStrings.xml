@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5424" uniqueCount="864">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5426" uniqueCount="866">
 <si>
 <t>JUFOID</t>
 </si>
@@ -2591,5 +2591,11 @@
 </si>
 <si>
 <t>(projektin hallinta) *lisätty software, että rajataan suurin osa epärelevanteista pois. Muut ovat valmiiksi IT-alan julkaisuja, joten siksi ei rajattu</t>
+</si>
+<si>
+<t>RIKKI (Zotero)</t>
+</si>
+<si>
+<t>Rikki (ProQuest-Zotero)</t>
 </si>
 </sst>

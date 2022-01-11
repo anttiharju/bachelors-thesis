@@ -7,17 +7,26 @@
 <x15ac:absPath url="https://jyu-my.sharepoint.com/personal/anvemaha_jyu_fi/Documents/TJTA3001 Kandidaattiseminaari/TJTA3002 Kandidaatin tutkielma/lähteet/" xmlns:x15ac="http://schemas.microsoft.com/office/spreadsheetml/2010/11/ac"/>
 </mc:Choice>
 </mc:AlternateContent>
-<xr:revisionPtr revIDLastSave="7" documentId="11_F25DC773A252ABDACC1048B5999943D25ADE58E8" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{9ACF21F5-17B3-42ED-9C00-4287E1204050}"/>
+<xr:revisionPtr revIDLastSave="159" documentId="11_F25DC773A252ABDACC1048B5999943D25ADE58E8" xr6:coauthVersionLast="47" xr6:coauthVersionMax="47" xr10:uidLastSave="{678E677D-A9A5-4499-A70B-A9A74701D86C}"/>
 <bookViews>
-<workbookView xWindow="-28920" yWindow="-120" windowWidth="29040" windowHeight="16440" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
+<workbookView xWindow="-120" yWindow="-120" windowWidth="29040" windowHeight="15840" xr2:uid="{00000000-000D-0000-FFFF-FFFF00000000}"/>
 </bookViews>
 <sheets>
 <sheet name="Artikkelit" sheetId="2" r:id="rId1"/>
 </sheets>
-<calcPr calcId="162913"/>
+<calcPr calcId="191029"/>
 <extLst>
 <ext uri="{140A7094-0E35-4892-8432-C4D2E57EDEB5}" xmlns:x15="http://schemas.microsoft.com/office/spreadsheetml/2010/11/main">
 <x15:workbookPr chartTrackingRefBase="1"/>
+</ext>
+<ext uri="{B58B0392-4F1F-4190-BB64-5DF3571DCE5F}" xmlns:xcalcf="http://schemas.microsoft.com/office/spreadsheetml/2018/calcfeatures">
+<xcalcf:calcFeatures>
+<xcalcf:feature name="microsoft.com:RD"/>
+<xcalcf:feature name="microsoft.com:Single"/>
+<xcalcf:feature name="microsoft.com:FV"/>
+<xcalcf:feature name="microsoft.com:CNMTM"/>
+<xcalcf:feature name="microsoft.com:LET_WF"/>
+</xcalcf:calcFeatures>
 </ext>
 </extLst>
 </workbook>

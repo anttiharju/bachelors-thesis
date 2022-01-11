@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="1" xr:uid="{39F7D379-9110-4857-AB87-E128EC6CA238}" name="Table1" displayName="Table1" ref="A1:F178" totalsRowCount="1" headerRowCellStyle="Normal 2">
+<autoFilter ref="A1:F177" xr:uid="{39F7D379-9110-4857-AB87-E128EC6CA238}"/>
+<sortState ref="A2:F177" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
+<sortCondition ref="E1:E177"/>
+</sortState>
+<tableColumns count="6">
+<tableColumn id="1" xr3:uid="{4E7E99FB-1ABE-4990-9C6C-0D20AD51890F}" name="Viittauksia (Semantic Scholar)" totalsRowDxfId="5"/>
+<tableColumn id="2" xr3:uid="{6A0E060B-D5ED-4BC0-9FE0-D0E74B78C1E0}" name="Tekijä(t)" totalsRowDxfId="4"/>
+<tableColumn id="3" xr3:uid="{BABF88B4-7692-4926-BE62-E8F9849B9B73}" name="Julkaisu" totalsRowDxfId="3"/>
+<tableColumn id="4" xr3:uid="{B5C649DB-9583-42F8-8568-882C9B24DBD8}" name="Vuosi" totalsRowLabel="✔" totalsRowDxfId="2"/>
+<tableColumn id="5" xr3:uid="{1876008A-CA31-4704-8952-0BA36151853C}" name="Arvio" totalsRowFunction="custom" totalsRowDxfId="1" dataCellStyle="Normal 2">
+<totalsRowFormula>COUNTIF(Table1[Arvio], D178)</totalsRowFormula>
+</tableColumn>
+<tableColumn id="6" xr3:uid="{75B089D8-B165-4D6E-A1E3-271A0B569D29}" name="Otsikko" totalsRowDxfId="0"/>
+</tableColumns>
+<tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
+</table>
