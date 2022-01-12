@@ -1,5 +1,13 @@
 # Eteneminen
 
+## Keskiviikkona 12.01.2022
+- Lisäsin muistiinpanot.docx repon juureen, tiputtelen tänne ajatuksia ym. joita voi hyödyntää lopullisessa tekstissä.
+- Käyn löydettyjä artikkeleita sisältötasolla läpi
+    - Lukemisella selviää, että yksi hyvä hakutermi voisi olla "project" AND "success factors" AND "software"
+        - Tästä olisi hyvä tehdä edes esiselvitys. Sisältötason tarkastelu tosin ensin loppuun (jos vaikka tulisi muita hyviä ideoita).
+    - Löytyi "A model of critical success factors for software projects" (2012).
+        - Tätä kandia voisi motivoida ns. state of research -kartoituksena.
+
 ## Tiistaina 11.01.2022
 - Viimeistelin otsikkotason esiselvityksen
     - Löytyi 56 potentiaalista artikkelia

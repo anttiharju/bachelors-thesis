@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac x16r2 xr" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:x16r2="http://schemas.microsoft.com/office/spreadsheetml/2015/02/main" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision">
-<fonts count="4" x14ac:knownFonts="1">
+<fonts count="6" x14ac:knownFonts="1">
 <font>
 <sz val="11"/>
 <color theme="1"/>
@@ -29,6 +29,22 @@
 <family val="2"/>
 <scheme val="minor"/>
 </font>
+<font>
+<b/>
+<sz val="11"/>
+<color theme="1"/>
+<name val="Calibri"/>
+<family val="2"/>
+<scheme val="minor"/>
+</font>
+<font>
+<b/>
+<sz val="11"/>
+<color indexed="8"/>
+<name val="Calibri"/>
+<family val="2"/>
+<scheme val="minor"/>
+</font>
 </fonts>
 <fills count="2">
 <fill>
@@ -51,22 +67,141 @@
 <xf numFmtId="0" fontId="0" fillId="0" borderId="0"/>
 <xf numFmtId="0" fontId="1" fillId="0" borderId="0"/>
 </cellStyleXfs>
-<cellXfs count="5">
+<cellXfs count="12">
 <xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>
 <xf numFmtId="0" fontId="1" fillId="0" borderId="0" xfId="1"/>
 <xf numFmtId="0" fontId="3" fillId="0" borderId="0" xfId="0" applyFont="1" applyAlignment="1">
 <alignment horizontal="center"/>
 </xf>
-<xf numFmtId="0" fontId="2" fillId="0" borderId="0" xfId="0" applyFont="1" applyAlignment="1">
+<xf numFmtId="0" fontId="1" fillId="0" borderId="0" xfId="0" applyNumberFormat="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1" applyProtection="1"/>
+<xf numFmtId="0" fontId="2" fillId="0" borderId="0" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1">
 <alignment horizontal="center"/>
 </xf>
-<xf numFmtId="0" fontId="1" fillId="0" borderId="0" xfId="0" applyNumberFormat="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1" applyProtection="1"/>
+<xf numFmtId="0" fontId="5" fillId="0" borderId="0" xfId="1" applyNumberFormat="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"/>
+<xf numFmtId="0" fontId="1" fillId="0" borderId="0" xfId="1" applyNumberFormat="1" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"/>
+<xf numFmtId="0" fontId="3" fillId="0" borderId="0" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1">
+<alignment horizontal="center"/>
+</xf>
+<xf numFmtId="0" fontId="4" fillId="0" borderId="0" xfId="0" applyFont="1" applyFill="1" applyBorder="1"/>
+<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyFont="1" applyFill="1" applyBorder="1"/>
+<xf numFmtId="0" fontId="4" fillId="0" borderId="0" xfId="0" applyFont="1" applyFill="1"/>
+<xf numFmtId="49" fontId="0" fillId="0" borderId="0" xfId="0" applyNumberFormat="1"/>
 </cellXfs>
 <cellStyles count="2">
 <cellStyle name="Normal" xfId="0" builtinId="0"/>
 <cellStyle name="Normal 2" xfId="1" xr:uid="{3301BBDB-13B1-4B03-8D4E-0E7EAD460174}"/>
 </cellStyles>
-<dxfs count="6">
+<dxfs count="15">
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<font>
+<b/>
+<i val="0"/>
+<strike val="0"/>
+<condense val="0"/>
+<extend val="0"/>
+<outline val="0"/>
+<shadow val="0"/>
+<u val="none"/>
+<vertAlign val="baseline"/>
+<sz val="11"/>
+<color indexed="8"/>
+<name val="Calibri"/>
+<family val="2"/>
+<scheme val="minor"/>
+</font>
+<numFmt numFmtId="0" formatCode="General"/>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+<alignment horizontal="general" vertical="bottom" textRotation="0" wrapText="0" indent="0" justifyLastLine="0" shrinkToFit="0" readingOrder="0"/>
+</dxf>
+<dxf>
+<font>
+<b/>
+</font>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<font>
+<b val="0"/>
+<i val="0"/>
+<strike val="0"/>
+<condense val="0"/>
+<extend val="0"/>
+<outline val="0"/>
+<shadow val="0"/>
+<u val="none"/>
+<vertAlign val="baseline"/>
+<sz val="11"/>
+<color rgb="FF00B050"/>
+<name val="Calibri"/>
+<family val="2"/>
+<scheme val="minor"/>
+</font>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+<alignment horizontal="center" vertical="bottom" textRotation="0" wrapText="0" indent="0" justifyLastLine="0" shrinkToFit="0" readingOrder="0"/>
+</dxf>
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
+<dxf>
+<fill>
+<patternFill patternType="none">
+<fgColor indexed="64"/>
+<bgColor auto="1"/>
+</patternFill>
+</fill>
+</dxf>
 <dxf>
 <font>
 <b val="0"/>

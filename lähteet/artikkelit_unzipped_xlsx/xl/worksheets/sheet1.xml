@@ -2,8 +2,8 @@
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac xr xr2 xr3" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xr:uid="{C8169C86-7531-4D07-B943-D4DE851B313E}">
 <dimension ref="A1:CJ178"/>
 <sheetViews>
-<sheetView tabSelected="1" workbookViewId="0">
-<selection activeCell="H12" sqref="H12"/>
+<sheetView workbookViewId="0">
+<selection activeCell="H2" sqref="H2"/>
 </sheetView>
 </sheetViews>
 <sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
@@ -135,9 +135,6 @@
 </c>
 <c r="F2" t="s">
 <v>277</v>
-</c>
-<c r="H2" s="3" t="s">
-<v>411</v>
 </c>
 </row>
 <row r="3" spans="1:88" x14ac:dyDescent="0.25">
@@ -3281,17 +3278,17 @@
 </c>
 </row>
 <row r="178" spans="1:6" x14ac:dyDescent="0.25">
-<c r="A178" s="4"/>
-<c r="B178" s="4"/>
-<c r="C178" s="4"/>
+<c r="A178" s="3"/>
+<c r="B178" s="3"/>
+<c r="C178" s="3"/>
 <c r="D178" s="2" t="s">
 <v>410</v>
 </c>
-<c r="E178" s="4">
+<c r="E178" s="3">
 <f>COUNTIF(Table1[Arvio], D178)</f>
 <v>56</v>
 </c>
-<c r="F178" s="4"/>
+<c r="F178" s="3"/>
 </row>
 </sheetData>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
