@@ -1,5 +1,58 @@
 # Eteneminen
 
+## Torstaina 13.01.2022
+- Aamulla oli tapaaminen ohjaajan kanssa
+    - Esittelin mitä olin tehnyt jonka ohessa kysymyksiä
+    - Tuloksia:
+        - 2012 artikkeli "A model of critical success factors for software projects" hyvin lähellä mun artikkelia, ongelma?
+            - Ei
+                - Voi koittaa rajata pidemmälle
+                - Voi erottautua jotenkin muuten
+                    - Esim. tuoreempaa näkökulmaa (perusteltua painottaa tuoreempaa tutkimusta? ehkä. ohjaaja ei sanonut juuta eikä jaata)
+                    - Rajaus tietojärjestelmätieteen julkaisuihin (+ muutama projektin hallinnan julkaisu)
+        - Jos saan hälle maanantaiksi 24.01.2022 jonkinlaisen raakaversion ehdin saada ennen helmikuun deadlineä palautettakin
+            - Kontekstia:
+                - 2.2. pitäisi olla arvosanan 1 vaativat kriteerit täyttävä versio palautettuna
+                - Mulla ei ole tänä keväänä muuta kuin tämä kurssi + tietoverkkokurssi. Tammikuu on pyhitetty tälle ja toivon että ehdin tuohon deadlineen.
+- Viimeistelin sisältötason arvioinnin: 35 lupaavaa artikkelia, mutta ilmeisesti pitäisi tehdä sitä backwards snowballing, mutta koitan ehkä perustellusti jättää sen tekemättä (rajaus tjt-julkaisuihin)
+    - Tarvitsen 25-30 artikkelia. Ehkä jos olisin oikea tutkija, backwards snowballing täydellä teholla olisi päivänselvä valinta, mutta nyt ideana on lähinnä vain valmistua.
+        - Pohdintaan huomenna
+- Mistä voi jatkaa:
+    - Tunnista hyvistä artikkeleista IS/ISD success factoreita käsittelevät.
+    - Lue artikkelit oikeasti läpi
+        - https://news.ycombinator.com/item?id=29736893
+            - Plan on reading it 4-5 times. The first time it is going to be a whole bunch of new words/concepts -- "a different language" as you put it.
+            - Only read the introduction.
+            1. The first reading is to inventory the words, where they are used, and how important they are. Don't try to understand except in the most vague of ways.
+            2. The second time you can start to make some sense out of it because hopefully you think you might understand 1/3- 1/2 of the words.
+            - Now look up some definitions. Google might help, otherwise the difficult word(s) might be cited, in which case you need to read the abstract of the relevant paper (only enough to get a definition of what the word might mean).
+            3. The third time you read it, you should know 1/2 to 2/3rds of the words and be able to make good connections between them, you start to see the ideas take shape.
+            4. The fourth read you fill in the gaps from the outline you made in the third read.
+        - Tätä varten myös jonkinlainen valmistelu, että voit koota miten menestystekijöitä käsitellään artikkelissa
+            - Esim. menestystekijät
+                - aikaisemmasta tieteellisestä kirjallisuudesta
+                - kyselytutkimuksista
+                - jostain muusta, mistä?
+            - Miten menestystekijöitä käytetty
+                - En ihan varma mitä tästä kerätä
+            - Montako menestystekijää?
+            - Väittääkö, että tutkimus yksimielistä vai ei, esittääkö kenties itse kritiikkiä?
+            - Käsitteleekö muuta kuin ohjelmistoalaa/projekteja?
+    - Tee backwards snowballingia esimerkiksi jossain määrin rajoitetusti
+        - Esim. vain artikkelit joiden otsikossa success factors / sen eri taivutus/ilmaisumuodot "factors affecting project success" yms.
+    - Viilaa rakennetta
+        - Mistä sun sisältöluvut edes tulevat kertomaan? Niitä tarvitaan kaksi.
+            - Käy yksityisyysparadoksikandia uudestaan läpi, teit sinne muistiinpanoja rakenteesta mutta pölhö et tallentanut niitä
+            - Ainakin menetelmäluku tulee. Onko se sisältöluku?
+            - Yksi vaihtoehto:
+                - menetelmäluku
+                - taustakirjallisuuden tarkastelu (1. sisältöluku)
+                - tulokset (noi asiat mitä otat ylös lukemisen yhteydessä? 2. sisältöluku)
+                - pohdinta (omaa pohdintaa, jatkotutkimusaiheita tai sitten tämä yhdistetään muihin lukuihin)
+    - Tunnista hyvistä artikkeleista ne kaikkein keskeisimmät, jotka tulevat ainakin mukaan. Sitten muita artikkeleita voidaan arvioida viittauksia per vuosi ym. menetelmillä
+    - Päivitä tutkielma.docx:iin sitä mitä voit: otsikko, tekijä, ohjaaja, ym.
+- Sain tutulta yhden vinkin tutkielman tekemiseen: tee vain. Ei ole väliä teetkö "hyvin". Kunhan vain teet. Siten se joskus valmistuu.
+
 ## Keskiviikkona 12.01.2022
 - Lisäsin muistiinpanot.docx repon juureen, tiputtelen tänne ajatuksia ym. joita voi hyödyntää lopullisessa tekstissä.
 - Käyn löydettyjä artikkeleita sisältötasolla läpi
