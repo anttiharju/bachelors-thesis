@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
 <w:body>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:p w14:paraId="3452D333" w14:textId="108829C0" w:rsidR="00E6009A" w:rsidRDefault="00F11253" w:rsidP="00E6009A">
 <w:pPr>
 <w:pStyle w:val="Tutkielmankirjoittaja"/>
 </w:pPr>
 <w:r>
-<w:t>Etunimi Sukunimi</w:t>
+<w:t>Antti Harju</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="009342D7" w:rsidP="00E6009A">
+<w:p w14:paraId="687D1255" w14:textId="33C9A750" w:rsidR="00E6009A" w:rsidRDefault="00CC78C7" w:rsidP="00E6009A">
 <w:pPr>
 <w:pStyle w:val="Tutkielmannimi"/>
 </w:pPr>
@@ -17,7 +17,7 @@
 <w:rPr>
 <w:noProof/>
 </w:rPr>
-<w:pict>
+<w:pict w14:anchorId="132BCF58">
 <v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
 <v:stroke joinstyle="miter"/>
 <v:path gradientshapeok="t" o:connecttype="rect"/>
@@ -25,17 +25,16 @@
 <v:shape id="Text Box 2" o:spid="_x0000_s1035" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:251656192;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
 <v:textbox style="mso-next-textbox:#Text Box 2" inset="0,0,0,0">
 <w:txbxContent>
-<w:p w:rsidR="0038549D" w:rsidRDefault="009342D7" w:rsidP="0038549D">
+<w:p w14:paraId="6F1632CA" w14:textId="77777777" w:rsidR="0038549D" w:rsidRDefault="00CC78C7" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
 <w:r>
 <w:rPr>
-<w:b/>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
-<w:pict>
+<w:pict w14:anchorId="4EE78893">
 <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
 <v:stroke joinstyle="miter"/>
 <v:formulas>
@@ -55,13 +54,13 @@
 <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
 <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype>
-<v:shape id="_x0000_i1040" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:34pt;height:76.5pt;visibility:visible">
+<v:shape id="_x0000_i1026" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:33.8pt;height:76.4pt;visibility:visible">
 <v:imagedata r:id="rId8" o:title="jyu_soihtu"/>
 </v:shape>
 </w:pict>
 </w:r>
 </w:p>
-<w:p w:rsidR="0038549D" w:rsidRDefault="0038549D" w:rsidP="0038549D">
+<w:p w14:paraId="236F4559" w14:textId="77777777" w:rsidR="0038549D" w:rsidRDefault="0038549D" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
@@ -69,7 +68,7 @@
 <w:t>Jyväskylän yliopisto</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00235FE4" w:rsidRDefault="00235FE4" w:rsidP="0038549D">
+<w:p w14:paraId="7EC427EB" w14:textId="77777777" w:rsidR="00235FE4" w:rsidRDefault="00235FE4" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
@@ -77,7 +76,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
+<w:p w14:paraId="463C523D" w14:textId="2786DDD9" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -90,11 +89,11 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00656FEE">
+<w:r w:rsidR="00F11253">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
-<w:t>2020</w:t>
+<w:t>2022</w:t>
 </w:r>
 <w:r>
 <w:rPr>
@@ -109,11 +108,11 @@
 </v:shape>
 </w:pict>
 </w:r>
-<w:r w:rsidR="00E6009A">
-<w:t>Tutkimusraportin nimi</w:t>
+<w:r w:rsidR="00AD4BDD">
+<w:t>ohjelmistoprojektien menestystekijät</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AE4B9D">
+<w:p w14:paraId="24D11E29" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
@@ -126,23 +125,23 @@
 <w:bookmarkEnd w:id="0"/>
 <w:bookmarkEnd w:id="1"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="057ED77A" w14:textId="3B9D9745" w:rsidR="00E6009A" w:rsidRDefault="00AD4BDD" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 </w:pPr>
 <w:r>
-<w:t>Sukunimi, Etunimi</w:t>
+<w:t>Harju, Antti</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="6E1D08DB" w14:textId="109AF866" w:rsidR="00E6009A" w:rsidRDefault="00AD4BDD" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 </w:pPr>
 <w:r>
-<w:t>Tutkimusraportin otsikko</w:t>
+<w:t>Ohjelmistoprojektien menestystekijät</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="6AE9B9D5" w14:textId="2ED3D9FE" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 </w:pPr>
@@ -150,50 +149,50 @@
 <w:t>Jyväs</w:t>
 </w:r>
 <w:r w:rsidR="00A90FC7">
-<w:t>kylä: Jyväskylän yliopisto, 2020</w:t>
+<w:t>kylä: Jyväskylän yliopisto, 202</w:t>
+</w:r>
+<w:r w:rsidR="00AD4BDD">
+<w:t>2</w:t>
 </w:r>
 <w:r>
 <w:t xml:space="preserve">, </w:t>
 </w:r>
-<w:r w:rsidR="007B4468">
-<w:t>70</w:t>
+<w:r w:rsidR="00AD4BDD">
+<w:t>??</w:t>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> s.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="238B1F62" w14:textId="520D3EC4" w:rsidR="00E6009A" w:rsidRDefault="009A6365" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+<w:r w:rsidRPr="009A6365">
+<w:t>Tietojärjestelmätiede</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="00451A06">
+<w:t>kandidaatin</w:t>
+</w:r>
+<w:r w:rsidR="00E6009A">
+<w:t>tutkielma</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2B3FC7F2" w14:textId="61F2D30D" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 </w:pPr>
 <w:r>
-<w:t>Pääaine, tutkimusraportin tyyppi (</w:t>
+<w:t xml:space="preserve">Ohjaaja: </w:t>
 </w:r>
-<w:r w:rsidR="009A6365">
-<w:t xml:space="preserve">esim. </w:t>
-</w:r>
-<w:r w:rsidR="009A6365" w:rsidRPr="009A6365">
-<w:t>Tietojärjestelmätiede/Kognitiotiede</w:t>
-</w:r>
-<w:r w:rsidR="00D80065">
-<w:t>/</w:t>
-</w:r>
-<w:r w:rsidR="009A6365">
-<w:t xml:space="preserve"> Kyberturvallisuus, pro gradu </w:t>
-</w:r>
-<w:r>
-<w:t>-tutkielma)</w:t>
+<w:r w:rsidR="00572901">
+<w:t>Mehtälä, Saana</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
-<w:pPr>
-<w:pStyle w:val="Bibliografisettiedot"/>
-</w:pPr>
-<w:r>
-<w:t>Ohjaaja(t): Sukunimi, Etunimi</w:t>
-</w:r>
-</w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
+<w:p w14:paraId="48E6647B" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -213,21 +212,18 @@
 <w:t>7 tutkimuksen aihetta kuvaavaa avainsanaa. Tiivistelmä kirjoitetaan myös englanniksi.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="49A9AD28" w14:textId="05A76CF8" w:rsidR="00E6009A" w:rsidRPr="004370FE" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E6009A">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Asiasanat: asiasana1, asiasana2, asiasana3, …</w:t>
+<w:r w:rsidRPr="004370FE">
+<w:t xml:space="preserve">Asiasanat: </w:t>
+</w:r>
+<w:r w:rsidR="00010545" w:rsidRPr="004370FE">
+<w:t>projektinhallinta, projektien menestystekijät, ohjelmistoprojektit</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:p w14:paraId="0D64B5A5" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 <w:rPr>
@@ -246,52 +242,91 @@
 <w:bookmarkEnd w:id="2"/>
 <w:bookmarkEnd w:id="3"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="6B9933CF" w14:textId="56A81F5D" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="003511F6" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E6009A">
+<w:r>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Last name, First name</w:t>
+<w:t>Harju</w:t>
+</w:r>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Antti</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="6F65873B" w14:textId="69DD97CB" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="0051623A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E6009A">
+<w:r>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Name of the publication</w:t>
+<w:t>S</w:t>
+</w:r>
+<w:r w:rsidR="003511F6">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>oftware projects</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>’ success factors</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="2501C62A" w14:textId="697C56F0" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E6009A">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
+<w:r w:rsidRPr="004370FE">
 <w:t>Jyväskyl</w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7" w:rsidRPr="004370FE">
+<w:t>ä</w:t>
 </w:r>
 <w:r w:rsidR="00A90FC7">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>ä: University of Jyväskylä, 2020</w:t>
+<w:t xml:space="preserve">: University of </w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7" w:rsidRPr="004370FE">
+<w:t>Jyväskylä</w:t>
+</w:r>
+<w:r w:rsidR="00A90FC7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 202</w:t>
+</w:r>
+<w:r w:rsidR="00F74BB3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>2</w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
@@ -299,11 +334,11 @@
 </w:rPr>
 <w:t xml:space="preserve">, </w:t>
 </w:r>
-<w:r w:rsidR="007B4468">
+<w:r w:rsidR="00F74BB3">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>70</w:t>
+<w:t>??</w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
@@ -324,7 +359,33 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="501C0A1B" w14:textId="50FA689F" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="009A6365" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Information Systems</w:t>
+</w:r>
+<w:r w:rsidR="00B1420C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="00F74BB3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Bachelor’s Thesis</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5EBC8745" w14:textId="577E6151" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
@@ -335,60 +396,19 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Major subject, type of the publica</w:t>
+<w:t xml:space="preserve">Supervisor: </w:t>
 </w:r>
-<w:r w:rsidR="009A6365">
+<w:r w:rsidR="00F74BB3" w:rsidRPr="004370FE">
+<w:t>Mehtälä</w:t>
+</w:r>
+<w:r w:rsidR="00F74BB3">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>tion (e.g. Information Systems</w:t>
-</w:r>
-<w:r w:rsidR="00D80065">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>/C</w:t>
-</w:r>
-<w:r w:rsidR="00B1420C">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>ognitive</w:t>
-</w:r>
-<w:r w:rsidR="009A6365">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> Science, </w:t>
-</w:r>
-<w:r w:rsidR="00B1420C">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">Cyber Security, </w:t>
-</w:r>
-<w:r w:rsidRPr="00E6009A">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Master’s Thesis)</w:t>
+<w:t>, Saana</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
-<w:pPr>
-<w:pStyle w:val="Bibliografisettiedot"/>
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-</w:pPr>
-<w:r w:rsidRPr="00E6009A">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Supervisor(s): Last name, First name</w:t>
-</w:r>
-</w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
+<w:p w14:paraId="019E5DA1" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:rPr>
@@ -402,15 +422,27 @@
 <w:t xml:space="preserve">Text of the abstract is written here. Make sure the abstract fits in this page with the keywords as well. </w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00372F2B" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="337A8AC2" w14:textId="62739A03" w:rsidR="00E6009A" w:rsidRPr="004370FE" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00372F2B">
-<w:t>Keywords: keyword1, keyword2, keyword3, …</w:t>
+<w:r w:rsidRPr="004370FE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Keywords: </w:t>
+</w:r>
+<w:r w:rsidR="004370FE" w:rsidRPr="004370FE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project management, project success factors, software projects</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:p w14:paraId="7F2A00D3" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
@@ -423,7 +455,7 @@
 <w:bookmarkEnd w:id="4"/>
 <w:bookmarkEnd w:id="5"/>
 </w:p>
-<w:p w:rsidR="002C446E" w:rsidRDefault="0006628B">
+<w:p w14:paraId="096EADE2" w14:textId="77777777" w:rsidR="002C446E" w:rsidRDefault="0006628B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -520,7 +552,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="002C446E" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
+<w:p w14:paraId="76115F56" w14:textId="77777777" w:rsidR="002C446E" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikkoeisivunvaihtoa"/>
 <w:rPr>
@@ -553,7 +585,7 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 </w:p>
-<w:p w:rsidR="002C446E" w:rsidRDefault="002C446E">
+<w:p w14:paraId="138354D7" w14:textId="77777777" w:rsidR="002C446E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -568,14 +600,14 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc58412792" w:history="1">
-<w:r w:rsidRPr="00997605">
+<w:r w:rsidR="002C446E" w:rsidRPr="00997605">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
 <w:noProof/>
@@ -584,55 +616,55 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00997605">
+<w:r w:rsidR="002C446E" w:rsidRPr="00997605">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Esimerkki taulukon selitetekstistä</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc58412792 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>8</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="002C446E">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -641,7 +673,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
+<w:p w14:paraId="305A737B" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="0006628B" w:rsidP="006B5BEF">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -649,7 +681,7 @@
 <w:fldChar w:fldCharType="end"/>
 </w:r>
 </w:p>
-<w:p w:rsidR="00A62C2B" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:p w14:paraId="190CF214" w14:textId="77777777" w:rsidR="00A62C2B" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
@@ -663,7 +695,7 @@
 <w:bookmarkEnd w:id="8"/>
 <w:bookmarkEnd w:id="9"/>
 </w:p>
-<w:p w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
+<w:p w14:paraId="20AFAC2E" w14:textId="77777777" w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
 <w:pPr>
 <w:ind w:firstLine="0"/>
 </w:pPr>
@@ -671,7 +703,7 @@
 <w:t>TIIVISTELMÄ</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
+<w:p w14:paraId="0E6D1C0F" w14:textId="77777777" w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
@@ -679,7 +711,7 @@
 <w:t>ABSTRACT</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="00B02A9E">
+<w:p w14:paraId="0ADA1989" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
@@ -687,7 +719,7 @@
 <w:t>KUVIOT JA TAULUKOT</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E">
+<w:p w14:paraId="6C124514" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -782,7 +814,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="13F105D5" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -866,7 +898,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="20796FB5" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
@@ -950,7 +982,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="6DBF367D" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
@@ -1034,7 +1066,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="5B9A3B0A" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1118,7 +1150,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="46D7E28C" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1206,7 +1238,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="631AEE9F" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1290,7 +1322,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="1B413AD5" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1374,7 +1406,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="307AB487" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1460,7 +1492,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="6E6C6CE4" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1530,7 +1562,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="009342D7">
+<w:p w14:paraId="509A5C77" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00CC78C7">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1599,7 +1631,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="60CC25F2" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:sectPr w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidSect="00A90FC7">
 <w:headerReference w:type="first" r:id="rId9"/>
@@ -1613,7 +1645,7 @@
 <w:fldChar w:fldCharType="end"/>
 </w:r>
 </w:p>
-<w:p w:rsidR="0094200D" w:rsidRDefault="0094200D" w:rsidP="00A62C2B">
+<w:p w14:paraId="2C244810" w14:textId="77777777" w:rsidR="0094200D" w:rsidRDefault="0094200D" w:rsidP="00A62C2B">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:sectPr w:rsidR="0094200D" w:rsidSect="0094200D">
@@ -1627,7 +1659,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="009D4F35" w:rsidP="00A62C2B">
+<w:p w14:paraId="06ED5B38" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="009D4F35" w:rsidP="00A62C2B">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
@@ -1642,7 +1674,7 @@
 <w:bookmarkEnd w:id="11"/>
 <w:bookmarkEnd w:id="12"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="5AD118CE" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -1653,7 +1685,7 @@
 <w:t>lematiikkaan.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:p w14:paraId="22B19026" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
 <w:r>
 <w:t xml:space="preserve">Johdannon tarkoituksena on antaa realistinen kuva siitä, mitä muissa tutkimusraportin osissa on odotettavissa. Johdannon ohjepituus on </w:t>
 </w:r>
@@ -1673,7 +1705,7 @@
 <w:t>sivua. Johdanto on järkevää kirjoittaa lopulliseen asuun joko rinnan tarkasteluosuuden kanssa tai aivan viimeiseksi (Hirsjärvi ym., 2009).</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:p w14:paraId="10F3B835" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
@@ -1687,7 +1719,7 @@
 <w:bookmarkEnd w:id="14"/>
 <w:bookmarkEnd w:id="15"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="70EE77C8" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -1695,7 +1727,7 @@
 <w:t>Mikäli tutkielmassa käytetään toisen tason otsikoita, niitä tulee olla vähintään kaksi. Lisäksi yhden tekstikappaleen vähimmäisrivimäärä on kolme ja näin ollen tässä tekstikappaleessa on tämä kyseinen virke.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="07762C25" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 </w:pPr>
@@ -1711,7 +1743,7 @@
 <w:bookmarkEnd w:id="17"/>
 <w:bookmarkEnd w:id="18"/>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="5B883DEA" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:rPr>
@@ -1731,7 +1763,7 @@
 <w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="14BC15DF" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -1744,7 +1776,7 @@
 <w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00AF5221" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="0E9FDA04" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00AF5221" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -1763,7 +1795,7 @@
 <w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="257B824D" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
@@ -1775,7 +1807,7 @@
 </w:r>
 <w:bookmarkEnd w:id="21"/>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="0E429C51" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
@@ -1796,7 +1828,7 @@
 <w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="2C7388D3" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
 <w:rPr>
@@ -1810,7 +1842,7 @@
 <w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="6754BF5F" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
 <w:rPr>
@@ -1830,7 +1862,7 @@
 <w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="393E8C9C" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
@@ -1841,7 +1873,7 @@
 </w:r>
 <w:bookmarkEnd w:id="22"/>
 </w:p>
-<w:p w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
+<w:p w14:paraId="2FA50222" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
@@ -1850,7 +1882,7 @@
 <w:t>Mikäli tutkielmassa käytetään toisen tason otsikoita, niitä tulee olla vähintään kaksi. Lisäksi yhden tekstikappaleen vähimmäisrivimäärä on kolme ja näin ollen tässä tekstikappaleessa on tämä kyseinen virke.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:p w14:paraId="684F9470" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
@@ -1870,7 +1902,7 @@
 <w:bookmarkEnd w:id="20"/>
 <w:bookmarkEnd w:id="23"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="4FFE6E78" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -1890,7 +1922,7 @@
 <w:t>Luvussa voidaan myös esittää tutkimuksen teoreettinen tausta tai mahdollinen viitekehys.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:p w14:paraId="6EE0CD01" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
@@ -1904,7 +1936,7 @@
 <w:bookmarkEnd w:id="25"/>
 <w:bookmarkEnd w:id="26"/>
 </w:p>
-<w:p w:rsidR="00F6019C" w:rsidRPr="00F6019C" w:rsidRDefault="00E6009A" w:rsidP="00F6019C">
+<w:p w14:paraId="41259048" w14:textId="77777777" w:rsidR="00F6019C" w:rsidRPr="00F6019C" w:rsidRDefault="00E6009A" w:rsidP="00F6019C">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -1945,7 +1977,7 @@
 <w:t xml:space="preserve"> Viittaus saa olla jäljempänä, jos se on samalla sivulla.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="007D44E2" w:rsidRDefault="007D44E2" w:rsidP="007D44E2">
+<w:p w14:paraId="591CE9CE" w14:textId="77777777" w:rsidR="007D44E2" w:rsidRDefault="007D44E2" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
@@ -1953,27 +1985,14 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r w:rsidR="009342D7">
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r w:rsidR="009342D7">
-<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
-</w:r>
-<w:r w:rsidR="009342D7">
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
 <w:r w:rsidR="00AC4236">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r w:rsidR="009342D7">
-<w:rPr>
-<w:noProof/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:fldSimple>
 <w:r w:rsidR="00257167">
 <w:rPr>
 <w:noProof/>
@@ -1998,7 +2017,7 @@
 <w:gridCol w:w="1275"/>
 <w:gridCol w:w="1276"/>
 </w:tblGrid>
-<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w14:paraId="6910B0B2" w14:textId="77777777" w:rsidTr="00C7340F">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="2235" w:type="dxa"/>
@@ -2007,7 +2026,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="454260E6" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonotsikkorivinteksti"/>
 </w:pPr>
@@ -2024,7 +2043,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="1E8C21F6" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonotsikkorivinteksti"/>
 </w:pPr>
@@ -2041,7 +2060,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="00FF9C02" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00AE4B9D" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonotsikkorivinteksti"/>
 </w:pPr>
@@ -2051,7 +2070,7 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w14:paraId="128194A4" w14:textId="77777777" w:rsidTr="00C7340F">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="2235" w:type="dxa"/>
@@ -2059,7 +2078,7 @@
 <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00257167" w:rsidRDefault="00AE4B9D" w:rsidP="00257167">
+<w:p w14:paraId="405790CE" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00257167" w:rsidRDefault="00AE4B9D" w:rsidP="00257167">
 <w:pPr>
 <w:pStyle w:val="Taulukonotsikkorivinteksti"/>
 <w:rPr>
@@ -2081,7 +2100,7 @@
 <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="7A5B029A" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2097,7 +2116,7 @@
 <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="107FD100" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2107,12 +2126,12 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w14:paraId="08B47C00" w14:textId="77777777" w:rsidTr="00C7340F">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="2235" w:type="dxa"/>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="10300E6E" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2125,7 +2144,7 @@
 <w:tcPr>
 <w:tcW w:w="1275" w:type="dxa"/>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="1EA643F1" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2138,7 +2157,7 @@
 <w:tcPr>
 <w:tcW w:w="1276" w:type="dxa"/>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="6B892DF2" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2148,7 +2167,7 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidTr="00C7340F">
+<w:tr w:rsidR="00372F2B" w:rsidRPr="00741FD4" w14:paraId="7B581D5E" w14:textId="77777777" w:rsidTr="00C7340F">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="2235" w:type="dxa"/>
@@ -2156,7 +2175,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="0F05D2D0" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2172,7 +2191,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="6D751BA0" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2188,7 +2207,7 @@
 <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
 </w:tcBorders>
 </w:tcPr>
-<w:p w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
+<w:p w14:paraId="40B1AD74" w14:textId="77777777" w:rsidR="00372F2B" w:rsidRPr="00741FD4" w:rsidRDefault="00AE4B9D" w:rsidP="00AE4B9D">
 <w:pPr>
 <w:pStyle w:val="Taulukonteksti"/>
 </w:pPr>
@@ -2199,24 +2218,24 @@
 </w:tc>
 </w:tr>
 </w:tbl>
-<w:p w:rsidR="00635AD1" w:rsidRDefault="00635AD1" w:rsidP="00AF5221">
+<w:p w14:paraId="7E6BA45E" w14:textId="77777777" w:rsidR="00635AD1" w:rsidRDefault="00635AD1" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
 </w:p>
-<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
-<w:p w:rsidR="00B00A80" w:rsidRDefault="009342D7" w:rsidP="00B00A80">
+<w:p w14:paraId="028DA8DB" w14:textId="77777777" w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
+<w:p w14:paraId="0F939308" w14:textId="77777777" w:rsidR="00B00A80" w:rsidRDefault="00CC78C7" w:rsidP="00B00A80">
 <w:r>
 <w:rPr>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
-<w:pict>
+<w:pict w14:anchorId="61197CD7">
 <v:group id="_x0000_s1036" style="position:absolute;left:0;text-align:left;margin-left:3.5pt;margin-top:.4pt;width:200.5pt;height:46.25pt;z-index:251660288" coordorigin="3315,12869" coordsize="3780,735">
 <v:oval id="Oval 4" o:spid="_x0000_s1034" style="position:absolute;left:5655;top:12869;width:1440;height:735;visibility:visible" o:gfxdata="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&#xA;BgAAAAAEAAQA8wAAAH8FAAAAAA==&#xA;">
 <v:textbox style="mso-next-textbox:#Oval 4">
 <w:txbxContent>
-<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
+<w:p w14:paraId="1FF48D4C" w14:textId="77777777" w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
 <w:pPr>
 <w:ind w:firstLine="0"/>
 <w:rPr>
@@ -2238,7 +2257,7 @@
 <v:oval id="Oval 5" o:spid="_x0000_s1033" style="position:absolute;left:3315;top:12944;width:1440;height:660;visibility:visible" o:gfxdata="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&#xA;BQYAAAAABAAEAPMAAACABQAAAAA=&#xA;">
 <v:textbox style="mso-next-textbox:#Oval 5">
 <w:txbxContent>
-<w:p w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
+<w:p w14:paraId="6698CC45" w14:textId="77777777" w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468">
 <w:pPr>
 <w:ind w:firstLine="0"/>
 <w:rPr>
@@ -2267,10 +2286,10 @@
 </w:pict>
 </w:r>
 </w:p>
-<w:p w:rsidR="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
-<w:p w:rsidR="004647A6" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
-<w:p w:rsidR="004647A6" w:rsidRPr="007B4468" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
-<w:p w:rsidR="009D4F35" w:rsidRDefault="007D44E2" w:rsidP="009D4F35">
+<w:p w14:paraId="41C9235B" w14:textId="77777777" w:rsidR="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
+<w:p w14:paraId="5C5E2BCE" w14:textId="77777777" w:rsidR="004647A6" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
+<w:p w14:paraId="23C35E32" w14:textId="77777777" w:rsidR="004647A6" w:rsidRPr="007B4468" w:rsidRDefault="004647A6" w:rsidP="007B4468"/>
+<w:p w14:paraId="19016E45" w14:textId="77777777" w:rsidR="009D4F35" w:rsidRDefault="007D44E2" w:rsidP="009D4F35">
 <w:pPr>
 <w:pStyle w:val="Caption"/>
 </w:pPr>
@@ -2278,27 +2297,14 @@
 <w:r>
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
-<w:r w:rsidR="009342D7">
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r w:rsidR="009342D7">
-<w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
-</w:r>
-<w:r w:rsidR="009342D7">
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:fldSimple w:instr=" SEQ KUVIO \* ARABIC ">
 <w:r w:rsidR="00AC4236">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r w:rsidR="009342D7">
-<w:rPr>
-<w:noProof/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:fldSimple>
 <w:r w:rsidR="00257167">
 <w:tab/>
 </w:r>
@@ -2307,7 +2313,7 @@
 </w:r>
 <w:bookmarkEnd w:id="28"/>
 </w:p>
-<w:p w:rsidR="00AC4236" w:rsidRDefault="00F91E31" w:rsidP="00C7340F">
+<w:p w14:paraId="66F01931" w14:textId="77777777" w:rsidR="00AC4236" w:rsidRDefault="00F91E31" w:rsidP="00C7340F">
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>K</w:t>
@@ -2346,7 +2352,7 @@
 <w:t>Taulukkoa lisättäessä tyyliksi täytyy vaihtaa Taulukon selite, jotta asettelu menee oikein.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00C7340F" w:rsidRDefault="00205B12" w:rsidP="00C7340F">
+<w:p w14:paraId="24035B9F" w14:textId="77777777" w:rsidR="00C7340F" w:rsidRDefault="00205B12" w:rsidP="00C7340F">
 <w:r w:rsidRPr="00AC4236">
 <w:t xml:space="preserve">Jos kuvioiden/taulukoiden järjestys muuttuu tai väliin </w:t>
 </w:r>
@@ -2360,7 +2366,7 @@
 <w:t>, järjestys on päivitettävä manuaalisesti:</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00F3477A" w:rsidRDefault="00F3477A" w:rsidP="00F3477A">
+<w:p w14:paraId="2FDEAF0A" w14:textId="77777777" w:rsidR="00F3477A" w:rsidRDefault="00F3477A" w:rsidP="00F3477A">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -2372,7 +2378,7 @@
 <w:t>Napsauta mitä tahansa asiakirjan kohtaa ja valitse koko asiakirja painamalla CTRL+A.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00205B12" w:rsidRPr="00C7340F" w:rsidRDefault="00F3477A" w:rsidP="00B8061B">
+<w:p w14:paraId="0CEDE907" w14:textId="77777777" w:rsidR="00205B12" w:rsidRPr="00C7340F" w:rsidRDefault="00F3477A" w:rsidP="00B8061B">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -2384,7 +2390,7 @@
 <w:t>Napsauta hiiren kakkospainikkeella ja valitse sitten pikavalikosta Päivitä kenttä. Kaikki asiakirjan kuvatekstit on nyt päivitetty.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="007D44E2">
+<w:p w14:paraId="1E117595" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
@@ -2401,7 +2407,7 @@
 <w:bookmarkEnd w:id="30"/>
 <w:bookmarkEnd w:id="31"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="1ED885E9" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -2409,7 +2415,7 @@
 <w:t>Luetelman tehtävänä on helpottaa asiakokonaisuuksien hahmottamista. Se voidaan sulauttaa tekstiin tai kukin sen osa voidaan kirjoittaa omalle rivilleen. Edellinen on suositeltava tapa silloin, kun luetelmia on paljon tai kun osat ovat hyvin lyhyitä. Jälkimmäistä tapausta koskevat seuraavat säännöt:</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:p w14:paraId="7395F8A2" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2421,7 +2427,7 @@
 <w:t>Luetelman osien pitää sisällöltään ja muodoltaan olla rinnastuskelpoisia.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:p w14:paraId="5B705982" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2433,7 +2439,7 @@
 <w:t>Kunkin osan eteen laitetaan järjestysnumero (sulkuihin tai pisteen kera) tai erikoismerkki (tavuviiva, tähti, pallo).</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:p w14:paraId="0026B768" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2451,7 +2457,7 @@
 <w:t>Jos alakohdat ovat samaa lausetta kuin johdantojakso, ei kaksoispistettä tule; muuten tulee.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:p w14:paraId="6856C8D3" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="ListParagraph"/>
 <w:numPr>
@@ -2463,7 +2469,7 @@
 <w:t>Jos osa on kokonainen lause, se alkaa suurella kirjaimella ja päättyy pisteeseen. Muussa tapauksessa aloitetaan pienellä kirjaimella ja piste laitetaan vasta viimeisen osan päätteeksi.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00925676" w:rsidRDefault="00E6009A" w:rsidP="00925676">
+<w:p w14:paraId="646341C2" w14:textId="77777777" w:rsidR="00925676" w:rsidRDefault="00E6009A" w:rsidP="00925676">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -2471,7 +2477,7 @@
 <w:t xml:space="preserve">Luetelman jälkeen esiintyvä tekstikappale aloitetaan ilman sisennystä. </w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00925676" w:rsidRPr="00656FEE" w:rsidRDefault="00925676" w:rsidP="00925676">
+<w:p w14:paraId="4EDEA869" w14:textId="77777777" w:rsidR="00925676" w:rsidRPr="00656FEE" w:rsidRDefault="00925676" w:rsidP="00925676">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="en-US"/>
@@ -2523,7 +2529,7 @@
 <w:t>esimerkki sitaatin muotoilusta:</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00F91E31" w:rsidRPr="00656FEE" w:rsidRDefault="00F91E31" w:rsidP="00F91E31">
+<w:p w14:paraId="4EEFA46D" w14:textId="77777777" w:rsidR="00F91E31" w:rsidRPr="00656FEE" w:rsidRDefault="00F91E31" w:rsidP="00F91E31">
 <w:pPr>
 <w:pStyle w:val="Sitaatti"/>
 </w:pPr>
@@ -2585,7 +2591,7 @@
 <w:t>)</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="003A1661" w:rsidRDefault="003A1661" w:rsidP="003A1661">
+<w:p w14:paraId="5A83D318" w14:textId="77777777" w:rsidR="003A1661" w:rsidRDefault="003A1661" w:rsidP="003A1661">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -2644,7 +2650,7 @@
 <w:t xml:space="preserve"> Tässä esimerkki haastattelulainauksesta:</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00ED50A7" w:rsidRDefault="00934A08" w:rsidP="00934A08">
+<w:p w14:paraId="0E463655" w14:textId="77777777" w:rsidR="00ED50A7" w:rsidRDefault="00934A08" w:rsidP="00934A08">
 <w:pPr>
 <w:pStyle w:val="Haastattelulainaus"/>
 </w:pPr>
@@ -2689,7 +2695,7 @@
 <w:t>)</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00934A08" w:rsidRDefault="00934A08" w:rsidP="00934A08">
+<w:p w14:paraId="369F22F6" w14:textId="77777777" w:rsidR="00934A08" w:rsidRDefault="00934A08" w:rsidP="00934A08">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -2702,10 +2708,8 @@
 <w:r>
 <w:t xml:space="preserve">lainaus on osa tekstikappaletta. </w:t>
 </w:r>
-<w:bookmarkStart w:id="32" w:name="_GoBack"/>
-<w:bookmarkEnd w:id="32"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00635683" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
+<w:p w14:paraId="120D072B" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00635683" w:rsidRDefault="00E6009A" w:rsidP="007D44E2">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
@@ -2713,18 +2717,18 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="33" w:name="_Toc274315279"/>
-<w:bookmarkStart w:id="34" w:name="_Toc56597514"/>
-<w:bookmarkStart w:id="35" w:name="_Toc56597995"/>
+<w:bookmarkStart w:id="32" w:name="_Toc274315279"/>
+<w:bookmarkStart w:id="33" w:name="_Toc56597514"/>
+<w:bookmarkStart w:id="34" w:name="_Toc56597995"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>KOLMAS PÄÄOTSIKKO</w:t>
 </w:r>
+<w:bookmarkEnd w:id="32"/>
 <w:bookmarkEnd w:id="33"/>
 <w:bookmarkEnd w:id="34"/>
-<w:bookmarkEnd w:id="35"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="18D8C142" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:rPr>
@@ -2750,7 +2754,7 @@
 <w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
+<w:p w14:paraId="4E7AC323" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -2763,7 +2767,7 @@
 <w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="0038549D" w:rsidRPr="0038549D" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
+<w:p w14:paraId="569CFE77" w14:textId="77777777" w:rsidR="0038549D" w:rsidRPr="0038549D" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -2788,7 +2792,7 @@
 <w:t>nenatis eleifend. Ut nonummy.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
+<w:p w14:paraId="5FDAF285" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 <w:outlineLvl w:val="0"/>
@@ -2796,8 +2800,8 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="36" w:name="_Toc274315280"/>
-<w:bookmarkStart w:id="37" w:name="_Toc56597996"/>
+<w:bookmarkStart w:id="35" w:name="_Toc274315280"/>
+<w:bookmarkStart w:id="36" w:name="_Toc56597996"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -2805,10 +2809,10 @@
 <w:lastRenderedPageBreak/>
 <w:t>LÄHTEET</w:t>
 </w:r>
+<w:bookmarkEnd w:id="35"/>
 <w:bookmarkEnd w:id="36"/>
-<w:bookmarkEnd w:id="37"/>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="00263B97" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
+<w:p w14:paraId="6D96C99B" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00263B97" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 <w:rPr>
@@ -2847,7 +2851,7 @@
 <w:t>, 53(2), 238–249.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
+<w:p w14:paraId="4CC131B9" w14:textId="77777777" w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
@@ -2871,7 +2875,7 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRPr="004733D9" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
+<w:p w14:paraId="2A9D6E22" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="004733D9" w:rsidRDefault="00E6009A" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
@@ -2906,7 +2910,7 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
+<w:p w14:paraId="7496E5B7" w14:textId="77777777" w:rsidR="004E6067" w:rsidRPr="004733D9" w:rsidRDefault="004E6067" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
@@ -2983,7 +2987,7 @@
 <w:t>68. Tampereen Yliopistopaino, Tampere.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00DF78D9" w:rsidRDefault="00DF78D9" w:rsidP="004733D9">
+<w:p w14:paraId="5BF795BD" w14:textId="77777777" w:rsidR="00DF78D9" w:rsidRDefault="00DF78D9" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
@@ -3016,7 +3020,7 @@
 <w:t>IEEE.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="00BF7599" w:rsidRDefault="00BF7599" w:rsidP="004733D9">
+<w:p w14:paraId="44386208" w14:textId="77777777" w:rsidR="00BF7599" w:rsidRDefault="00BF7599" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
@@ -3024,28 +3028,28 @@
 <w:t>Toikka, S. (2008). Monikulttuurisen organisaation johtaminen esimiesnäkökulmasta. Pro gradu –tutkielma, Tampereen yliopisto.</w:t>
 </w:r>
 </w:p>
-<w:p w:rsidR="008E5138" w:rsidRPr="004733D9" w:rsidRDefault="008E5138" w:rsidP="004733D9">
+<w:p w14:paraId="421595BD" w14:textId="77777777" w:rsidR="008E5138" w:rsidRPr="004733D9" w:rsidRDefault="008E5138" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
 </w:p>
-<w:p w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
+<w:p w14:paraId="511E3C6A" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 <w:outlineLvl w:val="0"/>
 </w:pPr>
-<w:bookmarkStart w:id="38" w:name="_Toc274314865"/>
-<w:bookmarkStart w:id="39" w:name="_Toc274315281"/>
-<w:bookmarkStart w:id="40" w:name="_Toc56597997"/>
+<w:bookmarkStart w:id="37" w:name="_Toc274314865"/>
+<w:bookmarkStart w:id="38" w:name="_Toc274315281"/>
+<w:bookmarkStart w:id="39" w:name="_Toc56597997"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>LIITE 1 ENSIMMÄINEN LIITE</w:t>
 </w:r>
+<w:bookmarkEnd w:id="37"/>
 <w:bookmarkEnd w:id="38"/>
 <w:bookmarkEnd w:id="39"/>
-<w:bookmarkEnd w:id="40"/>
 </w:p>
-<w:p w:rsidR="00A9362E" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
+<w:p w14:paraId="100096A9" w14:textId="77777777" w:rsidR="00A9362E" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
