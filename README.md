@@ -1,3 +1,3 @@
 # Ohjelmistoprojektien menestystekijät
 
-Tietojärjestelmätieteen kandidaatin tutkielma, kirjoitettu Jyväskylän yliopistossa.
+Tietojärjestelmätieteen kandidaatintutkielma, kirjoitettu Jyväskylän yliopistossa.
