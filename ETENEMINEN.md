@@ -1,5 +1,47 @@
 # Eteneminen
 
+## Perjantaina 14.01.2022
+- Jatkoin sisältötason arviointia syvemmin
+    - Keskeisiksi lähteiksi valikoitui seuraavat 30 artikkelia, joista 29 tieteellisiä (chaos report 2015 poikkeuksena):
+        - A model of critical success factors for software projects
+        - A new way of thinking about IT project management practices Early empirical results
+        - A study of the impact of project classification on project risk indicators
+        - A survey on the characteristics of projects with success in delivering client benefits
+        - A survey study of critical success factors in agile software projects in former Yugoslavia IT companies
+        - A survey study of critical success factors in agile software projects
+        - Assessing the relative contribution of the facets of agility to distributed systems development success an Analytic Hierarchy Process approach
+        - CHAOS REPORT 2015
+        - Critical Success Factors In Software Projects
+        - Different stakeholder groups and their perceptions of project success
+        - Evaluating logistic regression models to estimate software project outcomes
+        - Factors Affecting the Successful Realisation of Benefits from Systems Development Projects Findings from Three Case Studies
+        - How Can Agile Methodologies Be Used to Enhance the Success of Information Technology Projects
+        - How universal are IT project success and failure factors Evidence from Hungary
+        - Impacts of collaborative IS on software development project success in Indian software firms a service perspective
+        - Lessons for IT Project Manager Efficacy A Review of the Literature Associated with Project Success
+        - MPCS Multidimensional Project Control System
+        - Project Success A Cultural Framework
+        - Quantifying Success Factors for IT Projects—An Expert-Based Bayesian Model
+        - Software development project success and failure from the supplier's perspective A systematic literature review
+        - Standardized project management may increase development projects success
+        - State of the practice An exploratory analysis of schedule estimation and software project success prediction
+        - Success and Failure Retrospectives of FinTech Projects A Case Study Approach
+        - Success of Projects in Different Organizational Conditions
+        - The influence of business managers' IT competence on IT project success
+        - The Rise and Fall of the Chaos Report Figures
+        - Time, Budget, And Functionality—IT Project Success Criteria Revised
+        - Understanding the relationship of conflict and success in software development projects
+        - What Are the Critical Success Factors for Agile Analytics Projects
+        - What do software practitioners really think about project success A cross-cultural comparison
+    - Lumipallo-otantaa yritettiin toteuttaa jossain määrin rajoitetusti, havaittiin että
+        - Valikoituneiden lähteiden välillä on niiden välisiä viitteitä
+        - Joskus vertaisarvioidun tutkimuksen menestystekijät on otettu ei-vertaisarvioidusta tutkimuksesta, epämääräisessä julkaisussa julkaisutusta, konferenssijulkaisusta tai kirjasta
+        - Koska tutkimus halutaan rajata edes jossain määrin tietojärjestelmätieteen kirjallisuuteen (projektin hallinnasta on kourallinen julkaisuja mukana), ei lumipallo-otantaa nähty erityisen hyödyllisenä
+        - Lumipallo-otannan avulla saatiin valmiuksia kuvailevaan kirjallisuuskatsaukseen (kuvan maalaamiseen tutkimuksen historiasta)
+            - 1999: Critical Success Factors In Software Projects
+            - 2012: A model of critical success factors for software projects
+            - 2022: Tämä! Toki laadultaan aika toiveajattelua päästä kummankaan edellämainitun lähelle, mutta silti
+
 ## Torstaina 13.01.2022
 - Aamulla oli tapaaminen ohjaajan kanssa
     - Esittelin mitä olin tehnyt jonka ohessa kysymyksiä

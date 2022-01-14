@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="3" xr:uid="{3D9FCAB8-17DD-41DC-BBAD-23EFAE660743}" name="Table3" displayName="Table3" ref="A1:I40" totalsRowShown="0" headerRowDxfId="10" dataDxfId="9" headerRowCellStyle="Normal 2" dataCellStyle="Normal 2">
+<autoFilter ref="A1:I40" xr:uid="{3D9FCAB8-17DD-41DC-BBAD-23EFAE660743}"/>
+<sortState ref="A2:I40" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
+<sortCondition ref="H1:H40"/>
+</sortState>
+<tableColumns count="9">
+<tableColumn id="1" xr3:uid="{D74C9C7A-900A-4E5D-B12C-F9B79E016F14}" name="Viittauksia (Semantic Scholar)" dataDxfId="8" dataCellStyle="Normal 2"/>
+<tableColumn id="2" xr3:uid="{5769A012-D8A3-4826-9082-28C8732EAF2F}" name="Viittauksia per vuosi" dataDxfId="7" dataCellStyle="Normal 2">
+<calculatedColumnFormula>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</calculatedColumnFormula>
+</tableColumn>
+<tableColumn id="3" xr3:uid="{E947A8F9-A14E-46A3-8204-8928282496A5}" name="Tekijä(t)" dataDxfId="6" dataCellStyle="Normal 2"/>
+<tableColumn id="4" xr3:uid="{9A96D967-F1A3-4685-AA26-CFE34D19B648}" name="Julkaisu" dataDxfId="5" dataCellStyle="Normal 2"/>
+<tableColumn id="5" xr3:uid="{2233734E-C762-4D4E-B0EC-327158A31852}" name="Vuosi" dataDxfId="4" dataCellStyle="Normal 2"/>
+<tableColumn id="7" xr3:uid="{B1C5797D-AD7E-486C-94BF-7745BD372A6F}" name="Otsikko" dataDxfId="3" dataCellStyle="Normal 2"/>
+<tableColumn id="8" xr3:uid="{DAA74E89-999C-4039-8F0E-4169F6C3DCA0}" name="Huomiot" dataDxfId="2"/>
+<tableColumn id="9" xr3:uid="{B3E7F287-D59B-4F29-A037-2CB5051F4CFA}" name="Kiinnitetään mukaan?" dataDxfId="1" dataCellStyle="Normal 2"/>
+<tableColumn id="10" xr3:uid="{2E8190C0-14E0-4086-91CA-27F32A2B8E5C}" name="Lisähuomioita" dataDxfId="0" dataCellStyle="Normal 2"/>
+</tableColumns>
+<tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
+</table>

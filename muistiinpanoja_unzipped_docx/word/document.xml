@@ -320,21 +320,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Factors affecting the successful </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00F51E56" w:rsidRPr="00F51E56">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>realisation</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00F51E56" w:rsidRPr="00F51E56">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> of benefits from systems development projects: findings from three case studies</w:t>
+<w:t>Factors affecting the successful realisation of benefits from systems development projects: findings from three case studies</w:t>
 </w:r>
 <w:r w:rsidR="00F51E56">
 <w:rPr>
@@ -343,7 +329,7 @@
 <w:t>, 2012)</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="275DF077" w14:textId="59437A1F" w:rsidR="003D5FB1" w:rsidRPr="004952C0" w:rsidRDefault="00F54813" w:rsidP="00EA36F3">
+<w:p w14:paraId="275DF077" w14:textId="2155673F" w:rsidR="003D5FB1" w:rsidRPr="00C87A95" w:rsidRDefault="00F54813" w:rsidP="00EA36F3">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 <w:tabs>
@@ -360,21 +346,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">During the past years, increasingly more project managers started to recognize that human factors, </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="00F54813">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>in particular those</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="00F54813">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> related to project team success, are critical for overall project success. Hence, the scientific investigation of this topic has gained momentum. However, a review of the Information Systems and Information Technology (IST) literature on the determinants of project team success reveals that there has been limited research </w:t>
+<w:t xml:space="preserve">During the past years, increasingly more project managers started to recognize that human factors, in particular those related to project team success, are critical for overall project success. Hence, the scientific investigation of this topic has gained momentum. However, a review of the Information Systems and Information Technology (IST) literature on the determinants of project team success reveals that there has been limited research </w:t>
 </w:r>
 <w:r w:rsidRPr="00F54813">
 <w:rPr>
@@ -402,7 +374,95 @@
 <w:t>, 2012)</w:t>
 </w:r>
 </w:p>
-<w:sectPr w:rsidR="003D5FB1" w:rsidRPr="004952C0">
+<w:p w14:paraId="6466B1D4" w14:textId="739713CC" w:rsidR="00C87A95" w:rsidRDefault="00C87A95" w:rsidP="00C87A95">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>In more recent years, the tendency has been to focus studies more explicitly on success factors for specific categories of information system. For example, the success factors for CRM systems (Kim and Pan, 2006; King and Burgess, 2006); ERP systems (Somers and Nelson, 2001; Plant and</w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Willcocks, 2007; Wang et al., 2008); executive IS (Poon and Wagner, 2001; Salmeron and Herrero, 2005) and global systems (Angeles and Nath, 2007; Biehl, 2007) have all been previously studied.</w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>” (</w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Factors affecting the successful realisation of benefits from systems development projects: findings from three case studies</w:t>
+</w:r>
+<w:r w:rsidRPr="00C87A95">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 2012)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="05DF7498" w14:textId="341DBC5A" w:rsidR="00021511" w:rsidRPr="00C87A95" w:rsidRDefault="00021511" w:rsidP="00C87A95">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00021511">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Some studies have concluded the rather obvious. Munns and Bjeimi (1996) concluded that beyond a simple list of “success factors,” project success or failure depends on the right combination of factors, and on the project being the “right one” for the given requirements and expectations.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>” (</w:t>
+</w:r>
+<w:r w:rsidR="007C74F9" w:rsidRPr="007C74F9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A new way of thinking about IT project management practices: Early empirical results</w:t>
+</w:r>
+<w:r w:rsidR="007C74F9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:sectPr w:rsidR="00021511" w:rsidRPr="00C87A95">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>

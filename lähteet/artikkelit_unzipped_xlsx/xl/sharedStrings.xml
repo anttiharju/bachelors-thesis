@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="909" uniqueCount="462">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1150" uniqueCount="514">
 <si>
 <t>The Process Aspect of Project Success: An Empirical Test</t>
 </si>
@@ -1345,9 +1345,6 @@
 <t>3. Tosi spesifi (leadership)</t>
 </si>
 <si>
-<t>2. Ok, ISD</t>
-</si>
-<si>
 <t>3. Käsittelee riskien kautta</t>
 </si>
 <si>
@@ -1385,5 +1382,164 @@
 </si>
 <si>
 <t>Viittauksia per vuosi</t>
+</si>
+<si>
+<t>Poistunut kansainvälisistä e-aineistoista 14.01.2022</t>
+</si>
+<si>
+<t>2. Toimii kritiikkinä 2008 artikkelille</t>
+</si>
+<si>
+<t>Kiinnitetään mukaan?</t>
+</si>
+<si>
+<t>⚫</t>
+</si>
+<si>
+<t>Lisähuomioita</t>
+</si>
+<si>
+<t>Ohjelmistoala mainitaan vain ohimennen. Käyttää lyhennettä PSF (Project Success Factor)</t>
+</si>
+<si>
+<t>Täältä saa hyvää pohdintaa irti siitä, mitä menestystekijät ovat, viittauksilla</t>
+</si>
+<si>
+<t>Hyvää pohdintaa "lonely" projektit</t>
+</si>
+<si>
+<t>Ohjaa kirjaan (Marchewka, 2010), mutta ei lainattavissa joten siihen tullaan viittaamaan tämän lähteen kautta</t>
+</si>
+<si>
+<t>Voi olla turhan tilastotieteellinen/matemaattinen</t>
+</si>
+<si>
+<t>Viittaa myös useaan muuhun lähteeseen</t>
+</si>
+<si>
+<t>Lumipallo</t>
+</si>
+<si>
+<t>Hyvää pohdintaa menestystekijöiden universaalisuudesta</t>
+</si>
+<si>
+<t>Valitsi vain kaksi menestystekijää muusta kirjallisuudesta</t>
+</si>
+<si>
+<t>Keskittyy tiimiin eikä projektiin</t>
+</si>
+<si>
+<t>Hyvää pohdintaa menestystekijätutkimusten tuloksista</t>
+</si>
+<si>
+<t>Software vain murto-osa kontekstista, mutta tuo tiettyä yleistettävyyttä</t>
+</si>
+<si>
+<t>Viittaa Chow et al 2008, mahdollisesti tukien sitä vs. toinen lähde joka kritisoi sitä</t>
+</si>
+<si>
+<t>Kuvaileva, tarjoaa hyvää historiaa, mutta kontekstina stakeholderit</t>
+</si>
+<si>
+<t>Vaihtoehtoinen lähestymistapa</t>
+</si>
+<si>
+<t>Hyvää pohdintaa</t>
+</si>
+<si>
+<t>Keskittyy liikaa johtajuuteen</t>
+</si>
+<si>
+<t>Previous work otsikon alla hyvää pohdintaa, mutta menestystekijöiden käsittely muuten aika suppeaa</t>
+</si>
+<si>
+<t>Menestystekijöiden käsittely turhan suppeaa</t>
+</si>
+<si>
+<t>PDF rikki</t>
+</si>
+<si>
+<t>Information Systems Project Success Factors: Literature Review</t>
+</si>
+<si>
+<t>Viittaa omaan 2020 tutkimukseen</t>
+</si>
+<si>
+<t>Outo julkaisu (artikkelia ei löydy jykdokilla, JUFO ei tunne julkaisua) ja vain kaksi viittausta joista toinen tutkijan oma</t>
+</si>
+<si>
+<t>Viittaa Chow et al 2008, kritisoiden sitä</t>
+</si>
+<si>
+<t>Kaksi muuta artikkelia viittaa tähän</t>
+</si>
+<si>
+<t>Validating measures of information technology outsourcing risk factors</t>
+</si>
+<si>
+<t>Bahli et al ei käsittele menestystekijöitä riittävästi</t>
+</si>
+<si>
+<t>Ei käsittele menestystekijöitä riittävästi</t>
+</si>
+<si>
+<t>Bouchaib Bahli, Suzanne Rivard</t>
+</si>
+<si>
+<t>Ohjaa pereira et al What do software practitioners really think about project success: a cross-cultural comparison. Se ohjaa case study: factors jne., joka on jo hylätty koska se on rikkinäinen pdf. Lisäksi sen pdf:n viitteet muualle ovat jo aika vanhoja</t>
+</si>
+<si>
+<t>Analysis of Critical Success Factors in IT Project Management</t>
+</si>
+<si>
+<t>Ei vertaisarvioitu?</t>
+</si>
+<si>
+<t>International Conference on Industrial and Information Systems</t>
+</si>
+<si>
+<t>LUE TÄMÄ KOKONAAN (ei päällekkäisyyttä lähteissä)</t>
+</si>
+<si>
+<t>Critical Success Factors In Software Projects</t>
+</si>
+<si>
+<t>Purna 2012 viittaa tähän - näiden kahden avulla saadaan jonkinlaista aikajanaa rakennettua</t>
+</si>
+<si>
+<t>IEEE Software</t>
+</si>
+<si>
+<t>Reel, John</t>
+</si>
+<si>
+<t>What do software practitioners really think about project success: A cross-cultural comparison</t>
+</si>
+<si>
+<t>The Journal of Systems and Software</t>
+</si>
+<si>
+<t>Javier Pereira</t>
+</si>
+<si>
+<t>Tuo hyvää lisäapua Chow + myöhempi Yugoslavia vertailuun (myös Ulhas 2016)</t>
+</si>
+<si>
+<t>Fan</t>
+</si>
+<si>
+<t>Ohjaa toiseen lähteeseen (Fan, 2010), jota ei ole vertaisarvioitu</t>
+</si>
+<si>
+<t>Suppeahko, mutta puhuu muusta tutkimuksesta ja tulokset ilmeisesti linjassa toistensa kanssa</t>
+</si>
+<si>
+<t>Iron triangle taitaa esiintyä myös muualla</t>
+</si>
+<si>
+<t>Hyvää jaottelua menestystekijöistä</t>
+</si>
+<si>
+<t>ja +2 Chaos report 2015 sekä sen kritiikki (kritiikki tieteellinen, chaos report muuten vain keskeinen)</t>
 </si>
 </sst>

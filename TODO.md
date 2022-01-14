@@ -1,4 +1,8 @@
-- Tunnista hyvistä artikkeleista IS/ISD success factoreita käsittelevät.
+# Nykyinen suunnitelma
+- 28 artikkelia valikoitu mukaan. Osa enemmän ja osa vähemmän relevantteja, mutta niistäkin saa yleensä revittyä jonkinlaista jaottelua tai kritiikkiä mukaan.
+- Tarkoitus lukea kaikki nämä
+
+# Vaihtoehtoisia polkuja
 - Lue artikkelit oikeasti läpi
     - https://news.ycombinator.com/item?id=29736893
         - Plan on reading it 4-5 times. The first time it is going to be a whole bunch of new words/concepts -- "a different language" as you put it.
@@ -20,7 +24,9 @@
         - Käsitteleekö muuta kuin ohjelmistoalaa/projekteja?
 - Tee backwards snowballingia esimerkiksi jossain määrin rajoitetusti
     - Esim. vain artikkelit joiden otsikossa success factors / sen eri taivutus/ilmaisumuodot "factors affecting project success" yms.
-- Viilaa rakennetta
+    - Tässä esiintynyt jonkinlaista kierteisyyttä valikoitujen artikkeleiden välillä
+    - Tämän ongelmista ja/tai mielekkyydestä saa luultavasti hyvää tekstiä menetelmälukuun
+- Ala kirjoittamaan
     - Mistä sun sisältöluvut edes tulevat kertomaan? Niitä tarvitaan kaksi.
         - Käy yksityisyysparadoksikandia uudestaan läpi, teit sinne muistiinpanoja rakenteesta mutta pölhö et tallentanut niitä
         - Ainakin menetelmäluku tulee. Onko se sisältöluku?
@@ -28,5 +34,4 @@
             - menetelmäluku
             - taustakirjallisuuden tarkastelu (1. sisältöluku)
             - tulokset (noi asiat mitä otat ylös lukemisen yhteydessä? 2. sisältöluku)
-            - pohdinta (omaa pohdintaa, jatkotutkimusaiheita tai sitten tämä yhdistetään muihin lukuihin)
-- Tunnista hyvistä artikkeleista ne kaikkein keskeisimmät, jotka tulevat ainakin mukaan. Sitten muita artikkeleita voidaan arvioida viittauksia per vuosi ym. menetelmillä
+            - pohdinta (omaa pohdintaa, jatkotutkimusaiheita tai sitten tämä yhdistetään muihin lukuihin / yhteenvetoon)
