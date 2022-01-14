@@ -10,3 +10,5 @@
 # script also adds line breaks, the diffs will be somewhat readable.
 *.docx
 *.xlsx
+# Want to have easy access to the articles, but not upload them to GitHub
+pdft/*
