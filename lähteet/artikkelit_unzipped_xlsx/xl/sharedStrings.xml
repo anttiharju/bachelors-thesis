@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1150" uniqueCount="514">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1152" uniqueCount="514">
 <si>
 <t>The Process Aspect of Project Success: An Empirical Test</t>
 </si>
@@ -1504,9 +1504,6 @@
 <t>Critical Success Factors In Software Projects</t>
 </si>
 <si>
-<t>Purna 2012 viittaa tähän - näiden kahden avulla saadaan jonkinlaista aikajanaa rakennettua</t>
-</si>
-<si>
 <t>IEEE Software</t>
 </si>
 <si>
@@ -1541,5 +1538,8 @@
 </si>
 <si>
 <t>ja +2 Chaos report 2015 sekä sen kritiikki (kritiikki tieteellinen, chaos report muuten vain keskeinen)</t>
+</si>
+<si>
+<t>Ei järkeä viitata, sillä sisältyy jo osaksi Purnan (2012) tutkimusta. - toki tämän avulla voisi maalata historiaa mutta nyt lukemisen aikana tämä tutkimus alkaa aiheuttaa mulle pahoinvointia</t>
 </si>
 </sst>
