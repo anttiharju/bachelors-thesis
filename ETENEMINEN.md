@@ -1,5 +1,14 @@
 # Eteneminen
 
+## Lauantaina 15.01.2022
+- Luin tutkimusartikkelin "A model of critical success factors for software projects"
+    - Tämä synnytti PALJON omaa ajattelua/tuskailua tämäntyyppisen tutkimuksen mielekkyydestä ja siten oman kanditutkielman mielekkyydestä
+    - En jaksa kirjoittaa omaa ränttiä tähän ylös, mutta tuloksena mahdollinen parempi rajaus aiheelle: Menestystekijöiden kaaottisuuteen vaikuttavat tekijät ohjelmistoprojekteissa.
+        - Kuulostaa pahalta otsikolta, mutta kaoottisuudella viitataan tässä siihen kuinka pienikin muutos lähtöasetelmassa voi muuttaa systeeminen käytöksen täysin.
+        - Eli sen sijaan että tarkastelet yksittäisiä menestystekijöitä (kaaottisen systeeminen tulos) tarkastelisin niiden syntyyn vaikuttavia tekijöitä (lähtöasetelmia)
+        - Kello on melkein 10 illalla, mutta usjoisin että tästä pystyy pitämään kiinni
+- Tulevina päivinä tarkoitus lukea useampi artikkeli per päivä.
+
 ## Perjantaina 14.01.2022
 - Jatkoin sisältötason arviointia syvemmin
     - Keskeisiksi lähteiksi valikoitui seuraavat 30 artikkelia, joista 29 tieteellisiä (chaos report 2015 poikkeuksena):
