@@ -79,6 +79,36 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="001E2BB5" w14:paraId="7266A95A" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="5FDCEDC4" w14:textId="0EF04C2E" w:rsidR="001E2BB5" w:rsidRPr="00ED30B3" w:rsidRDefault="001E2BB5" w:rsidP="001C4A97">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001E2BB5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A study of the impact of project classification on project risk indicators</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="399A6021" w14:textId="441AA470" w:rsidR="001E2BB5" w:rsidRDefault="00B36FE5" w:rsidP="001C4A97">
+<w:r>
+<w:t>Kokoaa hyvin liittyvää kirjallisuutta, mutta alkaa alun jälkeen mennä aiheesta aika rankasti ohi riskien hallintaan (kuten otsikosta voi päätellä)</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="05113750" w14:textId="77777777" w:rsidR="001C4A97" w:rsidRPr="001C4A97" w:rsidRDefault="001C4A97" w:rsidP="001C4A97"/>
 <w:p w14:paraId="48E3BF0F" w14:textId="3BEEB99F" w:rsidR="00F9210A" w:rsidRPr="00C32C69" w:rsidRDefault="00F9210A" w:rsidP="00C32C69">
@@ -343,6 +373,7 @@
 </w:pPr>
 <w:proofErr w:type="gramStart"/>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Ensinnäkin,</w:t>
 </w:r>
 <w:proofErr w:type="gramEnd"/>
@@ -375,11 +406,7 @@
 <w:t xml:space="preserve">?) – eikö tämä johda siihen, että </w:t>
 </w:r>
 <w:r w:rsidR="006C2631">
-<w:t xml:space="preserve">tämän ns. suosittu, ei välttämättä </w:t>
-</w:r>
-<w:r w:rsidR="006C2631">
-<w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">tieteellinen lähde ohjaa hyvin paljon ihmisten käsityksiä </w:t>
+<w:t xml:space="preserve">tämän ns. suosittu, ei välttämättä tieteellinen lähde ohjaa hyvin paljon ihmisten käsityksiä </w:t>
 </w:r>
 <w:r w:rsidR="00D55A31">
 <w:t>ja siten tutkimusta aiheesta – onko joku asia arvokas koska siitä puhutaan paljon?</w:t>
@@ -817,7 +844,11 @@
 <w:t xml:space="preserve"> oma lähde)</w:t>
 </w:r>
 <w:r w:rsidR="005720B7">
-<w:t xml:space="preserve"> Kulttuurisia tekijöitä sivutaan tässä kanditutkielmassa</w:t>
+<w:t xml:space="preserve"> Kulttuurisia tekijöitä sivutaan tässä </w:t>
+</w:r>
+<w:r w:rsidR="005720B7">
+<w:lastRenderedPageBreak/>
+<w:t>kanditutkielmassa</w:t>
 </w:r>
 <w:r w:rsidR="009C636A">
 <w:t xml:space="preserve"> pintatasolla</w:t>
@@ -838,7 +869,6 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Historian maalaamista</w:t>
 </w:r>
 </w:p>
@@ -1150,6 +1180,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>”</w:t>
 </w:r>
 <w:proofErr w:type="spellStart"/>
@@ -1218,7 +1249,6 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:lastRenderedPageBreak/>
 <w:t>to find</w:t>
 </w:r>
 </w:p>
@@ -1332,7 +1362,7 @@
 <w:t>A new way of thinking about IT project management practices: Early empirical results</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="07A00E05" w14:textId="2ACC5DE3" w:rsidR="001446C7" w:rsidRPr="001446C7" w:rsidRDefault="001446C7" w:rsidP="001446C7">
+<w:p w14:paraId="07A00E05" w14:textId="4982A084" w:rsidR="001446C7" w:rsidRPr="001446C7" w:rsidRDefault="001446C7" w:rsidP="001446C7">
 <w:pPr>
 <w:spacing w:after="240"/>
 <w:rPr>
@@ -1352,6 +1382,12 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>: Introduction</w:t>
+</w:r>
+<w:r w:rsidR="000F0E61">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="6458BDEE" w14:textId="43B898B7" w:rsidR="00160593" w:rsidRDefault="00160593" w:rsidP="00ED30B3">
@@ -1893,6 +1929,7 @@
 </w:p>
 <w:p w14:paraId="636D8652" w14:textId="522EC8FB" w:rsidR="00252B7D" w:rsidRDefault="004364E7" w:rsidP="00F2712A">
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">perinteinen pm: onnistunut jos </w:t>
 </w:r>
 <w:r w:rsidR="00073F5E">
@@ -2036,7 +2073,6 @@
 </w:p>
 <w:p w14:paraId="6559B480" w14:textId="5610FEC0" w:rsidR="00D22F3E" w:rsidRDefault="00B9514F" w:rsidP="00B9514F">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>”</w:t>
 </w:r>
 <w:proofErr w:type="spellStart"/>
@@ -2245,7 +2281,194 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="7FD28786" w14:textId="77777777" w:rsidR="00372CC6" w:rsidRDefault="00372CC6" w:rsidP="00372CC6"/>
-<w:p w14:paraId="5531565B" w14:textId="77777777" w:rsidR="00A826E4" w:rsidRPr="009C1B10" w:rsidRDefault="00A826E4" w:rsidP="009919E0"/>
+<w:p w14:paraId="5531565B" w14:textId="7252ABD3" w:rsidR="00A826E4" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001E2BB5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A study of the impact of project classification on project risk indicators</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6896BB01" w14:textId="059A50F1" w:rsidR="006C2317" w:rsidRPr="006C2317" w:rsidRDefault="006C2317" w:rsidP="006C2317">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="006C2317">
+<w:t>Lukukerrat</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>: Introduction</w:t>
+</w:r>
+<w:r w:rsidR="00FE1104">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="02B11528" w14:textId="77777777" w:rsidR="001E2BB5" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5E8563B7" w14:textId="77777777" w:rsidR="001E2BB5" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3E4F4890" w14:textId="77777777" w:rsidR="001E2BB5" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2315497D" w14:textId="207A9F73" w:rsidR="001E2BB5" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1B43C849" w14:textId="6BD220DD" w:rsidR="000C3EE5" w:rsidRDefault="000C3EE5" w:rsidP="000C3EE5">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Havaintoja</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7743B1E5" w14:textId="7E4ED615" w:rsidR="000C3EE5" w:rsidRDefault="000C3EE5" w:rsidP="000C3EE5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>yleinen teema empiirisissä tutkimuksissa tuntuu olevan, että n on aika pieni (tässä 11)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3177D166" w14:textId="75DCFF65" w:rsidR="0026485D" w:rsidRDefault="0026485D" w:rsidP="000C3EE5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Määrittelyä projektin onnistumisesta</w:t>
+</w:r>
+<w:r w:rsidR="00A26AD4">
+<w:t xml:space="preserve"> (2.2. Project </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00A26AD4">
+<w:t>success</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00A26AD4">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00A26AD4">
+<w:t>factors</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00A26AD4">
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3A3EC299" w14:textId="65CEE01B" w:rsidR="00FA6E5A" w:rsidRDefault="00352A44" w:rsidP="000C3EE5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Kokoaa</w:t>
+</w:r>
+<w:r w:rsidR="00FA6E5A">
+<w:t xml:space="preserve"> aika hyvin </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t>frameworkkejä</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t xml:space="preserve"> (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t>Chow</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t xml:space="preserve"> and </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t>Chao</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00FA6E5A">
+<w:t xml:space="preserve"> ym.)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2C378EC6" w14:textId="10ECF73D" w:rsidR="00DF6ADA" w:rsidRDefault="00DF6ADA" w:rsidP="00DF6ADA">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="60FFEE75" w14:textId="43D5DB67" w:rsidR="0026485D" w:rsidRPr="00DF6ADA" w:rsidRDefault="00DF6ADA" w:rsidP="0026485D">
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Compliance</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>operational</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>strategic</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> (Gray and </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Larson</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>, 2008)</w:t>
+</w:r>
+</w:p>
 <w:p w14:paraId="69CC8618" w14:textId="7A040825" w:rsidR="00EC58A8" w:rsidRPr="00ED30B3" w:rsidRDefault="00EC58A8" w:rsidP="00EC58A8">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
@@ -2292,15 +2515,89 @@
 <w:t>Muuta?</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="309E6DD6" w14:textId="77777777" w:rsidR="00ED30B3" w:rsidRPr="00ED30B3" w:rsidRDefault="00ED30B3" w:rsidP="00ED30B3">
+<w:p w14:paraId="309E6DD6" w14:textId="76F5DEE6" w:rsidR="00ED30B3" w:rsidRDefault="00B24E1D" w:rsidP="00B24E1D">
 <w:pPr>
-<w:numPr>
-<w:ilvl w:val="0"/>
-<w:numId w:val="0"/>
-</w:numPr>
+<w:pStyle w:val="Heading2"/>
 </w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Mahdollinen läpikäyntilista kaikille artikkeleille</w:t>
+</w:r>
 </w:p>
-<w:sectPr w:rsidR="00ED30B3" w:rsidRPr="00ED30B3">
+<w:p w14:paraId="51751211" w14:textId="24B811BB" w:rsidR="00B24E1D" w:rsidRDefault="00B24E1D" w:rsidP="00B24E1D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:proofErr w:type="gramStart"/>
+<w:r>
+<w:t xml:space="preserve">Määritteleekö </w:t>
+</w:r>
+<w:r w:rsidR="00A94DD2">
+<w:t>milloin projekti on</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidR="00A94DD2">
+<w:t xml:space="preserve"> onnistunut?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="448D01FC" w14:textId="2FA79D24" w:rsidR="00884CC3" w:rsidRDefault="00884CC3" w:rsidP="00884CC3">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Random</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> ajatuksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4C443629" w14:textId="27CD6D4D" w:rsidR="00884CC3" w:rsidRDefault="00884CC3" w:rsidP="00884CC3">
+<w:r>
+<w:t xml:space="preserve">Määritelmiä onnistuneelle projektille on monia. Erään määritelmän mukaan projekti </w:t>
+</w:r>
+<w:r w:rsidR="001D006A">
+<w:t>on onnistunut, jos siinä on pidetty tehokas aikataulu.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0EE6EBF5" w14:textId="3D8826FC" w:rsidR="005F614E" w:rsidRDefault="005F614E" w:rsidP="00884CC3">
+<w:r>
+<w:t>[idea siitä, kuinka onnistumiseen vaikuttavia tekijöitä voidaan luetella loputtomasti ja niitä vastaan ei luultavasti oltaisi]</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2B4C6372" w14:textId="00BAFE89" w:rsidR="00DB279C" w:rsidRPr="00884CC3" w:rsidRDefault="00DB279C" w:rsidP="00884CC3">
+<w:r>
+<w:t xml:space="preserve">Toisaalta onnistumisen määrittelyyn vaikuttaa myös tarkasteluaikavälin pituus. </w:t>
+</w:r>
+<w:r w:rsidR="0045388B">
+<w:t xml:space="preserve">Lauseen ”tehokas aikataulu takaa projektin onnistumisen” voi ymmärtää niin, että työntekijöistä pitää saada kaikki irti saatavissa oleva teho irti – joka voi lyhyellä aikavälillä toimia. Toisaalta mikäli yritys alkaa saamaan huonon maineen </w:t>
+</w:r>
+<w:r w:rsidR="00785AA6">
+<w:t xml:space="preserve">ankarana työnantajana, ei se välttämättä ole enää houkutteleva </w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidR="00785AA6">
+<w:t>työpaikka</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidR="00785AA6">
+<w:t xml:space="preserve"> j</w:t>
+</w:r>
+<w:r w:rsidR="001B4730">
+<w:t>olloin tarpeeksi pitkällä aikavälillä projektit voidaan määritellä epäonnistuneiksi.</w:t>
+</w:r>
+<w:r w:rsidR="00950B19">
+<w:t xml:space="preserve"> Artikkelit kuitenkin joskus (usein)</w:t>
+</w:r>
+<w:r w:rsidR="001B4730">
+<w:t xml:space="preserve"> [esim. 2. artikkelissa] </w:t>
+</w:r>
+<w:r w:rsidR="00950B19">
+<w:t>määrittelevät aikavälin, jolla projektin onnistumista tarkastellaan.</w:t>
+</w:r>
+</w:p>
+<w:sectPr w:rsidR="00DB279C" w:rsidRPr="00884CC3">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
