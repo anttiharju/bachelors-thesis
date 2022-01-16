@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
-<w:zoom w:percent="120"/>
+<w:zoom w:percent="110"/>
+<w:proofState w:spelling="clean" w:grammar="clean"/>
 <w:stylePaneFormatFilter w:val="1024" w:allStyles="0" w:customStyles="0" w:latentStyles="1" w:stylesInUse="0" w:headingStyles="1" w:numberingStyles="0" w:tableStyles="0" w:directFormattingOnRuns="0" w:directFormattingOnParagraphs="0" w:directFormattingOnNumbering="0" w:directFormattingOnTables="0" w:clearFormatting="1" w:top3HeadingStyles="0" w:visibleStyles="0" w:alternateStyleNames="0"/>
 <w:defaultTabStop w:val="1304"/>
 <w:hyphenationZone w:val="425"/>
@@ -17,27 +18,38 @@
 <w:rsidRoot w:val="00B5093B"/>
 <w:rsid w:val="00021511"/>
 <w:rsid w:val="00060F3C"/>
+<w:rsid w:val="000C011A"/>
+<w:rsid w:val="000D0839"/>
 <w:rsid w:val="000F1D5F"/>
 <w:rsid w:val="000F5F09"/>
+<w:rsid w:val="00163C0E"/>
 <w:rsid w:val="00186F70"/>
 <w:rsid w:val="00194083"/>
 <w:rsid w:val="001952B8"/>
+<w:rsid w:val="001C74C2"/>
 <w:rsid w:val="002040E9"/>
 <w:rsid w:val="00204CFC"/>
 <w:rsid w:val="00221361"/>
+<w:rsid w:val="002300AA"/>
+<w:rsid w:val="002327CB"/>
+<w:rsid w:val="00257386"/>
 <w:rsid w:val="002575A3"/>
 <w:rsid w:val="002B0158"/>
 <w:rsid w:val="002D60A5"/>
+<w:rsid w:val="00332270"/>
 <w:rsid w:val="003715AB"/>
+<w:rsid w:val="003756F4"/>
 <w:rsid w:val="00387FD6"/>
 <w:rsid w:val="003A529B"/>
 <w:rsid w:val="003D5FB1"/>
 <w:rsid w:val="00404FFB"/>
 <w:rsid w:val="00437B9A"/>
+<w:rsid w:val="00453994"/>
 <w:rsid w:val="004742FA"/>
 <w:rsid w:val="004952C0"/>
 <w:rsid w:val="004D67A9"/>
 <w:rsid w:val="00502A3F"/>
+<w:rsid w:val="00560FC5"/>
 <w:rsid w:val="00577635"/>
 <w:rsid w:val="005B10E5"/>
 <w:rsid w:val="006270DB"/>
@@ -50,11 +62,14 @@
 <w:rsid w:val="00791C02"/>
 <w:rsid w:val="007B17C2"/>
 <w:rsid w:val="007B6454"/>
+<w:rsid w:val="007C5213"/>
 <w:rsid w:val="007C74F9"/>
 <w:rsid w:val="008034C3"/>
+<w:rsid w:val="00806A25"/>
 <w:rsid w:val="00884756"/>
 <w:rsid w:val="008876C9"/>
 <w:rsid w:val="008C70A0"/>
+<w:rsid w:val="00911828"/>
 <w:rsid w:val="00934E70"/>
 <w:rsid w:val="00987CF3"/>
 <w:rsid w:val="009E1514"/>
@@ -62,10 +77,12 @@
 <w:rsid w:val="00A17C7B"/>
 <w:rsid w:val="00A331AF"/>
 <w:rsid w:val="00A7579E"/>
+<w:rsid w:val="00B1591C"/>
 <w:rsid w:val="00B5093B"/>
 <w:rsid w:val="00C2351E"/>
 <w:rsid w:val="00C7689C"/>
 <w:rsid w:val="00C87A95"/>
+<w:rsid w:val="00CF2010"/>
 <w:rsid w:val="00D1784B"/>
 <w:rsid w:val="00D36C60"/>
 <w:rsid w:val="00D65FDA"/>
@@ -76,12 +93,15 @@
 <w:rsid w:val="00DD73CA"/>
 <w:rsid w:val="00DE08E9"/>
 <w:rsid w:val="00E13577"/>
+<w:rsid w:val="00E818D4"/>
 <w:rsid w:val="00EA36F3"/>
 <w:rsid w:val="00F1068D"/>
 <w:rsid w:val="00F31306"/>
+<w:rsid w:val="00F3710E"/>
 <w:rsid w:val="00F51E56"/>
 <w:rsid w:val="00F54813"/>
 <w:rsid w:val="00F63951"/>
+<w:rsid w:val="00FF78D0"/>
 </w:rsids>
 <m:mathPr>
 <m:mathFont m:val="Cambria Math"/>
@@ -105,7 +125,7 @@
 </o:shapelayout>
 </w:shapeDefaults>
 <w:decimalSymbol w:val=","/>
-<w:listSeparator w:val=","/>
+<w:listSeparator w:val=";"/>
 <w14:docId w14:val="67EACEB2"/>
 <w15:chartTrackingRefBased/>
 <w15:docId w15:val="{B8F668B9-BDF5-4303-82BB-CCB431925DEF}"/>
