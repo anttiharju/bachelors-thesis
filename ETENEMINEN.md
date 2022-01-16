@@ -1,5 +1,9 @@
 # Eteneminen
 
+## Sunnuntaina 16.01.2022
+- Luin artikkelin "A new way of thinking about IT project management practices: Early empirical results" ja "A study of the impact of project classification on project risk indicators"
+- Eilisen ajatukset kaaottisuudesta ehkä aika heikkoja. Uusi idea rajaukseen olisi otsikko "Ohjelmistoprojektien menestystekijöiden universaalia määrittelyä rajoittavat tekijät".
+
 ## Lauantaina 15.01.2022
 - Luin tutkimusartikkelin "A model of critical success factors for software projects"
     - Tämä synnytti PALJON omaa ajattelua/tuskailua tämäntyyppisen tutkimuksen mielekkyydestä ja siten oman kanditutkielman mielekkyydestä
