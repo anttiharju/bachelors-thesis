@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5426" uniqueCount="866">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5449" uniqueCount="875">
 <si>
 <t>JUFOID</t>
 </si>
@@ -2597,5 +2597,32 @@
 </si>
 <si>
 <t>Rikki (ProQuest-Zotero)</t>
+</si>
+<si>
+<t>Jälkiselvitys jostain syystä poisjääneille projektin hallinnan julkaisuille</t>
+</si>
+<si>
+<t>Built environment project and asset management</t>
+</si>
+<si>
+<t>International journal of information systems and project management</t>
+</si>
+<si>
+<t>Miksi tämä on jäänyt pois?</t>
+</si>
+<si>
+<t>Journal of Modern Project Management</t>
+</si>
+<si>
+<t>otsikon perusteella epäolennainen, voidaan hylätä suoraan</t>
+</si>
+<si>
+<t>Koska ei käsiteltävissä Zoteron avulla</t>
+</si>
+<si>
+<t>Koska ei saatavilla JYKDOK:ista</t>
+</si>
+<si>
+<t>JÄLKISELVITYS</t>
 </si>
 </sst>
