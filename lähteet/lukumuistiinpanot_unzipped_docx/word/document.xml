@@ -109,6 +109,39 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="00454737" w14:paraId="05139D6C" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="610F4F36" w14:textId="36B12699" w:rsidR="00454737" w:rsidRPr="00454737" w:rsidRDefault="00454737" w:rsidP="00454737">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="008A0FF4">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A survey on the characteristics of projects with success in delivering client benefits</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="235EC0B5" w14:textId="0BFEC7F2" w:rsidR="00454737" w:rsidRDefault="00454737" w:rsidP="001C4A97">
+<w:r>
+<w:t>Ehkä alussa vähän jotain hyvää, mutta kovin harhaileva, laajahko</w:t>
+</w:r>
+<w:r w:rsidR="008F3362">
+<w:t xml:space="preserve"> ja menee aiheesta vähän ohi</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="05113750" w14:textId="77777777" w:rsidR="001C4A97" w:rsidRPr="001C4A97" w:rsidRDefault="001C4A97" w:rsidP="001C4A97"/>
 <w:p w14:paraId="48E3BF0F" w14:textId="3BEEB99F" w:rsidR="00F9210A" w:rsidRPr="00C32C69" w:rsidRDefault="00F9210A" w:rsidP="00C32C69">
@@ -339,14 +372,20 @@
 <w:r>
 <w:t xml:space="preserve">On kerätty kasa (relevanttia?) kirjallisuutta, ja jos artikkeli mainitsee menestystekijän </w:t>
 </w:r>
+<w:proofErr w:type="gramStart"/>
 <w:r w:rsidR="00E967C9">
 <w:t>X</w:t>
 </w:r>
+<w:proofErr w:type="gramEnd"/>
 <w:r>
 <w:t xml:space="preserve"> kuinka monta kertaa tahansa, saa se yhden </w:t>
 </w:r>
 <w:r w:rsidR="00224565">
-<w:t xml:space="preserve">viittauksen (pisteen) artikkelista. Kaikki nämä menestystekijät on koottu taulukkoon, jossa ne on sijoitettu erilaisten kategorioiden alle. Nämä kategoriat </w:t>
+<w:t xml:space="preserve">viittauksen (pisteen) artikkelista. Kaikki nämä menestystekijät on koottu taulukkoon, jossa ne on sijoitettu erilaisten </w:t>
+</w:r>
+<w:r w:rsidR="00224565">
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">kategorioiden alle. Nämä kategoriat </w:t>
 </w:r>
 <w:r w:rsidR="00E967C9">
 <w:t>ovat</w:t>
@@ -368,7 +407,6 @@
 <w:ind w:left="1071"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Ensinnäkin</w:t>
 </w:r>
 <w:r w:rsidR="0049267C">
@@ -729,6 +767,7 @@
 <w:spacing w:before="240" w:after="240"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Ulkoistamisen myötä yhdeksi aiheeksi nousee myös </w:t>
 </w:r>
 <w:r w:rsidR="00D2769F">
@@ -756,11 +795,7 @@
 <w:t xml:space="preserve"> (tämä paperi, yksi oma lähde)</w:t>
 </w:r>
 <w:r w:rsidR="005720B7">
-<w:t xml:space="preserve"> Kulttuurisia tekijöitä sivutaan tässä </w:t>
-</w:r>
-<w:r w:rsidR="005720B7">
-<w:lastRenderedPageBreak/>
-<w:t>kanditutkielmassa</w:t>
+<w:t xml:space="preserve"> Kulttuurisia tekijöitä sivutaan tässä kanditutkielmassa</w:t>
 </w:r>
 <w:r w:rsidR="009C636A">
 <w:t xml:space="preserve"> pintatasolla</w:t>
@@ -956,12 +991,14 @@
 <w:pPr>
 <w:spacing w:after="240"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00421919">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>Baccarini</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r>
 <w:t xml:space="preserve"> (1999) projektin onnistumisen määrittää projektin hallinnan onnistuminen ja tuotteen onnistuminen</w:t>
 </w:r>
@@ -1019,6 +1056,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Muita hyviä ideoita</w:t>
 </w:r>
 </w:p>
@@ -1058,7 +1096,6 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>”</w:t>
 </w:r>
 <w:r w:rsidRPr="003140EE">
@@ -1163,7 +1200,21 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">, to categorize the success factors and also to find the critical success factors based on their frequency of </w:t>
+<w:t xml:space="preserve">, to categorize the success factors </w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidR="00AF790A" w:rsidRPr="00ED30B3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>and also</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidR="00AF790A" w:rsidRPr="00ED30B3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> to find the critical success factors based on their frequency of </w:t>
 </w:r>
 <w:r w:rsidR="003140EE" w:rsidRPr="00ED30B3">
 <w:rPr>
@@ -1382,7 +1433,21 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>l by DeLone et al</w:t>
+<w:t xml:space="preserve">l by </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00FB4AA0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>DeLone</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00FB4AA0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> et al</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00FB4AA0">
 <w:rPr>
@@ -1535,6 +1600,7 @@
 </w:p>
 <w:p w14:paraId="51B49DF6" w14:textId="6EF0FA41" w:rsidR="00F2712A" w:rsidRDefault="00F2712A" w:rsidP="00F2712A">
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>onko peruutus epäonnistumista?</w:t>
 </w:r>
 </w:p>
@@ -1543,8 +1609,16 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Munns and Bjeimi</w:t>
+<w:t xml:space="preserve">Munns and </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00FB4AA0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Bjeimi</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
@@ -1572,8 +1646,13 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="3D3AC39B" w14:textId="0BBB9424" w:rsidR="00A91B1F" w:rsidRDefault="007D522F" w:rsidP="00F2712A">
+<w:proofErr w:type="spellStart"/>
 <w:r>
-<w:t>PMBOK:in vaikutus tutkimukseen osattu huomio</w:t>
+<w:t>PMBOK:in</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> vaikutus tutkimukseen osattu huomio</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0">
 <w:t>i</w:t>
@@ -1590,7 +1669,6 @@
 </w:p>
 <w:p w14:paraId="720AFBFE" w14:textId="555A7EB4" w:rsidR="007D522F" w:rsidRDefault="00252B7D" w:rsidP="00F2712A">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">VDCL (taulukko 1) tuntuu heijastelevan aika paljon </w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0">
@@ -1728,11 +1806,19 @@
 </w:rPr>
 <w:t xml:space="preserve">per </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="009919E0" w:rsidRPr="00FB4AA0">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Howsai et al</w:t>
+<w:t>Howsai</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="009919E0" w:rsidRPr="00FB4AA0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> et al</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00FB4AA0">
 <w:rPr>
@@ -1984,6 +2070,7 @@
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Mahdollinen läpikäyntilista kaikille artikkeleille</w:t>
 </w:r>
 </w:p>
@@ -2006,7 +2093,6 @@
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Satunnaisia </w:t>
 </w:r>
 <w:r w:rsidR="00884CC3">
@@ -2055,7 +2141,74 @@
 <w:t>määrittelevät aikavälin, jolla projektin onnistumista tarkastellaan.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0287E25D" w14:textId="14CA4B50" w:rsidR="004065FA" w:rsidRPr="008A0FF4" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="1F3B4FFC" w14:textId="2FB6900E" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Template</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="09C14793" w14:textId="7AE5E3E0" w:rsidR="00D04113" w:rsidRPr="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00D04113">
+<w:t>Lukukerrat</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="417837E3" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3C04D050" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1FB86687" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4C777F8C" w14:textId="52FBE611" w:rsidR="00E6693B" w:rsidRPr="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0287E25D" w14:textId="6064037B" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:rPr>
@@ -2067,6 +2220,29 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>A survey on the characteristics of projects with success in delivering client benefits</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="77E6704E" w14:textId="70914EA8" w:rsidR="00D04113" w:rsidRPr="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00D04113">
+<w:t>Lukukerrat</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>: Introduction</w:t>
+</w:r>
+<w:r w:rsidR="008B1C37">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0C61F2E7" w14:textId="1BCF80AB" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
@@ -2101,9 +2277,243 @@
 <w:t>Muuta?</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3A9BCA67" w14:textId="14994463" w:rsidR="004065FA" w:rsidRPr="00ED30B3" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="7CBB5AEA" w14:textId="5AD11680" w:rsidR="004065FA" w:rsidRDefault="007E28D9" w:rsidP="007E28D9">
 <w:pPr>
-<w:pStyle w:val="Heading2"/>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Hyviä pointteja</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="225921EA" w14:textId="46A7AF23" w:rsidR="007E28D9" w:rsidRDefault="0029414C" w:rsidP="004F2F80">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0029414C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”The project management triangle criteria of being on time, on budget, and having the</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="0029414C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>specified functionality are poor correlates of the essential success dimension client benefits.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="29F6B166" w14:textId="007E9EEB" w:rsidR="0029414C" w:rsidRDefault="004F2F80" w:rsidP="00F656C5">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="004F2F80">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The finding that a software project is on time, on budget and has the specified functionality is consequently far from a guarantee that the project is a success from the viewpoint of the client.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1CED00C9" w14:textId="4BBA6391" w:rsidR="00270694" w:rsidRPr="00270694" w:rsidRDefault="00F656C5" w:rsidP="00270694">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00F656C5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Interestingly, the failure factors of the early surveys on software project failures, such as the survey in [14], appear to be very much the same as those reported in more recent surveys on software projects.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7AC5A668" w14:textId="18958D0A" w:rsidR="00270694" w:rsidRDefault="00270694" w:rsidP="00F717CD">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“T</w:t>
+</w:r>
+<w:r w:rsidRPr="00270694">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>he limited research available suggests that</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidR="00C04B3B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00C04B3B" w:rsidRPr="00C04B3B">
+<w:t>tässä luetellaan menestystekijöitä?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="04789D88" w14:textId="77777777" w:rsidR="00F717CD" w:rsidRDefault="001F16F5" w:rsidP="004F2F80">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="001F16F5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Alternative selection methods, such as one self</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>-</w:t>
+</w:r>
+<w:r w:rsidRPr="001F16F5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">selected project or </w:t>
+</w:r>
+<w:r w:rsidRPr="001F16F5">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>one failed and one successful project, would easily bias the results</w:t>
+</w:r>
+<w:r w:rsidRPr="001F16F5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3C508210" w14:textId="22402C1F" w:rsidR="00C04B3B" w:rsidRDefault="001F16F5" w:rsidP="00DA539D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Throwing mad shade at “a study of the impact of project classification […]</w:t>
+</w:r>
+<w:r w:rsidR="00F717CD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="12E96034" w14:textId="41255C19" w:rsidR="00F717CD" w:rsidRDefault="0052162B" w:rsidP="00F36C33">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidR="00DA539D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Is reasonabl</w:t>
+</w:r>
+<w:r w:rsidRPr="0052162B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>e as long as we do not try to extrapolate the results to software project populations substantially different from the surveyed population.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="514AFDE1" w14:textId="24701539" w:rsidR="00F36C33" w:rsidRDefault="00F36C33" w:rsidP="00F36C33">
+<w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
 <w:numId w:val="0"/>
@@ -2116,51 +2526,143 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Template</w:t>
+<w:t>“</w:t>
 </w:r>
-</w:p>
-<w:p w14:paraId="05B0B3F4" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
-<w:pPr>
-<w:pStyle w:val="ListBullet"/>
-</w:pPr>
-<w:r>
-<w:t>Tutkimusmenetelmä</w:t>
-</w:r>
-</w:p>
-<w:p w14:paraId="66F445A5" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
-<w:pPr>
-<w:pStyle w:val="ListBullet"/>
-</w:pPr>
-<w:r>
-<w:t>Montako menestystekijää</w:t>
-</w:r>
-</w:p>
-<w:p w14:paraId="4420B903" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
-<w:pPr>
-<w:pStyle w:val="ListBullet"/>
-</w:pPr>
-<w:r>
-<w:t>Miten menestystekijät määritetty</w:t>
-</w:r>
-</w:p>
-<w:p w14:paraId="36667B69" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
-<w:pPr>
-<w:pStyle w:val="ListBullet"/>
-</w:pPr>
-<w:r>
-<w:t>Muuta?</w:t>
-</w:r>
-</w:p>
-<w:p w14:paraId="7CBB5AEA" w14:textId="77777777" w:rsidR="004065FA" w:rsidRPr="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
-<w:pPr>
-<w:pStyle w:val="Code"/>
+<w:r w:rsidRPr="00F36C33">
 <w:rPr>
-<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
-<w:noProof w:val="0"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>As an example, a cost</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00F36C33">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>overrun of 20% may in one high uncertainty context be acceptable,</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00F36C33">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>but in low uncertainty contexts indicate a budget control failure.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7AEB028C" w14:textId="316C1905" w:rsidR="00F36C33" w:rsidRPr="009F6F02" w:rsidRDefault="00F36C33" w:rsidP="00FB6528">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="009F6F02">
+<w:t>ympäristön epävarmuustekijät ovat yksi menestystekijöiden universaalisuutta rajoittava tekijä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1B089449" w14:textId="42409B48" w:rsidR="00F36C33" w:rsidRDefault="00FB6528" w:rsidP="00F36C33">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00FB6528">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Not surprisingly, the more success dimensions we include in the definition of failed projects, the higher the rate of failed projects. With many success dimensions, a high threshold for claiming success, and the requirement that a project </w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00FB6528">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>has to</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00FB6528">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> be successful on all dimensions, there would be very few successful IT projects.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4391E7D5" w14:textId="15BD60D8" w:rsidR="00FB6528" w:rsidRPr="009F6F02" w:rsidRDefault="009F6F02" w:rsidP="00007662">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="009F6F02">
+<w:t>pitkäaikainen tutkimus samoilla kriteereillä olisi mielekästä tämän perusteella</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1D390820" w14:textId="3C0A7C06" w:rsidR="009F6F02" w:rsidRDefault="00007662" w:rsidP="009F6F02">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00007662">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We categorized their contracts as either per hour or fixed price.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7944B490" w14:textId="4810CAEA" w:rsidR="00007662" w:rsidRPr="00007662" w:rsidRDefault="00007662" w:rsidP="00007662">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00007662">
+<w:t>Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="47453EFC" w14:textId="77777777" w:rsidR="00007662" w:rsidRPr="0029414C" w:rsidRDefault="00007662" w:rsidP="00007662">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:sectPr w:rsidR="004065FA" w:rsidRPr="004065FA">
+<w:sectPr w:rsidR="00007662" w:rsidRPr="0029414C">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
