@@ -142,9 +142,59 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="003D577F" w14:paraId="43332B89" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="7CFC6B73" w14:textId="18EA785D" w:rsidR="003D577F" w:rsidRPr="008A0FF4" w:rsidRDefault="00C11804" w:rsidP="00454737">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C11804">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A survey study of critical success factors in agile software projects</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="7AB314D5" w14:textId="2AA23A8D" w:rsidR="003D577F" w:rsidRDefault="00E74A2F" w:rsidP="001C4A97">
+<w:r>
+<w:t>Todella hyvä, ajoittain hieman sekava (luultavasti pitää lukea uudestaan joitain kohtia)</w:t>
+</w:r>
+<w:r w:rsidR="00C47A4A">
+<w:t xml:space="preserve"> sekä ajoittain hieman ristiriitainen joko itsensä (</w:t>
+</w:r>
+<w:r w:rsidR="00C47A4A">
+<w:t>saatoin ymmärtää väärin)</w:t>
+</w:r>
+<w:r w:rsidR="00C47A4A">
+<w:t xml:space="preserve"> ja m</w:t>
+</w:r>
+<w:r w:rsidR="00DE1585">
+<w:t>uun kirjallisuuden kanssa. Tästä on toistantatutkimus Yugoslaviassa (ei tue tätä) ja löytyy myös toinen paperi, joka tukee tätä (en muista mikä). Mielenkiintoinen.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="05113750" w14:textId="77777777" w:rsidR="001C4A97" w:rsidRPr="001C4A97" w:rsidRDefault="001C4A97" w:rsidP="001C4A97"/>
-<w:p w14:paraId="48E3BF0F" w14:textId="3BEEB99F" w:rsidR="00F9210A" w:rsidRPr="00C32C69" w:rsidRDefault="00F9210A" w:rsidP="00C32C69">
+<w:p w14:paraId="7EBEA53E" w14:textId="568D2D4C" w:rsidR="00E453C2" w:rsidRPr="00E453C2" w:rsidRDefault="00E453C2" w:rsidP="00E453C2">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r w:rsidRPr="00E453C2">
+<w:t>Joku kommentti netistä tutkielmien lukemisesta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="48E3BF0F" w14:textId="766AEACD" w:rsidR="00F9210A" w:rsidRPr="00C32C69" w:rsidRDefault="00F9210A" w:rsidP="00C32C69">
 <w:pPr>
 <w:spacing w:after="240"/>
 <w:jc w:val="both"/>
@@ -270,7 +320,48 @@
 <w:t>The fourth read you fill in the gaps from the outline you made in the third read.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5268B97B" w14:textId="31CB2158" w:rsidR="00DD4857" w:rsidRDefault="00DD4857" w:rsidP="00DD4857">
+<w:p w14:paraId="1257B96B" w14:textId="77777777" w:rsidR="00E453C2" w:rsidRDefault="00E453C2" w:rsidP="00E453C2">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r w:rsidRPr="00E453C2">
+<w:lastRenderedPageBreak/>
+<w:t>Kommentti kommentista</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="19CA5A37" w14:textId="6E3BFE84" w:rsidR="003805E5" w:rsidRPr="00E453C2" w:rsidRDefault="00E453C2" w:rsidP="00E453C2">
+<w:r>
+<w:t xml:space="preserve">Kommentti oli ehkä suunnattu täysin </w:t>
+</w:r>
+<w:r w:rsidR="007F293F">
+<w:t xml:space="preserve">alaa tuntemattomille ihmisille. </w:t>
+</w:r>
+<w:r w:rsidR="001A31A1">
+<w:t>Mulla on kuitenkin lähes 2 v</w:t>
+</w:r>
+<w:r w:rsidR="00D91E14">
+<w:t>uotta</w:t>
+</w:r>
+<w:r w:rsidR="001A31A1">
+<w:t xml:space="preserve"> opintoja enemmän tai vähemmän aiheeseen liittyen. </w:t>
+</w:r>
+<w:r w:rsidR="007F293F">
+<w:t xml:space="preserve">Lisäksi meillä on kuitenkin </w:t>
+</w:r>
+<w:r w:rsidR="007F293F" w:rsidRPr="007F293F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>academic reading</w:t>
+</w:r>
+<w:r w:rsidR="007F293F">
+<w:t xml:space="preserve"> -kurssi, jolla artikkeleiden lukua opetettiin aika hyvin.</w:t>
+</w:r>
+<w:r w:rsidR="003805E5" w:rsidRPr="00E453C2">
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="5268B97B" w14:textId="64AB46DC" w:rsidR="00DD4857" w:rsidRDefault="00DD4857" w:rsidP="00DD4857">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:rPr>
@@ -281,6 +372,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>A model of critical success factors for software projects</w:t>
 </w:r>
 </w:p>
@@ -381,11 +473,7 @@
 <w:t xml:space="preserve"> kuinka monta kertaa tahansa, saa se yhden </w:t>
 </w:r>
 <w:r w:rsidR="00224565">
-<w:t xml:space="preserve">viittauksen (pisteen) artikkelista. Kaikki nämä menestystekijät on koottu taulukkoon, jossa ne on sijoitettu erilaisten </w:t>
-</w:r>
-<w:r w:rsidR="00224565">
-<w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">kategorioiden alle. Nämä kategoriat </w:t>
+<w:t xml:space="preserve">viittauksen (pisteen) artikkelista. Kaikki nämä menestystekijät on koottu taulukkoon, jossa ne on sijoitettu erilaisten kategorioiden alle. Nämä kategoriat </w:t>
 </w:r>
 <w:r w:rsidR="00E967C9">
 <w:t>ovat</w:t>
@@ -694,7 +782,15 @@
 <w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
 <w:noProof w:val="0"/>
 </w:rPr>
-<w:t xml:space="preserve">Paperin kirjoittaja esittää mielestäni todella huonosti sen, millä perusteella on valinnut omat seitsemän kategoriaansa, hän yksinkertaisesti vain luettelee x tutkimuksesta niiden määritelmät, ja esittää sitten ”niiden perusteella” omat kategoriansa. Olisin toivonut tähän </w:t>
+<w:t xml:space="preserve">Paperin kirjoittaja esittää mielestäni todella huonosti sen, millä perusteella on valinnut omat seitsemän kategoriaansa, hän yksinkertaisesti vain luettelee x tutkimuksesta niiden </w:t>
+</w:r>
+<w:r w:rsidRPr="00574B9F">
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">määritelmät, ja esittää sitten ”niiden perusteella” omat kategoriansa. Olisin toivonut tähän </w:t>
 </w:r>
 <w:r w:rsidR="00574B9F" w:rsidRPr="00574B9F">
 <w:rPr>
@@ -767,7 +863,6 @@
 <w:spacing w:before="240" w:after="240"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Ulkoistamisen myötä yhdeksi aiheeksi nousee myös </w:t>
 </w:r>
 <w:r w:rsidR="00D2769F">
@@ -991,14 +1086,12 @@
 <w:pPr>
 <w:spacing w:after="240"/>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00421919">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>Baccarini</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r>
 <w:t xml:space="preserve"> (1999) projektin onnistumisen määrittää projektin hallinnan onnistuminen ja tuotteen onnistuminen</w:t>
 </w:r>
@@ -1012,6 +1105,7 @@
 <w:spacing w:before="0" w:after="240"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Menestystekijöitä</w:t>
 </w:r>
 </w:p>
@@ -1056,7 +1150,6 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Muita hyviä ideoita</w:t>
 </w:r>
 </w:p>
@@ -1235,7 +1328,27 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0331A96B" w14:textId="779AC5B8" w:rsidR="00ED30B3" w:rsidRDefault="00ED30B3" w:rsidP="00ED30B3">
+<w:p w14:paraId="1ED17612" w14:textId="77777777" w:rsidR="003805E5" w:rsidRDefault="003805E5">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:sz w:val="32"/>
+<w:szCs w:val="32"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="0331A96B" w14:textId="2416EEBC" w:rsidR="00ED30B3" w:rsidRDefault="00ED30B3" w:rsidP="00ED30B3">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:rPr>
@@ -1246,6 +1359,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>A new way of thinking about IT project management practices: Early empirical results</w:t>
 </w:r>
 </w:p>
@@ -1433,21 +1547,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">l by </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00FB4AA0">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>DeLone</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00FB4AA0">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al</w:t>
+<w:t>l by DeLone et al</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00FB4AA0">
 <w:rPr>
@@ -1600,7 +1700,6 @@
 </w:p>
 <w:p w14:paraId="51B49DF6" w14:textId="6EF0FA41" w:rsidR="00F2712A" w:rsidRDefault="00F2712A" w:rsidP="00F2712A">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>onko peruutus epäonnistumista?</w:t>
 </w:r>
 </w:p>
@@ -1609,16 +1708,8 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Munns and </w:t>
+<w:t>Munns and Bjeimi</w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00FB4AA0">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Bjeimi</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
@@ -1646,13 +1737,8 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="3D3AC39B" w14:textId="0BBB9424" w:rsidR="00A91B1F" w:rsidRDefault="007D522F" w:rsidP="00F2712A">
-<w:proofErr w:type="spellStart"/>
 <w:r>
-<w:t>PMBOK:in</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> vaikutus tutkimukseen osattu huomio</w:t>
+<w:t>PMBOK:in vaikutus tutkimukseen osattu huomio</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0">
 <w:t>i</w:t>
@@ -1766,6 +1852,7 @@
 <w:pStyle w:val="Heading3"/>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Jaottelua</w:t>
 </w:r>
 </w:p>
@@ -1806,19 +1893,11 @@
 </w:rPr>
 <w:t xml:space="preserve">per </w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="009919E0" w:rsidRPr="00FB4AA0">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Howsai</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="009919E0" w:rsidRPr="00FB4AA0">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al</w:t>
+<w:t>Howsai et al</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00FB4AA0">
 <w:rPr>
@@ -1914,7 +1993,27 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="7FD28786" w14:textId="77777777" w:rsidR="00372CC6" w:rsidRDefault="00372CC6" w:rsidP="00372CC6"/>
-<w:p w14:paraId="5531565B" w14:textId="7252ABD3" w:rsidR="00A826E4" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
+<w:p w14:paraId="4F8B0A4C" w14:textId="77777777" w:rsidR="003805E5" w:rsidRDefault="003805E5">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:sz w:val="32"/>
+<w:szCs w:val="32"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="5531565B" w14:textId="30B5F52A" w:rsidR="00A826E4" w:rsidRDefault="001E2BB5" w:rsidP="001E2BB5">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 <w:rPr>
@@ -1925,6 +2024,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>A study of the impact of project classification on project risk indicators</w:t>
 </w:r>
 </w:p>
@@ -2070,7 +2170,6 @@
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Mahdollinen läpikäyntilista kaikille artikkeleille</w:t>
 </w:r>
 </w:p>
@@ -2159,7 +2258,7 @@
 <w:t>Template</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="09C14793" w14:textId="7AE5E3E0" w:rsidR="00D04113" w:rsidRPr="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
+<w:p w14:paraId="09C14793" w14:textId="5C0FDB32" w:rsidR="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
 <w:pPr>
 <w:spacing w:after="240"/>
 <w:rPr>
@@ -2176,7 +2275,7 @@
 <w:t>:</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="417837E3" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:p w14:paraId="5A1E51F6" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2184,7 +2283,7 @@
 <w:t>Tutkimusmenetelmä</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3C04D050" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:p w14:paraId="583B433A" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2192,7 +2291,7 @@
 <w:t>Montako menestystekijää</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1FB86687" w14:textId="77777777" w:rsidR="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:p w14:paraId="748EE162" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2200,7 +2299,7 @@
 <w:t>Miten menestystekijät määritetty</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4C777F8C" w14:textId="52FBE611" w:rsidR="00E6693B" w:rsidRPr="00E6693B" w:rsidRDefault="00E6693B" w:rsidP="00E6693B">
+<w:p w14:paraId="6758F0E4" w14:textId="21E347A2" w:rsidR="00936EEE" w:rsidRPr="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2219,10 +2318,11 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>A survey on the characteristics of projects with success in delivering client benefits</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="77E6704E" w14:textId="70914EA8" w:rsidR="00D04113" w:rsidRPr="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
+<w:p w14:paraId="77E6704E" w14:textId="5AC6F661" w:rsidR="00D04113" w:rsidRDefault="00D04113" w:rsidP="00D04113">
 <w:pPr>
 <w:spacing w:after="240"/>
 <w:rPr>
@@ -2245,7 +2345,7 @@
 <w:t>, 1.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0C61F2E7" w14:textId="1BCF80AB" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="66A751B1" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2253,7 +2353,20 @@
 <w:t>Tutkimusmenetelmä</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="24B0497B" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="3BF5D0E3" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Kyselytutkimus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="605B6948" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2261,7 +2374,20 @@
 <w:t>Montako menestystekijää</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="19FFCB0D" w14:textId="77777777" w:rsidR="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="2DE2E0AD" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Ei käsittele menestystekijöitä suoraan</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="73D20770" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2269,7 +2395,20 @@
 <w:t>Miten menestystekijät määritetty</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="56E14A41" w14:textId="54E2CC96" w:rsidR="004065FA" w:rsidRPr="004065FA" w:rsidRDefault="004065FA" w:rsidP="004065FA">
+<w:p w14:paraId="5B745589" w14:textId="77777777" w:rsidR="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>kts. yo. vastaus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1DE6DEE7" w14:textId="1C82AC11" w:rsidR="00936EEE" w:rsidRPr="00936EEE" w:rsidRDefault="00936EEE" w:rsidP="00936EEE">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -2354,7 +2493,6 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:lastRenderedPageBreak/>
 <w:t>“</w:t>
 </w:r>
 <w:r w:rsidRPr="00F656C5">
@@ -2652,17 +2790,527 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r w:rsidRPr="00007662">
+<w:lastRenderedPageBreak/>
 <w:t>Jaottelua</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="47453EFC" w14:textId="77777777" w:rsidR="00007662" w:rsidRPr="0029414C" w:rsidRDefault="00007662" w:rsidP="00007662">
+<w:p w14:paraId="277438DB" w14:textId="77777777" w:rsidR="003805E5" w:rsidRDefault="003805E5">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:sz w:val="32"/>
+<w:szCs w:val="32"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="47453EFC" w14:textId="4A332737" w:rsidR="00007662" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C11804">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>A survey study of critical success factors in agile software projects</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="32B9B24E" w14:textId="6E3FC7D0" w:rsidR="00C11804" w:rsidRPr="00D04113" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00D04113">
+<w:t>Lukukerrat</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>: Introduction</w:t>
+</w:r>
+<w:r w:rsidR="00B03449">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="18FA1622" w14:textId="4FB731C4" w:rsidR="00C11804" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="41FD15A1" w14:textId="18443701" w:rsidR="00731E29" w:rsidRDefault="00731E29" w:rsidP="00731E29">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Määrällinen kyselytutkimus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D2FC7E1" w14:textId="157346B2" w:rsidR="00C11804" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4A02734B" w14:textId="12DB1B59" w:rsidR="00734287" w:rsidRDefault="00734287" w:rsidP="00C360E9">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>3 kriittistä (</w:t>
+</w:r>
+<w:r w:rsidRPr="00734287">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Delivery Strategy, Agile Software Engineering Techniques ja Team Capability</w:t>
+</w:r>
+<w:r>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="026BD7F6" w14:textId="4422D2E5" w:rsidR="00C360E9" w:rsidRDefault="00C360E9" w:rsidP="00C360E9">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">12 </w:t>
+</w:r>
+<w:r w:rsidR="00734287">
+<w:t xml:space="preserve">potentiaalista </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">neljässä </w:t>
+</w:r>
+<w:r w:rsidR="001C0287">
+<w:t>(</w:t>
+</w:r>
+<w:r w:rsidR="001C0287" w:rsidRPr="001C0287">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project success</w:t>
+</w:r>
+<w:r w:rsidR="001C0287">
+<w:t xml:space="preserve">) </w:t>
+</w:r>
+<w:r>
+<w:t>kategoriassa (</w:t>
+</w:r>
+<w:r w:rsidRPr="00C360E9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Quality, Scope, Time and Cost</w:t>
+</w:r>
+<w:r>
+<w:t>)</w:t>
+</w:r>
+<w:r w:rsidR="00623100">
+<w:t>. Mutta sitten myös toiset viisi kategoriaa (</w:t>
+</w:r>
+<w:r w:rsidR="00623100" w:rsidRPr="00623100">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Organizational, People, Process, Technical and Project</w:t>
+</w:r>
+<w:r w:rsidR="00623100">
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="29A327C2" w14:textId="138F33BF" w:rsidR="00623100" w:rsidRDefault="00623100" w:rsidP="00623100">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Viiden kategorian jaottelu vaikuttaa aika hyvältä </w:t>
+</w:r>
+<w:r w:rsidR="00D04F89">
+<w:t>projektin menestystekijöiden laajempaan tarkasteluun (eli ei välttämättä järkevää puristaa kaikkia mehuja ihmisistä). Vrt. aiemmin pieni ajatus.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3D13DF0D" w14:textId="77777777" w:rsidR="00C11804" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3E60C72C" w14:textId="6A54C82E" w:rsidR="00C11804" w:rsidRDefault="00C11804" w:rsidP="00C11804">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5190892B" w14:textId="3954F4D5" w:rsidR="00BF7370" w:rsidRPr="00BF7370" w:rsidRDefault="0012029D" w:rsidP="00BF7370">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidR="00BF7370" w:rsidRPr="00BF7370">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>CSF approach first developed by Rockhart (1979)</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="190A144E" w14:textId="5391F857" w:rsidR="00C11804" w:rsidRDefault="00084812" w:rsidP="00084812">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r w:rsidRPr="00084812">
+<w:t>Ajatuksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="040A142F" w14:textId="2499D1EC" w:rsidR="00084812" w:rsidRDefault="00C61249" w:rsidP="00C61249">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C61249">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C61249">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The official definition of Agile Software Development was contained in a form of ‘‘manifesto’’ in February 2001 by a group of 17 noted software process methodologists, who attended a summit meeting to advocate for a better way of developing software and then formed the Agile Alliance.</w:t>
+</w:r>
+<w:r w:rsidRPr="00C61249">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3C170B8C" w14:textId="77687B9D" w:rsidR="00C61249" w:rsidRPr="00A26E30" w:rsidRDefault="00C61249" w:rsidP="00C61249">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t>Parhaat käytänteet ovat usein (asiantuntijoiden) mielipiteitä. Vrt. yhdessä aiemmassa tutkimuksessa oli ”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C61249">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>expert board</w:t>
+</w:r>
+<w:r>
+<w:t>” joka keskusteli keskeisimmistä menestystekijöistä (en muista tarkkaan)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7E5B38A2" w14:textId="65EC2A11" w:rsidR="00A26E30" w:rsidRDefault="00A26E30" w:rsidP="00A26E30">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">CSF tarkoittaa </w:t>
+</w:r>
+<w:r w:rsidRPr="00A26E30">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A26E30">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">the limited number of areas in which satisfactory results will ensure successful competitive performance for the individual, department, or organization. </w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00A26E30">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>CSF</w:t>
+</w:r>
+<w:r w:rsidR="00530E78">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>’</w:t>
+</w:r>
+<w:r w:rsidRPr="00A26E30">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>s</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00A26E30">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> are the few key areas where ‘things must go right’ for the business to flourish and for the managers goal to be attained</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3016B56E" w14:textId="77777777" w:rsidR="00EE5022" w:rsidRPr="00A26E30" w:rsidRDefault="00EE5022" w:rsidP="00EE5022">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:sectPr w:rsidR="00007662" w:rsidRPr="0029414C">
+<w:p w14:paraId="6A98D564" w14:textId="2567E6BB" w:rsidR="00C61249" w:rsidRDefault="00880563" w:rsidP="00D26D50">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“F</w:t>
+</w:r>
+<w:r w:rsidRPr="00880563">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">ailure or Problem research is typically based on ‘‘lessons learned’’ from certain types of projects, </w:t>
+</w:r>
+<w:r w:rsidRPr="00880563">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>but they are mostly similar enough to be generalized.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1E0B5F50" w14:textId="75E8E382" w:rsidR="00880563" w:rsidRDefault="00D26D50" w:rsidP="00880563">
+<w:r w:rsidRPr="00D26D50">
+<w:t>Yksi sisältöluku voisi olla erilaisista jakotavoista (joita olen jo kerännyt talteen)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="026CEE76" w14:textId="47780A7B" w:rsidR="00D26D50" w:rsidRDefault="001D704E" w:rsidP="001D704E">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">esim. </w:t>
+</w:r>
+<w:r w:rsidRPr="001D704E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>failure</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> -tekijöistä saa menestystekijöitä negaatiolla ja toisinpäin.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6336F1B7" w14:textId="44E15DD4" w:rsidR="001D704E" w:rsidRDefault="00875895" w:rsidP="00387EFA">
+<w:pPr>
+<w:spacing w:before="240" w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00875895">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Success research cited in the literature is mostly based on case studies or metadata or compilations and observations of agile projects and practices.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="14D964DD" w14:textId="09A5C2C9" w:rsidR="00875895" w:rsidRDefault="00387EFA" w:rsidP="00387EFA">
+<w:r w:rsidRPr="00387EFA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Failure</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> ja </w:t>
+</w:r>
+<w:r w:rsidRPr="00387EFA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> -aiheiden lisäksi on tutkittu myös </w:t>
+</w:r>
+<w:r w:rsidRPr="00387EFA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success attributes</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> (eli kategorioita?)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="372E4CF2" w14:textId="325C1E63" w:rsidR="00387EFA" w:rsidRDefault="004E2D0C" w:rsidP="00387EFA">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="004E2D0C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>”F</w:t>
+</w:r>
+<w:r w:rsidRPr="004E2D0C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>irst of all, strong executive support and/or sponsor commitment are found to be a non-factor, contrary to the belief that strong executive support is critical to carry out an Agile project.</w:t>
+</w:r>
+<w:r w:rsidRPr="004E2D0C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="13069B34" w14:textId="6897A74C" w:rsidR="00057668" w:rsidRPr="00057668" w:rsidRDefault="00057668" w:rsidP="00387EFA">
+<w:r w:rsidRPr="00057668">
+<w:t>ja</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1CF9F065" w14:textId="1D83CD40" w:rsidR="00057668" w:rsidRDefault="00057668" w:rsidP="00387EFA">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00057668">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The study results have failed to find evidence that some assumed prerequisites for success of Agile projects such as strong executive support, strong sponsor commitment, ready availability of physical Agile facility, or Agile-appropriate project types, etc. are actually critical factors for success.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4490B657" w14:textId="4EC1DEE7" w:rsidR="004E2D0C" w:rsidRDefault="004E2D0C" w:rsidP="004E2D0C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="004E2D0C">
+<w:t xml:space="preserve">Vrt. “Vallitseeko kirjallisuudessa </w:t>
+</w:r>
+<w:r>
+<w:t>konsensus menestystekijöistä?”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7E9117AF" w14:textId="77777777" w:rsidR="004E2D0C" w:rsidRPr="004E2D0C" w:rsidRDefault="004E2D0C" w:rsidP="004E2D0C"/>
+<w:sectPr w:rsidR="004E2D0C" w:rsidRPr="004E2D0C">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
