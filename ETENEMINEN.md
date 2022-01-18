@@ -1,5 +1,12 @@
 # Eteneminen
 
+## Tiistaina 18.01.2022
+- Urakoin artikkeleita, luin 4 artikkelia. Tahtia pitäisi yhä kiristää ja huomenna raportointia ohjaajalle.
+- Oon kohtuullisen toiveikas alkuperäisessä aikataulussa pysymisestä, mutta vähän stressaa se että ensi maanantaina pitäisi lähettää jonkinlainen raakile (ehtii saada vielä palautetta).
+
+## Maanantaina 17.01.2022
+- Kaveri kävi kylässä. Siistin muistiinpanoja ja luin yhden artikkelin.
+
 ## Sunnuntaina 16.01.2022
 - Luin artikkelin "A new way of thinking about IT project management practices: Early empirical results" ja "A study of the impact of project classification on project risk indicators"
 - Eilisen ajatukset kaaottisuudesta ehkä aika heikkoja. Uusi idea rajaukseen olisi otsikko "Ohjelmistoprojektien menestystekijöiden universaalia määrittelyä rajoittavat tekijät".
