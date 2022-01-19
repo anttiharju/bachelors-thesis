@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
 <Template>Normal.dotm</Template>
-<TotalTime>1000</TotalTime>
-<Pages>15</Pages>
-<Words>2856</Words>
-<Characters>23140</Characters>
+<TotalTime>1094</TotalTime>
+<Pages>19</Pages>
+<Words>3487</Words>
+<Characters>28249</Characters>
 <Application>Microsoft Office Word</Application>
 <DocSecurity>0</DocSecurity>
-<Lines>192</Lines>
-<Paragraphs>51</Paragraphs>
+<Lines>235</Lines>
+<Paragraphs>63</Paragraphs>
 <ScaleCrop>false</ScaleCrop>
 <HeadingPairs>
 <vt:vector size="2" baseType="variant">
@@ -29,7 +29,7 @@
 <Company>
 </Company>
 <LinksUpToDate>false</LinksUpToDate>
-<CharactersWithSpaces>25945</CharactersWithSpaces>
+<CharactersWithSpaces>31673</CharactersWithSpaces>
 <SharedDoc>false</SharedDoc>
 <HyperlinksChanged>false</HyperlinksChanged>
 <AppVersion>16.0000</AppVersion>
