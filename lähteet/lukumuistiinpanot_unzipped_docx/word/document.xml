@@ -325,6 +325,41 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="00174346" w14:paraId="26D73428" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="5C2B19DD" w14:textId="1FAFA16A" w:rsidR="00174346" w:rsidRPr="00174346" w:rsidRDefault="00174346" w:rsidP="00174346">
+<w:pPr>
+<w:pStyle w:val="Code"/>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00174346">
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Time, Budget, And Functionality?—IT Project Success Criteria Revised</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="7C8C20E7" w14:textId="26D1C834" w:rsidR="00174346" w:rsidRDefault="00E351A2" w:rsidP="001C4A97">
+<w:r>
+<w:t>Paljon hyvää tekstiä.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="05113750" w14:textId="77777777" w:rsidR="001C4A97" w:rsidRPr="001C4A97" w:rsidRDefault="001C4A97" w:rsidP="001C4A97"/>
 <w:p w14:paraId="006DF581" w14:textId="77777777" w:rsidR="00CE097C" w:rsidRDefault="00CE097C">
@@ -3165,9 +3200,9 @@
 <w:t>”</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="190A144E" w14:textId="5391F857" w:rsidR="00C11804" w:rsidRDefault="00084812" w:rsidP="00084812">
+<w:p w14:paraId="190A144E" w14:textId="5391F857" w:rsidR="00C11804" w:rsidRDefault="00084812" w:rsidP="00CF4956">
 <w:pPr>
-<w:pStyle w:val="Heading2"/>
+<w:pStyle w:val="Heading3"/>
 </w:pPr>
 <w:r w:rsidRPr="00084812">
 <w:t>Ajatuksia</w:t>
@@ -4379,7 +4414,7 @@
 <w:t>How universal are IT project success and failure factors? Evidence from Hungary</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3975EB31" w14:textId="752D5907" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
+<w:p w14:paraId="3975EB31" w14:textId="724E8F9F" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
 <w:pPr>
 <w:spacing w:after="240"/>
 <w:rPr>
@@ -4393,13 +4428,13 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>:</w:t>
+<w:t>: Introduction</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00AE170A">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> Introduction</w:t>
+<w:t>, 1.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7BCC7BCE" w14:textId="2DCFA96C" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
@@ -4410,7 +4445,7 @@
 <w:t>Tutkimusmenetelmä</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="12A35C18" w14:textId="0DECE4AE" w:rsidR="002B6422" w:rsidRDefault="002B6422" w:rsidP="002B6422">
+<w:p w14:paraId="12A35C18" w14:textId="6676BD33" w:rsidR="002B6422" w:rsidRDefault="00CF4956" w:rsidP="002B6422">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 <w:tabs>
@@ -4420,10 +4455,10 @@
 <w:ind w:left="714"/>
 </w:pPr>
 <w:r>
-<w:t>Empiirinen joku</w:t>
+<w:t>Kysely (empiriaa, ei kirjallisuuskatsausta (tarkista))</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6EB69933" w14:textId="77777777" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
+<w:p w14:paraId="6EB69933" w14:textId="5FB4827A" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
@@ -4431,12 +4466,38 @@
 <w:t>Montako menestystekijää</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6E203408" w14:textId="77777777" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
+<w:p w14:paraId="2AFE6048" w14:textId="5855D574" w:rsidR="00CF4956" w:rsidRDefault="00CF4956" w:rsidP="00CF4956">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>käsittelee epäonnistumistekijöitä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6E203408" w14:textId="74453F6A" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r>
 <w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1F9EC94F" w14:textId="55A7A08F" w:rsidR="00CF4956" w:rsidRDefault="00B46E0B" w:rsidP="00CF4956">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>n/a</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="05F23F60" w14:textId="22351B5A" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E">
@@ -4447,7 +4508,7 @@
 <w:t>Muuta?</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6A671C17" w14:textId="4B56083E" w:rsidR="00A6516E" w:rsidRDefault="00A6516E" w:rsidP="00A6516E">
+<w:p w14:paraId="6A671C17" w14:textId="4A9318C7" w:rsidR="00A6516E" w:rsidRDefault="00A6516E" w:rsidP="00A6516E">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 <w:tabs>
@@ -4460,6 +4521,7 @@
 <w:t>Jää vähän epäselväksi millä perusteella valittu kyselyn menestystekijöiden universaalisuuteen mahdollisesti vaikuttavat tekijät.</w:t>
 </w:r>
 </w:p>
+<w:p w14:paraId="082A7418" w14:textId="77777777" w:rsidR="00CF4956" w:rsidRDefault="00CF4956" w:rsidP="00CF4956"/>
 <w:p w14:paraId="36C3F022" w14:textId="77777777" w:rsidR="00C24C5E" w:rsidRDefault="00C24C5E" w:rsidP="00C24C5E"/>
 <w:p w14:paraId="683EC3FD" w14:textId="767DB61C" w:rsidR="00C24C5E" w:rsidRDefault="00555A4B" w:rsidP="00C24C5E">
 <w:r>
@@ -4469,13 +4531,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">In </w:t>
-</w:r>
-<w:r w:rsidRPr="00555A4B">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>search for universal project success and failure fac tors the literature shows little unity regarding the definition of project success and failure itself.</w:t>
+<w:t>In search for universal project success and failure fac tors the literature shows little unity regarding the definition of project success and failure itself.</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -4662,25 +4718,1113 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>”</w:t>
+<w:t>”Firstly, if stakeholders are asked to explain failure, a tendency to blame others might distort the objectivity of IT professionals.”</w:t>
 </w:r>
-<w:r w:rsidRPr="00B810B2">
+</w:p>
+<w:p w14:paraId="48ECD295" w14:textId="32F27E35" w:rsidR="00821F23" w:rsidRDefault="002E37FE" w:rsidP="002E37FE">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Firstly, if stakeholders are asked to explain failure, a tendency to blame others might distort the objectivity of IT professionals.</w:t>
+</w:pPr>
+<w:r w:rsidRPr="002E37FE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Time, Budget, And Functionality?—IT Project Success Criteria Revised</w:t>
 </w:r>
-<w:r w:rsidRPr="00B810B2">
+</w:p>
+<w:p w14:paraId="3AD434FE" w14:textId="1613C71B" w:rsidR="002E37FE" w:rsidRDefault="002E37FE" w:rsidP="002E37FE">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00D04113">
+<w:t>Lukukerrat</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>:</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> Introduction</w:t>
+</w:r>
+<w:r w:rsidR="00E44842">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7A01C39F" w14:textId="0507203F" w:rsidR="002E37FE" w:rsidRDefault="002E37FE" w:rsidP="002E37FE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7D6CB812" w14:textId="5CB838BE" w:rsidR="00CE32D0" w:rsidRDefault="00CE32D0" w:rsidP="00CE32D0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>kirjallisuus/empiria/etnologia? (tutkija konsulttina). Kirjava.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5DD05E2E" w14:textId="7C157034" w:rsidR="00E7569D" w:rsidRDefault="002E37FE" w:rsidP="00E7569D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+</w:tabs>
+</w:pPr>
+<w:r>
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="008BE21B" w14:textId="60C685F3" w:rsidR="002E37FE" w:rsidRDefault="002E37FE" w:rsidP="002E37FE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D693C8E" w14:textId="7E4E4F08" w:rsidR="00CE5146" w:rsidRPr="00CE5146" w:rsidRDefault="00CE5146" w:rsidP="00CE5146">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00CE5146">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>[.</w:t>
+</w:r>
+<w:r w:rsidR="0011240D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">.] </w:t>
+</w:r>
+<w:r w:rsidRPr="00CE5146">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>were evaluated against the project success factors, derived from Nelson (2007), Kappelman, McKeeman, and Zhang (2006), and the list published by the Standish Group (a combination of the two lists was used, derived from: Johnson, Boucher, Connors, &amp; Robinson, 2001 and Hartmann, 2006)</w:t>
+</w:r>
+<w:r w:rsidRPr="00CE5146">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>.”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="116DCD86" w14:textId="76239071" w:rsidR="002E37FE" w:rsidRDefault="002E37FE" w:rsidP="00CE5146">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1A1533AB" w14:textId="60276C95" w:rsidR="00FD268B" w:rsidRPr="00936EEE" w:rsidRDefault="00FD268B" w:rsidP="00CE5146">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Kontekstina Enterprise Systems / ES</w:t>
+</w:r>
+<w:r w:rsidR="006607DC">
+<w:t xml:space="preserve"> (käytännössä ilmeisesti ERP)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1BE09464" w14:textId="231A9982" w:rsidR="002E37FE" w:rsidRPr="000A5955" w:rsidRDefault="000A5955" w:rsidP="00E70C50">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="000A5955">
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="29A0E00B" w14:textId="43D56603" w:rsidR="000A5955" w:rsidRDefault="008F7F5B" w:rsidP="000A5955">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidR="000A5955" w:rsidRPr="000A5955">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>For many years, researchers have quoted statistics of IT project failures included in the Standish Chaos Report (1995).</w:t>
+</w:r>
+<w:r>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>”</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="6AF36700" w14:textId="77777777" w:rsidR="00B810B2" w:rsidRDefault="00B810B2" w:rsidP="00B810B2"/>
-<w:p w14:paraId="2EF30BE1" w14:textId="364BC4F8" w:rsidR="00821F23" w:rsidRDefault="00821F23" w:rsidP="00821F23"/>
-<w:p w14:paraId="48ECD295" w14:textId="77777777" w:rsidR="00821F23" w:rsidRPr="00C24C5E" w:rsidRDefault="00821F23" w:rsidP="00821F23"/>
-<w:sectPr w:rsidR="00821F23" w:rsidRPr="00C24C5E">
+<w:p w14:paraId="2DA9129E" w14:textId="5CF1CF43" w:rsidR="000A5955" w:rsidRDefault="000A5955" w:rsidP="008F7F5B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jees!</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="239D19C1" w14:textId="01C9006F" w:rsidR="000A5955" w:rsidRPr="008F7F5B" w:rsidRDefault="008F7F5B" w:rsidP="000A5955">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="008F7F5B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Standish results are criticized, among others,</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> [</w:t>
+</w:r>
+<w:r w:rsidRPr="008F7F5B">
+<w:t>kasa syitä</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>]</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="172255E1" w14:textId="72219E6C" w:rsidR="008F7F5B" w:rsidRDefault="008F7F5B" w:rsidP="00F661B3">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Tutkimus otti sen linjan mitä olin itse jo harkinnut (pitäisi olla jossain aikaisemmassa materiaalissa ylhäällä), referoinut </w:t>
+</w:r>
+<w:r w:rsidRPr="008F7F5B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Chaos Report</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> ja sitten esittänyt sen kritiikkiä. Ehkä mulla on ihan hyvin ideoita.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0EC79AE9" w14:textId="67F4CED4" w:rsidR="008F7F5B" w:rsidRDefault="00F661B3" w:rsidP="008F7F5B">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00F661B3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Standish uses the logical “and” to connect the three above statements, though it is obvious that there should be an “or” instead (Gemino et. al. 2007; Jørgensen &amp; Moløkken, 2006).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="35AF948D" w14:textId="7856F8CD" w:rsidR="00F661B3" w:rsidRDefault="00F661B3" w:rsidP="005E1D80">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>WTF</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3B93C1FD" w14:textId="36E0F9BB" w:rsidR="005E1D80" w:rsidRDefault="005E1D80" w:rsidP="005E1D80">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="005E1D80">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The literature on project management has criticized such criteria for a long time, considering them insufficient for the purpose of assessing the success of complex projects</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6FD94389" w14:textId="5454990B" w:rsidR="005E1D80" w:rsidRDefault="005E1D80" w:rsidP="00A817FC">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Ajatukseni, jotka luulen olevan alkuperäisiä, eivät todellisuudessa ole :(. Vastaavan havainnon</w:t>
+</w:r>
+<w:r w:rsidR="0067043D">
+<w:t xml:space="preserve"> olen</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> tehnyt edellisten artikkelien lukemisen pohjalta.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4C80185B" w14:textId="60F9CFCF" w:rsidR="00A817FC" w:rsidRPr="00A817FC" w:rsidRDefault="00A817FC" w:rsidP="00A817FC">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A817FC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A817FC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A survey made by Karlsen, Andersen, Birkely, and Ødegård (2005, p. 530) revealed that the highest-ranked success criterion among Norwegian project managers was whether a system “works as expected and solves the problem,” whereas the iron triangle criteria were ranked on positions 7, 8, and 9.</w:t>
+</w:r>
+<w:r w:rsidRPr="00A817FC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="11F8829A" w14:textId="63641415" w:rsidR="00A817FC" w:rsidRDefault="00A817FC" w:rsidP="00A817FC">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A817FC">
+<w:t>Olen lukenut tämän</w:t>
+</w:r>
+<w:r w:rsidRPr="00A817FC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="11635C92" w14:textId="544E2F32" w:rsidR="00694FFD" w:rsidRDefault="00694FFD" w:rsidP="00734B88">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00694FFD">
+<w:t>Yksikään luettu lähde ei ole vuodelta 2005.</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> Mielenkiintoinen silti. Sekoitan Jorgensen 2016?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="56757D0F" w14:textId="7545BE82" w:rsidR="00734B88" w:rsidRDefault="00734B88" w:rsidP="00734B88">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00734B88">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Cuellar (2010) concludes that project success may be considered to be objective, when it is represented by measurable constructs, like time, schedule, and scope, as well as subjective and relative, if multiple stakeholders’ opinions are taken into consideration.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0FAA6675" w14:textId="32F32BE5" w:rsidR="00734B88" w:rsidRDefault="00734B88" w:rsidP="00734B88">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Todella hyvää ajattelua/tekstiä! </w:t>
+</w:r>
+<w:r w:rsidRPr="00734B88">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>I appreciate this researcher.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="03E8EB84" w14:textId="77777777" w:rsidR="004C55C8" w:rsidRDefault="004C55C8">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="35E7AEC2" w14:textId="4212DE9C" w:rsidR="004C55C8" w:rsidRDefault="004C55C8" w:rsidP="004C55C8">
+<w:pPr>
+<w:spacing w:before="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="004C55C8">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Thomas and Fernandez (2008, p. 734) summarize that “it is widely accepted that success is a multi-dimensional construct; what is not agreed is which dimensions best represent success</w:t>
+</w:r>
+<w:r w:rsidR="003C3EF3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> å</w:t>
+</w:r>
+<w:r w:rsidRPr="004C55C8">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidR="003C3EF3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="003C3EF3" w:rsidRPr="003C3EF3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>while Joosten, Basten, and Mellis, (2011) claim that restricting the success evaluation to the iron triangle is caused by problems with the measurability of further success dimensions.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7553E0B6" w14:textId="34C0E96F" w:rsidR="004C55C8" w:rsidRDefault="004C55C8" w:rsidP="00C805C0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="004C55C8">
+<w:t>Ja hyvä teksti jatkuu!</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="67C829A1" w14:textId="1D11B2E6" w:rsidR="00C805C0" w:rsidRPr="00902D7C" w:rsidRDefault="00C805C0" w:rsidP="00902D7C">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>ja lisää paljon hyvää tekstiä, jota en kaikkea jaksa tänne kopioida</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4B08D076" w14:textId="385FDB55" w:rsidR="00902D7C" w:rsidRDefault="00902D7C" w:rsidP="00902D7C">
+<w:pPr>
+<w:pStyle w:val="Code"/>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00902D7C">
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00902D7C">
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Using the iron triangle criteria as an absolute measure of a project success is not a correct approach.</w:t>
+</w:r>
+<w:r w:rsidRPr="00902D7C">
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="506E2AD0" w14:textId="6DBB338B" w:rsidR="00902D7C" w:rsidRDefault="00B83126" w:rsidP="00401D76">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>P1</w:t>
+</w:r>
+<w:r w:rsidR="00801843">
+<w:t>-5</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> hyviä. Yllä P2. Aika rohkeasti muotoiltu vaikken olekaan eri mieltä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="41B54898" w14:textId="01C99AE9" w:rsidR="00401D76" w:rsidRDefault="00401D76" w:rsidP="00E70C50">
+<w:pPr>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00401D76">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”A</w:t>
+</w:r>
+<w:r w:rsidRPr="00401D76">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">lthough the companies being subject to the study highly valued the classic project management measures, they did not perceive the alignment with a budget and schedule as valid success criteria, </w:t>
+</w:r>
+<w:r w:rsidR="00F111D9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>provided</w:t>
+</w:r>
+<w:r w:rsidRPr="00401D76">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> that functional requirements were met.</w:t>
+</w:r>
+<w:r w:rsidRPr="00401D76">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2E48A04E" w14:textId="3E6894A7" w:rsidR="00E70C50" w:rsidRDefault="00E70C50" w:rsidP="00401D76">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00E70C50">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The solution has now been productive for four years and is considered a success by the adopting organization.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D1BACD3" w14:textId="588B65B9" w:rsidR="00E70C50" w:rsidRDefault="00E70C50" w:rsidP="00BF55A5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00E70C50">
+<w:t xml:space="preserve">ehkä </w:t>
+</w:r>
+<w:r w:rsidRPr="00E70C50">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>adopting organization</w:t>
+</w:r>
+<w:r w:rsidRPr="00E70C50">
+<w:t xml:space="preserve"> on ainut</w:t>
+</w:r>
+<w:r>
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidRPr="00E70C50">
+<w:t xml:space="preserve"> joka voi x vuoden päästä sanoa, oliko projekti oikeasti onnistunut</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="76CA5F9E" w14:textId="4BCA2B20" w:rsidR="00BF55A5" w:rsidRDefault="00BF55A5" w:rsidP="00BF55A5">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00BF55A5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00BF55A5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The project that was finally developed is completely different from the one that had been planned.</w:t>
+</w:r>
+<w:r w:rsidRPr="00BF55A5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="25E53A63" w14:textId="55F480E4" w:rsidR="00B65B2B" w:rsidRPr="0035013B" w:rsidRDefault="0035013B" w:rsidP="00B65B2B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="0035013B">
+<w:t>Ohjelmistoprojektien vaikeus vrt. rakennusprojektit</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="580B1F6A" w14:textId="5F75F833" w:rsidR="00B65B2B" w:rsidRDefault="00B65B2B" w:rsidP="00BF55A5">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidR="0035013B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>T</w:t>
+</w:r>
+<w:r w:rsidRPr="00B65B2B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>he PM added three more criteria that were not included in the original questionnaire.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="522EF6F3" w14:textId="20018A84" w:rsidR="00B65B2B" w:rsidRDefault="00B65B2B" w:rsidP="00AB408E">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="0035013B">
+<w:t xml:space="preserve">Menestystekijät ovat kontekstiriippuvaisia ja niitä voidaan </w:t>
+</w:r>
+<w:r w:rsidR="0035013B" w:rsidRPr="0035013B">
+<w:t>luetella loputtomiin</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="762B9BB4" w14:textId="66AF16B8" w:rsidR="0035013B" w:rsidRDefault="00AB408E" w:rsidP="0035013B">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00AB408E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB408E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The problem was that system specification did not reflect the real requirements of the business.</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB408E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="26196F12" w14:textId="58AE9B82" w:rsidR="00AB408E" w:rsidRDefault="00AB408E" w:rsidP="004B428E">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00AB408E">
+<w:t>ehkä vähemmän vain tämä kohta ja enemmän yleisenä pointtina: business case tärkeä. Toki ei voi tällä perustella mutta löytyy muualtakin. “muistilappu”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3D90BC0B" w14:textId="7E31E0EF" w:rsidR="004B428E" w:rsidRDefault="004B428E" w:rsidP="004B428E">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="004B428E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="004B428E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Summing up, </w:t>
+</w:r>
+<w:r w:rsidRPr="00EB6C76">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>a set of more comprehensive project success measures</w:t>
+</w:r>
+<w:r w:rsidRPr="004B428E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, which would take into account the findings presented above, </w:t>
+</w:r>
+<w:r w:rsidRPr="00EB6C76">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>should be developed</w:t>
+</w:r>
+<w:r w:rsidRPr="004B428E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> to reflect the success perception </w:t>
+</w:r>
+<w:r w:rsidRPr="00EB6C76">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>within the organizations undertaking these projects.</w:t>
+</w:r>
+<w:r w:rsidRPr="004B428E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5A8F3FB6" w14:textId="41226CBA" w:rsidR="004B428E" w:rsidRDefault="004B428E" w:rsidP="004B428E">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="004B428E">
+<w:t>kaunis ajatus, mutta mahdoton. Tai toki yrittää on aina hyvä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="60B1E453" w14:textId="47BE8191" w:rsidR="00EB6C76" w:rsidRDefault="00EB6C76" w:rsidP="00134FBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Tai toisaalta tietyille organisaatioille tai organisaatiolle kenties mahdollista.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="727D623A" w14:textId="43541601" w:rsidR="00134FBA" w:rsidRDefault="00134FBA" w:rsidP="00134FBA">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00134FBA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>how would a reasonable person categorize this project?</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0BDD0925" w14:textId="6473E440" w:rsidR="00134FBA" w:rsidRDefault="00134FBA" w:rsidP="00607D0C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00563CDE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>reasonable person standard</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> (tuttu mm. </w:t>
+</w:r>
+<w:r w:rsidR="00563CDE">
+<w:t xml:space="preserve">isojen yritysten pakollisista häirintäkoulutuksista) on löytänyt tiensä myös tutkimuspaperiin. Onkohan tätä käytetty enemmänkin? </w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D085473" w14:textId="03F037EA" w:rsidR="00563CDE" w:rsidRDefault="00607D0C" w:rsidP="00563CDE">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00607D0C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the following conclusions can be made</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="319DC28F" w14:textId="0EAB280F" w:rsidR="00607D0C" w:rsidRPr="004B428E" w:rsidRDefault="00644BBA" w:rsidP="00607D0C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Mahdollisesti </w:t>
+</w:r>
+<w:r w:rsidR="00607D0C">
+<w:t>hyödyllistä jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="099E8891" w14:textId="4965D8CF" w:rsidR="0028146C" w:rsidRDefault="0028146C" w:rsidP="00E70C50">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="17C88406" w14:textId="77777777" w:rsidR="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Baccarini (1999) concluded that project success should be measured in two categories:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="25A4D073" w14:textId="29C8CF61" w:rsidR="00564E92" w:rsidRPr="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>product success, which involves</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5735FAEF" w14:textId="77777777" w:rsidR="00564E92" w:rsidRPr="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>meeting the customer’s organizational expectations</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0DB4C457" w14:textId="77777777" w:rsidR="00564E92" w:rsidRPr="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project (management) success, which involves</w:t>
+</w:r>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>satisfying</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="335B090C" w14:textId="68551AC6" w:rsidR="00564E92" w:rsidRPr="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>time</w:t>
+</w:r>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="298A1AB7" w14:textId="4A37592B" w:rsidR="00564E92" w:rsidRPr="00564E92" w:rsidRDefault="00564E92" w:rsidP="00564E92">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>budget</w:t>
+</w:r>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, and</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="32A2FC50" w14:textId="27B24079" w:rsidR="004C55C8" w:rsidRPr="00FC2E8D" w:rsidRDefault="00564E92" w:rsidP="00FC2E8D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00564E92">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>functionality criteria.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4C45F772" w14:textId="3294BDDB" w:rsidR="00F661B3" w:rsidRDefault="00D376DF" w:rsidP="00E70C50">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Ajatuksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0F444F15" w14:textId="59D041E9" w:rsidR="00D376DF" w:rsidRDefault="00D376DF" w:rsidP="00E17CDC">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Ilmeisesti Standish Group mittaa projektin onnistumista siten, miten osa tutkijoista </w:t>
+</w:r>
+<w:r w:rsidR="00E20A6F">
+<w:t xml:space="preserve">osoittaa </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">projektin hallinnan </w:t>
+</w:r>
+<w:r w:rsidR="00E20A6F">
+<w:t>onnistumiseksi. Tästä saa hyvän kuvion johdantoon.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="257D805B" w14:textId="5CF0AB6E" w:rsidR="00E17CDC" w:rsidRDefault="00E17CDC" w:rsidP="003B4B2F">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Kirjoitusasut ei ole hirveän tieteellisiä: adjektiivia ”</w:t>
+</w:r>
+<w:r w:rsidRPr="00E17CDC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>objective</w:t>
+</w:r>
+<w:r>
+<w:t>” käytetään usein (kahdesti?) ilman suurempia tunnontuskia.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="17ED9446" w14:textId="7FD448D4" w:rsidR="00E17CDC" w:rsidRDefault="003B4B2F" w:rsidP="00E17CDC">
+<w:r>
+<w:t>Miten tutkija voi olla konsulttina ja ”ei vaikuttaa tuloksiin”? Epäilyttävää.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0DFAE55B" w14:textId="60E26120" w:rsidR="003B4B2F" w:rsidRDefault="001665EC" w:rsidP="001665EC">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Havaintoja</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="601FD81D" w14:textId="5EB650AF" w:rsidR="001665EC" w:rsidRDefault="001665EC" w:rsidP="00315AB8">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Tämäkin tutkimus käyttää suoria lainauksia kyselyyn vastaajilta/haastatelluilta. Ilmeisesti ok käytäntö.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3F9E6AB8" w14:textId="0F181AE8" w:rsidR="001665EC" w:rsidRDefault="00315AB8" w:rsidP="001665EC">
+<w:r>
+<w:t xml:space="preserve">sine qua non = välttämätön. Miksi pitää tarkoituksella tehdä jo valmiiksi vaikealukuisesta tieteellisestä tekstistä entistä vähemmän (suoraan) ymmärrettävää? </w:t>
+</w:r>
+<w:r w:rsidRPr="00315AB8">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>weird flex but ok</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2ACCE005" w14:textId="6F3ED642" w:rsidR="004B428E" w:rsidRPr="001665EC" w:rsidRDefault="004B428E" w:rsidP="001665EC"/>
+<w:sectPr w:rsidR="004B428E" w:rsidRPr="001665EC">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
