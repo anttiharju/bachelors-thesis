@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac xr xr2 xr3" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xr:uid="{7BA36349-FA51-4D54-B802-D716E651BFE0}">
-<dimension ref="A1:S42"/>
+<dimension ref="A1:S43"/>
 <sheetViews>
-<sheetView tabSelected="1" workbookViewId="0">
-<selection activeCell="F5" sqref="F5"/>
+<sheetView tabSelected="1" topLeftCell="A25" workbookViewId="0">
+<selection activeCell="I46" sqref="I46"/>
 </sheetView>
 </sheetViews>
 <sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
@@ -1227,8 +1227,13 @@
 <f>COUNTIF(Table3[Kiinnitetään mukaan?], G42)</f>
 <v>27</v>
 </c>
-<c r="I42" t="s">
+<c r="I42" s="19" t="s">
 <v>512</v>
+</c>
+</row>
+<row r="43" spans="1:9" x14ac:dyDescent="0.25">
+<c r="I43" t="s">
+<v>515</v>
 </c>
 </row>
 </sheetData>
