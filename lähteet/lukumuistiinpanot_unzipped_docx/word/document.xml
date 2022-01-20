@@ -536,28 +536,51 @@
 </w:p>
 </w:tc>
 </w:tr>
-</w:tbl>
-<w:p w14:paraId="05113750" w14:textId="77777777" w:rsidR="001C4A97" w:rsidRPr="005011A1" w:rsidRDefault="001C4A97" w:rsidP="001C4A97">
+<w:tr w:rsidR="00114E66" w:rsidRPr="005011A1" w14:paraId="5B013B49" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="578FE577" w14:textId="6DB69B83" w:rsidR="00114E66" w:rsidRPr="00D41108" w:rsidRDefault="00114E66" w:rsidP="007447CC">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
+<w:r w:rsidRPr="00114E66">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Software development project success and failure from the supplier's perspective: A systematic literature review</w:t>
+</w:r>
 </w:p>
-<w:p w14:paraId="006DF581" w14:textId="77777777" w:rsidR="00CE097C" w:rsidRPr="005011A1" w:rsidRDefault="00CE097C">
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="4662E53D" w14:textId="1BF9C5A3" w:rsidR="00114E66" w:rsidRDefault="0092637F" w:rsidP="001C4A97">
+<w:r>
+<w:t>Erinomaisen tarkkaa määrittelyä keskeisille käsitteille.</w:t>
+</w:r>
+<w:r w:rsidR="00AD5379">
+<w:t xml:space="preserve"> Muutenkin erinomaisen selkeästi kuvattu prosessi. Tulokset myös kai ymmärrettäviä (olen väsyksissä).</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+</w:tbl>
+<w:p w14:paraId="006DF581" w14:textId="3EBD82B0" w:rsidR="00CE097C" w:rsidRPr="00BF25A8" w:rsidRDefault="00CE097C" w:rsidP="00BF25A8">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
 <w:numId w:val="0"/>
 </w:numPr>
-<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
 <w:rPr>
-<w:sz w:val="32"/>
-<w:szCs w:val="32"/>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="005011A1">
+<w:r w:rsidRPr="00BF25A8">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
@@ -10559,8 +10582,1038 @@
 <w:t>Kun IT (yleisesti) on ketterää sen alla olevat tiimi ovat myös ketteriä? Mitä.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5DC951FE" w14:textId="77777777" w:rsidR="00AB5DD4" w:rsidRDefault="00AB5DD4" w:rsidP="00AB5DD4"/>
-<w:sectPr w:rsidR="00AB5DD4">
+<w:p w14:paraId="292EC344" w14:textId="77777777" w:rsidR="000A56A0" w:rsidRDefault="000A56A0">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:sz w:val="32"/>
+<w:szCs w:val="32"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="5DC951FE" w14:textId="3374F6D9" w:rsidR="00AB5DD4" w:rsidRDefault="00114E66" w:rsidP="00114E66">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00114E66">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Software development project success and failure from the supplier's perspective: A systematic literature review</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3DBA9A59" w14:textId="7A7E5BB6" w:rsidR="000A56A0" w:rsidRPr="00D527B2" w:rsidRDefault="000A56A0" w:rsidP="000A56A0">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Lukukerrat:</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="007C602E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Introduction</w:t>
+</w:r>
+<w:r w:rsidR="007C602E">
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidR="00C93CCD">
+<w:t xml:space="preserve"> 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3AC016C8" w14:textId="77777777" w:rsidR="000A56A0" w:rsidRPr="00D527B2" w:rsidRDefault="000A56A0" w:rsidP="000A56A0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7636D750" w14:textId="180C987F" w:rsidR="000A56A0" w:rsidRDefault="000A56A0" w:rsidP="000A56A0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3643011A" w14:textId="1BC0C55B" w:rsidR="00845076" w:rsidRPr="00D527B2" w:rsidRDefault="00845076" w:rsidP="00845076">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>3: ”</w:t>
+</w:r>
+<w:r w:rsidRPr="00845076">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>customer satisfaction, short-term business benefits, and long-term business benefits</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="30EEFE0B" w14:textId="4D5FF997" w:rsidR="000A56A0" w:rsidRDefault="000A56A0" w:rsidP="000A56A0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7D73B0E7" w14:textId="1ED0B20E" w:rsidR="00910C2C" w:rsidRPr="00D527B2" w:rsidRDefault="00910C2C" w:rsidP="00910C2C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Ne ovat tutkimuksen tulos seitsemän muun artikkelin pohjalta.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5B94A7B6" w14:textId="77777777" w:rsidR="000A56A0" w:rsidRPr="00D527B2" w:rsidRDefault="000A56A0" w:rsidP="000A56A0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="66DD1786" w14:textId="5FD77739" w:rsidR="00114E66" w:rsidRPr="003D188A" w:rsidRDefault="003D188A" w:rsidP="003D188A">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="003D188A">
+<w:t>Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="41811D64" w14:textId="77777777" w:rsidR="00EF6E20" w:rsidRDefault="00EF6E20" w:rsidP="00EF6E20">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EF6E20">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>in-house projects,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="34D51176" w14:textId="77777777" w:rsidR="00EF6E20" w:rsidRDefault="00EF6E20" w:rsidP="00EF6E20">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EF6E20">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>continuous services,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1ECF9802" w14:textId="77777777" w:rsidR="00EF6E20" w:rsidRDefault="00EF6E20" w:rsidP="00EF6E20">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EF6E20">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the customer's perspective,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1A87BCFF" w14:textId="1D075461" w:rsidR="003D188A" w:rsidRDefault="00EF6E20" w:rsidP="00EF6E20">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EF6E20">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>and software product development,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6B21D156" w14:textId="5375C5B4" w:rsidR="00C4229C" w:rsidRDefault="00EF6E20" w:rsidP="004474A9">
+<w:r w:rsidRPr="00866893">
+<w:t xml:space="preserve">En näe yhteyttä näiden välillä? In-house projekti voi olla </w:t>
+</w:r>
+<w:r w:rsidRPr="00C4229C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>continuous</w:t>
+</w:r>
+<w:r w:rsidRPr="00866893">
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="00866893" w:rsidRPr="00866893">
+<w:t>in-house projekteissa yritys itse voi olla asiakas ja kaikki nämä voivat olla ohjelmistotuotteiden kehittämistä?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="084BCDA1" w14:textId="2812CF0B" w:rsidR="00C4229C" w:rsidRDefault="00C4229C" w:rsidP="00C4229C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Idea siis siinä, että jatkuvat palvelut eivät istu projektin määritelmään ja ne tulisi siten rajata pois tutkimuksesta. Koska artikkeli on alihankkijan (</w:t>
+</w:r>
+<w:r w:rsidRPr="00C4229C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>supplier’s</w:t>
+</w:r>
+<w:r>
+<w:t>) näkökulmasta, tutkimukset</w:t>
+</w:r>
+<w:r w:rsidR="00E160F1">
+<w:t>,</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> jotka käsittelevät asiakkaan näkökulmaa eivät ole mielenkiintoisia.</w:t>
+</w:r>
+<w:r w:rsidR="00E160F1">
+<w:t xml:space="preserve"> Yhä epäselvää miksi in-house projektit ja ohjelmistoprojektit ovat omat luokkansa.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="749D8F77" w14:textId="717AE7E5" w:rsidR="00841D9C" w:rsidRDefault="00841D9C" w:rsidP="00841D9C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">ohjelmistoprojektit on vain määritelty aika tiukasti: ilmeisesti esim. käyttöönottoprojektit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>tmv</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve">. eivät kuulu ohjelmistoprojekteihin tässä, vaan ohjelmistoprojekteissa tulee tapahtua ”merkittävää </w:t>
+</w:r>
+<w:r w:rsidR="00DD58A8">
+<w:t xml:space="preserve">vaivannäköä ohjelmiston </w:t>
+</w:r>
+<w:r w:rsidR="00DD58A8" w:rsidRPr="00DD58A8">
+<w:rPr>
+<w:i/>
+<w:iCs/>
+</w:rPr>
+<w:t>kehitystä</w:t>
+</w:r>
+<w:r w:rsidR="00DD58A8">
+<w:t xml:space="preserve"> varten”. Aika tiukka määritelmä, mutta toisaalta erinomaista.</w:t>
+</w:r>
+<w:r w:rsidR="007D5B86">
+<w:t xml:space="preserve"> Miksi in-house olennainen?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="131F2073" w14:textId="584F1CB5" w:rsidR="007D5B86" w:rsidRDefault="00205A16" w:rsidP="007D5B86">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1431"/>
+</w:tabs>
+<w:ind w:left="1428"/>
+</w:pPr>
+<w:r>
+<w:t>Arvuuttelua, mutta: in-house ei olennainen, koska ei ole asiakas</w:t>
+</w:r>
+<w:r w:rsidR="0078787E">
+<w:t xml:space="preserve"> – </w:t>
+</w:r>
+<w:r>
+<w:t>alihankkija</w:t>
+</w:r>
+<w:r w:rsidR="0078787E">
+<w:t xml:space="preserve"> -</w:t>
+</w:r>
+<w:r>
+<w:t>suhdetta.</w:t>
+</w:r>
+<w:r w:rsidR="0078787E">
+<w:t xml:space="preserve"> Hyvin määritelty keskeiset termit.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="020CDB2B" w14:textId="27316A37" w:rsidR="00866893" w:rsidRDefault="00C6385B" w:rsidP="00C4229C">
+<w:pPr>
+<w:spacing w:before="240"/>
+</w:pPr>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C6385B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We divided success criteria into project success and project management (PM) success</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2DC48E35" w14:textId="2D21AF00" w:rsidR="00C6385B" w:rsidRDefault="00C6385B" w:rsidP="00C6385B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>klassinen tapa</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="00436D4B" w14:textId="6E39873B" w:rsidR="00C6385B" w:rsidRDefault="008E75B1" w:rsidP="008E75B1">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3005E2DD" w14:textId="170C36C8" w:rsidR="008E75B1" w:rsidRDefault="008E75B1" w:rsidP="008E75B1">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="008E75B1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>N</w:t>
+</w:r>
+<w:r w:rsidRPr="008E75B1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>o definition of software development project failure was found</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4A9E610F" w14:textId="0DCA8C66" w:rsidR="008E75B1" w:rsidRDefault="008E75B1" w:rsidP="002E5547">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Nykyään löytyy, mutta joku toinen puhui tästä samasta.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4DE82406" w14:textId="0B2935C3" w:rsidR="008E75B1" w:rsidRDefault="002E5547" w:rsidP="008E75B1">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="002E5547">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">an </w:t>
+</w:r>
+<w:r w:rsidRPr="002E5547">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>endeavor</w:t>
+</w:r>
+<w:r w:rsidRPr="002E5547">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> with defined start and finish dates undertaken to create a product or service in accordance with specified resources and requirements” (ISO/IEC, 12207, 2008, p. 5).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4381FDAB" w14:textId="47003E40" w:rsidR="002E5547" w:rsidRDefault="002E5547" w:rsidP="0055706A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>projektin määritelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6F60F0DE" w14:textId="40D854D2" w:rsidR="002E5547" w:rsidRDefault="0055706A" w:rsidP="002E5547">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0055706A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the most common combination of criteria used to measure the success of a project concerns meeting time, cost, functionality and quality goals</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="463AC5F2" w14:textId="4E8162D8" w:rsidR="0055706A" w:rsidRDefault="0055706A" w:rsidP="008C64E8">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="0055706A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Iron triangle</w:t>
+</w:r>
+<w:r>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="54B9D527" w14:textId="12F6A85E" w:rsidR="0055706A" w:rsidRDefault="008C64E8" w:rsidP="0055706A">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="008C64E8">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>using the traditional project success criteria, i.e. time, budget, and requirements, easily leads to the conclusion that a software development project has failed.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1BA5E230" w14:textId="24CCD2E2" w:rsidR="008C64E8" w:rsidRDefault="008C64E8" w:rsidP="008F5538">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jep! Vrt. kaaosraporttien kritiikki.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="60C2DD99" w14:textId="64F7FA0F" w:rsidR="008C64E8" w:rsidRDefault="008F5538" w:rsidP="008C64E8">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="008F5538">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">a definition with additional aspects that define project success (e.g. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="008F5538">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Shenhar</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="008F5538">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> et al., 2001) as well as take into account the individual stakeholder's opinion of project success</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1840FF5F" w14:textId="5A8FADF9" w:rsidR="008F5538" w:rsidRDefault="008F5538" w:rsidP="0008034D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Tiivistää sitä mitä olen tähän mennessä lukenut hyvin.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="551207A4" w14:textId="1B7143D7" w:rsidR="008F5538" w:rsidRDefault="0008034D" w:rsidP="008F5538">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0008034D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>most software estimates are performed at the beginning of the software development process before the problem is understood, and furthermore, they are not made by the people who will develop the software or by their managers but by either upper management or marketing.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="63444E31" w14:textId="6B142469" w:rsidR="0008034D" w:rsidRDefault="0008034D" w:rsidP="00365C88">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jälleen, kaaosraporttien kritiikki vain eri muodossa ja kontekstissa</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7EC5B25F" w14:textId="6F932CC7" w:rsidR="0008034D" w:rsidRDefault="00365C88" w:rsidP="0008034D">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00365C88">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>As a result, he argues that there is little reason to be concerned when software projects do not meet cost or schedule targets.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7C29D3F6" w14:textId="2BB05499" w:rsidR="00365C88" w:rsidRDefault="00365C88" w:rsidP="009D5602">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Hurraa!</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="26AA4C79" w14:textId="16828B7D" w:rsidR="00365C88" w:rsidRDefault="009D5602" w:rsidP="00365C88">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="009D5602">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>this seems to support the claim that software development projects fail, although successful software implementation is globally pervasive.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="292DEB6A" w14:textId="24F8ADEF" w:rsidR="009D5602" w:rsidRDefault="009D5602" w:rsidP="008346E6">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Sama ajatus on ilmennyt aiemmin; miten voi olla</w:t>
+</w:r>
+<w:r w:rsidR="00691EF4">
+<w:t>,</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> että näin suuri osa ohjelmistoprojekteista ”epäonnistuu” kun </w:t>
+</w:r>
+<w:r w:rsidR="00691EF4">
+<w:t>ohjelmistoprojekteja kuitenkin tehdään jatkuvasti (ja näennäisesti ala voi hyvin?)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="23162E3D" w14:textId="6B8B8951" w:rsidR="00691EF4" w:rsidRDefault="008346E6" w:rsidP="00691EF4">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00207151">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Project management is defined as “the process of controlling the achievement of the project objectives by</w:t>
+</w:r>
+<w:r w:rsidRPr="00207151">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00207151" w:rsidRPr="00207151">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>applying a collection of tools and techniques</w:t>
+</w:r>
+<w:r w:rsidR="00207151">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="631FE2EF" w14:textId="173E68BC" w:rsidR="00207151" w:rsidRDefault="00207151" w:rsidP="00A5601B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Niin. Ehkä munkin olisi hyvä määritellä projektin hallinta johdannossa. PMBOK?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5044C0DF" w14:textId="306EDC6B" w:rsidR="00207151" w:rsidRDefault="00A5601B" w:rsidP="00207151">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A5601B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The distinction between project success and PM success can also be expressed thus: “the operation was a success, but the patient died” (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00A5601B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Jugdev</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00A5601B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> and Müller, 2005, p. 22).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="280AD455" w14:textId="4F346AF4" w:rsidR="00A5601B" w:rsidRDefault="00A5601B" w:rsidP="007465E9">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Aika mehukas vertaus. Hyvin kirjoitettu artikkeli</w:t>
+</w:r>
+<w:r w:rsidR="008E5BEA">
+<w:t>. Tosin ei se vielä kerro tieteellisyydestä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="28F7F014" w14:textId="0D2864D2" w:rsidR="008E5BEA" w:rsidRDefault="007465E9" w:rsidP="008E5BEA">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="007465E9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Only recently have studies appeared which note that the customer and the supplier may have different perceptions of risk, risk management, and project success</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="61B07D71" w14:textId="19F3CDE3" w:rsidR="007465E9" w:rsidRDefault="007465E9" w:rsidP="0092725A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>projektin onnistumisen jaottelua tai asioita, jotka koostavat sitä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D02A77A" w14:textId="2A34CDC2" w:rsidR="007465E9" w:rsidRDefault="0092725A" w:rsidP="007465E9">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001110AF">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>In one of the cases the supplier finished the software development project practically on time. However, the customer was not satisfied with the new system and never used it, but still paid the invoice. Hence, from the customer's perspective the project was</w:t>
+</w:r>
+<w:r w:rsidR="001110AF" w:rsidRPr="001110AF">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="001110AF" w:rsidRPr="001110AF">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>clearly a failure, but from the supplier's perspective the situation was not so straightforward.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="46C65A4D" w14:textId="75DD0880" w:rsidR="001110AF" w:rsidRDefault="001110AF" w:rsidP="000227B8">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jotain vastaavaa mietin päässäni äsken, mutta laittaahan tämä miettimään. Universaalisuutta rajoittava tekijä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1FA80D9B" w14:textId="501BBD47" w:rsidR="001110AF" w:rsidRDefault="00CD40C6" w:rsidP="001110AF">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00CD40C6">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>According to him, most software estimates are performed at the beginning of the software development process before the problem is understood, and furthermore, they are not made by the people who will develop the software or by their managers but by either upper management or marketing. These estimates are rarely adjusted later, and therefore estimates are made at the wrong time by the wrong people and are quite flawed.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5339237C" w14:textId="351199C0" w:rsidR="00CD40C6" w:rsidRDefault="00CD40C6" w:rsidP="00822FDA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Tämä saattoi olla jo, mutta tukee ehkä hyvin omaa johdantoa</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7F4426E0" w14:textId="54F85E9A" w:rsidR="00CD40C6" w:rsidRDefault="00822FDA" w:rsidP="00CD40C6">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00822FDA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>advises against confusing project management objectives (time/cost/ quality) with project success.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="57521C1A" w14:textId="6A4D4551" w:rsidR="00822FDA" w:rsidRDefault="00822FDA" w:rsidP="009D2FCB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Saattoi olla jo, mutta </w:t>
+</w:r>
+<w:r w:rsidRPr="00822FDA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>iron triangle</w:t>
+</w:r>
+<w:r>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="31691FF3" w14:textId="79FD1098" w:rsidR="00822FDA" w:rsidRDefault="009D2FCB" w:rsidP="00822FDA">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="009D2FCB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Finishing a project within budget may mean not that it has been successful, but only that the management of costs has been successful.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7C727F24" w14:textId="733EF1C6" w:rsidR="009D2FCB" w:rsidRDefault="009D2FCB" w:rsidP="00BA3911">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>olen ajatellut samaa ideaa näin, mutta en olisi osannut puhua käsitteestä ”</w:t>
+</w:r>
+<w:r w:rsidRPr="009D2FCB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>management of costs</w:t>
+</w:r>
+<w:r>
+<w:t>”.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="50CE22BA" w14:textId="4098C4B6" w:rsidR="009D2FCB" w:rsidRDefault="00BA3911" w:rsidP="009D2FCB">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00BA3911">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>They use PM criteria in assessing IT project success/failure, which is one reason why these reports maintain the claim that software development projects often fail.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3FBF4233" w14:textId="349E16B1" w:rsidR="00BA3911" w:rsidRDefault="00C97487" w:rsidP="008D3839">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Kritisoi </w:t>
+</w:r>
+<w:r w:rsidRPr="00ED263B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Standish Group</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> (asiallista). Hitto tä</w:t>
+</w:r>
+<w:r w:rsidR="00ED263B">
+<w:t>m</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">ä tutkija on tehnyt kotiläksynsä. Jääkö </w:t>
+</w:r>
+<w:r w:rsidR="00ED263B">
+<w:t xml:space="preserve">minulle </w:t>
+</w:r>
+<w:r>
+<w:t>enää mitään uutta sanottavaa? Odotetaanko kanditutkielmilta, että niiden pitäisi sanoa jotain uutta? Eikö kanditutkielmien olisi hyvä olla tutustumista tieteelliseen kirjallisuuteen referoimalla sitä. Mahdotonta tietää etukäteen, mikä on olennaista ja mikä ei.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0221EB22" w14:textId="1A5FBDEA" w:rsidR="00C97487" w:rsidRDefault="008D3839" w:rsidP="00C97487">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="008D3839">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We used common search terms because earlier studies have shown that many articles use unclear and nonstandard terminology (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="008D3839">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Jørgensen</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="008D3839">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> and Shepperd, 2007).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6605726D" w14:textId="5CC9FB3B" w:rsidR="008D3839" w:rsidRDefault="008D3839" w:rsidP="00372DE0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jep</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4BB7EA76" w14:textId="4F4E4055" w:rsidR="008D3839" w:rsidRDefault="00372DE0" w:rsidP="008D3839">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00372DE0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Project success criteria from the supplier's perspective</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0806DC44" w14:textId="695C1ADD" w:rsidR="00372DE0" w:rsidRDefault="00372DE0" w:rsidP="00897575">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Taulukossa 1 hyvää koontia näistä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0D7F7657" w14:textId="0D78056E" w:rsidR="00372DE0" w:rsidRDefault="00897575" w:rsidP="00372DE0">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00897575">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>one of the main criteria of the success of the current activities from the supplier's point of view is the outlook for future deals with the customer.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5074FC3D" w14:textId="45CC0588" w:rsidR="00897575" w:rsidRDefault="00897575" w:rsidP="00C13D9E">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>minulle</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> uusi ajatus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="457DE79D" w14:textId="48B424CF" w:rsidR="00897575" w:rsidRDefault="00C13D9E" w:rsidP="00897575">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C13D9E">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>none of the reviewed articles provided any definitions of failure</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="41F4E6AD" w14:textId="5B68F44C" w:rsidR="00C13D9E" w:rsidRDefault="00E317AC" w:rsidP="007C2A44">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>samaa ajatusta esiintynyt muissa artikkeleissa. Mietityttää nykytilanne (jatkotutkimusaihe)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6470F4A1" w14:textId="7E9CAEC0" w:rsidR="007C2A44" w:rsidRDefault="007C2A44" w:rsidP="007C2A44">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="02B702E8" w14:textId="77777777" w:rsidR="007C2A44" w:rsidRPr="00A57265" w:rsidRDefault="007C2A44" w:rsidP="007C2A44">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A57265">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Meeting planning goals (success at the project manager level),</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="31553A72" w14:textId="77777777" w:rsidR="007C2A44" w:rsidRPr="00A57265" w:rsidRDefault="007C2A44" w:rsidP="007C2A44">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A57265">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>End-user benefits (success from the end-user point of view), and</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="288DDA06" w14:textId="77777777" w:rsidR="00A57265" w:rsidRPr="00A57265" w:rsidRDefault="007C2A44" w:rsidP="007C2A44">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A57265">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Contractor benefits (success at the contractor's level, including the commercial success of the project and potential for future revenues).</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="58839657" w14:textId="64F1E50E" w:rsidR="00E317AC" w:rsidRDefault="007C2A44" w:rsidP="00A57265">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2EED31DD" w14:textId="3C9D9FF8" w:rsidR="00A57265" w:rsidRDefault="00A57265" w:rsidP="00A57265">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Hyvää jaottelua. Menestystekijöiden universaalisuutta rajoittaa se, kenen perspektiivistä onnistumista tarkastellaan.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="060EC49D" w14:textId="27EF0631" w:rsidR="00A57265" w:rsidRDefault="00A07459" w:rsidP="00A57265">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A07459">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>only when success criteria are identified and understood for each project type will it be possible to determine whether different software development models have an influence on the project success.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="17CD4B90" w14:textId="6F9C24C9" w:rsidR="00A07459" w:rsidRDefault="00A07459" w:rsidP="00A07459">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>puhuu universaalisuudesta. alan olla aika väsyksissä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="543C2163" w14:textId="77777777" w:rsidR="00A07459" w:rsidRPr="008E75B1" w:rsidRDefault="00A07459" w:rsidP="00A07459"/>
+<w:sectPr w:rsidR="00A07459" w:rsidRPr="008E75B1">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
