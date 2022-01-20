@@ -296,15 +296,7 @@
 </w:tcPr>
 <w:p w14:paraId="1BB54EE2" w14:textId="6CF6FAF3" w:rsidR="009F4625" w:rsidRPr="00D527B2" w:rsidRDefault="007710D2" w:rsidP="001C4A97">
 <w:r w:rsidRPr="00D527B2">
-<w:t>Mielestäni otsikosta voisi poistaa sanaparin ”</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>success</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> and”. Menestystekijöitä sivutaan, mutta tutkimuksen pihvi on epäonnistumistekijöissä. Sisältää hyvää ajattelua ja pitkälti samoilla linjoilla oman ajattelun kanssa.</w:t>
+<w:t>Mielestäni otsikosta voisi poistaa sanaparin ”success and”. Menestystekijöitä sivutaan, mutta tutkimuksen pihvi on epäonnistumistekijöissä. Sisältää hyvää ajattelua ja pitkälti samoilla linjoilla oman ajattelun kanssa.</w:t>
 </w:r>
 <w:r w:rsidR="007C6B32" w:rsidRPr="00D527B2">
 <w:t xml:space="preserve"> Omaa ajattelua toki en ollut ehtinyt jalostaa näin pitkälle, mutta en usko tämän lukemisen muodostuvan ongelmaksi.</w:t>
@@ -565,6 +557,36 @@
 </w:r>
 <w:r w:rsidR="00AD5379">
 <w:t xml:space="preserve"> Muutenkin erinomaisen selkeästi kuvattu prosessi. Tulokset myös kai ymmärrettäviä (olen väsyksissä).</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr w:rsidR="000D5F93" w:rsidRPr="005011A1" w14:paraId="45DC5DBE" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="2D835A89" w14:textId="71C84206" w:rsidR="000D5F93" w:rsidRPr="00114E66" w:rsidRDefault="0058633A" w:rsidP="007447CC">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0058633A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Evaluating logistic regression models to estimate software project outcomes</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="23351110" w14:textId="25B39C94" w:rsidR="000D5F93" w:rsidRDefault="003A4878" w:rsidP="001C4A97">
+<w:r>
+<w:t>Muutamia ihan hyvää ajattelua synnyttäviä pointteja; keskittyy todella paljon mallin hiomiseen ja puhuu siitä (mitä odotit?). ok lähde.</w:t>
 </w:r>
 </w:p>
 </w:tc>
@@ -913,11 +935,9 @@
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve">On kerätty kasa (relevanttia?) kirjallisuutta, ja jos artikkeli mainitsee menestystekijän </w:t>
 </w:r>
-<w:proofErr w:type="gramStart"/>
 <w:r w:rsidR="00E967C9" w:rsidRPr="00D527B2">
 <w:t>X</w:t>
 </w:r>
-<w:proofErr w:type="gramEnd"/>
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve"> kuinka monta kertaa tahansa, saa se yhden </w:t>
 </w:r>
@@ -1511,14 +1531,12 @@
 <w:pPr>
 <w:spacing w:after="240"/>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00D527B2">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>Baccarini</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve"> (1999) projektin onnistumisen määrittää projektin hallinnan onnistuminen ja tuotteen onnistuminen</w:t>
 </w:r>
@@ -1723,21 +1741,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">, to categorize the success factors </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidR="00AF790A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>and also</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidR="00AF790A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> to find the critical success factors based on their frequency of </w:t>
+<w:t xml:space="preserve">, to categorize the success factors and also to find the critical success factors based on their frequency of </w:t>
 </w:r>
 <w:r w:rsidR="003140EE" w:rsidRPr="005011A1">
 <w:rPr>
@@ -1798,13 +1802,8 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Lukukerrat: </w:t>
+<w:t>Lukukerrat: Introduction</w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>Introduction</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="000F0E61" w:rsidRPr="00D527B2">
 <w:t>, 1.</w:t>
 </w:r>
@@ -1900,23 +1899,7 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Mikä on </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>project</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>pair</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>?</w:t>
+<w:t>Mikä on project pair?</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="2D196463" w14:textId="02650CAC" w:rsidR="00226ED8" w:rsidRPr="00D527B2" w:rsidRDefault="00982221" w:rsidP="00226ED8">
@@ -1928,59 +1911,9 @@
 </w:tabs>
 <w:ind w:left="714"/>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00D527B2">
-<w:t>widely</w:t>
+<w:t>widely viewed as successful and other widely viewed as unsuccessful</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>viewed</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> as </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>successful</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>other</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>widely</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>viewed</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> as </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>unsuccessful</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="494625A7" w14:textId="6688C6AA" w:rsidR="001446C7" w:rsidRPr="00D527B2" w:rsidRDefault="00696584" w:rsidP="00696584">
 <w:pPr>
@@ -2021,21 +1954,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">l by </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>DeLone</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al</w:t>
+<w:t>l by DeLone et al</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00D527B2">
 <w:rPr>
@@ -2205,16 +2124,8 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Munns and </w:t>
+<w:t>Munns and Bjeimi</w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Bjeimi</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve"> </w:t>
 </w:r>
@@ -2242,13 +2153,8 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="3D3AC39B" w14:textId="3124A26F" w:rsidR="00A91B1F" w:rsidRPr="00D527B2" w:rsidRDefault="007D522F" w:rsidP="00F2712A">
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00D527B2">
-<w:t>PMBOK:in</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> vaikutus tutkimukseen osattu huomio</w:t>
+<w:t>PMBOK:in vaikutus tutkimukseen osattu huomio</w:t>
 </w:r>
 <w:r w:rsidR="00FB4AA0" w:rsidRPr="00D527B2">
 <w:t>i</w:t>
@@ -2400,14 +2306,12 @@
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve">per </w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="009919E0" w:rsidRPr="00D527B2">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>Howsai</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="009919E0" w:rsidRPr="00D527B2">
 <w:t xml:space="preserve"> et al</w:t>
 </w:r>
@@ -3106,21 +3010,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">“Not surprisingly, the more success dimensions we include in the definition of failed projects, the higher the rate of failed projects. With many success dimensions, a high threshold for claiming success, and the requirement that a project </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>has to</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> be successful on all dimensions, there would be very few successful IT projects.”</w:t>
+<w:t>“Not surprisingly, the more success dimensions we include in the definition of failed projects, the higher the rate of failed projects. With many success dimensions, a high threshold for claiming success, and the requirement that a project has to be successful on all dimensions, there would be very few successful IT projects.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="4391E7D5" w14:textId="15BD60D8" w:rsidR="00FB6528" w:rsidRPr="00D527B2" w:rsidRDefault="009F6F02" w:rsidP="00D527B2">
@@ -3344,21 +3234,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">CSF approach first developed by </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00BF7370" w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Rockhart</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00BF7370" w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> (1979)</w:t>
+<w:t>CSF approach first developed by Rockhart (1979)</w:t>
 </w:r>
 <w:r w:rsidRPr="00D527B2">
 <w:t>”</w:t>
@@ -3390,23 +3266,7 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t>Parhaat käytänteet ovat usein (asiantuntijoiden) mielipiteitä. Vrt. yhdessä aiemmassa tutkimuksessa oli ”</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>expert</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>board</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>” joka keskusteli keskeisimmistä menestystekijöistä (en muista tarkkaan)</w:t>
+<w:t>Parhaat käytänteet ovat usein (asiantuntijoiden) mielipiteitä. Vrt. yhdessä aiemmassa tutkimuksessa oli ”expert board” joka keskusteli keskeisimmistä menestystekijöistä (en muista tarkkaan)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7E5B38A2" w14:textId="357710BB" w:rsidR="00A26E30" w:rsidRPr="005011A1" w:rsidRDefault="00A26E30" w:rsidP="00A26E30">
@@ -4149,19 +4009,11 @@
 </w:rPr>
 <w:t>aving multidisciplinary teams with appropriate diversity to match task complexity (</w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="00291D5A" w:rsidRPr="00D527B2">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Conforto</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al.</w:t>
+<w:t>Conforto et al.</w:t>
 </w:r>
 <w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
 <w:rPr>
@@ -4187,21 +4039,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>eam dedication/time available exclusively for the project (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Conforto</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2014)</w:t>
+<w:t>eam dedication/time available exclusively for the project (Conforto et al., 2014)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="48A7586B" w14:textId="77777777" w:rsidR="002A6A9E" w:rsidRPr="005011A1" w:rsidRDefault="002A6A9E" w:rsidP="002A6A9E">
@@ -4221,21 +4059,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>oal clarity (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Conforto</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2014)</w:t>
+<w:t>oal clarity (Conforto et al., 2014)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="6D7B878C" w14:textId="77777777" w:rsidR="002A6A9E" w:rsidRPr="005011A1" w:rsidRDefault="002A6A9E" w:rsidP="002A6A9E">
@@ -4255,21 +4079,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>ngaging people (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Dikert</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2016)</w:t>
+<w:t>ngaging people (Dikert et al., 2016)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7F42AC34" w14:textId="77777777" w:rsidR="002A6A9E" w:rsidRPr="005011A1" w:rsidRDefault="002A6A9E" w:rsidP="002A6A9E">
@@ -4289,21 +4099,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">evel of risk-taking willingness (i.e., risk appetite) (Sheffield &amp; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Lemétayer</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2013; Strode et al., 2009),</w:t>
+<w:t>evel of risk-taking willingness (i.e., risk appetite) (Sheffield &amp; Lemétayer, 2013; Strode et al., 2009),</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5CFF84B7" w14:textId="5946E717" w:rsidR="002A6A9E" w:rsidRPr="005011A1" w:rsidRDefault="002A6A9E" w:rsidP="002A6A9E">
@@ -4329,35 +4125,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> requirements (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Ahimbisibwe</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2015; Sheffield &amp; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Lemétayer</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2013); and</w:t>
+<w:t xml:space="preserve"> requirements (Ahimbisibwe et al., 2015; Sheffield &amp; Lemétayer, 2013); and</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7563A940" w14:textId="310C243A" w:rsidR="00A42298" w:rsidRPr="005011A1" w:rsidRDefault="002A6A9E" w:rsidP="002A6A9E">
@@ -4371,21 +4139,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>The level of project planning (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Ahimbisibwe</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2015).</w:t>
+<w:t>The level of project planning (Ahimbisibwe et al., 2015).</w:t>
 </w:r>
 <w:r w:rsidR="00291D5A" w:rsidRPr="005011A1">
 <w:rPr>
@@ -4556,23 +4310,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t>Ja mikä homma että ”</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>we</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>rated</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">”? Eikö vastaajien itse pitäisi </w:t>
+<w:t xml:space="preserve">Ja mikä homma että ”we rated”? Eikö vastaajien itse pitäisi </w:t>
 </w:r>
 <w:r w:rsidR="002B3378" w:rsidRPr="00D527B2">
 <w:t>arvioida, kun heillä on valtavasti enemmän kontekstia kuin tutkijoilla.</w:t>
@@ -4828,21 +4566,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">”As </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Cule</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, Schmidt, Lyytinen, and Keil (2000) state, there are two main approaches to tackle IT project failure: identifying and controlling the individual risk factors by utilizing risk management; or, grounded in contingency theory, ensuring success by a set of success factors.”</w:t>
+<w:t>”As Cule, Schmidt, Lyytinen, and Keil (2000) state, there are two main approaches to tackle IT project failure: identifying and controlling the individual risk factors by utilizing risk management; or, grounded in contingency theory, ensuring success by a set of success factors.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5DB8DDE9" w14:textId="33338576" w:rsidR="00B94B31" w:rsidRPr="00D527B2" w:rsidRDefault="00B94B31" w:rsidP="00B60086">
@@ -4938,21 +4662,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">”Answering our second research question (RQ2) we can </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>conclude,</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> that most of the failure factors perceived important in the US study are perceived to be important in Hungary as well, but not all.”</w:t>
+<w:t>”Answering our second research question (RQ2) we can conclude, that most of the failure factors perceived important in the US study are perceived to be important in Hungary as well, but not all.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="41F64DB1" w14:textId="3E047C7D" w:rsidR="007B3345" w:rsidRPr="00D527B2" w:rsidRDefault="007B3345" w:rsidP="002C6566">
@@ -5148,35 +4858,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">.] were evaluated against the project success factors, derived from Nelson (2007), </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Kappelman</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>McKeeman</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, and Zhang (2006), and the list published by the Standish Group (a combination of the two lists was used, derived from: Johnson, Boucher, Connors, &amp; Robinson, 2001 and Hartmann, 2006).</w:t>
+<w:t>.] were evaluated against the project success factors, derived from Nelson (2007), Kappelman, McKeeman, and Zhang (2006), and the list published by the Standish Group (a combination of the two lists was used, derived from: Johnson, Boucher, Connors, &amp; Robinson, 2001 and Hartmann, 2006).</w:t>
 </w:r>
 <w:r w:rsidRPr="00D527B2">
 <w:t>”</w:t>
@@ -5294,49 +4976,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>”Standish uses the logical “and” to connect the three above statements, though it is obvious that there should be an “or” instead (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Gemino</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et. al. 2007; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Jørgensen</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> &amp; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Moløkken</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2006).”</w:t>
+<w:t>”Standish uses the logical “and” to connect the three above statements, though it is obvious that there should be an “or” instead (Gemino et. al. 2007; Jørgensen &amp; Moløkken, 2006).”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="35AF948D" w14:textId="7856F8CD" w:rsidR="00F661B3" w:rsidRPr="005011A1" w:rsidRDefault="00F661B3" w:rsidP="005E1D80">
@@ -5392,35 +5032,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">”A survey made by Karlsen, Andersen, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Birkely</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Ødegård</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> (2005, p. 530) revealed that the highest-ranked success criterion among Norwegian project managers was whether a system “works as expected and solves the problem,” whereas the iron triangle criteria were ranked on positions 7, 8, and 9.”</w:t>
+<w:t>”A survey made by Karlsen, Andersen, Birkely, and Ødegård (2005, p. 530) revealed that the highest-ranked success criterion among Norwegian project managers was whether a system “works as expected and solves the problem,” whereas the iron triangle criteria were ranked on positions 7, 8, and 9.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="11F8829A" w14:textId="63641415" w:rsidR="00A817FC" w:rsidRPr="00D527B2" w:rsidRDefault="00A817FC" w:rsidP="00A817FC">
@@ -5442,15 +5054,7 @@
 <w:ind w:left="714"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Yksikään luettu lähde ei ole vuodelta 2005. Mielenkiintoinen silti. Sekoitan </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>Jorgensen</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> 2016?</w:t>
+<w:t>Yksikään luettu lähde ei ole vuodelta 2005. Mielenkiintoinen silti. Sekoitan Jorgensen 2016?</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="56757D0F" w14:textId="7545BE82" w:rsidR="00734B88" w:rsidRPr="005011A1" w:rsidRDefault="00734B88" w:rsidP="00734B88">
@@ -5464,21 +5068,7 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">”Cuellar (2010) concludes that project success may </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>be considered to be</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> objective, when it is represented by measurable constructs, like time, schedule, and scope, as well as subjective and relative, if multiple stakeholders’ opinions are taken into consideration.”</w:t>
+<w:t>”Cuellar (2010) concludes that project success may be considered to be objective, when it is represented by measurable constructs, like time, schedule, and scope, as well as subjective and relative, if multiple stakeholders’ opinions are taken into consideration.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="03E8EB84" w14:textId="6A08A428" w:rsidR="004C55C8" w:rsidRPr="00D527B2" w:rsidRDefault="00734B88" w:rsidP="00D527B2">
@@ -5527,35 +5117,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> while Joosten, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="003C3EF3" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Basten</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="003C3EF3" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="003C3EF3" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Mellis</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="003C3EF3" w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, (2011) claim that restricting the success evaluation to the iron triangle is caused by problems with the measurability of further success dimensions.</w:t>
+<w:t xml:space="preserve"> while Joosten, Basten, and Mellis, (2011) claim that restricting the success evaluation to the iron triangle is caused by problems with the measurability of further success dimensions.</w:t>
 </w:r>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
@@ -5779,21 +5341,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">, which would </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>take into account</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> the findings presented above, </w:t>
+<w:t xml:space="preserve">, which would take into account the findings presented above, </w:t>
 </w:r>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
@@ -5945,19 +5493,11 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Baccarini</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> (1999) concluded that project success should be measured in two categories:</w:t>
+<w:t>Baccarini (1999) concluded that project success should be measured in two categories:</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="25A4D073" w14:textId="29C8CF61" w:rsidR="00564E92" w:rsidRPr="005011A1" w:rsidRDefault="00564E92" w:rsidP="00564E92">
@@ -6334,7 +5874,6 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:b/>
@@ -6343,7 +5882,6 @@
 </w:rPr>
 <w:t>OnTime</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="71EF6C83" w14:textId="77777777" w:rsidR="00FD6527" w:rsidRPr="005011A1" w:rsidRDefault="00FD6527" w:rsidP="00DD724E">
 <w:pPr>
@@ -6354,7 +5892,6 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:b/>
@@ -6363,7 +5900,6 @@
 </w:rPr>
 <w:t>OnBudget</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="3BD6C64A" w14:textId="77777777" w:rsidR="00FD6527" w:rsidRPr="005011A1" w:rsidRDefault="00FD6527" w:rsidP="00DD724E">
 <w:pPr>
@@ -6372,7 +5908,6 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:b/>
@@ -6381,7 +5916,6 @@
 </w:rPr>
 <w:t>OnTarget</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="28263CD4" w14:textId="77777777" w:rsidR="00FD6527" w:rsidRPr="005011A1" w:rsidRDefault="00FD6527" w:rsidP="00DD724E">
 <w:pPr>
@@ -6390,14 +5924,12 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>OnGoal</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="75984D7B" w14:textId="77777777" w:rsidR="00FD6527" w:rsidRPr="005011A1" w:rsidRDefault="00FD6527" w:rsidP="00DD724E">
 <w:pPr>
@@ -6476,49 +6008,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> “The Traditional Resolution of </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnTime</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnBudget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnTarget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> clearly supports the goals of project management, but not the customer or user of the product or project. T”</w:t>
+<w:t xml:space="preserve"> “The Traditional Resolution of OnTime, OnBudget, and OnTarget clearly supports the goals of project management, but not the customer or user of the product or project. T”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="188F5B12" w14:textId="290044F2" w:rsidR="002B4475" w:rsidRPr="00D527B2" w:rsidRDefault="002B4475" w:rsidP="00CA574B">
@@ -6526,23 +6016,7 @@
 <w:spacing w:before="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Mitä </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>OnTarget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> ja </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>OnGoal</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> tarkoittavat? </w:t>
+<w:t xml:space="preserve">Mitä OnTarget ja OnGoal tarkoittavat? </w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0A61CA1D" w14:textId="5F30FCF4" w:rsidR="00CA574B" w:rsidRPr="00D527B2" w:rsidRDefault="00CA574B" w:rsidP="00CA574B">
@@ -6550,28 +6024,15 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t>Käytettyjä ilmaisujakaan ei selitetä kauhean selvästi; ”PROJECT SIZE BY CHAOS RESOLUTION” käyttää ilmaisuja kuten ”Grand”, ”</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>Large</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>”, ”Medium” jne. ilman kummempia selityksiä.</w:t>
+<w:t>Käytettyjä ilmaisujakaan ei selitetä kauhean selvästi; ”PROJECT SIZE BY CHAOS RESOLUTION” käyttää ilmaisuja kuten ”Grand”, ”Large”, ”Medium” jne. ilman kummempia selityksiä.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="756502B1" w14:textId="29D01B66" w:rsidR="00B408F2" w:rsidRPr="00D527B2" w:rsidRDefault="00B408F2" w:rsidP="00B408F2">
 <w:pPr>
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00D527B2">
-<w:t>OnGoal</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> tarkoittaa ehkä, että on alusta asti selvää, mihin pisteeseen pitää päästä?</w:t>
+<w:t>OnGoal tarkoittaa ehkä, että on alusta asti selvää, mihin pisteeseen pitää päästä?</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0C0B3792" w14:textId="3B82F3CF" w:rsidR="00B408F2" w:rsidRPr="00D527B2" w:rsidRDefault="00B408F2" w:rsidP="00B408F2">
@@ -6584,15 +6045,7 @@
 <w:ind w:left="714"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Mutta entä </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>OnTarget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>?</w:t>
+<w:t>Mutta entä OnTarget?</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="55C03A04" w14:textId="7C745351" w:rsidR="002B4475" w:rsidRPr="005011A1" w:rsidRDefault="008A134B" w:rsidP="00CA574B">
@@ -6606,21 +6059,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">”In changing from the </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnTarget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> constraint to satisfactory we avoid penalizing a project for having an evolving target, which all projects have, even the very small ones.”</w:t>
+<w:t>”In changing from the OnTarget constraint to satisfactory we avoid penalizing a project for having an evolving target, which all projects have, even the very small ones.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="15AD4FE0" w14:textId="1D2A0E92" w:rsidR="008A134B" w:rsidRPr="005011A1" w:rsidRDefault="006E268F" w:rsidP="008A134B">
@@ -6853,49 +6292,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">“In our CHAOS Report 2014 we showed that project resolution differed slightly by most of the areas of the world. In that report we used the traditional success metrics of </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnTime</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnBudget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnTarget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>. In this report we used the Modern def</w:t>
+<w:t>“In our CHAOS Report 2014 we showed that project resolution differed slightly by most of the areas of the world. In that report we used the traditional success metrics of OnTime, OnBudget, and OnTarget. In this report we used the Modern def</w:t>
 </w:r>
 <w:r w:rsidR="00CA43DE" w:rsidRPr="005011A1">
 <w:rPr>
@@ -6907,21 +6304,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">nition of success of Ontime, </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>OnBudget</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, with a satisfactory result. We see a major bifurcation with North America and the rest of the world; North America has a 31% success rate versus Europe at 25%, Asia at 22%, and the rest of world at 24%.”</w:t>
+<w:t>nition of success of Ontime, OnBudget, with a satisfactory result. We see a major bifurcation with North America and the rest of the world; North America has a 31% success rate versus Europe at 25%, Asia at 22%, and the rest of world at 24%.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="63B08AFA" w14:textId="0D776171" w:rsidR="00144C79" w:rsidRPr="00D527B2" w:rsidRDefault="00144C79" w:rsidP="00144C79">
@@ -6929,21 +6312,13 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t>“</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>Bif</w:t>
+<w:t>“Bif</w:t>
 </w:r>
 <w:r w:rsidR="00D527B2" w:rsidRPr="00D527B2">
 <w:t>t</w:t>
 </w:r>
 <w:r w:rsidRPr="00D527B2">
-<w:t>urkaatio</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> tarkoittaa kaaosteoriassa järjestelmän käyttäytymisen haarautumista äkillisesti kahdeksi, usein erilliseksi, haaraksi.” Wikipedia</w:t>
+<w:t>urkaatio tarkoittaa kaaosteoriassa järjestelmän käyttäytymisen haarautumista äkillisesti kahdeksi, usein erilliseksi, haaraksi.” Wikipedia</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="60217E5D" w14:textId="54D9A651" w:rsidR="00144C79" w:rsidRPr="00D527B2" w:rsidRDefault="00144C79" w:rsidP="00144C79">
@@ -7124,21 +6499,13 @@
 </w:p>
 <w:p w14:paraId="54B47BBE" w14:textId="6DE1BFE1" w:rsidR="00FC3022" w:rsidRPr="00D527B2" w:rsidRDefault="00B90E33" w:rsidP="00FC3022">
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Kyseessä on tosiaan konsultointifirma. Kts. </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>PDF</w:t>
+<w:t>Kyseessä on tosiaan konsultointifirma. Kts. PDF</w:t>
 </w:r>
 <w:r w:rsidR="00D527B2">
 <w:t>:</w:t>
 </w:r>
 <w:r w:rsidRPr="00D527B2">
-<w:t>n</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> viimeinen sivu ja tekstin sekaan on ripoteltu mainintoja </w:t>
+<w:t xml:space="preserve">n viimeinen sivu ja tekstin sekaan on ripoteltu mainintoja </w:t>
 </w:r>
 <w:r w:rsidR="005D00C7" w:rsidRPr="00D527B2">
 <w:t>”</w:t>
@@ -7652,15 +7019,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Jotkut (en muista ketkä, ei </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>Standish</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> Group) olivat käyttäneet onnistumisen mittarina sitä, että täyttää 2/3 onnistumiskategoriasta.</w:t>
+<w:t>Jotkut (en muista ketkä, ei Standish Group) olivat käyttäneet onnistumisen mittarina sitä, että täyttää 2/3 onnistumiskategoriasta.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="71113E92" w14:textId="73D8516E" w:rsidR="0067722E" w:rsidRPr="005011A1" w:rsidRDefault="000A1710" w:rsidP="0067722E">
@@ -7682,15 +7041,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">Tukee “kukin projekti tarvitsee omat menestystekijät” </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>tmv</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">. väitettä. </w:t>
+<w:t xml:space="preserve">Tukee “kukin projekti tarvitsee omat menestystekijät” tmv. väitettä. </w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="1E573B5C" w14:textId="266A3A88" w:rsidR="000A1710" w:rsidRPr="005011A1" w:rsidRDefault="003D020D" w:rsidP="000A1710">
@@ -7999,21 +7350,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">”For instance, Nicholas </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Zvegintzov</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> placed low reliability on information where researchers keep the actual data and data sources hidden.”</w:t>
+<w:t>”For instance, Nicholas Zvegintzov placed low reliability on information where researchers keep the actual data and data sources hidden.”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="50DCFA44" w14:textId="1E4C779B" w:rsidR="00FD74E8" w:rsidRPr="00D527B2" w:rsidRDefault="00FD74E8" w:rsidP="00DE6AB7">
@@ -8143,16 +7480,8 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">What do software practitioners really think about project success: A cross-cultural </w:t>
+<w:t>What do software practitioners really think about project success: A cross-cultural comparison</w:t>
 </w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>comparison</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
 </w:p>
 <w:p w14:paraId="2692CACE" w14:textId="77777777" w:rsidR="00F771A9" w:rsidRPr="00D527B2" w:rsidRDefault="00F771A9" w:rsidP="00393548">
 <w:pPr>
@@ -8188,119 +7517,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>“It has been suggested that most project managers do not understand how to define a successful project or how to characterize project success (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Bennatan</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, 2000; Kanter, 1988; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Linberg</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 1999). A common perception is that a successful project satisfies business goals and meets its schedule (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Baccarini</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, 1999; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Linberg</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, 1999; Pinto and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Slevin</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">, 1988; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Wohlin</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2000; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Wohlin</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> and von </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Mayrhauser</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2000).”</w:t>
+<w:t>“It has been suggested that most project managers do not understand how to define a successful project or how to characterize project success (Bennatan, 2000; Kanter, 1988; Linberg, 1999). A common perception is that a successful project satisfies business goals and meets its schedule (Baccarini, 1999; Linberg, 1999; Pinto and Slevin, 1988; Wohlin et al., 2000; Wohlin and von Mayrhauser, 2000).”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="08CCABAC" w14:textId="55326FBC" w:rsidR="009356BC" w:rsidRPr="00D527B2" w:rsidRDefault="003747B3" w:rsidP="00840E68">
@@ -8309,39 +7526,7 @@
 <w:spacing w:after="240"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">A </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>common</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>perception</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> ihan mielenkiintoinen, mutta odotin </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>iron</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t>triangle</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> -mainintaa.</w:t>
+<w:t>A common perception ihan mielenkiintoinen, mutta odotin iron triangle -mainintaa.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0AF55FF5" w14:textId="7296FD43" w:rsidR="00840E68" w:rsidRPr="005011A1" w:rsidRDefault="00840E68" w:rsidP="00840E68">
@@ -8376,21 +7561,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>“</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Procaccino</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al. (2005) investigated 50 factors, within eight major categories”</w:t>
+<w:t>“Procaccino et al. (2005) investigated 50 factors, within eight major categories”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5DE49A3F" w14:textId="77777777" w:rsidR="00F771A9" w:rsidRPr="00D527B2" w:rsidRDefault="00F771A9" w:rsidP="00F771A9">
@@ -8498,19 +7669,11 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Personnell</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>/professional</w:t>
+<w:t>Personnell/professional</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="75D096D8" w14:textId="77777777" w:rsidR="002C4509" w:rsidRPr="005011A1" w:rsidRDefault="002C4509" w:rsidP="002C4509">
@@ -8566,21 +7729,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">“Other researchers have shown that people working in teams associate success to themselves or to the whole team, and redirect blame for failures outside the team (Naquin and Tynan, 2003; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Schlenker</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> and Miller, 1977).”</w:t>
+<w:t>“Other researchers have shown that people working in teams associate success to themselves or to the whole team, and redirect blame for failures outside the team (Naquin and Tynan, 2003; Schlenker and Miller, 1977).”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0E01624F" w14:textId="36409DB1" w:rsidR="008E1F99" w:rsidRPr="00D527B2" w:rsidRDefault="008E1F99" w:rsidP="00C00383">
@@ -8635,14 +7784,12 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>höh</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="03881ADF" w14:textId="77777777" w:rsidR="008517EE" w:rsidRPr="005011A1" w:rsidRDefault="008517EE">
 <w:pPr>
@@ -8743,7 +7890,6 @@
 <w:r w:rsidRPr="00D527B2">
 <w:t xml:space="preserve">puhutaan mittareista, mutta </w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="00D527B2" w:rsidRPr="00D527B2">
 <w:rPr>
 <w:lang w:val="en-US"/>
@@ -8762,7 +7908,6 @@
 </w:rPr>
 <w:t>F</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidRPr="00D527B2">
 <w:t>: ”</w:t>
 </w:r>
@@ -9171,21 +8316,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>The breadth and depth of a project manager’s project skills is dependent on the type of information technology work performed (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Shenhar</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2001).</w:t>
+<w:t>The breadth and depth of a project manager’s project skills is dependent on the type of information technology work performed (Shenhar, 2001).</w:t>
 </w:r>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
@@ -9274,15 +8405,7 @@
 <w:t>mielenkiintoinen jaottelu</w:t>
 </w:r>
 <w:r w:rsidR="004C51A6" w:rsidRPr="00D527B2">
-<w:t xml:space="preserve">. </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="004C51A6" w:rsidRPr="00D527B2">
-<w:t>Ctrl+f</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="004C51A6" w:rsidRPr="00D527B2">
-<w:t xml:space="preserve"> löydät jatkoa tälle.</w:t>
+<w:t>. Ctrl+f löydät jatkoa tälle.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7771E04F" w14:textId="77777777" w:rsidR="00124B6E" w:rsidRPr="005011A1" w:rsidRDefault="00124B6E" w:rsidP="00124B6E">
@@ -9360,21 +8483,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">” </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Eijnatten</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> (1993)</w:t>
+<w:t>” Eijnatten (1993)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="304A2ED3" w14:textId="191FB3D5" w:rsidR="00334737" w:rsidRPr="00D527B2" w:rsidRDefault="00334737" w:rsidP="00334737">
@@ -9402,21 +8511,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Organization members need to work together to understand the cultural values that exist in the organization </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>in order to</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="005011A1">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> improve project performance (Kotter and Heskett, 1992) and organizational effectiveness (Denison, 1990). According to Cameron and Quinn (1999):</w:t>
+<w:t>Organization members need to work together to understand the cultural values that exist in the organization in order to improve project performance (Kotter and Heskett, 1992) and organizational effectiveness (Denison, 1990). According to Cameron and Quinn (1999):</w:t>
 </w:r>
 <w:r w:rsidRPr="005011A1">
 <w:rPr>
@@ -9604,35 +8699,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Despite many reported benefits, agile methodologies still present some disadvantages in managing complex projects and dealing with environmental dynamism (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="001E6E94">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Nerur</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="001E6E94">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2005; Barlow et al., 2011; </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="001E6E94">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Cervone</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="001E6E94">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>, 2011).</w:t>
+<w:t>Despite many reported benefits, agile methodologies still present some disadvantages in managing complex projects and dealing with environmental dynamism (Nerur et al., 2005; Barlow et al., 2011; Cervone, 2011).</w:t>
 </w:r>
 <w:r>
 <w:rPr>
@@ -9762,23 +8829,7 @@
 <w:t>,</w:t>
 </w:r>
 <w:r>
-<w:t xml:space="preserve"> että joku </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>Rockfeller</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>tmv</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t>. oli metodin ensimmäisenä k</w:t>
+<w:t xml:space="preserve"> että joku Rockfeller tmv. oli metodin ensimmäisenä k</w:t>
 </w:r>
 <w:r w:rsidR="00FB37FA">
 <w:t>eksinyt.</w:t>
@@ -10390,21 +9441,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>the second most commonly used method is Kanban (</w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidRPr="00623D80">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>17%</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidRPr="00623D80">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>)</w:t>
+<w:t>the second most commonly used method is Kanban (17%)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
@@ -10419,23 +9456,7 @@
 <w:pStyle w:val="ListBullet"/>
 </w:pPr>
 <w:r>
-<w:t xml:space="preserve">käyttääkö mikään tiimi puhtaasti vain yhtä metodia? Eikö </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>Kanban</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> ole vain tapa esittää tiimin tehtäviä. Lisäksihän voi olla </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>daily-standup</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> tapaamisia, retroja ym. (jostain muusta menetelmästä? en tiedä)</w:t>
+<w:t>käyttääkö mikään tiimi puhtaasti vain yhtä metodia? Eikö Kanban ole vain tapa esittää tiimin tehtäviä. Lisäksihän voi olla daily-standup tapaamisia, retroja ym. (jostain muusta menetelmästä? en tiedä)</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="7DEC0D87" w14:textId="227D79B4" w:rsidR="00F304D4" w:rsidRDefault="00F304D4" w:rsidP="00645129">
@@ -10449,23 +9470,7 @@
 <w:ind w:left="714"/>
 </w:pPr>
 <w:r>
-<w:t>Kuvio 2: ”</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>Scrum</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> and </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>Kanban</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t>” et ollut ihan hakoteillä.</w:t>
+<w:t>Kuvio 2: ”Scrum and Kanban” et ollut ihan hakoteillä.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="42B2B5CC" w14:textId="0069F970" w:rsidR="00F304D4" w:rsidRDefault="00645129" w:rsidP="00F304D4">
@@ -10829,15 +9834,7 @@
 <w:ind w:left="1071"/>
 </w:pPr>
 <w:r>
-<w:t xml:space="preserve">ohjelmistoprojektit on vain määritelty aika tiukasti: ilmeisesti esim. käyttöönottoprojektit </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>tmv</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve">. eivät kuulu ohjelmistoprojekteihin tässä, vaan ohjelmistoprojekteissa tulee tapahtua ”merkittävää </w:t>
+<w:t xml:space="preserve">ohjelmistoprojektit on vain määritelty aika tiukasti: ilmeisesti esim. käyttöönottoprojektit tmv. eivät kuulu ohjelmistoprojekteihin tässä, vaan ohjelmistoprojekteissa tulee tapahtua ”merkittävää </w:t>
 </w:r>
 <w:r w:rsidR="00DD58A8">
 <w:t xml:space="preserve">vaivannäköä ohjelmiston </w:t>
@@ -11042,21 +10039,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">a definition with additional aspects that define project success (e.g. </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="008F5538">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Shenhar</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="008F5538">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> et al., 2001) as well as take into account the individual stakeholder's opinion of project success</w:t>
+<w:t>a definition with additional aspects that define project success (e.g. Shenhar et al., 2001) as well as take into account the individual stakeholder's opinion of project success</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -11198,21 +10181,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>The distinction between project success and PM success can also be expressed thus: “the operation was a success, but the patient died” (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="00A5601B">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Jugdev</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="00A5601B">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> and Müller, 2005, p. 22).</w:t>
+<w:t>The distinction between project success and PM success can also be expressed thus: “the operation was a success, but the patient died” (Jugdev and Müller, 2005, p. 22).</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -11428,21 +10397,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>We used common search terms because earlier studies have shown that many articles use unclear and nonstandard terminology (</w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidRPr="008D3839">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>Jørgensen</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidRPr="008D3839">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> and Shepperd, 2007).</w:t>
+<w:t>We used common search terms because earlier studies have shown that many articles use unclear and nonstandard terminology (Jørgensen and Shepperd, 2007).</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -11612,8 +10567,710 @@
 <w:t>puhuu universaalisuudesta. alan olla aika väsyksissä.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="543C2163" w14:textId="77777777" w:rsidR="00A07459" w:rsidRPr="008E75B1" w:rsidRDefault="00A07459" w:rsidP="00A07459"/>
-<w:sectPr w:rsidR="00A07459" w:rsidRPr="008E75B1">
+<w:p w14:paraId="10715AB6" w14:textId="77777777" w:rsidR="0058633A" w:rsidRDefault="0058633A">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:sz w:val="32"/>
+<w:szCs w:val="32"/>
+<w:highlight w:val="lightGray"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:highlight w:val="lightGray"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="543C2163" w14:textId="67B1B0FC" w:rsidR="00A07459" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0058633A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Evaluating logistic regression models to estimate software project outcomes</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6FDFCB69" w14:textId="07DC132A" w:rsidR="0058633A" w:rsidRPr="00D527B2" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Lukukerrat:</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="0058633A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Introduction</w:t>
+</w:r>
+<w:r>
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidR="00634882">
+<w:t xml:space="preserve"> 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="778B7054" w14:textId="751BDACA" w:rsidR="0058633A" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="48A56082" w14:textId="4A3727B6" w:rsidR="001F7AB3" w:rsidRPr="00D527B2" w:rsidRDefault="001F7AB3" w:rsidP="001F7AB3">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Kyselypohjainen empiirinen tutkimus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3B614A04" w14:textId="77777777" w:rsidR="0058633A" w:rsidRPr="00D527B2" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1E614CE7" w14:textId="77777777" w:rsidR="0058633A" w:rsidRPr="00D527B2" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="15CFFE68" w14:textId="22053AAE" w:rsidR="0058633A" w:rsidRDefault="0058633A" w:rsidP="0058633A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3DA8E13B" w14:textId="28EBD8DE" w:rsidR="005C36EB" w:rsidRDefault="005C36EB" w:rsidP="005C36EB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Käsittelee PM onnistumista projektin onnistumisena.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7AEB730B" w14:textId="58E5383F" w:rsidR="00083317" w:rsidRDefault="00083317" w:rsidP="005C36EB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Ensimmäinen artikkeli, joka puhuu uhista (</w:t>
+</w:r>
+<w:r w:rsidRPr="00083317">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>threats</w:t>
+</w:r>
+<w:r>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6CABAEDD" w14:textId="58961279" w:rsidR="00C8645F" w:rsidRDefault="00C8645F" w:rsidP="005C36EB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C8645F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Pairing (one successful and one failed project)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="104F887F" w14:textId="54295EAF" w:rsidR="0070115A" w:rsidRPr="0070115A" w:rsidRDefault="0070115A" w:rsidP="005C36EB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="0070115A">
+<w:t>Taulukossa 7 lueteltu ei-merkittäviä menestysmuuttujia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="42C95629" w14:textId="6DAF752E" w:rsidR="005C36EB" w:rsidRDefault="00914E0C" w:rsidP="00914E0C">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7F2F4F22" w14:textId="326E56DF" w:rsidR="00914E0C" w:rsidRDefault="00914E0C" w:rsidP="00914E0C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00914E0C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>As can be appreciated, the number of variables that influence these aspects are innumerable.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4E077729" w14:textId="7D3B72C2" w:rsidR="00914E0C" w:rsidRDefault="00914E0C" w:rsidP="0081777C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>EN OLE YKSIN MIELIPITEENI KANSSA! IHANAA!</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6CAE7F7C" w14:textId="1DA07539" w:rsidR="00914E0C" w:rsidRDefault="0081777C" w:rsidP="00914E0C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0081777C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the software practitioner perspective is extremely valuable to the discipline of software engineering,</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2FBDD344" w14:textId="475F9D35" w:rsidR="0081777C" w:rsidRDefault="0081777C" w:rsidP="001D42A1">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>gradua varten talteen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3A1EC70E" w14:textId="24BBB5EF" w:rsidR="0081777C" w:rsidRPr="00914E0C" w:rsidRDefault="00ED2366" w:rsidP="0081777C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001D42A1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> [</w:t>
+</w:r>
+<w:r w:rsidR="001D42A1" w:rsidRPr="001D42A1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">iron triangle, or something like it] </w:t>
+</w:r>
+<w:r w:rsidR="001D42A1" w:rsidRPr="001D42A1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>However, this definition is post-hoc; by the time these problems are visible the software project has already failed</w:t>
+</w:r>
+<w:r w:rsidR="001D42A1">
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="26DFAE95" w14:textId="573C40EA" w:rsidR="0058633A" w:rsidRPr="00083317" w:rsidRDefault="00ED2366" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00083317">
+<w:t>Hyvää pohdintaa.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7E9F0AD2" w14:textId="61FEBB03" w:rsidR="00CE7EBA" w:rsidRDefault="00CE7EBA" w:rsidP="00ED2366">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Success </w:t>
+</w:r>
+<w:r w:rsidR="00EA06AE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>variables</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> per Table 2:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4B7FBAA6" w14:textId="1EB0C5C0" w:rsidR="00405313" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Level of confidence the customer has in project manager (PM) and team members</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="29C83167" w14:textId="77777777" w:rsidR="00405313" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The customers had realistic expectations</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="13BFE151" w14:textId="77777777" w:rsidR="00405313" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The project had good requirements overall</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="32A8B956" w14:textId="77777777" w:rsidR="00405313" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Estimation and scheduling</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="42F830B3" w14:textId="1B8D87B0" w:rsidR="00405313" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>How good were the estimates</w:t>
+</w:r>
+<w:r w:rsidR="00CE7EBA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="07BD3053" w14:textId="77777777" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Staff were added late to meet an aggressive schedule</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3572E392" w14:textId="0B9E299A" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The project manager communicated well with staff</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4D9E4C97" w14:textId="47133E9C" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>How good was the project manager</w:t>
+</w:r>
+<w:r w:rsidR="00CE7EBA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="050598E8" w14:textId="4855B652" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The project manager related well to software development staff</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3E1BAD73" w14:textId="1F9B2A41" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Adequate time was allowed for each of the phases</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0D7EEA00" w14:textId="6F34ADA7" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>How well did team members work together</w:t>
+</w:r>
+<w:r w:rsidR="00CE7EBA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="15B007ED" w14:textId="79A6E992" w:rsidR="00CE7EBA" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>How high was the motivation of team members</w:t>
+</w:r>
+<w:r w:rsidR="00CE7EBA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3D93308B" w14:textId="4C842CCA" w:rsidR="00ED2366" w:rsidRDefault="007959DD" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="007959DD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>How good was the working environment?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2C3DCED7" w14:textId="77777777" w:rsidR="00BA4796" w:rsidRDefault="00BA4796">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="05B72A49" w14:textId="36A9D42F" w:rsidR="00CE7EBA" w:rsidRDefault="00BA4796" w:rsidP="00CE7EBA">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Success Factors per Table 3:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1521C177" w14:textId="12ABED37" w:rsidR="00BA4796" w:rsidRDefault="00BA4796" w:rsidP="00BA4796">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Project manager capability</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="68B8183E" w14:textId="346861C5" w:rsidR="00BA4796" w:rsidRDefault="00BA4796" w:rsidP="00BA4796">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Realistic project plans</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="237B8674" w14:textId="5A34D7AF" w:rsidR="00BA4796" w:rsidRDefault="00BA4796" w:rsidP="00BA4796">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Adding staff to meet schedules</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="38433CA7" w14:textId="43EF6009" w:rsidR="00BA4796" w:rsidRDefault="00C17478" w:rsidP="001140F2">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00C17478">
+<w:t>Mielenkiintoista on se</w:t>
+</w:r>
+<w:r>
+<w:t>, että menestystekijät on koostettu useammasta eri muuttujasta. Tätä en ainakaan tiedosta nähneeni aikaisemmin.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="51440DCA" w14:textId="121EDEB4" w:rsidR="00C17478" w:rsidRDefault="001140F2" w:rsidP="001140F2">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="001140F2">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001140F2">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Overall, our results are consistent with other research into project success factors.</w:t>
+</w:r>
+<w:r w:rsidRPr="001140F2">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="45526BAB" w14:textId="07CD367D" w:rsidR="001140F2" w:rsidRPr="00C81DEB" w:rsidRDefault="001140F2" w:rsidP="001140F2">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t>Klisee.</w:t>
+</w:r>
+<w:r w:rsidR="004540AA">
+<w:t xml:space="preserve"> Plus kuvio 2 pohjalta rakennettu malli oli paljon huonompi arvioimaan </w:t>
+</w:r>
+<w:r w:rsidR="004540AA" w:rsidRPr="004540AA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>holdout</w:t>
+</w:r>
+<w:r w:rsidR="004540AA">
+<w:t xml:space="preserve"> dataa kuin arvaus (arvauksella 50 % todennäköisyys saada oikein).</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="66B0167A" w14:textId="0370DCE9" w:rsidR="00C81DEB" w:rsidRPr="00BF39B8" w:rsidRDefault="00C81DEB" w:rsidP="00BF39B8">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:t>Kuviot eivät ole prosentuaalisia?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1BD77B49" w14:textId="3E0E0BE8" w:rsidR="00BF39B8" w:rsidRDefault="00BF39B8" w:rsidP="00BF39B8">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00BF39B8">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>a small set of 12 variables</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3BEB97BA" w14:textId="11866708" w:rsidR="00BF39B8" w:rsidRPr="00BF39B8" w:rsidRDefault="00BF39B8" w:rsidP="00BF39B8">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00BF39B8">
+<w:t>12 mielletään pieneksi määräksi</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2B7FFFA4" w14:textId="756CFC8C" w:rsidR="00C81DEB" w:rsidRDefault="00ED4320" w:rsidP="00ED4320">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+</w:pPr>
+<w:r w:rsidRPr="00ED4320">
+<w:t>Ajatus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="71218BDB" w14:textId="3BAE0A4D" w:rsidR="00ED4320" w:rsidRDefault="00ED4320" w:rsidP="00ED4320">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Jaottelua: </w:t>
+</w:r>
+<w:r w:rsidR="003039DF">
+<w:t>voidaanko menestystekijöillä määrittää projektin onnistuminen etu- vai jälkikäteen.?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1ECDF721" w14:textId="77777777" w:rsidR="003039DF" w:rsidRPr="00ED4320" w:rsidRDefault="003039DF" w:rsidP="003039DF"/>
+<w:sectPr w:rsidR="003039DF" w:rsidRPr="00ED4320">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
