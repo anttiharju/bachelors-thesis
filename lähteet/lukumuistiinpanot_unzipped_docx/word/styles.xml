@@ -529,7 +529,6 @@
 <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
 <w:name w:val="Default Paragraph Font"/>
 <w:uiPriority w:val="1"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 </w:style>
 <w:style w:type="table" w:default="1" w:styleId="TableNormal">
@@ -931,5 +930,15 @@
 <w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="ListParagraph">
+<w:name w:val="List Paragraph"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="34"/>
+<w:rsid w:val="008A3C5B"/>
+<w:pPr>
+<w:ind w:left="720"/>
+<w:contextualSpacing/>
+</w:pPr>
 </w:style>
 </w:styles>

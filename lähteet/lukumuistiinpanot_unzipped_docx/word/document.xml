@@ -660,6 +660,36 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="00A95C22" w:rsidRPr="005011A1" w14:paraId="77CE9BDE" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="234DAA4E" w14:textId="40F192F7" w:rsidR="00A95C22" w:rsidRPr="004C6A7F" w:rsidRDefault="004C6A7F" w:rsidP="007447CC">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="004C6A7F">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>Factors Affecting the Successful Realisation of Benefits from Systems Development Projects: Findings from Three Case Studies</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="758B3073" w14:textId="1A2F2093" w:rsidR="00A95C22" w:rsidRDefault="00354822" w:rsidP="001C4A97">
+<w:r>
+<w:t>Tarkastelee rinnalla toista aihetta, joka auttaa peilailemaan aikaisempia omaan aiheeseen keskittyneitä artikkeleita. Hyvä, mutta keskivaiheilla ei paljoa olennaista sisältöä.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="006DF581" w14:textId="3EBD82B0" w:rsidR="00CE097C" w:rsidRPr="00BF25A8" w:rsidRDefault="00CE097C" w:rsidP="00BF25A8">
 <w:pPr>
@@ -12229,9 +12259,9 @@
 <w:t>. Kummallista</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5DF6F643" w14:textId="3B92438F" w:rsidR="000E0625" w:rsidRDefault="00B679FB" w:rsidP="00B679FB">
+<w:p w14:paraId="5DF6F643" w14:textId="3B92438F" w:rsidR="000E0625" w:rsidRDefault="00B679FB" w:rsidP="00E86E7E">
 <w:pPr>
-<w:pStyle w:val="Heading2"/>
+<w:pStyle w:val="Heading3"/>
 </w:pPr>
 <w:r>
 <w:t>Lainauksia</w:t>
@@ -12755,8 +12785,748 @@
 <w:t>WOHOO</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="43178F3B" w14:textId="77777777" w:rsidR="006F4614" w:rsidRPr="00B679FB" w:rsidRDefault="006F4614" w:rsidP="006F4614"/>
-<w:sectPr w:rsidR="006F4614" w:rsidRPr="00B679FB">
+<w:p w14:paraId="43178F3B" w14:textId="519F81AF" w:rsidR="006F4614" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="004C6A7F">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>Factors Affecting the Successful Realisation of Benefits from Systems Development Projects: Findings from Three Case Studies</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7BA86657" w14:textId="470C560D" w:rsidR="004C6A7F" w:rsidRPr="00D527B2" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Lukukerrat:</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="004C6A7F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Introduction</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:r w:rsidR="006B7A80">
+<w:t>1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="066AFF76" w14:textId="77777777" w:rsidR="004C6A7F" w:rsidRPr="00D527B2" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="51D6FC0D" w14:textId="77777777" w:rsidR="004C6A7F" w:rsidRPr="00D527B2" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3F9062AD" w14:textId="77777777" w:rsidR="004C6A7F" w:rsidRPr="00D527B2" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="21266C87" w14:textId="5A0882D1" w:rsidR="004C6A7F" w:rsidRDefault="004C6A7F" w:rsidP="004C6A7F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7ED86687" w14:textId="77777777" w:rsidR="005B29EB" w:rsidRDefault="005B29EB" w:rsidP="005B29EB">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Ajatuksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4EE243B3" w14:textId="2155C615" w:rsidR="005B29EB" w:rsidRDefault="005B29EB" w:rsidP="005B29EB">
+<w:r>
+<w:t>Tämä paperi vaikuttaa ehdottavan uutta suuntausta; muistaakseni niin myös joku aikaisempi (sidosryhmillä) eli voisi olla kiva kirjoittaa muutama kappale tällaisista papereista, jotka keskittyvät yhteen menestystekijään ja käsitellä sitä ilmiönä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="729CD08B" w14:textId="4D9BB2CF" w:rsidR="005D27D7" w:rsidRDefault="005D27D7" w:rsidP="005D27D7">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:ind w:left="357"/>
+</w:pPr>
+<w:r>
+<w:t>Eli esim. muodossa perinteistä näkemystä haastetaan ajoittain, esimerkiksi [kuka] (vuosi) [tiivistelmä] ja jne.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="594C1134" w14:textId="77777777" w:rsidR="005B29EB" w:rsidRPr="00E45F44" w:rsidRDefault="005B29EB" w:rsidP="005B29EB"/>
+<w:p w14:paraId="138F6312" w14:textId="08EF212E" w:rsidR="005B29EB" w:rsidRDefault="005B29EB" w:rsidP="00A67C3A">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="008A3C5B">
+<w:t>(</w:t>
+</w:r>
+<w:r w:rsidRPr="008A3C5B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Levinson</w:t>
+</w:r>
+<w:r w:rsidRPr="008A3C5B">
+<w:t>, 2009) viittaus vaikuttaa puhuvan kaaosraporteista, mutta ei viittaa niihin.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="58D89A21" w14:textId="5A4ABB30" w:rsidR="00A67C3A" w:rsidRPr="00D527B2" w:rsidRDefault="00A67C3A" w:rsidP="005B29EB">
+<w:r>
+<w:t>Ilmeisesti ”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A67C3A">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>benefits realisation approach</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">” on </w:t>
+</w:r>
+<w:r w:rsidR="006D7C5C">
+<w:t>jossain määrin tunnettu (ja uudehko? 2012) tapa hallita IT-toimintoja.</w:t>
+</w:r>
+<w:r w:rsidR="001B7E68">
+<w:t xml:space="preserve"> ”</w:t>
+</w:r>
+<w:r w:rsidR="001B7E68" w:rsidRPr="001B7E68">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>One case study is of particular interest</w:t>
+</w:r>
+<w:r w:rsidR="001B7E68">
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6F3EFA9A" w14:textId="02E2666C" w:rsidR="004C6A7F" w:rsidRPr="00E86E7E" w:rsidRDefault="00E86E7E" w:rsidP="00E86E7E">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="00E86E7E">
+<w:lastRenderedPageBreak/>
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="427FF01C" w14:textId="4B5F3BCC" w:rsidR="00E86E7E" w:rsidRDefault="00E86E7E" w:rsidP="00E86E7E">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00E86E7E">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>While there is a very significant body of literature on the factors that should facilitate a successful outcome from systems development, there is growing concern that these prescriptions are not having their desired effect.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1F85E97D" w14:textId="78B57AC3" w:rsidR="00E86E7E" w:rsidRDefault="00E86E7E" w:rsidP="00E45CD5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="003453C2">
+<w:t>Jep</w:t>
+</w:r>
+<w:r w:rsidR="003453C2" w:rsidRPr="003453C2">
+<w:t xml:space="preserve"> (ainakin omasta mielestä)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="61961FEC" w14:textId="2F7C260A" w:rsidR="008A3C5B" w:rsidRDefault="00F55EC0" w:rsidP="008A3C5B">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00F55EC0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>As noted by Cobb (1996), in his now much quoted paradox: ‘we know why [information systems] projects fail, and we know how to prevent their failure – so why do they still fail?’</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="48CC13FE" w14:textId="3D5DDD10" w:rsidR="00F55EC0" w:rsidRDefault="00270658" w:rsidP="00E45CD5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>kiva lainaus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="54F68115" w14:textId="4475B97A" w:rsidR="00270658" w:rsidRDefault="00E45CD5" w:rsidP="00270658">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00E45CD5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>a significant body of research has been conducted, over the past 30 years,</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7359659E" w14:textId="42BF894F" w:rsidR="00E45CD5" w:rsidRDefault="00E45CD5" w:rsidP="004E42FA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>ehkä hyvä omassakin johdannossa selostaa milloin tutkimusta tapahtunut. Jossakin toisessa paperissa (alkupäässä) taidettiin myös puhua, mutta en tainnut ottaa talteen.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="49037ED4" w14:textId="20711ECD" w:rsidR="00E45CD5" w:rsidRDefault="004E42FA" w:rsidP="00E45CD5">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="004E42FA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>there is a surprisingly high degree of consistency in their findings.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2EB7632F" w14:textId="42264AB2" w:rsidR="004E42FA" w:rsidRDefault="004E42FA" w:rsidP="004E42FA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Haluaisin olla eri mieltä, mutta en ole katsonut dataa. </w:t>
+</w:r>
+<w:r w:rsidRPr="004E42FA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Deja vu</w:t>
+</w:r>
+<w:r>
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="520C6D86" w14:textId="798A3F83" w:rsidR="004E42FA" w:rsidRDefault="00470F43" w:rsidP="004E42FA">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00470F43">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>nearly all studies have highlighted the importance of factors such as</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="47B386D1" w14:textId="7E7DD7E7" w:rsidR="00470F43" w:rsidRDefault="00470F43" w:rsidP="00480A78">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>omaan koosteeseen ehkä kiva lainata tässä esitetyt</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3CD0A617" w14:textId="3C81B561" w:rsidR="00470F43" w:rsidRDefault="00480A78" w:rsidP="00470F43">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00480A78">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>there is no significant evidence to suggest that the adoption of these universal prescriptions</w:t>
+</w:r>
+<w:r w:rsidR="005777F1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> [</w:t>
+</w:r>
+<w:r w:rsidR="005777F1" w:rsidRPr="005777F1">
+<w:t>esimerkkejä</w:t>
+</w:r>
+<w:r w:rsidR="005777F1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">] </w:t>
+</w:r>
+<w:r w:rsidR="005777F1" w:rsidRPr="005777F1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>have led to any noticeable improvement in project outcomes</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="043A5E62" w14:textId="4AD5579F" w:rsidR="00480A78" w:rsidRPr="00480A78" w:rsidRDefault="00480A78" w:rsidP="005777F1">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:sz w:val="24"/>
+<w:szCs w:val="24"/>
+</w:rPr>
+<w:t>WOHOO</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7EC82E3C" w14:textId="6B2E6710" w:rsidR="004E42FA" w:rsidRDefault="001A5569" w:rsidP="005777F1">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001A5569">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the success factors approach has many attractions, it is also flawed in a number of significant ways. For example,</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6E34B1D8" w14:textId="788DB362" w:rsidR="001A5569" w:rsidRDefault="001A5569" w:rsidP="001A5569">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>TALTEEN</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6F27C21E" w14:textId="15AE7797" w:rsidR="005006C2" w:rsidRDefault="005006C2" w:rsidP="005006C2">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">(i), </w:t>
+</w:r>
+<w:r w:rsidRPr="005006C2">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>static vs. dynamic</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> kuvailee vesiputousmallin mukaisia vaiheita. Ironista.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1586B09B" w14:textId="64EDEA4B" w:rsidR="001A5569" w:rsidRDefault="00F0020B" w:rsidP="00F0020B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>(ii) hyvää jaottelua konteksteista</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="16421CC2" w14:textId="126701A4" w:rsidR="00F0020B" w:rsidRDefault="00173E8B" w:rsidP="00F0020B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">(iii) </w:t>
+</w:r>
+<w:r w:rsidRPr="00173E8B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>inter-relationships</w:t>
+</w:r>
+<w:r>
+<w:t>. Tästä taisi olla kokonainen paperi.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="14B69931" w14:textId="411EAA68" w:rsidR="00173E8B" w:rsidRDefault="00BF0995" w:rsidP="009F6BC2">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>(iv) projektilla ei välttämättä ole selkeää loppua. Hyvä pointti.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="507C23AF" w14:textId="0288EA1C" w:rsidR="009F6BC2" w:rsidRDefault="009F6BC2" w:rsidP="009F6BC2">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="009F6BC2">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success factors – such as:</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6AC18791" w14:textId="5989F85B" w:rsidR="009F6BC2" w:rsidRDefault="009F6BC2" w:rsidP="00BB0AE7">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>talteen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1D09A024" w14:textId="5A2EFEC1" w:rsidR="009F6BC2" w:rsidRDefault="00BB0AE7" w:rsidP="009F6BC2">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00BB0AE7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Firstly, in order to get their projects approved, the writers of business cases typically overestimate the benefits and understate costs (Ward et al., 2008).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="57F02B1F" w14:textId="1550B96D" w:rsidR="00BB0AE7" w:rsidRDefault="00BB0AE7" w:rsidP="006F4606">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>menee ehkä ohi, mutta mielenkiintoinen maininta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="54E6372E" w14:textId="7492F29F" w:rsidR="00BB0AE7" w:rsidRDefault="006F4606" w:rsidP="00BB0AE7">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="006F4606">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="006F4606">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>For example, an organisation is far more likely to realise benefits from its new Enterprise Resource Planning (ERP) implementation if it explicitly redesigns its working practices to more closely reflect the process model embedded in the system (Ke and Wei, 2008).</w:t>
+</w:r>
+<w:r w:rsidRPr="006F4606">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4472C47C" w14:textId="4ED37AA5" w:rsidR="006F4606" w:rsidRDefault="006F4606" w:rsidP="00C55C2F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="006F4606">
+<w:t>yleistettävyyttä/universaalisuutta rajoittava tekijä</w:t>
+</w:r>
+<w:r>
+<w:t>, ehkä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2214F5D2" w14:textId="61677A98" w:rsidR="006F4606" w:rsidRDefault="00C55C2F" w:rsidP="006F4606">
+<w:r w:rsidRPr="00C55C2F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C55C2F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Indeed, the most well-used index of information success/failure – the biennial Standish Group reports</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="59D7038A" w14:textId="4C3B736E" w:rsidR="00C55C2F" w:rsidRDefault="00C55C2F" w:rsidP="00C55C2F">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>Kaaosraportteja arvostetaan ja niitä on perusteltua tuoda mukaan.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1FC8123D" w14:textId="5596144A" w:rsidR="00C55C2F" w:rsidRDefault="00241332" w:rsidP="00C55C2F">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00241332">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>we were keen to explore how such success factors might be modified, if their purpose was to facilitate the realisation of meaningful business benefits in the long term, rather than the delivery of a technical artefact in the short term.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="799534CB" w14:textId="0425F742" w:rsidR="00241332" w:rsidRDefault="00241332" w:rsidP="00676341">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>näkökulma</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3F8B60FD" w14:textId="511DE6F1" w:rsidR="00241332" w:rsidRDefault="00676341" w:rsidP="00241332">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00676341">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t xml:space="preserve">Public sector organisations </w:t>
+</w:r>
+<w:r w:rsidRPr="00676341">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t xml:space="preserve">[…] </w:t>
+</w:r>
+<w:r w:rsidRPr="00676341">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>are generally more willing to be more open about their experiences than their private sector counterparts.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="033180C0" w14:textId="25E00B20" w:rsidR="00676341" w:rsidRDefault="00676341" w:rsidP="00676341">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>gradua varten talteen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1F178B24" w14:textId="64E03107" w:rsidR="00676341" w:rsidRDefault="00302888" w:rsidP="00302888">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00302888">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>However, it can be argued that projects should be defined and managed broadly as business transformation, rather than software delivery projects.</w:t>
+</w:r>
+<w:r>
+<w:t>"</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="07C5D0E8" w14:textId="76E54685" w:rsidR="00302888" w:rsidRDefault="00302888" w:rsidP="00A27380">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Kontekstina tietojärjestelmät case-tapauksissa</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="54CF4E22" w14:textId="61299F72" w:rsidR="00302888" w:rsidRDefault="00A27380" w:rsidP="00302888">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A27380">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>However, as Sauer and Davis (2010: 264) note, ‘a project might be successful in meeting its internal targets, yet not deliver beneficial business out comes’ – a ‘failed success’ in Nelson’s (2005) terms – and this is where organisations still frequently struggle.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="14D6C3DD" w14:textId="3DEF91E5" w:rsidR="00A27380" w:rsidRDefault="00A27380" w:rsidP="00A44AE7">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>mielenkiintoinen ilmaisu. Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2ABCC7C6" w14:textId="66158F9B" w:rsidR="00A27380" w:rsidRDefault="00A44AE7" w:rsidP="00A27380">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00A44AE7">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>However, it must be recognised that our list of benefits-oriented factors is by no means complete, as every new system, and its host environment, will be very different, and therefore may require a different set of factors, or similar factors but in a modified form.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1C416ACC" w14:textId="111AECE1" w:rsidR="00A44AE7" w:rsidRDefault="00A44AE7" w:rsidP="002829B0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>yleistettävyyden/universaalisuuden rajoite</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="50FE2963" w14:textId="2DA6A06F" w:rsidR="002829B0" w:rsidRDefault="002829B0" w:rsidP="002829B0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">”(iii) </w:t>
+</w:r>
+<w:r w:rsidRPr="002829B0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Tailor to context: No two IT development projects are the same,</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5E660437" w14:textId="131B1484" w:rsidR="002829B0" w:rsidRDefault="002829B0" w:rsidP="002829B0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+</w:pPr>
+<w:r>
+<w:t>ja lisää!</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="10EED1CA" w14:textId="53700B8B" w:rsidR="007B236F" w:rsidRDefault="007B236F" w:rsidP="002121DF">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="1071"/>
+</w:pPr>
+<w:r>
+<w:t>muutenkin lopun listaus fiksua yleistettävyyden kannalta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0C77A552" w14:textId="2B5D8058" w:rsidR="007B236F" w:rsidRDefault="002121DF" w:rsidP="007B236F">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="002121DF">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>It is important to note, when considering these contributions, that we are not suggesting that the existing systems success factors are intrinsically flawed, but rather that their focus could be enhanced, to improve their chances of delivering positive outcomes.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3D117607" w14:textId="40FE1EC8" w:rsidR="002121DF" w:rsidRDefault="002121DF" w:rsidP="00A44BE0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Hyvin muotoiltu. Vastaavaa omaan? Tai ehkei koska haluan ehkä sanoa juuri mitä nämä eivät. Tosin </w:t>
+</w:r>
+<w:r w:rsidR="00A44BE0">
+<w:t>nuorempana tutkijana aika uhkarohkeaa, ellei jopa röyhkeää.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="68A380A8" w14:textId="77777777" w:rsidR="002829B0" w:rsidRPr="006F4606" w:rsidRDefault="002829B0" w:rsidP="00A44BE0"/>
+<w:sectPr w:rsidR="002829B0" w:rsidRPr="006F4606">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
