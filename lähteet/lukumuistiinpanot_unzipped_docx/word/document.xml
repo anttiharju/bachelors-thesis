@@ -737,6 +737,33 @@
 </w:p>
 </w:tc>
 </w:tr>
+<w:tr w:rsidR="00A85C2C" w:rsidRPr="005011A1" w14:paraId="10EA261C" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="3E11FEFE" w14:textId="70CF3F69" w:rsidR="00A85C2C" w:rsidRPr="000D758B" w:rsidRDefault="00A85C2C" w:rsidP="007447CC">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00A85C2C">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Lessons for IT Project Manager Efficacy: A Review of the Literature Associated with Project Success</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="53702938" w14:textId="77777777" w:rsidR="00A85C2C" w:rsidRDefault="00A85C2C" w:rsidP="001C4A97"/>
+</w:tc>
+</w:tr>
 </w:tbl>
 <w:p w14:paraId="006DF581" w14:textId="3EBD82B0" w:rsidR="00CE097C" w:rsidRPr="00BF25A8" w:rsidRDefault="00CE097C" w:rsidP="00BF25A8">
 <w:pPr>
@@ -15302,8 +15329,1068 @@
 <w:t>yleistettävyys</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="783FB404" w14:textId="77777777" w:rsidR="00F604EE" w:rsidRPr="006A13C5" w:rsidRDefault="00F604EE" w:rsidP="00F604EE"/>
-<w:sectPr w:rsidR="00F604EE" w:rsidRPr="006A13C5">
+<w:p w14:paraId="783FB404" w14:textId="3C4FB528" w:rsidR="00A85C2C" w:rsidRDefault="00A85C2C">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+</w:pPr>
+<w:r>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="58E5885C" w14:textId="59C09083" w:rsidR="00F604EE" w:rsidRPr="00DC533D" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00DC533D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>Lessons for IT Project Manager Efficacy: A Review of the Literature Associated with Project Success</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5EEB8BDE" w14:textId="35DADA71" w:rsidR="00A85C2C" w:rsidRPr="00D527B2" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Lukukerrat:</w:t>
+</w:r>
+<w:r w:rsidR="00DC533D">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00DC533D" w:rsidRPr="00DC533D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Introduction</w:t>
+</w:r>
+<w:r w:rsidR="00DC533D">
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidR="005875DA">
+<w:t xml:space="preserve"> 1.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0D61A4C2" w14:textId="77777777" w:rsidR="00A85C2C" w:rsidRPr="00D527B2" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="75FA6989" w14:textId="77777777" w:rsidR="00A85C2C" w:rsidRPr="00D527B2" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="22AF9C6A" w14:textId="77777777" w:rsidR="00A85C2C" w:rsidRPr="00D527B2" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="46105ADC" w14:textId="288FFF51" w:rsidR="00A85C2C" w:rsidRDefault="00A85C2C" w:rsidP="00A85C2C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3742A1EA" w14:textId="6AE26329" w:rsidR="00E669C6" w:rsidRDefault="00E669C6" w:rsidP="00E669C6">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>Tekee jaottelun PM/P, mutta esittää sinne kolmannenkin. Joku toinen tutkimus teki saman, mutta en muista onko kolmas tekijä sama näissä kahdessa.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0A030B17" w14:textId="6792C9C9" w:rsidR="009A2486" w:rsidRPr="00D527B2" w:rsidRDefault="009A2486" w:rsidP="009A2486">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="1074"/>
+</w:tabs>
+<w:ind w:left="1071"/>
+</w:pPr>
+<w:r>
+<w:t>Yhdistää, mutta samaan aikaan sanoo myöhemmin, että PM/P-jaottelu on tärkeä. Ironista. (”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Ironically</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>”)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4B74C4AF" w14:textId="33C7EC8D" w:rsidR="00A85C2C" w:rsidRDefault="00831EF0" w:rsidP="00831EF0">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r>
+<w:t>Jaottelua</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="25360D0B" w14:textId="77777777" w:rsidR="00831EF0" w:rsidRPr="00831EF0" w:rsidRDefault="00831EF0" w:rsidP="00831EF0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00831EF0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“success” from three perspectives:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="22D83DA2" w14:textId="77777777" w:rsidR="00831EF0" w:rsidRPr="00831EF0" w:rsidRDefault="00831EF0" w:rsidP="00831EF0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00831EF0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project outcomes,</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="301F2DA1" w14:textId="77777777" w:rsidR="00831EF0" w:rsidRPr="00831EF0" w:rsidRDefault="00831EF0" w:rsidP="00831EF0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00831EF0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project management processes, and</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="17CABF3B" w14:textId="2CC12629" w:rsidR="00831EF0" w:rsidRDefault="00831EF0" w:rsidP="00831EF0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00831EF0">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the project manager’s influence.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="08E1C8D7" w14:textId="610D323C" w:rsidR="00E372AD" w:rsidRPr="00E372AD" w:rsidRDefault="00E372AD" w:rsidP="00E372AD">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="00E372AD">
+<w:t>Ajatuksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="524D09BA" w14:textId="34A8755B" w:rsidR="00E372AD" w:rsidRPr="00E372AD" w:rsidRDefault="00E372AD" w:rsidP="00E372AD">
+<w:r w:rsidRPr="00E372AD">
+<w:t>Puhuu sertifioinneista.</w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve"> Eikä suinkaan ainoana artikkelina.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4FB46499" w14:textId="544B2240" w:rsidR="00831EF0" w:rsidRPr="000B51C1" w:rsidRDefault="000B51C1" w:rsidP="000B51C1">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="000B51C1">
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="616DE65C" w14:textId="5532FA7F" w:rsidR="000B51C1" w:rsidRDefault="000B51C1" w:rsidP="000B51C1">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="000B51C1">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>In addition, our review identifies conflicts in goals and measurements of success (success metrics) from these three different perspectives, as they focus on project outcomes, the process of project management, or the project manager.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1FC0BBC5" w14:textId="3B681229" w:rsidR="000B51C1" w:rsidRDefault="000B51C1" w:rsidP="00E669C6">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">KERRANKIN JOKU SANOO ETTEI </w:t>
+</w:r>
+<w:r w:rsidR="00E669C6">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>TULOKSET OLE YKSIMIELEISIÄ</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="228D7A0D" w14:textId="4A688E84" w:rsidR="00E669C6" w:rsidRDefault="002064D7" w:rsidP="00E669C6">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="002064D7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">On the contrary, the literature suggests the definition of success is constantly shifting based on stakeholder perspectives and the project life cycle (see </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="002064D7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Ika</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="002064D7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, 2009; Pinto &amp; </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="002064D7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Slevin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="002064D7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 1998a).</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="283035B2" w14:textId="01F49CFA" w:rsidR="002064D7" w:rsidRPr="002064D7" w:rsidRDefault="002064D7" w:rsidP="00CC5ACE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="002064D7">
+<w:t>yleistettävyys/universaalisuus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2036C6DD" w14:textId="7F0F88BF" w:rsidR="002064D7" w:rsidRDefault="00CC5ACE" w:rsidP="002064D7">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00CC5ACE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Drawing upon this tri-focal lens, we propose a shift in focus on success to the intersection, or “sweet spot of project manager efficacy.”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="11FE0C3D" w14:textId="53327802" w:rsidR="00CC5ACE" w:rsidRDefault="00AF57AF" w:rsidP="00AF57AF">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00AF57AF">
+<w:t>Ei ole ainut artikkeli, joka on ottanut tämän lähestymistavan. Toki tämän artikkelin pääpointti on projektipäällikön kompetenssit, mutta lähestymistapana vastaava.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5232BD37" w14:textId="5849AE87" w:rsidR="00AF57AF" w:rsidRDefault="00642C93" w:rsidP="00AF57AF">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00642C93">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">There are few recent articles on success, suggesting that </w:t>
+</w:r>
+<w:r w:rsidRPr="00642C93">
+<w:rPr>
+<w:u w:val="single"/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>the focus has shifted to specific problems</w:t>
+</w:r>
+<w:r w:rsidRPr="00642C93">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, or a complacent view that certification equates with success.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="49E61A67" w14:textId="2FBF096F" w:rsidR="00642C93" w:rsidRDefault="00642C93" w:rsidP="00C2656C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jep</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="463A7BAE" w14:textId="77777777" w:rsidR="00C2656C" w:rsidRDefault="00C2656C">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+</w:pPr>
+<w:r>
+<w:br w:type="page"/>
+</w:r>
+</w:p>
+<w:p w14:paraId="4ED9A37E" w14:textId="4CA7A916" w:rsidR="00642C93" w:rsidRDefault="00C2656C" w:rsidP="00085167">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00C2656C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Our long list of references highlights that this phenomenon is confounded by the fact that reference to “project success” is often a comprehensive term that includes factors related to project outcomes, the project management methodology, and the project manager’s (person’s) proficiency in using project management techniques, and efficacy in managing across this entire range of issues.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="570E99E4" w14:textId="233326E4" w:rsidR="00C2656C" w:rsidRDefault="00085167" w:rsidP="00085167">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00085167">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">As such, one of our key findings highlighted in the literature is the repeated adage that the only agreement on definitions of success as related to projects and project management is that </w:t>
+</w:r>
+<w:r w:rsidRPr="00085167">
+<w:rPr>
+<w:i/>
+<w:iCs/>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">there is no agreement </w:t>
+</w:r>
+<w:r w:rsidRPr="001A28BB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>on the definitions</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7C67C8C6" w14:textId="0A7C8842" w:rsidR="00085167" w:rsidRDefault="001A28BB" w:rsidP="001A28BB">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>yleistettävyyttä rajoittava juttu</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="66840273" w14:textId="061C5855" w:rsidR="001A28BB" w:rsidRDefault="001A28BB" w:rsidP="001A28BB">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001A28BB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>An additional complicating factor is that different stakeholder groups may define success differently for the same projects</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="08757625" w14:textId="4E7806B0" w:rsidR="001A28BB" w:rsidRDefault="001E1A1A" w:rsidP="001E1A1A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jep</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6DA57975" w14:textId="49D57848" w:rsidR="001E1A1A" w:rsidRDefault="001E1A1A" w:rsidP="001E1A1A">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="001E1A1A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Among the first to argue that we should distinguish between project success and project management success, De Wit (1988) pointed out that the objectives for projects are not the same as objectives for the project management activities, and may even have a hierarchy of priorities.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1D743D59" w14:textId="3DFA19E6" w:rsidR="001E1A1A" w:rsidRDefault="001E1A1A" w:rsidP="001E1A1A">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Auts</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> (lisää lukemista, ja että jo 80-luvulta)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3EC05217" w14:textId="07171D21" w:rsidR="001E1A1A" w:rsidRDefault="002D3E1F" w:rsidP="001E1A1A">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="002D3E1F">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Meeting schedules, budget, and technical performance measures—referred to as “the iron triangle” (de Wit, 1988)</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1CC531D7" w14:textId="7DC8450B" w:rsidR="002D3E1F" w:rsidRDefault="002D3E1F" w:rsidP="000B1095">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">De </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Wit</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> aikamoinen tutkija</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="070DA598" w14:textId="56C43411" w:rsidR="002D3E1F" w:rsidRPr="000B1095" w:rsidRDefault="000B1095" w:rsidP="002D3E1F">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">” </w:t>
+</w:r>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“the triple measures” (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Kloppenborg</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> &amp; </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Opfer</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 2002)—</w:t>
+</w:r>
+<w:r w:rsidRPr="000B1095">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="400E4359" w14:textId="2BDF2D2E" w:rsidR="000B1095" w:rsidRDefault="000B1095" w:rsidP="0023221B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>moneskohan vaihtoehtoinen nimi tämä on tälle.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2BD50B43" w14:textId="4C343880" w:rsidR="000B1095" w:rsidRDefault="0023221B" w:rsidP="000B1095">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0023221B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Despite almost 30 years of lessons learned, his advice for post-implementation audits should be heeded “not so much to determine if absolute terms the success or failure but to identify what went right and what went wrong and why (p. 169).”</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0A6863F0" w14:textId="57E7E71D" w:rsidR="0023221B" w:rsidRDefault="0023221B" w:rsidP="0023221B">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>ei ole konsensusta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="769A1DAC" w14:textId="7C1E19C5" w:rsidR="0023221B" w:rsidRDefault="0023221B" w:rsidP="00BE361C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:spacing w:after="240"/>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>eli ehkä konsensus on, että konsensusta ei ole</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="47D97303" w14:textId="35E3C525" w:rsidR="0023221B" w:rsidRDefault="00BE361C" w:rsidP="0023221B">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00BE361C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project are by definition unique</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7E0EECE9" w14:textId="53C4F3C4" w:rsidR="00BE361C" w:rsidRDefault="00BE361C" w:rsidP="00103B3C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>projektin määritelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="45C8800B" w14:textId="38B9DAFB" w:rsidR="00BE361C" w:rsidRDefault="00103B3C" w:rsidP="00BE361C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00103B3C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>it makes sense that there is not a single definition of project success or a universal set of criteria that one can use to predict project success or the associated skills that lead to it.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4CA6DEB0" w14:textId="1547398D" w:rsidR="00103B3C" w:rsidRDefault="00103B3C" w:rsidP="00924D90">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jep</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="68778A39" w14:textId="0F38E4DB" w:rsidR="00103B3C" w:rsidRDefault="00924D90" w:rsidP="00103B3C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00924D90">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>As shown in Table 2, this debate has been implicit (if not explicit), in most of the research on the many potential factors that lead to project success. A weakness of many of these studies is that they present lists of success factors without sharing context-specific elements.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="075D17B5" w14:textId="33E19875" w:rsidR="00924D90" w:rsidRDefault="00924D90" w:rsidP="00636DFA">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Menestystekijöitä voidaan luetella loputtomiin</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="70A29D30" w14:textId="3249D4D2" w:rsidR="00924D90" w:rsidRDefault="00636DFA" w:rsidP="00924D90">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00636DFA">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We observed that this subjective view has evolved, leading to categories of factors.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="557656BA" w14:textId="5F922F26" w:rsidR="00636DFA" w:rsidRDefault="00636DFA" w:rsidP="00A93C1D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Jep luokittelua/kategorisointia olen havainnut myös</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0627BBA5" w14:textId="58D40E8D" w:rsidR="00636DFA" w:rsidRDefault="00A93C1D" w:rsidP="00636DFA">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00A93C1D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Jugdev</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00A93C1D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> and Müller’s (2005) analysis suggests an evolution in project success related research, they still highlight that project success has both an objective and subjective component and different stakeholder groups interpret project success differently.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5A3F24C4" w14:textId="2F162182" w:rsidR="00A93C1D" w:rsidRDefault="00A93C1D" w:rsidP="0030517D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>menestyksen subjektiivisuus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7F104014" w14:textId="19FA7E6C" w:rsidR="00A93C1D" w:rsidRDefault="0030517D" w:rsidP="00A93C1D">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0030517D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>T</w:t>
+</w:r>
+<w:r w:rsidRPr="0030517D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>he factors influencing project success measurements and perceptions are often in conflict. For example, meeting a budgetary or schedule constraint can have a negative impact on satisfying technical or functional requirements.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="39D0A99C" w14:textId="0E805F52" w:rsidR="0030517D" w:rsidRDefault="00DC0603" w:rsidP="004C5871">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>objektiivisuus</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="716912A4" w14:textId="6DD591DF" w:rsidR="004C5871" w:rsidRDefault="004C5871" w:rsidP="004C5871">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="004C5871">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>The literature treats the project management process as a contributing factor to proj</w:t>
+</w:r>
+<w:r w:rsidRPr="004C5871">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">ect </w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>s</w:t>
+</w:r>
+<w:r w:rsidRPr="004C5871">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>uccess</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="354A03FC" w14:textId="3BD2FD8F" w:rsidR="00DC0603" w:rsidRDefault="00DC0603" w:rsidP="00DC0603">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Lähtöoletus (johdanto?)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="285633A3" w14:textId="550710DD" w:rsidR="00DC0603" w:rsidRDefault="00DD7244" w:rsidP="00DC0603">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00DD7244">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>de Wit (1988)</w:t>
+</w:r>
+<w:r w:rsidRPr="00DD7244">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>:</w:t>
+</w:r>
+<w:r w:rsidRPr="00DD7244">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> project management can contribute to project success; however, effective project management cannot prevent project failure.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0B1ECB93" w14:textId="2D749C9C" w:rsidR="00DD7244" w:rsidRDefault="00E73A0A" w:rsidP="00515B9C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Jaottelu</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="72DD8FD5" w14:textId="437043BA" w:rsidR="004C5871" w:rsidRDefault="00515B9C" w:rsidP="00515B9C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00515B9C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Interestingly, neither the research nor the project management standards provide guidance on how or when to acquire or develop these valuable skills.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="006184AC" w14:textId="44E2FD14" w:rsidR="00515B9C" w:rsidRPr="00515B9C" w:rsidRDefault="00515B9C" w:rsidP="002225F5">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">mielenkiintoista </w:t>
+</w:r>
+<w:r w:rsidRPr="00515B9C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>indeed</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5313BF2E" w14:textId="3D78F62F" w:rsidR="00515B9C" w:rsidRDefault="002225F5" w:rsidP="00515B9C">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="002225F5">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We conclude that rather than studying what constitutes project success, project management success, or even project manager success, research should focus on what contextual factors or attributes influence project manager efficacy, considering the importance of both the hard skills and soft skills over time as the make-up of the sweet spot shifts.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="34925B73" w14:textId="648932A7" w:rsidR="002225F5" w:rsidRDefault="002225F5" w:rsidP="00831804">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Vrt. keskiviikon sähköpostiin ohjaajalle. Samoilla linjoilla (vähän eri aiheesta)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7E6918BD" w14:textId="77D9BFA0" w:rsidR="002225F5" w:rsidRDefault="00831804" w:rsidP="002225F5">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00831804">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Instead, scholars outline the seminal research related to project management, or combined project management theory and refer to con tributing theories. Of the research with atheoretical basis, there are trends in using organizational theories, management theories, or leadership theories, which support the observation that project managers must be generalists in management and leadership and specialists in project management application (McHenry, 2008).</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="77995DA0" w14:textId="637F6DF4" w:rsidR="00831804" w:rsidRDefault="00831804" w:rsidP="00A924B4">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>Mielenkiintoinen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2AAA06B4" w14:textId="56EF530E" w:rsidR="00831804" w:rsidRDefault="00A924B4" w:rsidP="003319F0">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>One message that has been consistent as research has evolved is that project managers and IT project managers must understand that project</w:t>
+</w:r>
+<w:r w:rsidR="005B43EB" w:rsidRPr="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="005B43EB" w:rsidRPr="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success is a perception. Satisfying a single</w:t>
+</w:r>
+<w:r w:rsidR="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="005B43EB" w:rsidRPr="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>stakeholder group’s expectations may not address either process or outcome expectations.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="36521F78" w14:textId="5DB85EC1" w:rsidR="005B43EB" w:rsidRDefault="003319F0" w:rsidP="003319F0">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:proofErr w:type="gramStart"/>
+<w:r>
+<w:t>konteksti-riippuvaisuus</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+</w:p>
+<w:p w14:paraId="0517EB35" w14:textId="09078671" w:rsidR="003319F0" w:rsidRDefault="00160955" w:rsidP="003319F0">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00160955">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Our review supports that static checklists of skills or knowledge miss the point.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="00BD64B0" w14:textId="2B7ABA07" w:rsidR="00160955" w:rsidRDefault="00160955" w:rsidP="0034408D">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>yleistettävyys</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1E3F6235" w14:textId="4983B406" w:rsidR="00160955" w:rsidRDefault="0034408D" w:rsidP="00160955">
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0034408D">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>We have a wealth of research on hard skills or hard metrics, but a shortage of literature on soft skills and how business managers, IT managers, and project managers perceive them.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="43594B13" w14:textId="6D1EF9C1" w:rsidR="0034408D" w:rsidRDefault="0034408D" w:rsidP="0061143C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>korostaa pehmeitä taitoja (jotka voidaan nähdä menestystekijöinä)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="37F89B16" w14:textId="01142065" w:rsidR="0034408D" w:rsidRDefault="0061143C" w:rsidP="0034408D">
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="0061143C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Regardless of the methodologies used, simply repeating studies about project outcomes or project management techniques will add little to our understanding if we ignore the decision-making, interpersonal abilities, and contextual challenges in applying various techniques that are often missing in current research.</w:t>
+</w:r>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="12458DFA" w14:textId="7C2B7F28" w:rsidR="0061143C" w:rsidRDefault="0061143C" w:rsidP="0061143C">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>gradua varten talteen. masentava viesti.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2BBA11C7" w14:textId="77777777" w:rsidR="0061143C" w:rsidRPr="00AF57AF" w:rsidRDefault="0061143C" w:rsidP="0061143C"/>
+<w:sectPr w:rsidR="0061143C" w:rsidRPr="00AF57AF">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
