@@ -761,7 +761,11 @@
 <w:tcPr>
 <w:tcW w:w="4510" w:type="dxa"/>
 </w:tcPr>
-<w:p w14:paraId="53702938" w14:textId="77777777" w:rsidR="00A85C2C" w:rsidRDefault="00A85C2C" w:rsidP="001C4A97"/>
+<w:p w14:paraId="53702938" w14:textId="2F6155D9" w:rsidR="00A85C2C" w:rsidRDefault="00C33B43" w:rsidP="001C4A97">
+<w:r>
+<w:t>Hyvä kirjallisuuskatsaus, mutta keskittyy ehkä liikaa tutkielman kannalta ei-relevantteihin asioihin.</w:t>
+</w:r>
+</w:p>
 </w:tc>
 </w:tr>
 </w:tbl>
@@ -16389,8 +16393,16 @@
 <w:t>gradua varten talteen. masentava viesti.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2BBA11C7" w14:textId="77777777" w:rsidR="0061143C" w:rsidRPr="00AF57AF" w:rsidRDefault="0061143C" w:rsidP="0061143C"/>
-<w:sectPr w:rsidR="0061143C" w:rsidRPr="00AF57AF">
+<w:p w14:paraId="08E6F48A" w14:textId="10322B8A" w:rsidR="00D602F8" w:rsidRPr="00D602F8" w:rsidRDefault="00D602F8" w:rsidP="009D16E4">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+<w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+</w:pPr>
+</w:p>
+<w:sectPr w:rsidR="00D602F8" w:rsidRPr="00D602F8">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>

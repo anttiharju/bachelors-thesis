@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1154" uniqueCount="516">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1155" uniqueCount="517">
 <si>
 <t>The Process Aspect of Project Success: An Empirical Test</t>
 </si>
@@ -1432,13 +1432,7 @@
 <t>Hyvää pohdintaa menestystekijätutkimusten tuloksista</t>
 </si>
 <si>
-<t>Software vain murto-osa kontekstista, mutta tuo tiettyä yleistettävyyttä</t>
-</si>
-<si>
 <t>Viittaa Chow et al 2008, mahdollisesti tukien sitä vs. toinen lähde joka kritisoi sitä</t>
-</si>
-<si>
-<t>Kuvaileva, tarjoaa hyvää historiaa, mutta kontekstina stakeholderit</t>
 </si>
 <si>
 <t>Vaihtoehtoinen lähestymistapa</t>
@@ -1484,9 +1478,6 @@
 </si>
 <si>
 <t>Bouchaib Bahli, Suzanne Rivard</t>
-</si>
-<si>
-<t>Ohjaa pereira et al What do software practitioners really think about project success: a cross-cultural comparison. Se ohjaa case study: factors jne., joka on jo hylätty koska se on rikkinäinen pdf. Lisäksi sen pdf:n viitteet muualle ovat jo aika vanhoja</t>
 </si>
 <si>
 <t>Analysis of Critical Success Factors in IT Project Management</t>
@@ -1547,5 +1538,17 @@
 </si>
 <si>
 <t>kritiikki ei ehkä olennainen mutta auttaa mua kontekstualisoimaan asioita</t>
+</si>
+<si>
+<t>Konteksti ehkä turhan spesifi + ei riitä aika lukea</t>
+</si>
+<si>
+<t>Hylätään, aika vähän viittauksia. Vanha: Ohjaa pereira et al What do software practitioners really think about project success: a cross-cultural comparison. Se ohjaa case study: factors jne., joka on jo hylätty koska se on rikkinäinen pdf. Lisäksi sen pdf:n viitteet muualle ovat jo aika vanhoja</t>
+</si>
+<si>
+<t>Hylätään: Software vain murto-osa kontekstista, mutta tuo tiettyä yleistettävyyttä</t>
+</si>
+<si>
+<t>Ei käsittele ohjelmistoalaa tarpeeksi ekplisiittisesti</t>
 </si>
 </sst>
