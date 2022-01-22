@@ -1438,9 +1438,6 @@
 <t>Vaihtoehtoinen lähestymistapa</t>
 </si>
 <si>
-<t>Hyvää pohdintaa</t>
-</si>
-<si>
 <t>Keskittyy liikaa johtajuuteen</t>
 </si>
 <si>
@@ -1550,5 +1547,8 @@
 </si>
 <si>
 <t>Ei käsittele ohjelmistoalaa tarpeeksi ekplisiittisesti</t>
+</si>
+<si>
+<t>Liian vähän viittauksia. Vanha: hyvää pohdintaa</t>
 </si>
 </sst>

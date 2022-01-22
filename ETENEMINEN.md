@@ -1,5 +1,40 @@
 # Eteneminen
 
+## Lauantaina 22.01.2022
+- Kaikki artikkelit jotka tullaan lukemaan kokonaan, on luettu. Suhteellisen koheesiivinen idea on jo päässä, pitäisi vain kirjoittaa se ylös (jossa voi tulla esiin omia vaikeuksiaan)
+- Tavoite on vain päästä läpi ja valmistua.
+- Loppua kohti artikkelien epäolennaisuus tai jotkut niiden väitteet (gradua ajatellen) alkoivat lähinnä masentaa. Artikkeleita karsittiin pois. Artikkeleita luettiin 21 kpl, joista kaikki paitsi 1 (chaos report) tieteellisiä. Lisälähteiksi tuodaan menetelmän vuoksi ehkä yksi tai kaksi ja PMBOK projektin määritelmälle ja ehkä parille muulle jutulle. Lähteiden määrän perusteella arvosana olisi ehkä 2. Harmittaa kun haluaisin tehdä hyvin, mutta kaikki tuntuu menneen pieleen kandikurssien kanssa
+    - Tilastotieteiden peruskurssi HYVINKIN olennainen ymmärtämisen kannalta, vaikka jotkut väittävät ettei ole.
+    - Tutkimusaihekurssin käyminen kandin jälkeen täysin järjetöntä. Se pitäisi ehdottomasti käydä ennen kandiseminaarikurssia. Miksi sitä lykättiin alkusyksystä loppusyksyyn? Kusi mun muroihin kunnolla.
+    - 1 kk kandin kirjoittamiselle on aika lyhyt aika. Kun jaksan vielä ehkä viikon niin kandin tutkinto valmistumiskunnossa.
+        - Toki pitää nyt siis huomioida, että ihmiset haluaa aina syyttää kaikkea muuta paitsi itseään. Mutta aika jaksamisen äärirajoilla menty. Onneksi mulla on keskiarvon puolesta varaa ottaa tästä se ykkönen.
+- **Eli lopullinen kokonaan luettu lähdeaineisto (josta 52 sivua lukumuistiinpanoja):**
+    - A model of critical success factors for software projects
+    - A new way of thinking about IT project management practices Early empirical results
+    - A study of the impact of project classification on project risk indicators
+    - A survey on the characteristics of projects with success in delivering client benefits
+    - A survey study of critical success factors in agile software projects in former Yugoslavia IT companies
+    - A survey study of critical success factors in agile software projects
+    - CHAOS REPORT 2015
+    - Evaluating logistic regression models to estimate software project outcomes
+    - Factors Affecting the Successful Realisation of Benefits from Systems Development Projects Findings from Three Case Studies
+    - How Can Agile Methodologies Be Used to Enhance the Success of Information Technology Projects
+    - How universal are IT project success and failure factors Evidence from Hungary
+    - Lessons for IT Project Manager Efficacy A Review of the Literature Associated with Project Success
+    - Project Success A Cultural Framework
+    - Quantifying Success Factors for IT Projects—An Expert-Based Bayesian Model
+    - Software development project success and failure from the supplier's perspective A systematic literature review
+    - Standardized project management may increase development projects success
+    - The influence of business managers' IT competence on IT project success
+    - The Rise and Fall of the Chaos Report Figures
+    - Time, Budget, And Functionality—IT Project Success Criteria Revised
+    - What Are the Critical Success Factors for Agile Analytics Projects
+    - What do software practitioners really think about project success A cross-cultural comparison
+
+## Perjantaina 21.01.2022
+- Ohjaaja vastasi keskiviikon sähköpostiin.
+    - Idea otsikkoon: menestystekijät JA niiden yleistettävyyttä rajoittavat tekijät
+
 ## Tiistaina 18.01.2022
 - Urakoin artikkeleita, luin 4 artikkelia. Tahtia pitäisi yhä kiristää ja huomenna raportointia ohjaajalle.
 - Oon kohtuullisen toiveikas alkuperäisessä aikataulussa pysymisestä, mutta vähän stressaa se että ensi maanantaina pitäisi lähettää jonkinlainen raakile (ehtii saada vielä palautetta).

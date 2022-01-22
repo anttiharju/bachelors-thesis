@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
 <w:body>
-<w:p w14:paraId="4139CBED" w14:textId="55FDCF94" w:rsidR="004D67A9" w:rsidRPr="00D527B2" w:rsidRDefault="00DD4857" w:rsidP="00DD4857">
+<w:p w14:paraId="4139CBED" w14:textId="55FDCF94" w:rsidR="004D67A9" w:rsidRPr="00D527B2" w:rsidRDefault="00DD4857" w:rsidP="00871BFC">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
+<w:jc w:val="center"/>
 </w:pPr>
 <w:r w:rsidRPr="00D527B2">
 <w:t>Lukumuistiinpanot</w:t>
@@ -764,6 +765,36 @@
 <w:p w14:paraId="53702938" w14:textId="2F6155D9" w:rsidR="00A85C2C" w:rsidRDefault="00C33B43" w:rsidP="001C4A97">
 <w:r>
 <w:t>Hyvä kirjallisuuskatsaus, mutta keskittyy ehkä liikaa tutkielman kannalta ei-relevantteihin asioihin.</w:t>
+</w:r>
+</w:p>
+</w:tc>
+</w:tr>
+<w:tr w:rsidR="00D126C0" w:rsidRPr="005011A1" w14:paraId="57509056" w14:textId="77777777" w:rsidTr="001C4A97">
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4509" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="0C1E6562" w14:textId="5A1FDD08" w:rsidR="00D126C0" w:rsidRPr="00A85C2C" w:rsidRDefault="003A0DAD" w:rsidP="007447CC">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="003A0DAD">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>MPCS: Multidimensional Project Control System</w:t>
+</w:r>
+</w:p>
+</w:tc>
+<w:tc>
+<w:tcPr>
+<w:tcW w:w="4510" w:type="dxa"/>
+</w:tcPr>
+<w:p w14:paraId="05242949" w14:textId="7D29EB8D" w:rsidR="00D126C0" w:rsidRDefault="00F16EBE" w:rsidP="001C4A97">
+<w:r>
+<w:t>Epäolennainen.</w:t>
 </w:r>
 </w:p>
 </w:tc>
@@ -15082,13 +15113,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:r w:rsidR="00C859B9" w:rsidRPr="00C859B9">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>can be evaluated beforehand, facilitating more rational decision making (Resnik, 1987).</w:t>
+<w:t xml:space="preserve"> can be evaluated beforehand, facilitating more rational decision making (Resnik, 1987).</w:t>
 </w:r>
 <w:r w:rsidR="00C859B9">
 <w:t>”</w:t>
@@ -15185,13 +15210,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">t </w:t>
-</w:r>
-<w:r w:rsidR="005F3CC8" w:rsidRPr="005F3CC8">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>independent variables for project success vary with the stages of the project life cycle.</w:t>
+<w:t>t independent variables for project success vary with the stages of the project life cycle.</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -15883,13 +15902,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">” </w:t>
-</w:r>
-<w:r w:rsidRPr="000B1095">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>“the triple measures” (</w:t>
+<w:t>” “the triple measures” (</w:t>
 </w:r>
 <w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="000B1095">
@@ -15917,13 +15930,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>, 2002)—</w:t>
-</w:r>
-<w:r w:rsidRPr="000B1095">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>”</w:t>
+<w:t>, 2002)—”</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="400E4359" w14:textId="2BDF2D2E" w:rsidR="000B1095" w:rsidRDefault="000B1095" w:rsidP="0023221B">
@@ -16103,13 +16110,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>T</w:t>
-</w:r>
-<w:r w:rsidRPr="0030517D">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>he factors influencing project success measurements and perceptions are often in conflict. For example, meeting a budgetary or schedule constraint can have a negative impact on satisfying technical or functional requirements.</w:t>
+<w:t>The factors influencing project success measurements and perceptions are often in conflict. For example, meeting a budgetary or schedule constraint can have a negative impact on satisfying technical or functional requirements.</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -16132,13 +16133,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>The literature treats the project management process as a contributing factor to proj</w:t>
-</w:r>
-<w:r w:rsidRPr="004C5871">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve">ect </w:t>
+<w:t xml:space="preserve">The literature treats the project management process as a contributing factor to project </w:t>
 </w:r>
 <w:r>
 <w:rPr>
@@ -16173,19 +16168,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>de Wit (1988)</w:t>
-</w:r>
-<w:r w:rsidRPr="00DD7244">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t>:</w:t>
-</w:r>
-<w:r w:rsidRPr="00DD7244">
-<w:rPr>
-<w:lang w:val="en-US"/>
-</w:rPr>
-<w:t xml:space="preserve"> project management can contribute to project success; however, effective project management cannot prevent project failure.</w:t>
+<w:t>de Wit (1988): project management can contribute to project success; however, effective project management cannot prevent project failure.</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -16289,13 +16272,14 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve"> </w:t>
+<w:t xml:space="preserve"> success is a perception. Satisfying a </w:t>
 </w:r>
+<w:proofErr w:type="gramStart"/>
 <w:r w:rsidR="005B43EB" w:rsidRPr="005B43EB">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>success is a perception. Satisfying a single</w:t>
+<w:t>single</w:t>
 </w:r>
 <w:r w:rsidR="005B43EB">
 <w:rPr>
@@ -16307,7 +16291,14 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>stakeholder group’s expectations may not address either process or outcome expectations.</w:t>
+<w:t>stakeholder group’s expectations</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidR="005B43EB" w:rsidRPr="005B43EB">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> may not address either process or outcome expectations.</w:t>
 </w:r>
 <w:r>
 <w:t>”</w:t>
@@ -16393,7 +16384,7 @@
 <w:t>gradua varten talteen. masentava viesti.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="08E6F48A" w14:textId="10322B8A" w:rsidR="00D602F8" w:rsidRPr="00D602F8" w:rsidRDefault="00D602F8" w:rsidP="009D16E4">
+<w:p w14:paraId="08E6F48A" w14:textId="136F6974" w:rsidR="003A0DAD" w:rsidRDefault="003A0DAD">
 <w:pPr>
 <w:numPr>
 <w:ilvl w:val="0"/>
@@ -16401,8 +16392,194 @@
 </w:numPr>
 <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
 </w:pPr>
+<w:r>
+<w:br w:type="page"/>
+</w:r>
 </w:p>
-<w:sectPr w:rsidR="00D602F8" w:rsidRPr="00D602F8">
+<w:p w14:paraId="342D500C" w14:textId="3BFC0503" w:rsidR="00D602F8" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="003A0DAD">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>MPCS: Multidimensional Project Control System</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7CDA3AB2" w14:textId="77777777" w:rsidR="003A0DAD" w:rsidRPr="00D527B2" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Lukukerrat:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5B0AC5FC" w14:textId="77777777" w:rsidR="003A0DAD" w:rsidRPr="00D527B2" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Tutkimusmenetelmä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="475A302F" w14:textId="77777777" w:rsidR="003A0DAD" w:rsidRPr="00D527B2" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Montako menestystekijää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="69F75A88" w14:textId="77777777" w:rsidR="003A0DAD" w:rsidRPr="00D527B2" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Miten menestystekijät määritetty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5158FCFB" w14:textId="5D31A45F" w:rsidR="003A0DAD" w:rsidRDefault="003A0DAD" w:rsidP="003A0DAD">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r w:rsidRPr="00D527B2">
+<w:t>Muuta?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="547BBF54" w14:textId="78E9FD05" w:rsidR="00B71850" w:rsidRDefault="00B71850" w:rsidP="00B71850">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">BCWP, CWS, ACWP käytetään perinteisesti </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>projektointiin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="439C9A42" w14:textId="65540A9E" w:rsidR="000B4EE5" w:rsidRPr="00D527B2" w:rsidRDefault="000B4EE5" w:rsidP="00B71850">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t xml:space="preserve">Miksi ihmeessä tässä käytetään sivuja </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>WBS:n</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> selittämiseen?</w:t>
+</w:r>
+<w:r w:rsidR="008A1145">
+<w:t xml:space="preserve"> Perusjuttuja.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4E59220D" w14:textId="2F886D68" w:rsidR="003A0DAD" w:rsidRDefault="00A958F6" w:rsidP="00A958F6">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="00A958F6">
+<w:t>Lainauksia</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1FDA040D" w14:textId="1E3B0508" w:rsidR="00A958F6" w:rsidRDefault="00D96CB7" w:rsidP="00A958F6">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00D96CB7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">‘‘A project’’ is defined by </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00D96CB7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>PMBoK</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00D96CB7">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> [1] as ‘‘a temporary endeavor undertaken, to create a unique product or service’’.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="593CC23F" w14:textId="75FDED0D" w:rsidR="00D96CB7" w:rsidRPr="00D96CB7" w:rsidRDefault="00D96CB7" w:rsidP="00644394">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00D96CB7">
+<w:t>Aioin tehdä saman</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="15F69395" w14:textId="317E4941" w:rsidR="00A958F6" w:rsidRDefault="00644394" w:rsidP="00A958F6">
+<w:pPr>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00644394">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Earned Value (EV) is the classical project control method used for monitoring two dimensions: time and cost.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="54CD04C6" w14:textId="0E3EC362" w:rsidR="00644394" w:rsidRDefault="00644394" w:rsidP="00F16EBE">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00644394">
+<w:t>klassinen?</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="18DA349C" w14:textId="369964A4" w:rsidR="00644394" w:rsidRPr="00644394" w:rsidRDefault="00F16EBE" w:rsidP="00644394">
+<w:r>
+<w:t>Täysin epäolennainen</w:t>
+</w:r>
+</w:p>
+<w:sectPr w:rsidR="00644394" w:rsidRPr="00644394">
 <w:pgSz w:w="11909" w:h="16834"/>
 <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
 <w:pgNumType w:start="1"/>
