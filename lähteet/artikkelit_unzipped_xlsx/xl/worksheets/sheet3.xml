@@ -3,7 +3,7 @@
 <dimension ref="A1:S43"/>
 <sheetViews>
 <sheetView tabSelected="1" workbookViewId="0">
-<selection activeCell="F13" sqref="F13"/>
+<selection activeCell="F9" sqref="F9"/>
 </sheetView>
 </sheetViews>
 <sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
@@ -77,7 +77,7 @@
 <v>410</v>
 </c>
 <c r="I2" s="15" t="s">
-<v>490</v>
+<v>488</v>
 </c>
 <c r="S2" s="18" t="s">
 <v>464</v>
@@ -85,869 +85,871 @@
 </row>
 <row r="3" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A3" s="6">
-<v>7</v>
+<v>275</v>
 </c>
 <c r="B3" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>1.1666666666666667</v>
+<v>16.176470588235293</v>
 </c>
 <c r="C3" s="6" t="s">
-<v>16</v>
+<v>92</v>
 </c>
 <c r="D3" s="6" t="s">
-<v>1</v>
+<v>59</v>
 </c>
 <c r="E3" s="6">
-<v>2016</v>
+<v>2005</v>
 </c>
 <c r="F3" s="5" t="s">
-<v>15</v>
+<v>91</v>
 </c>
 <c r="G3" s="8" t="s">
-<v>443</v>
+<v>424</v>
 </c>
 <c r="H3" s="7" t="s">
 <v>410</v>
 </c>
-<c r="I3" s="15"/>
+<c r="I3" s="15" t="s">
+<v>468</v>
+</c>
 <c r="S3" s="4" t="s">
 <v>411</v>
 </c>
 </row>
 <row r="4" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A4" s="9">
-<v>13</v>
+<c r="A4" s="6">
+<v>250</v>
 </c>
-<c r="B4" s="12">
+<c r="B4" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>3.25</v>
+<v>13.888888888888889</v>
 </c>
-<c r="C4" s="9" t="s">
-<v>318</v>
+<c r="C4" s="6" t="s">
+<v>236</v>
 </c>
-<c r="D4" s="9" t="s">
-<v>309</v>
+<c r="D4" s="6" t="s">
+<v>144</v>
 </c>
-<c r="E4" s="9">
-<v>2018</v>
+<c r="E4" s="6">
+<v>2004</v>
 </c>
-<c r="F4" s="8" t="s">
-<v>319</v>
+<c r="F4" s="5" t="s">
+<v>235</v>
 </c>
 <c r="G4" s="8" t="s">
-<v>443</v>
+<v>455</v>
 </c>
 <c r="H4" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I4" s="15" t="s">
-<v>471</v>
+<v>508</v>
 </c>
 </row>
 <row r="5" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A5" s="9">
-<v>46</v>
+<v>158</v>
 </c>
 <c r="B5" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>5.1111111111111107</v>
+<v>15.8</v>
 </c>
 <c r="C5" s="9" t="s">
-<v>316</v>
+<v>374</v>
 </c>
 <c r="D5" s="9" t="s">
-<v>309</v>
+<v>376</v>
 </c>
 <c r="E5" s="9">
-<v>2013</v>
+<v>2012</v>
 </c>
 <c r="F5" s="8" t="s">
-<v>317</v>
+<v>375</v>
 </c>
 <c r="G5" s="8" t="s">
-<v>443</v>
+<v>433</v>
 </c>
 <c r="H5" s="7" t="s">
 <v>410</v>
 </c>
-<c r="I5" s="15" t="s">
-<v>510</v>
-</c>
+<c r="I5" s="15"/>
 </row>
 <row r="6" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A6" s="6">
-<v>250</v>
+<v>157</v>
 </c>
 <c r="B6" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>13.888888888888889</v>
+<v>15.7</v>
 </c>
 <c r="C6" s="6" t="s">
-<v>236</v>
+<v>140</v>
 </c>
 <c r="D6" s="6" t="s">
-<v>144</v>
+<v>59</v>
 </c>
 <c r="E6" s="6">
-<v>2004</v>
+<v>2012</v>
 </c>
 <c r="F6" s="5" t="s">
-<v>235</v>
+<v>139</v>
 </c>
 <c r="G6" s="8" t="s">
-<v>455</v>
+<v>423</v>
 </c>
 <c r="H6" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I6" s="15" t="s">
-<v>511</v>
+<v>467</v>
 </c>
 </row>
 <row r="7" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A7" s="6">
-<v>157</v>
+<c r="A7" s="9">
+<v>109</v>
 </c>
-<c r="B7" s="13">
+<c r="B7" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>15.7</v>
+<v>12.111111111111111</v>
 </c>
-<c r="C7" s="6" t="s">
-<v>140</v>
+<c r="C7" s="9" t="s">
+<v>273</v>
 </c>
-<c r="D7" s="6" t="s">
-<v>59</v>
+<c r="D7" s="9" t="s">
+<v>275</v>
 </c>
-<c r="E7" s="6">
-<v>2012</v>
+<c r="E7" s="9">
+<v>2013</v>
 </c>
-<c r="F7" s="5" t="s">
-<v>139</v>
+<c r="F7" s="8" t="s">
+<v>274</v>
 </c>
 <c r="G7" s="8" t="s">
-<v>423</v>
+<v>462</v>
 </c>
 <c r="H7" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I7" s="15" t="s">
-<v>467</v>
+<v>487</v>
 </c>
 </row>
 <row r="8" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A8" s="6">
-<v>43</v>
+<c r="A8" s="9">
+<v>99</v>
 </c>
-<c r="B8" s="13">
+<c r="B8" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>3.5833333333333335</v>
+<v>9.9</v>
 </c>
-<c r="C8" s="6" t="s">
-<v>35</v>
+<c r="C8" s="9" t="s">
+<v>320</v>
 </c>
-<c r="D8" s="6" t="s">
-<v>22</v>
+<c r="D8" s="9" t="s">
+<v>322</v>
 </c>
-<c r="E8" s="6">
-<v>2010</v>
+<c r="E8" s="9">
+<v>2012</v>
 </c>
-<c r="F8" s="5" t="s">
-<v>34</v>
+<c r="F8" s="8" t="s">
+<v>321</v>
 </c>
 <c r="G8" s="8" t="s">
-<v>438</v>
+<v>426</v>
 </c>
 <c r="H8" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I8" s="15" t="s">
-<v>509</v>
+<v>496</v>
 </c>
 </row>
 <row r="9" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A9" s="6">
-<v>275</v>
+<v>70</v>
 </c>
 <c r="B9" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>16.176470588235293</v>
+<v>4.666666666666667</v>
 </c>
 <c r="C9" s="6" t="s">
-<v>92</v>
+<v>33</v>
 </c>
 <c r="D9" s="6" t="s">
-<v>59</v>
+<v>22</v>
 </c>
 <c r="E9" s="6">
-<v>2005</v>
+<v>2007</v>
 </c>
-<c r="F9" s="5" t="s">
-<v>91</v>
+<c r="F9" s="6" t="s">
+<v>32</v>
 </c>
 <c r="G9" s="8" t="s">
-<v>424</v>
+<v>437</v>
 </c>
 <c r="H9" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I9" s="15" t="s">
-<v>468</v>
+<v>478</v>
 </c>
 </row>
 <row r="10" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A10" s="6">
-<v>30</v>
+<c r="A10" s="15">
+<v>61</v>
 </c>
-<c r="B10" s="13">
+<c r="B10" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>6</v>
+<v>4.3571428571428568</v>
 </c>
-<c r="C10" s="6" t="s">
-<v>118</v>
+<c r="C10" s="15" t="s">
+<v>502</v>
 </c>
-<c r="D10" s="6" t="s">
-<v>59</v>
+<c r="D10" t="s">
+<v>501</v>
 </c>
-<c r="E10" s="6">
-<v>2017</v>
+<c r="E10" s="15">
+<v>2008</v>
 </c>
-<c r="F10" s="5" t="s">
-<v>117</v>
+<c r="F10" s="17" t="s">
+<v>500</v>
 </c>
 <c r="G10" s="8" t="s">
-<v>421</v>
+<v>472</v>
 </c>
 <c r="H10" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I10" s="15" t="s">
-<v>469</v>
+<v>503</v>
 </c>
 </row>
 <row r="11" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A11" s="9">
-<v>158</v>
+<v>47</v>
 </c>
 <c r="B11" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>15.8</v>
+<v>5.875</v>
 </c>
 <c r="C11" s="9" t="s">
-<v>374</v>
+<v>310</v>
 </c>
 <c r="D11" s="9" t="s">
-<v>376</v>
+<v>309</v>
 </c>
 <c r="E11" s="9">
-<v>2012</v>
+<v>2014</v>
 </c>
 <c r="F11" s="8" t="s">
-<v>375</v>
+<v>311</v>
 </c>
 <c r="G11" s="8" t="s">
-<v>433</v>
+<v>425</v>
 </c>
 <c r="H11" s="7" t="s">
 <v>410</v>
 </c>
-<c r="I11" s="15"/>
+<c r="I11" s="15" t="s">
+<v>470</v>
+</c>
 </row>
 <row r="12" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A12" s="9">
-<v>47</v>
+<v>46</v>
 </c>
 <c r="B12" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>5.875</v>
+<v>5.1111111111111107</v>
 </c>
 <c r="C12" s="9" t="s">
-<v>310</v>
+<v>316</v>
 </c>
 <c r="D12" s="9" t="s">
 <v>309</v>
 </c>
 <c r="E12" s="9">
-<v>2014</v>
+<v>2013</v>
 </c>
 <c r="F12" s="8" t="s">
-<v>311</v>
+<v>317</v>
 </c>
 <c r="G12" s="8" t="s">
-<v>425</v>
+<v>443</v>
 </c>
 <c r="H12" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I12" s="15" t="s">
-<v>470</v>
+<v>507</v>
 </c>
 </row>
 <row r="13" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A13" s="6">
-<v>20</v>
+<v>43</v>
 </c>
 <c r="B13" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>3.3333333333333335</v>
+<v>3.5833333333333335</v>
 </c>
 <c r="C13" s="6" t="s">
-<v>226</v>
+<v>35</v>
 </c>
 <c r="D13" s="6" t="s">
-<v>144</v>
+<v>22</v>
 </c>
 <c r="E13" s="6">
-<v>2016</v>
+<v>2010</v>
 </c>
 <c r="F13" s="5" t="s">
-<v>225</v>
+<v>34</v>
 </c>
 <c r="G13" s="8" t="s">
-<v>459</v>
+<v>438</v>
 </c>
 <c r="H13" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I13" s="15" t="s">
-<v>471</v>
+<v>506</v>
 </c>
 </row>
 <row r="14" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A14" s="9">
-<v>99</v>
+<c r="A14" s="6">
+<v>43</v>
 </c>
-<c r="B14" s="12">
+<c r="B14" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>9.9</v>
+<v>2.3888888888888888</v>
 </c>
-<c r="C14" s="9" t="s">
-<v>320</v>
+<c r="C14" s="6" t="s">
+<v>106</v>
 </c>
-<c r="D14" s="9" t="s">
-<v>322</v>
+<c r="D14" s="6" t="s">
+<v>59</v>
 </c>
-<c r="E14" s="9">
-<v>2012</v>
+<c r="E14" s="6">
+<v>2004</v>
 </c>
-<c r="F14" s="8" t="s">
-<v>321</v>
+<c r="F14" s="6" t="s">
+<v>105</v>
 </c>
 <c r="G14" s="8" t="s">
-<v>426</v>
+<v>422</v>
 </c>
 <c r="H14" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I14" s="15" t="s">
-<v>499</v>
+<v>473</v>
 </c>
 </row>
 <row r="15" spans="1:19" x14ac:dyDescent="0.25">
-<c r="A15" s="9">
-<v>4</v>
+<c r="A15" s="6">
+<v>41</v>
 </c>
-<c r="B15" s="12">
+<c r="B15" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>2</v>
+<v>6.833333333333333</v>
 </c>
-<c r="C15" s="9" t="s">
-<v>351</v>
+<c r="C15" s="6" t="s">
+<v>45</v>
 </c>
-<c r="D15" s="9" t="s">
-<v>353</v>
+<c r="D15" s="6" t="s">
+<v>22</v>
 </c>
-<c r="E15" s="9">
-<v>2020</v>
+<c r="E15" s="6">
+<v>2016</v>
 </c>
-<c r="F15" s="9" t="s">
-<v>352</v>
+<c r="F15" s="5" t="s">
+<v>44</v>
 </c>
 <c r="G15" s="8" t="s">
-<v>442</v>
+<v>439</v>
 </c>
 <c r="H15" s="7" t="s">
 <v>410</v>
 </c>
-<c r="I15" s="15"/>
+<c r="I15" s="15" t="s">
+<v>481</v>
+</c>
 </row>
 <row r="16" spans="1:19" x14ac:dyDescent="0.25">
 <c r="A16" s="6">
-<v>43</v>
+<v>30</v>
 </c>
 <c r="B16" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>2.3888888888888888</v>
+<v>6</v>
 </c>
 <c r="C16" s="6" t="s">
-<v>106</v>
+<v>118</v>
 </c>
 <c r="D16" s="6" t="s">
 <v>59</v>
 </c>
 <c r="E16" s="6">
-<v>2004</v>
+<v>2017</v>
 </c>
-<c r="F16" s="6" t="s">
-<v>105</v>
+<c r="F16" s="5" t="s">
+<v>117</v>
 </c>
 <c r="G16" s="8" t="s">
-<v>422</v>
+<v>421</v>
 </c>
 <c r="H16" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I16" s="15" t="s">
-<v>473</v>
+<v>469</v>
 </c>
 </row>
 <row r="17" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A17" s="9">
-<v>70</v>
+<c r="A17" s="6">
+<v>29</v>
 </c>
-<c r="B17" s="12">
+<c r="B17" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>5.384615384615385</v>
+<v>4.1428571428571432</v>
 </c>
-<c r="C17" s="9" t="s">
-<v>341</v>
+<c r="C17" s="6" t="s">
+<v>110</v>
 </c>
-<c r="D17" s="9" t="s">
-<v>343</v>
+<c r="D17" s="6" t="s">
+<v>59</v>
 </c>
-<c r="E17" s="9">
-<v>2009</v>
+<c r="E17" s="6">
+<v>2015</v>
 </c>
-<c r="F17" s="9" t="s">
-<v>342</v>
+<c r="F17" s="5" t="s">
+<v>109</v>
 </c>
 <c r="G17" s="8" t="s">
-<v>435</v>
+<v>420</v>
 </c>
 <c r="H17" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I17" s="15" t="s">
-<v>474</v>
+<v>511</v>
 </c>
 </row>
 <row r="18" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A18" s="9">
-<v>19</v>
+<c r="A18" s="6">
+<v>20</v>
 </c>
-<c r="B18" s="12">
+<c r="B18" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>3.8</v>
+<v>3.3333333333333335</v>
 </c>
-<c r="C18" s="9" t="s">
-<v>361</v>
+<c r="C18" s="6" t="s">
+<v>226</v>
 </c>
-<c r="D18" s="9" t="s">
-<v>363</v>
+<c r="D18" s="6" t="s">
+<v>144</v>
 </c>
-<c r="E18" s="9">
-<v>2017</v>
+<c r="E18" s="6">
+<v>2016</v>
 </c>
-<c r="F18" s="8" t="s">
-<v>362</v>
+<c r="F18" s="5" t="s">
+<v>225</v>
 </c>
 <c r="G18" s="8" t="s">
-<v>451</v>
+<v>459</v>
 </c>
 <c r="H18" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I18" s="15" t="s">
-<v>476</v>
+<v>471</v>
 </c>
 </row>
 <row r="19" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A19" s="6">
-<v>264</v>
+<c r="A19" s="9">
+<v>19</v>
 </c>
-<c r="B19" s="13">
+<c r="B19" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>16.5</v>
+<v>3.8</v>
 </c>
-<c r="C19" s="6" t="s">
-<v>221</v>
+<c r="C19" s="9" t="s">
+<v>361</v>
 </c>
-<c r="D19" s="6" t="s">
-<v>144</v>
+<c r="D19" s="9" t="s">
+<v>363</v>
 </c>
-<c r="E19" s="6">
-<v>2006</v>
+<c r="E19" s="9">
+<v>2017</v>
 </c>
-<c r="F19" s="6" t="s">
-<v>220</v>
+<c r="F19" s="8" t="s">
+<v>362</v>
 </c>
 <c r="G19" s="8" t="s">
-<v>454</v>
+<v>451</v>
 </c>
 <c r="H19" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I19" s="15" t="s">
-<v>477</v>
+<v>476</v>
 </c>
 </row>
 <row r="20" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A20" s="9">
-<v>3</v>
+<v>13</v>
 </c>
 <c r="B20" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>3</v>
+<v>3.25</v>
 </c>
 <c r="C20" s="9" t="s">
-<v>307</v>
+<v>318</v>
 </c>
 <c r="D20" s="9" t="s">
 <v>309</v>
 </c>
 <c r="E20" s="9">
-<v>2021</v>
+<v>2018</v>
 </c>
 <c r="F20" s="8" t="s">
-<v>308</v>
+<v>319</v>
 </c>
 <c r="G20" s="8" t="s">
-<v>445</v>
+<v>443</v>
 </c>
 <c r="H20" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I20" s="15" t="s">
-<v>478</v>
+<v>471</v>
 </c>
 </row>
 <row r="21" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A21" s="6">
-<v>397</v>
+<v>7</v>
 </c>
 <c r="B21" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>49.625</v>
+<v>1.1666666666666667</v>
 </c>
 <c r="C21" s="6" t="s">
-<v>138</v>
+<v>16</v>
 </c>
 <c r="D21" s="6" t="s">
-<v>59</v>
+<v>1</v>
 </c>
 <c r="E21" s="6">
-<v>2014</v>
+<v>2016</v>
 </c>
-<c r="F21" s="6" t="s">
-<v>137</v>
+<c r="F21" s="5" t="s">
+<v>15</v>
 </c>
 <c r="G21" s="8" t="s">
-<v>450</v>
+<v>443</v>
 </c>
 <c r="H21" s="7" t="s">
 <v>410</v>
 </c>
-<c r="I21" s="15" t="s">
-<v>479</v>
-</c>
+<c r="I21" s="15"/>
 </row>
 <row r="22" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A22" s="6">
-<v>29</v>
+<c r="A22" s="9">
+<v>3</v>
 </c>
-<c r="B22" s="13">
+<c r="B22" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>4.1428571428571432</v>
+<v>3</v>
 </c>
-<c r="C22" s="6" t="s">
-<v>110</v>
+<c r="C22" s="9" t="s">
+<v>307</v>
 </c>
-<c r="D22" s="6" t="s">
-<v>59</v>
+<c r="D22" s="9" t="s">
+<v>309</v>
 </c>
-<c r="E22" s="6">
-<v>2015</v>
+<c r="E22" s="9">
+<v>2021</v>
 </c>
-<c r="F22" s="5" t="s">
-<v>109</v>
+<c r="F22" s="8" t="s">
+<v>308</v>
 </c>
 <c r="G22" s="8" t="s">
-<v>420</v>
+<v>445</v>
 </c>
 <c r="H22" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I22" s="15" t="s">
-<v>514</v>
+<v>477</v>
 </c>
 </row>
 <row r="23" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A23" s="6">
-<v>70</v>
+<v>2</v>
 </c>
 <c r="B23" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>4.666666666666667</v>
+<v>1</v>
 </c>
 <c r="C23" s="6" t="s">
-<v>33</v>
+<v>43</v>
 </c>
 <c r="D23" s="6" t="s">
 <v>22</v>
 </c>
 <c r="E23" s="6">
-<v>2007</v>
+<v>2020</v>
 </c>
 <c r="F23" s="6" t="s">
-<v>32</v>
+<v>42</v>
 </c>
 <c r="G23" s="8" t="s">
-<v>437</v>
+<v>440</v>
 </c>
 <c r="H23" s="7" t="s">
 <v>410</v>
 </c>
 <c r="I23" s="15" t="s">
-<v>480</v>
+<v>479</v>
 </c>
 </row>
 <row r="24" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A24" s="6">
-<v>41</v>
+<v>397</v>
 </c>
 <c r="B24" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>6.833333333333333</v>
+<v>49.625</v>
 </c>
 <c r="C24" s="6" t="s">
-<v>45</v>
+<v>138</v>
 </c>
 <c r="D24" s="6" t="s">
-<v>22</v>
+<v>59</v>
 </c>
 <c r="E24" s="6">
-<v>2016</v>
+<v>2014</v>
 </c>
-<c r="F24" s="5" t="s">
-<v>44</v>
+<c r="F24" s="6" t="s">
+<v>137</v>
 </c>
 <c r="G24" s="8" t="s">
-<v>439</v>
+<v>450</v>
 </c>
-<c r="H24" s="7" t="s">
-<v>410</v>
+<c r="H24" s="4" t="s">
+<v>411</v>
 </c>
 <c r="I24" s="15" t="s">
-<v>483</v>
+<v>516</v>
 </c>
 </row>
 <row r="25" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A25" s="9">
-<v>6</v>
+<c r="A25" s="6">
+<v>264</v>
 </c>
-<c r="B25" s="12">
+<c r="B25" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>1</v>
+<v>16.5</v>
 </c>
-<c r="C25" s="9" t="s">
-<v>401</v>
+<c r="C25" s="6" t="s">
+<v>221</v>
 </c>
-<c r="D25" s="9" t="s">
-<v>403</v>
+<c r="D25" s="6" t="s">
+<v>144</v>
 </c>
-<c r="E25" s="9">
-<v>2016</v>
+<c r="E25" s="6">
+<v>2006</v>
 </c>
-<c r="F25" s="9" t="s">
-<v>402</v>
+<c r="F25" s="6" t="s">
+<v>220</v>
 </c>
 <c r="G25" s="8" t="s">
-<v>441</v>
+<v>454</v>
 </c>
-<c r="H25" s="7" t="s">
-<v>410</v>
+<c r="H25" s="4" t="s">
+<v>411</v>
 </c>
 <c r="I25" s="15" t="s">
-<v>495</v>
+<v>515</v>
 </c>
 </row>
 <row r="26" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A26" s="6">
-<v>2</v>
+<c r="A26" s="9">
+<v>70</v>
 </c>
-<c r="B26" s="13">
+<c r="B26" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>1</v>
+<v>5.384615384615385</v>
 </c>
-<c r="C26" s="6" t="s">
-<v>43</v>
+<c r="C26" s="9" t="s">
+<v>341</v>
 </c>
-<c r="D26" s="6" t="s">
-<v>22</v>
+<c r="D26" s="9" t="s">
+<v>343</v>
 </c>
-<c r="E26" s="6">
-<v>2020</v>
+<c r="E26" s="9">
+<v>2009</v>
 </c>
-<c r="F26" s="6" t="s">
-<v>42</v>
+<c r="F26" s="9" t="s">
+<v>342</v>
 </c>
 <c r="G26" s="8" t="s">
-<v>440</v>
+<v>435</v>
 </c>
-<c r="H26" s="7" t="s">
-<v>410</v>
+<c r="H26" s="4" t="s">
+<v>411</v>
 </c>
 <c r="I26" s="15" t="s">
-<v>481</v>
+<v>474</v>
 </c>
 </row>
 <row r="27" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A27" s="9">
-<v>109</v>
+<v>6</v>
 </c>
 <c r="B27" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>12.111111111111111</v>
+<v>1</v>
 </c>
 <c r="C27" s="9" t="s">
-<v>273</v>
+<v>401</v>
 </c>
 <c r="D27" s="9" t="s">
-<v>275</v>
+<v>403</v>
 </c>
 <c r="E27" s="9">
-<v>2013</v>
+<v>2016</v>
 </c>
-<c r="F27" s="8" t="s">
-<v>274</v>
+<c r="F27" s="9" t="s">
+<v>402</v>
 </c>
 <c r="G27" s="8" t="s">
-<v>462</v>
+<v>441</v>
 </c>
-<c r="H27" s="7" t="s">
-<v>410</v>
+<c r="H27" s="4" t="s">
+<v>411</v>
 </c>
 <c r="I27" s="15" t="s">
-<v>489</v>
+<v>514</v>
 </c>
 </row>
 <row r="28" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A28" s="15">
-<v>61</v>
+<c r="A28" s="9">
+<v>4</v>
 </c>
-<c r="B28" s="16">
+<c r="B28" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>4.3571428571428568</v>
+<v>2</v>
 </c>
-<c r="C28" s="15" t="s">
-<v>505</v>
+<c r="C28" s="9" t="s">
+<v>351</v>
 </c>
-<c r="D28" t="s">
-<v>504</v>
+<c r="D28" s="9" t="s">
+<v>353</v>
 </c>
-<c r="E28" s="15">
-<v>2008</v>
+<c r="E28" s="9">
+<v>2020</v>
 </c>
-<c r="F28" s="17" t="s">
-<v>503</v>
+<c r="F28" s="9" t="s">
+<v>352</v>
 </c>
 <c r="G28" s="8" t="s">
-<v>472</v>
+<v>442</v>
 </c>
-<c r="H28" s="7" t="s">
-<v>410</v>
+<c r="H28" s="4" t="s">
+<v>411</v>
 </c>
 <c r="I28" s="15" t="s">
-<v>506</v>
+<v>513</v>
 </c>
 </row>
 <row r="29" spans="1:9" x14ac:dyDescent="0.25">
 <c r="A29" s="15">
-<v>0</v>
+<v>259</v>
 </c>
 <c r="B29" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>0</v>
+<v>15.235294117647058</v>
 </c>
 <c r="C29" s="15" t="s">
-<v>2</v>
+<v>492</v>
 </c>
 <c r="D29" s="15" t="s">
-<v>1</v>
+<v>400</v>
 </c>
 <c r="E29" s="15">
-<v>2021</v>
+<v>2005</v>
 </c>
-<c r="F29" s="15" t="s">
-<v>0</v>
+<c r="F29" t="s">
+<v>489</v>
 </c>
 <c r="G29" s="8" t="s">
-<v>449</v>
+<v>472</v>
 </c>
 <c r="H29" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I29" s="15" t="s">
-<v>487</v>
+<v>491</v>
 </c>
 </row>
 <row r="30" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A30" s="9">
-<v>39</v>
+<c r="A30" s="15">
+<v>219</v>
 </c>
-<c r="B30" s="12">
+<c r="B30" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>2.1666666666666665</v>
+<v>9.5217391304347831</v>
 </c>
-<c r="C30" s="9" t="s">
-<v>312</v>
+<c r="C30" s="15" t="s">
+<v>499</v>
 </c>
-<c r="D30" s="9" t="s">
-<v>309</v>
+<c r="D30" t="s">
+<v>498</v>
 </c>
-<c r="E30" s="9">
-<v>2004</v>
+<c r="E30" s="15">
+<v>1999</v>
 </c>
-<c r="F30" s="9" t="s">
-<v>313</v>
+<c r="F30" t="s">
+<v>497</v>
 </c>
 <c r="G30" s="8" t="s">
-<v>444</v>
+<v>472</v>
 </c>
 <c r="H30" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I30" s="15" t="s">
-<v>466</v>
+<v>510</v>
 </c>
 </row>
 <row r="31" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A31" s="9">
-<v>2</v>
+<c r="A31" s="6">
+<v>169</v>
 </c>
-<c r="B31" s="12">
+<c r="B31" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>0.5</v>
+<v>8.4499999999999993</v>
 </c>
-<c r="C31" s="9" t="s">
-<v>428</v>
+<c r="C31" s="6" t="s">
+<v>37</v>
 </c>
-<c r="D31" s="9" t="s">
-<v>358</v>
+<c r="D31" s="6" t="s">
+<v>22</v>
 </c>
-<c r="E31" s="9">
-<v>2018</v>
+<c r="E31" s="6">
+<v>2002</v>
 </c>
-<c r="F31" s="9" t="s">
-<v>357</v>
+<c r="F31" s="6" t="s">
+<v>36</v>
 </c>
 <c r="G31" s="8" t="s">
-<v>425</v>
+<v>436</v>
 </c>
 <c r="H31" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I31" s="15" t="s">
-<v>508</v>
+<v>483</v>
 </c>
 </row>
 <row r="32" spans="1:9" x14ac:dyDescent="0.25">
@@ -977,191 +979,193 @@
 <v>411</v>
 </c>
 <c r="I32" s="15" t="s">
-<v>492</v>
+<v>490</v>
 </c>
 </row>
 <row r="33" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A33" s="6">
-<v>29</v>
+<c r="A33" s="9">
+<v>39</v>
 </c>
-<c r="B33" s="13">
+<c r="B33" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>2.9</v>
+<v>2.1666666666666665</v>
 </c>
-<c r="C33" s="6" t="s">
-<v>57</v>
+<c r="C33" s="9" t="s">
+<v>312</v>
 </c>
-<c r="D33" s="6" t="s">
-<v>47</v>
+<c r="D33" s="9" t="s">
+<v>309</v>
 </c>
-<c r="E33" s="6">
-<v>2012</v>
+<c r="E33" s="9">
+<v>2004</v>
 </c>
-<c r="F33" s="6" t="s">
-<v>56</v>
+<c r="F33" s="9" t="s">
+<v>313</v>
 </c>
 <c r="G33" s="8" t="s">
-<v>434</v>
+<v>444</v>
 </c>
 <c r="H33" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I33" s="15" t="s">
-<v>475</v>
+<v>466</v>
 </c>
 </row>
 <row r="34" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A34" s="9">
-<v>13</v>
+<c r="A34" s="6">
+<v>29</v>
 </c>
-<c r="B34" s="12">
+<c r="B34" s="13">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>13</v>
+<v>2.9</v>
 </c>
-<c r="C34" s="9" t="s">
-<v>337</v>
+<c r="C34" s="6" t="s">
+<v>57</v>
 </c>
-<c r="D34" s="9" t="s">
-<v>334</v>
+<c r="D34" s="6" t="s">
+<v>47</v>
 </c>
-<c r="E34" s="9">
-<v>2021</v>
+<c r="E34" s="6">
+<v>2012</v>
 </c>
-<c r="F34" s="9" t="s">
-<v>338</v>
+<c r="F34" s="6" t="s">
+<v>56</v>
 </c>
 <c r="G34" s="8" t="s">
-<v>419</v>
+<v>434</v>
 </c>
 <c r="H34" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I34" s="15" t="s">
-<v>482</v>
+<v>475</v>
 </c>
 </row>
 <row r="35" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A35" s="9">
-<v>3</v>
+<c r="A35" s="15">
+<v>29</v>
 </c>
-<c r="B35" s="12">
+<c r="B35" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>1.5</v>
+<v>2.4166666666666665</v>
 </c>
-<c r="C35" s="9" t="s">
-<v>359</v>
+<c r="C35" s="15" t="s">
+<v>504</v>
 </c>
-<c r="D35" s="9" t="s">
-<v>358</v>
+<c r="D35" s="15" t="s">
+<v>495</v>
 </c>
-<c r="E35" s="9">
-<v>2020</v>
+<c r="E35" s="15">
+<v>2010</v>
 </c>
-<c r="F35" s="9" t="s">
-<v>360</v>
+<c r="F35" t="s">
+<v>493</v>
 </c>
 <c r="G35" s="8" t="s">
-<v>418</v>
+<v>472</v>
 </c>
 <c r="H35" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I35" s="15" t="s">
-<v>484</v>
+<v>494</v>
 </c>
 </row>
 <row r="36" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A36" s="6">
-<v>169</v>
+<c r="A36" s="9">
+<v>13</v>
 </c>
-<c r="B36" s="13">
+<c r="B36" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>8.4499999999999993</v>
+<v>13</v>
 </c>
-<c r="C36" s="6" t="s">
-<v>37</v>
+<c r="C36" s="9" t="s">
+<v>337</v>
 </c>
-<c r="D36" s="6" t="s">
-<v>22</v>
+<c r="D36" s="9" t="s">
+<v>334</v>
 </c>
-<c r="E36" s="6">
-<v>2002</v>
+<c r="E36" s="9">
+<v>2021</v>
 </c>
-<c r="F36" s="6" t="s">
-<v>36</v>
+<c r="F36" s="9" t="s">
+<v>338</v>
 </c>
 <c r="G36" s="8" t="s">
-<v>436</v>
+<v>419</v>
 </c>
 <c r="H36" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I36" s="15" t="s">
-<v>485</v>
+<v>480</v>
 </c>
 </row>
 <row r="37" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A37" s="15">
-<v>29</v>
+<c r="A37" s="9">
+<v>3</v>
 </c>
-<c r="B37" s="16">
+<c r="B37" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>2.4166666666666665</v>
+<v>1.5</v>
 </c>
-<c r="C37" s="15" t="s">
-<v>507</v>
+<c r="C37" s="9" t="s">
+<v>359</v>
 </c>
-<c r="D37" s="15" t="s">
-<v>498</v>
+<c r="D37" s="9" t="s">
+<v>358</v>
 </c>
-<c r="E37" s="15">
-<v>2010</v>
+<c r="E37" s="9">
+<v>2020</v>
 </c>
-<c r="F37" t="s">
-<v>496</v>
+<c r="F37" s="9" t="s">
+<v>360</v>
 </c>
 <c r="G37" s="8" t="s">
-<v>472</v>
+<v>418</v>
 </c>
 <c r="H37" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I37" s="15" t="s">
-<v>497</v>
+<v>482</v>
 </c>
 </row>
 <row r="38" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A38" s="15">
-<v>219</v>
+<c r="A38" s="9">
+<v>2</v>
 </c>
-<c r="B38" s="16">
+<c r="B38" s="12">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>9.5217391304347831</v>
+<v>0.5</v>
 </c>
-<c r="C38" s="15" t="s">
-<v>502</v>
+<c r="C38" s="9" t="s">
+<v>428</v>
 </c>
-<c r="D38" t="s">
-<v>501</v>
+<c r="D38" s="9" t="s">
+<v>358</v>
 </c>
-<c r="E38" s="15">
-<v>1999</v>
+<c r="E38" s="9">
+<v>2018</v>
 </c>
-<c r="F38" t="s">
-<v>500</v>
+<c r="F38" s="9" t="s">
+<v>357</v>
 </c>
 <c r="G38" s="8" t="s">
-<v>472</v>
+<v>425</v>
 </c>
 <c r="H38" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I38" s="15" t="s">
-<v>513</v>
+<v>505</v>
 </c>
 </row>
 <row r="39" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A39" s="15"/>
+<c r="A39" s="15">
+<v>0</v>
+</c>
 <c r="B39" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
 <v>0</v>
@@ -1169,42 +1173,40 @@
 <c r="C39" s="15" t="s">
 <v>2</v>
 </c>
-<c r="D39" s="15"/>
-<c r="E39" s="15">
-<v>2020</v>
+<c r="D39" s="15" t="s">
+<v>1</v>
 </c>
-<c r="F39" t="s">
-<v>486</v>
+<c r="E39" s="15">
+<v>2021</v>
+</c>
+<c r="F39" s="15" t="s">
+<v>0</v>
 </c>
 <c r="G39" s="8" t="s">
-<v>472</v>
+<v>449</v>
 </c>
 <c r="H39" s="4" t="s">
 <v>411</v>
 </c>
 <c r="I39" s="15" t="s">
-<v>488</v>
+<v>485</v>
 </c>
 </row>
 <row r="40" spans="1:9" x14ac:dyDescent="0.25">
-<c r="A40" s="15">
-<v>259</v>
-</c>
+<c r="A40" s="15"/>
 <c r="B40" s="16">
 <f>Table3[[#This Row],[Viittauksia (Semantic Scholar)]]/(2022-Table3[[#This Row],[Vuosi]])</f>
-<v>15.235294117647058</v>
+<v>0</v>
 </c>
 <c r="C40" s="15" t="s">
-<v>494</v>
+<v>2</v>
 </c>
-<c r="D40" s="15" t="s">
-<v>400</v>
-</c>
+<c r="D40" s="15"/>
 <c r="E40" s="15">
-<v>2005</v>
+<v>2020</v>
 </c>
 <c r="F40" t="s">
-<v>491</v>
+<v>484</v>
 </c>
 <c r="G40" s="8" t="s">
 <v>472</v>
@@ -1213,7 +1215,7 @@
 <v>411</v>
 </c>
 <c r="I40" s="15" t="s">
-<v>493</v>
+<v>486</v>
 </c>
 </row>
 <row r="41" spans="1:9" x14ac:dyDescent="0.25">
@@ -1225,15 +1227,15 @@
 </c>
 <c r="H42" s="3">
 <f>COUNTIF(Table3[Kiinnitetään mukaan?], G42)</f>
-<v>27</v>
+<v>22</v>
 </c>
 <c r="I42" s="19" t="s">
-<v>512</v>
+<v>509</v>
 </c>
 </row>
 <row r="43" spans="1:9" x14ac:dyDescent="0.25">
 <c r="I43" t="s">
-<v>515</v>
+<v>512</v>
 </c>
 </row>
 </sheetData>
