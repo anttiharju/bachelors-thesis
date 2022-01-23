@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="2" xr:uid="{3A0E17D8-B8B8-4AD4-99DB-17511A09DD04}" name="Table2" displayName="Table2" ref="A1:C232" totalsRowShown="0">
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="2" xr:uid="{3A0E17D8-B8B8-4AD4-99DB-17511A09DD04}" name="Table2" displayName="Table2" ref="A1:C233" totalsRowCount="1">
 <autoFilter ref="A1:C232" xr:uid="{3A0E17D8-B8B8-4AD4-99DB-17511A09DD04}"/>
 <sortState ref="A2:C232" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
 <sortCondition ref="A1:A232"/>
 </sortState>
 <tableColumns count="3">
 <tableColumn id="1" xr3:uid="{8D6AFA42-8295-4289-A7F8-C263A4243A53}" name="Mukana"/>
-<tableColumn id="2" xr3:uid="{2B39F180-1C6F-4570-8D64-469085D1E0A6}" name="Julkaisu" dataDxfId="36"/>
-<tableColumn id="3" xr3:uid="{18E48FF7-B86F-4F63-8758-942A746700B1}" name="Syy hylkäykseen" dataDxfId="35"/>
+<tableColumn id="2" xr3:uid="{2B39F180-1C6F-4570-8D64-469085D1E0A6}" name="Julkaisu" dataDxfId="42" totalsRowDxfId="29"/>
+<tableColumn id="3" xr3:uid="{18E48FF7-B86F-4F63-8758-942A746700B1}" name="Syy hylkäykseen" totalsRowFunction="custom" dataDxfId="41" totalsRowDxfId="28">
+<totalsRowFormula>COUNTIF($C$2:$C$232, D233)</totalsRowFormula>
+</tableColumn>
 </tableColumns>
 <tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
 </table>

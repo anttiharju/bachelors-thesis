@@ -1,3 +1,3 @@
-# Ohjelmistoprojektien menestystekijät
+# Ohjelmistoprojektien menestystekijät ja niiden yleistettävyyden rajoitukset
 
 Tietojärjestelmätieteen kandidaatintutkielma, kirjoitettu Jyväskylän yliopistossa.

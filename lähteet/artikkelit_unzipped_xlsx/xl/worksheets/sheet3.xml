@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac xr xr2 xr3" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xr:uid="{7BA36349-FA51-4D54-B802-D716E651BFE0}">
-<dimension ref="A1:S43"/>
+<dimension ref="A1:S56"/>
 <sheetViews>
-<sheetView tabSelected="1" workbookViewId="0">
-<selection activeCell="O19" sqref="O19"/>
+<sheetView tabSelected="1" topLeftCell="A19" workbookViewId="0">
+<selection activeCell="D45" sqref="D45:D56"/>
 </sheetView>
 </sheetViews>
 <sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
@@ -1236,6 +1236,114 @@
 <row r="43" spans="1:9" x14ac:dyDescent="0.25">
 <c r="I43" t="s">
 <v>511</v>
+</c>
+</row>
+<row r="45" spans="1:9" x14ac:dyDescent="0.25">
+<c r="D45">
+<f>COUNTIF($E$2:$E$20,E45)</f>
+<v>1</v>
+</c>
+<c r="E45">
+<v>2005</v>
+</c>
+</row>
+<row r="46" spans="1:9" x14ac:dyDescent="0.25">
+<c r="D46">
+<f t="shared" ref="D46:D56" si="0">COUNTIF($E$2:$E$20,E46)</f>
+<v>1</v>
+</c>
+<c r="E46">
+<v>2004</v>
+</c>
+</row>
+<row r="47" spans="1:9" x14ac:dyDescent="0.25">
+<c r="D47">
+<f t="shared" si="0"/>
+<v>3</v>
+</c>
+<c r="E47">
+<v>2012</v>
+</c>
+</row>
+<row r="48" spans="1:9" x14ac:dyDescent="0.25">
+<c r="D48">
+<f t="shared" si="0"/>
+<v>2</v>
+</c>
+<c r="E48">
+<v>2008</v>
+</c>
+</row>
+<row r="49" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D49">
+<f t="shared" si="0"/>
+<v>1</v>
+</c>
+<c r="E49">
+<v>2014</v>
+</c>
+</row>
+<row r="50" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D50">
+<f t="shared" si="0"/>
+<v>2</v>
+</c>
+<c r="E50">
+<v>2013</v>
+</c>
+</row>
+<row r="51" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D51">
+<f t="shared" si="0"/>
+<v>1</v>
+</c>
+<c r="E51">
+<v>2010</v>
+</c>
+</row>
+<row r="52" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D52">
+<f t="shared" si="0"/>
+<v>1</v>
+</c>
+<c r="E52">
+<v>2015</v>
+</c>
+</row>
+<row r="53" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D53">
+<f t="shared" si="0"/>
+<v>2</v>
+</c>
+<c r="E53">
+<v>2017</v>
+</c>
+</row>
+<row r="54" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D54">
+<f t="shared" si="0"/>
+<v>1</v>
+</c>
+<c r="E54">
+<v>2018</v>
+</c>
+</row>
+<row r="55" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D55">
+<f t="shared" si="0"/>
+<v>3</v>
+</c>
+<c r="E55">
+<v>2016</v>
+</c>
+</row>
+<row r="56" spans="4:5" x14ac:dyDescent="0.25">
+<c r="D56">
+<f t="shared" si="0"/>
+<v>1</v>
+</c>
+<c r="E56">
+<v>2021</v>
 </c>
 </row>
 </sheetData>
