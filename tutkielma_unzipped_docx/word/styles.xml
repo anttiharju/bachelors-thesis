@@ -1444,4 +1444,16 @@
 <w:lang w:eastAsia="zh-CN"/>
 </w:rPr>
 </w:style>
+<w:style w:type="character" w:styleId="UnresolvedMention">
+<w:name w:val="Unresolved Mention"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00BC5C0B"/>
+<w:rPr>
+<w:color w:val="605E5C"/>
+<w:shd w:val="clear" w:color="auto" w:fill="E1DFDD"/>
+</w:rPr>
+</w:style>
 </w:styles>
