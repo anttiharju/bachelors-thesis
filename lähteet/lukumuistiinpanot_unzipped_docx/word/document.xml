@@ -1042,9 +1042,816 @@
 <w:br w:type="page"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="5268B97B" w14:textId="64AB46DC" w:rsidR="00DD4857" w:rsidRPr="005011A1" w:rsidRDefault="00DD4857" w:rsidP="00DD4857">
+<w:p w14:paraId="255E1B0C" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>Aikaisemmasta, erillisestä muistiinpanotiedostosta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5AD23D0F" w14:textId="50A9B513" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="0061070B">
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Standish Group Chaos Reports: </w:t>
+</w:r>
+<w:r w:rsidRPr="004952C0">
+<w:t>Näihin viitataan useassa tekstissä, sillä ovat aika relevantteja, joten se, että halusin myös itse viitata niihin</w:t>
+</w:r>
+<w:r>
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidRPr="004952C0">
+<w:t xml:space="preserve"> voidaan nähdä järkevänä.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4E7D45CF" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
+</w:pPr>
+<w:r>
+<w:t>Aihe on mielenkiintoinen mm.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="36EBFC7A" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r>
+<w:t>riskin hallinnan näkökulmasta (onnistumisten maksimointi)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1641ABD7" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="Code"/>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:noProof w:val="0"/>
+</w:rPr>
+<w:t>Tutkielma rajoite:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="706A1093" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:spacing w:after="240"/>
+</w:pPr>
+<w:r w:rsidRPr="002D60A5">
+<w:t xml:space="preserve">Haut suoritettiin tietokannoista, joissa oli saatavilla myös julkaisun viimeaikaiset numerot. </w:t>
+</w:r>
+<w:r>
+<w:t>Eli joissain tapauksissa julkaisun vanhimpia numeroita on saattanut jäädä hakutulosten ulkopuolelle. Toinen lähestymistapa olisi ollut valita tietokannat, joista löytyy kaikkein eniten numeroita, kaikkein vanhimmat numerot tai joku näiden kolmen lähestymistavan yhdistelmä. Julkaisutason rajaus on kuitenkin vielä suhteellisen aikainen vaihe tiedon etsimistä ja siinä kohtaa haluttiin painottaa artikkeleiden tuoreutta.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="300ABD75" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:r>
+<w:t>Hyödyllisiä suoria lainauksia:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="2712F444" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00C7689C" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+</w:pPr>
+<w:r>
+<w:t>”</w:t>
+</w:r>
+<w:r w:rsidRPr="00791C02">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">According to Toney and Powers [18], standardized process (approaches and procedures) is a success factor. Standardized PM tools and skill sets for project leadership are identified as critical success factors in a case study about Toyota projects by Sobek et al. </w:t>
+</w:r>
+<w:r w:rsidRPr="00A331AF">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>[19].” (Standardized project management may increase development projects success</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>, 2004</w:t>
+</w:r>
+<w:r w:rsidRPr="00A331AF">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1D31A87A" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00577635" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r>
+<w:t>mistä menestystekijöitä revitty</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="151906A5" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00577635">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”We divided success criteria into project success and project management (PM) success</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00204CFC">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>[…] In contrast, no definition of software development project failure was found. Articles were found in seven different journals, showing that knowledge on software development project success from the supplier's perspective is fragmented. This impedes the growth of knowledge on this topic.</w:t>
+</w:r>
+<w:r w:rsidRPr="00D36C60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“ (Software development project success and failure from the supplier's perspective: A systematic literature review, 2011)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7C20B5DD" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00C7689C" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00C7689C">
+<w:t>menestystekijöiden jaottelu, aiheen relevanttius</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0DEDDBE5" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00C7689C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>For example, the subject ‘‘configuration management’’ in a software project is more important than the subject ‘‘value engineering studies’’</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> (</w:t>
+</w:r>
+<w:r w:rsidRPr="00D1784B">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>MPCS: Multidimensional Project Control System</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>, 2004)</w:t>
+</w:r>
+<w:r w:rsidRPr="00C7689C">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7919965D" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00D1784B">
+<w:t>Lähde aika geneerinen, mutta selvästi tekijät ovat tietoisia ohjelmistoprojektien erityispiirteistä. Voi olla ok lähde</w:t>
+</w:r>
+<w:r>
+<w:t>,</w:t>
+</w:r>
+<w:r w:rsidRPr="00D1784B">
+<w:t xml:space="preserve"> vaikka ei 100 % relevantti.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="65AA5423" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+</w:tabs>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00987CF3">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>”A conceptual model and seven categories of success factors comprising a total of 80 success factors for software development projects were identified based on the thorough literature review.” (A model of critical success factors for software projects, 2012)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="526AA159" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+</w:tabs>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>“Despite the significant period over which success factor studies have been published, and the variation in the technologies studied, there is a surprisingly high degree of consistency in their findings.” (Factors affecting the successful realisation of benefits from systems development projects: findings from three case studies, 2012)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5FBCBCFB" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+</w:tabs>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t xml:space="preserve">“During the past years, increasingly more project managers started to recognize that human factors, </w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>in particular those</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t xml:space="preserve"> related to project team success, are critical for overall project success. Hence, the scientific investigation of this topic has gained momentum. However, a review of the Information Systems and Information Technology (IST) literature </w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:lastRenderedPageBreak/>
+<w:t>on the determinants of project team success reveals that there has been limited research on this topic.” (Determinants of Information Systems and Information Technology Project Team Success: A Literature Review and a Conceptual Model, 2012)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="66AAC75E" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+</w:pPr>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t>”In</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-GB"/>
+</w:rPr>
+<w:t xml:space="preserve"> more recent years, the tendency has been to focus studies more explicitly on success factors for specific categories of information system. For example, the success factors for CRM systems (Kim and Pan, 2006; King and Burgess, 2006); ERP systems (Somers and Nelson, 2001; Plant and Willcocks, 2007; Wang et al., 2008); executive IS (Poon and Wagner, 2001; Salmeron and Herrero, 2005) and global systems (Angeles and Nath, 2007; Biehl, 2007) have all been previously studied.” (Factors affecting the successful realisation of benefits from systems development projects: findings from three case studies, 2012)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="40AF475A" w14:textId="77777777" w:rsidR="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:r w:rsidRPr="00021511">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">Some studies have concluded the rather obvious. Munns and </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00021511">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Bjeimi</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00021511">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> (1996) concluded that beyond a simple list of “success factors,” project success or failure depends on the right combination of factors, and on the project being the “right one” for the given requirements and expectations.</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>” (</w:t>
+</w:r>
+<w:r w:rsidRPr="007C74F9">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>A new way of thinking about IT project management practices: Early empirical results</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1F51183F" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="Heading3"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Aineiston valintaprosessi</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="051BE67B" w14:textId="3024EC7F" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve">Tieteenalojen valinta </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:t>JUFO:sta</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve"> (vähintää</w:t>
+</w:r>
+<w:r>
+<w:t>n</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve"> luokitus 1)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1A65BC00" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Information Systems</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4BEA1222" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Information Systems and Management</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="6DC67CCA" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Management Information Systems</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="72AE346F" w14:textId="1CF4F619" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve">Projektin hallinnan julkaisuiden </w:t>
+</w:r>
+<w:r>
+<w:t xml:space="preserve">mukaanotto </w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t>(vähintään luokitus 1)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="201E8BA0" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>International journal of information technology project management</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4EDF31FF" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>International journal of project management</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="638DD84E" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Project management journal</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="53B00BEA" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Otsikon perusteella aiheeseen liittymättömien julkaisuiden karsiminen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="23C5F936" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Exceleissä tarkemmin, tästä voi ehkä koostaa taulukon liitteeksi tms.</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7CF640FD" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Esiselvitykset hakutulosten määristä neljällä eri hakukyselyllä</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0E2828D8" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> success factors”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="35B38E8E" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> success”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4470BE3E" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> success” AND “factors”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="343F3680" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>“</w:t>
+</w:r>
+<w:proofErr w:type="gramStart"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="gramEnd"/>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> success” AND “factors “ AND “software”</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="781AAE81" w14:textId="01C126B4" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve">Sellaisten </w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t>julkaisujen</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t xml:space="preserve"> tiputtaminen pois, jotka eivät tuottaneet tuloksia kyselyllä 4</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="32A57B2F" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Kysely neljä oli toiseksi tiukin hakukysely</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="11737858" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Sellaisten julkaisujen tiputtaminen pois, jotka eivät tuottaneet tuloksia lopulliseksi kyselyksi valitulla kyselyllä 1</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="15DC7946" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListBullet"/>
+<w:tabs>
+<w:tab w:val="clear" w:pos="360"/>
+<w:tab w:val="num" w:pos="717"/>
+</w:tabs>
+<w:ind w:left="714"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Tutkijan pintapuolisen arvion mukaan tämä kysely tuotti parhaan signaalin (olennaisten artikkeleiden osuus kaikista artikkeleista)</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="462539D6" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Artikkeleiden kerääminen valitulla hakutermillä valituista julkaisuista</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1D28A48E" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Otsikon perusteella epäolennaisten artikkeleiden pois jättäminen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3B3D9EF2" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Tiivistelmän perusteella epäolennaisten artikkeleiden pois jättäminen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="46078F11" w14:textId="77777777" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Sisällön nopean läpikäynnin (ctrl+f: “</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success factor</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t>” ja “</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>software</w:t>
+</w:r>
+<w:r w:rsidRPr="00817E77">
+<w:t>”) perusteella epäolennaisten artikkeleiden karsiminen</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3A044D8F" w14:textId="3B3C3D1B" w:rsidR="00817E77" w:rsidRPr="00817E77" w:rsidRDefault="00817E77" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="ListNumber"/>
+</w:pPr>
+<w:r w:rsidRPr="00817E77">
+<w:t>Harkinnanvarainen lumipallo-otanta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5268B97B" w14:textId="7DE44A53" w:rsidR="00DD4857" w:rsidRPr="005011A1" w:rsidRDefault="00DD4857" w:rsidP="00817E77">
+<w:pPr>
+<w:pStyle w:val="Heading2"/>
+<w:numPr>
+<w:ilvl w:val="0"/>
+<w:numId w:val="0"/>
+</w:numPr>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
