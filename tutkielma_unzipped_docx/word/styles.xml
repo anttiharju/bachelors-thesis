@@ -115,6 +115,7 @@
 <w:lsdException w:name="HTML Sample" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="HTML Typewriter" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="HTML Variable" w:semiHidden="1" w:unhideWhenUsed="1"/>
+<w:lsdException w:name="Normal Table" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="annotation subject" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="No List" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Outline List 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
@@ -157,8 +158,11 @@
 <w:lsdException w:name="Table Contemporary" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Table Elegant" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Table Professional" w:semiHidden="1" w:unhideWhenUsed="1"/>
+<w:lsdException w:name="Table Subtle 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Table Subtle 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Table Web 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+<w:lsdException w:name="Table Web 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+<w:lsdException w:name="Table Web 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Balloon Text" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="Table Grid" w:uiPriority="59"/>
 <w:lsdException w:name="Table Theme" w:semiHidden="1" w:unhideWhenUsed="1"/>
@@ -1263,19 +1267,18 @@
 <w:outlineLvl w:val="1"/>
 </w:pPr>
 <w:rPr>
-<w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+<w:rFonts w:ascii="Calibri Light" w:eastAsia="Times New Roman" w:hAnsi="Calibri Light" w:cs="Times New Roman"/>
 <w:szCs w:val="24"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="SubtitleChar">
 <w:name w:val="Subtitle Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="Subtitle"/>
 <w:uiPriority w:val="11"/>
 <w:semiHidden/>
 <w:rsid w:val="00656FEE"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
+<w:rFonts w:ascii="Calibri Light" w:eastAsia="Times New Roman" w:hAnsi="Calibri Light" w:cs="Times New Roman"/>
 <w:sz w:val="24"/>
 <w:szCs w:val="24"/>
 <w:lang w:eastAsia="zh-CN"/>
@@ -1283,31 +1286,28 @@
 </w:style>
 <w:style w:type="character" w:styleId="SubtleEmphasis">
 <w:name w:val="Subtle Emphasis"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="19"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
 <w:rPr>
 <w:i/>
 <w:iCs/>
-<w:color w:val="404040" w:themeColor="text1" w:themeTint="BF"/>
+<w:color w:val="404040"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:styleId="IntenseEmphasis">
 <w:name w:val="Intense Emphasis"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="21"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
 <w:rPr>
 <w:i/>
 <w:iCs/>
-<w:color w:val="5B9BD5" w:themeColor="accent1"/>
+<w:color w:val="5B9BD5"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:styleId="Strong">
 <w:name w:val="Strong"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="22"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
@@ -1332,12 +1332,11 @@
 <w:rPr>
 <w:i/>
 <w:iCs/>
-<w:color w:val="404040" w:themeColor="text1" w:themeTint="BF"/>
+<w:color w:val="404040"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="QuoteChar">
 <w:name w:val="Quote Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="Quote"/>
 <w:uiPriority w:val="29"/>
 <w:rsid w:val="00656FEE"/>
@@ -1345,7 +1344,7 @@
 <w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
 <w:i/>
 <w:iCs/>
-<w:color w:val="404040" w:themeColor="text1" w:themeTint="BF"/>
+<w:color w:val="404040"/>
 <w:sz w:val="24"/>
 <w:szCs w:val="22"/>
 <w:lang w:eastAsia="zh-CN"/>
@@ -1361,8 +1360,8 @@
 <w:rsid w:val="00656FEE"/>
 <w:pPr>
 <w:pBdr>
-<w:top w:val="single" w:sz="4" w:space="10" w:color="5B9BD5" w:themeColor="accent1"/>
-<w:bottom w:val="single" w:sz="4" w:space="10" w:color="5B9BD5" w:themeColor="accent1"/>
+<w:top w:val="single" w:sz="4" w:space="10" w:color="5B9BD5"/>
+<w:bottom w:val="single" w:sz="4" w:space="10" w:color="5B9BD5"/>
 </w:pBdr>
 <w:spacing w:before="360" w:after="360"/>
 <w:ind w:left="864" w:right="864"/>
@@ -1371,12 +1370,11 @@
 <w:rPr>
 <w:i/>
 <w:iCs/>
-<w:color w:val="5B9BD5" w:themeColor="accent1"/>
+<w:color w:val="5B9BD5"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="IntenseQuoteChar">
 <w:name w:val="Intense Quote Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="IntenseQuote"/>
 <w:uiPriority w:val="30"/>
 <w:rsid w:val="00656FEE"/>
@@ -1384,7 +1382,7 @@
 <w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
 <w:i/>
 <w:iCs/>
-<w:color w:val="5B9BD5" w:themeColor="accent1"/>
+<w:color w:val="5B9BD5"/>
 <w:sz w:val="24"/>
 <w:szCs w:val="22"/>
 <w:lang w:eastAsia="zh-CN"/>
@@ -1392,18 +1390,16 @@
 </w:style>
 <w:style w:type="character" w:styleId="SubtleReference">
 <w:name w:val="Subtle Reference"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="31"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
 <w:rPr>
 <w:smallCaps/>
-<w:color w:val="5A5A5A" w:themeColor="text1" w:themeTint="A5"/>
+<w:color w:val="5A5A5A"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:styleId="IntenseReference">
 <w:name w:val="Intense Reference"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="32"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
@@ -1411,13 +1407,12 @@
 <w:b/>
 <w:bCs/>
 <w:smallCaps/>
-<w:color w:val="5B9BD5" w:themeColor="accent1"/>
+<w:color w:val="5B9BD5"/>
 <w:spacing w:val="5"/>
 </w:rPr>
 </w:style>
 <w:style w:type="character" w:styleId="BookTitle">
 <w:name w:val="Book Title"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="33"/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
@@ -1427,6 +1422,26 @@
 <w:i/>
 <w:iCs/>
 <w:spacing w:val="5"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyTextIndent">
+<w:name w:val="Body Text Indent"/>
+<w:basedOn w:val="Normal"/>
+<w:link w:val="BodyTextIndentChar"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00016DB9"/>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="BodyTextIndentChar">
+<w:name w:val="Body Text Indent Char"/>
+<w:link w:val="BodyTextIndent"/>
+<w:uiPriority w:val="99"/>
+<w:rsid w:val="00016DB9"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="24"/>
+<w:szCs w:val="22"/>
+<w:lang w:eastAsia="zh-CN"/>
 </w:rPr>
 </w:style>
 </w:styles>
