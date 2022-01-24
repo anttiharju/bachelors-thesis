@@ -1455,4 +1455,66 @@
 <w:shd w:val="clear" w:color="auto" w:fill="E1DFDD"/>
 </w:rPr>
 </w:style>
+<w:style w:type="character" w:styleId="CommentReference">
+<w:name w:val="annotation reference"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="0090776B"/>
+<w:rPr>
+<w:sz w:val="16"/>
+<w:szCs w:val="16"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="CommentText">
+<w:name w:val="annotation text"/>
+<w:basedOn w:val="Normal"/>
+<w:link w:val="CommentTextChar"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="0090776B"/>
+<w:rPr>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="CommentTextChar">
+<w:name w:val="Comment Text Char"/>
+<w:link w:val="CommentText"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:rsid w:val="0090776B"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="CommentSubject">
+<w:name w:val="annotation subject"/>
+<w:basedOn w:val="CommentText"/>
+<w:next w:val="CommentText"/>
+<w:link w:val="CommentSubjectChar"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="0090776B"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="CommentSubjectChar">
+<w:name w:val="Comment Subject Char"/>
+<w:link w:val="CommentSubject"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:rsid w:val="0090776B"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:b/>
+<w:bCs/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
 </w:styles>
