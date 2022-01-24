@@ -9,7 +9,7 @@
 <w:t>Antti Harju</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="687D1255" w14:textId="7BAFAECE" w:rsidR="00E6009A" w:rsidRDefault="00F672E5" w:rsidP="00E6009A">
+<w:p w14:paraId="687D1255" w14:textId="7BAFAECE" w:rsidR="00E6009A" w:rsidRDefault="005E7A09" w:rsidP="00E6009A">
 <w:pPr>
 <w:pStyle w:val="Tutkielmannimi"/>
 </w:pPr>
@@ -22,15 +22,16 @@
 <v:stroke joinstyle="miter"/>
 <v:path gradientshapeok="t" o:connecttype="rect"/>
 </v:shapetype>
-<v:shape id="Text Box 2" o:spid="_x0000_s2059" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:251657216;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
+<v:shape id="Text Box 2" o:spid="_x0000_s2059" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:1;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDAfAvRPgIAAMsEAAAOAAAAZHJzL2Uyb0RvYy54bWzEVNtuGyEQfa/Uf0C812u7seOujKPUaapK&#xA;6UVK+gEYWC8qMBSwd92vz8Dartu+VZW6D2gY4MyZOTO7vOmtIXsVogbH6GQ0pkQ5AVK7LaNfn+5f&#xA;LSiJiTvJDTjF6EFFerN6+WLZ+VpNoQUjVSAI4mLdeUbblHxdVVG0yvI4Aq8cHjYQLE+4DdtKBt4h&#xA;ujXVdDyeVx0E6QMIFSN674ZDuir4TaNE+tw0USViGEVuqayhrJu8Vqslr7eB+1aLIw3+Fyws1w6D&#xA;nqHueOJkF/QfUFaLABGaNBJgK2gaLVTJAbOZjH/L5rHlXpVcsDjRn8sU/x2s+LT/EoiWjM4pcdyi&#xA;RE+qT+Qt9GSaq9P5WOOlR4/XUo9uVLlkGv0DiG+ROFi33G3VbQjQtYpLZDfJL6uLpwNOzCCb7iNI&#xA;DMN3CQpQ3wSbS4fFIIiOKh3OymQqAp1X89eL+fWMEoFnk8X1/Go6KzF4fXruQ0zvFViSDUYDSl/g&#xA;+f4hpkyH16crOVoEo+W9NqZsDnFtAtlz7BJsLgkdJYbHhE5G78tXsMzOIvnh3mScv6GB0I9tNviL&#xA;C4PFglni/hLLONIx+maGCfxXHlYnnDyjLaOLi1Sygu+cLHORuDaDjfkYd5Q0qzjomfpNf2yRDcgD&#xA;ihtgmDD8I6DRQvhBSYfTxWj8vuNBYVk/OGyQPIonI5yMzcngTuBTRjeUDOY6DSO780FvW0QeWtDB&#xA;LTZRo4u8udsGFkeeODGl+sfpziN5uS+3fv6DVs8AAAD//wMAUEsDBBQABgAIAAAAIQADtAXD3AAA&#xA;AAUBAAAPAAAAZHJzL2Rvd25yZXYueG1sTI9BS8QwEIXvgv8hjODNTa20am26qCAIHly7u55nm7Et&#xA;NpOSZLtdf73Ri14GHu/x3jflcjaDmMj53rKCy0UCgrixuudWwWb9dHEDwgdkjYNlUnAkD8vq9KTE&#xA;QtsDv9FUh1bEEvYFKuhCGAspfdORQb+wI3H0PqwzGKJ0rdQOD7HcDDJNklwa7DkudDjSY0fNZ703&#xA;Cmj6WqVk6/dnl663+TF/GF9fZqXOz+b7OxCB5vAXhh/8iA5VZNrZPWsvBgXxkfB7o3d9lWQgdgrS&#xA;2ywDWZXyP331DQAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAA&#xA;AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAA&#xA;AAAAAAAAAAAALwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAMB8C9E+AgAAywQAAA4AAAAA&#xA;AAAAAAAAAAAALgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAAO0BcPcAAAABQEAAA8A&#xA;AAAAAAAAAAAAAAAAmAQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAChBQAAAAA=&#xA;" strokecolor="white">
 <v:textbox style="mso-next-textbox:#Text Box 2" inset="0,0,0,0">
 <w:txbxContent>
-<w:p w14:paraId="6F1632CA" w14:textId="77777777" w:rsidR="0038549D" w:rsidRDefault="00F672E5" w:rsidP="0038549D">
+<w:p w14:paraId="6F1632CA" w14:textId="77777777" w:rsidR="0038549D" w:rsidRDefault="005E7A09" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
 <w:r>
 <w:rPr>
+<w:b/>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
@@ -54,7 +55,7 @@
 <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
 <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype>
-<v:shape id="_x0000_i1026" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:33.8pt;height:77pt;visibility:visible">
+<v:shape id="_x0000_i1026" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:33.75pt;height:77.25pt;visibility:visible">
 <v:imagedata r:id="rId8" o:title="jyu_soihtu"/>
 </v:shape>
 </w:pict>
@@ -76,7 +77,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="463C523D" w14:textId="085601BF" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
+<w:p w14:paraId="463C523D" w14:textId="69131650" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -89,7 +90,7 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00947359">
+<w:r w:rsidR="00A6139B">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -190,7 +191,7 @@
 <w:t>tutkielma</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="2B3FC7F2" w14:textId="61F2D30D" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="2B3FC7F2" w14:textId="67988021" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 </w:pPr>
@@ -199,6 +200,27 @@
 </w:r>
 <w:r w:rsidR="00572901">
 <w:t>Mehtälä, Saana</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="60785B56" w14:textId="4E3530B6" w:rsidR="000B662C" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="699AA828" w14:textId="04BB553D" w:rsidR="000B662C" w:rsidRPr="000B662C" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B662C">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Kirjoitetaan viimeisenä.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="48E6647B" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
@@ -394,7 +416,7 @@
 <w:t>Bachelor’s Thesis</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5EBC8745" w14:textId="577E6151" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
+<w:p w14:paraId="5EBC8745" w14:textId="21C1AAA0" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
@@ -415,6 +437,30 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>, Saana</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1DBB8F13" w14:textId="3F6C824D" w:rsidR="000B662C" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+</w:p>
+<w:p w14:paraId="40CF98DE" w14:textId="31FDDBBF" w:rsidR="000B662C" w:rsidRPr="000B662C" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
+<w:pPr>
+<w:pStyle w:val="Bibliografisettiedot"/>
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B662C">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>Kirjoitetaan viimeisenä</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="019E5DA1" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
@@ -464,7 +510,7 @@
 <w:bookmarkEnd w:id="4"/>
 <w:bookmarkEnd w:id="5"/>
 </w:p>
-<w:p w14:paraId="360D9594" w14:textId="18780E75" w:rsidR="00397115" w:rsidRDefault="0006628B">
+<w:p w14:paraId="360D9594" w14:textId="18780E75" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="0006628B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -472,7 +518,7 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
@@ -495,9 +541,9 @@
 </w:rPr>
 <w:t>KUVIO 1</w:t>
 </w:r>
-<w:r w:rsidR="00397115">
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
@@ -594,7 +640,7 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="0933BD57" w14:textId="31E77535" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="0933BD57" w14:textId="31E77535" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -602,78 +648,78 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859427" w:history="1">
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Esiselvityksen vaihtoehtoiset hakutermit</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859427 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>8</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -682,7 +728,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="20F366FC" w14:textId="73D41150" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="20F366FC" w14:textId="73D41150" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -690,78 +736,78 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859428" w:history="1">
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Syyt julkaisujen karsiutumiselle hakuvaiheessa</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859428 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>9</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -770,7 +816,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="34C283C0" w14:textId="2820F1D4" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="34C283C0" w14:textId="2820F1D4" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -778,78 +824,78 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859429" w:history="1">
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 3</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Lähteiden julkaisuvuodet</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859429 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>10</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -858,7 +904,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="25452B0D" w14:textId="4EA76162" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="25452B0D" w14:textId="4EA76162" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -866,78 +912,78 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859430" w:history="1">
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 4</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Esimerkki taulukon selitetekstistä</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859430 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>14</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -946,7 +992,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="69916471" w14:textId="6107045B" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="69916471" w14:textId="6107045B" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -954,78 +1000,78 @@
 <w:tab w:val="right" w:leader="dot" w:pos="8494"/>
 </w:tabs>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859431" w:history="1">
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>TAULUKKO 5</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="007404A2">
+<w:r w:rsidR="00397115" w:rsidRPr="007404A2">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Syyt julkaisujen karsiutumiselle otsikkotason tarkastelussa</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859431 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>19</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1080,11 +1126,11 @@
 <w:t>KUVIOT JA TAULUKOT</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="36278297" w14:textId="15133C3B" w:rsidR="00397115" w:rsidRDefault="00B02A9E">
+<w:p w14:paraId="36278297" w14:textId="15133C3B" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="00B02A9E">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1108,9 +1154,9 @@
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r w:rsidR="00397115">
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1175,82 +1221,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="24C9B7B2" w14:textId="753B5F26" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="24C9B7B2" w14:textId="753B5F26" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859433" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>1.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Jaotteluja</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859433 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>6</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1259,82 +1305,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6998DD29" w14:textId="03D1A4C5" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="6998DD29" w14:textId="03D1A4C5" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859434" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>1.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Yleiset lähtökohdat</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859434 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>6</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1343,11 +1389,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="28696243" w14:textId="7006B87B" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="28696243" w14:textId="7006B87B" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1355,16 +1401,16 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859435" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1372,55 +1418,55 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Tutkimusmenetelmä</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859435 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>7</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1429,82 +1475,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6DEB5B2F" w14:textId="682D4299" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="6DEB5B2F" w14:textId="682D4299" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859436" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>2.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Tieteenalat</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859436 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>7</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1513,82 +1559,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="791618C6" w14:textId="0FAB2700" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="791618C6" w14:textId="0FAB2700" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859437" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>2.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Julkaisut</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859437 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>8</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1597,82 +1643,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5FC16A20" w14:textId="6FBA1ABC" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="5FC16A20" w14:textId="6FBA1ABC" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859438" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>2.3</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Artikkelit</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859438 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>9</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1681,11 +1727,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1A1133C1" w14:textId="4FC27930" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="1A1133C1" w14:textId="4FC27930" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1693,16 +1739,16 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859439" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>3</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1710,55 +1756,55 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Menestystekijät ja niiden yleistettävyys</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859439 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>11</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1767,82 +1813,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="20FB3CB2" w14:textId="585DD41F" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="20FB3CB2" w14:textId="585DD41F" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859440" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>3.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Menestystekijät</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859440 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>11</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1851,82 +1897,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="61543A60" w14:textId="2E355F52" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="61543A60" w14:textId="2E355F52" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859441" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>3.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Menestystekijöiden yleistettävyyttä rajoittavat tekijät</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859441 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>11</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1935,11 +1981,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="77505A2D" w14:textId="16973B8F" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="77505A2D" w14:textId="16973B8F" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1947,16 +1993,16 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859442" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>4</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -1964,55 +2010,55 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Johdanto</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859442 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>12</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2021,82 +2067,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="60A0605D" w14:textId="7A4891E7" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="60A0605D" w14:textId="7A4891E7" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859443" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>4.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Toisen tason alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859443 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>12</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2105,82 +2151,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="039DBEE8" w14:textId="31A7AD84" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="039DBEE8" w14:textId="31A7AD84" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859444" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>4.1.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Kolmannen tason alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859444 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>12</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2189,82 +2235,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="55B18C11" w14:textId="1B226BCB" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="55B18C11" w14:textId="1B226BCB" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859445" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>4.1.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Kolmannen tason toinen alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859445 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>13</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2273,82 +2319,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="17575473" w14:textId="4186191F" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="17575473" w14:textId="4186191F" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859446" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>4.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Toisen tason toinen alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859446 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>13</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2357,11 +2403,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="0C4F8550" w14:textId="787864E2" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="0C4F8550" w14:textId="787864E2" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -2369,7 +2415,7 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859447" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
@@ -2377,9 +2423,9 @@
 </w:rPr>
 <w:t>5</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -2387,7 +2433,7 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
@@ -2395,48 +2441,48 @@
 </w:rPr>
 <w:t>TOINEN PÄÄOTSIKKO</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859447 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>14</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2445,82 +2491,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="61BA171E" w14:textId="3736A527" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="61BA171E" w14:textId="3736A527" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859448" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>5.1</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859448 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>14</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2529,82 +2575,82 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3B15B78F" w14:textId="4D263593" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="3B15B78F" w14:textId="4D263593" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859449" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>5.2</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:noProof/>
 <w:sz w:val="22"/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>Toinen alaotsikko</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859449 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>15</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2613,11 +2659,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="4B2FC4BC" w14:textId="34F51725" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="4B2FC4BC" w14:textId="34F51725" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -2625,7 +2671,7 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859450" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
@@ -2633,9 +2679,9 @@
 </w:rPr>
 <w:t>6</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115" w:rsidRPr="005E7A09">
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -2643,55 +2689,55 @@
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
 </w:rPr>
 <w:t>KOLMAS PÄÄOTSIKKO</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859450 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>17</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2700,11 +2746,11 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="029B4DB2" w14:textId="2BAD69DD" w:rsidR="00397115" w:rsidRDefault="00397115">
+<w:p w14:paraId="029B4DB2" w14:textId="2BAD69DD" w:rsidR="00397115" w:rsidRPr="005E7A09" w:rsidRDefault="005E7A09">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
-<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia" w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+<w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri" w:cs="Times New Roman"/>
 <w:caps w:val="0"/>
 <w:noProof/>
 <w:sz w:val="22"/>
@@ -2712,7 +2758,7 @@
 </w:rPr>
 </w:pPr>
 <w:hyperlink w:anchor="_Toc93859451" w:history="1">
-<w:r w:rsidRPr="00C746DC">
+<w:r w:rsidR="00397115" w:rsidRPr="00C746DC">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
 <w:noProof/>
@@ -2720,48 +2766,48 @@
 </w:rPr>
 <w:t>LÄHTEET</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:tab/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:instrText xml:space="preserve"> PAGEREF _Toc93859451 \h </w:instrText>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
 </w:rPr>
 <w:t>18</w:t>
 </w:r>
-<w:r>
+<w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2784,10 +2830,14 @@
 <w:fldChar w:fldCharType="end"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="2C244810" w14:textId="77777777" w:rsidR="0094200D" w:rsidRDefault="0094200D" w:rsidP="00A62C2B">
+<w:p w14:paraId="5EFC8361" w14:textId="77777777" w:rsidR="0094200D" w:rsidRDefault="0094200D" w:rsidP="00A62C2B">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
-<w:sectPr w:rsidR="0094200D" w:rsidSect="0094200D">
+</w:pPr>
+</w:p>
+<w:p w14:paraId="2C244810" w14:textId="30CA611E" w:rsidR="000D0D87" w:rsidRPr="000D0D87" w:rsidRDefault="000D0D87" w:rsidP="000D0D87">
+<w:pPr>
+<w:sectPr w:rsidR="000D0D87" w:rsidRPr="000D0D87" w:rsidSect="0094200D">
 <w:headerReference w:type="default" r:id="rId10"/>
 <w:type w:val="continuous"/>
 <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
@@ -2798,7 +2848,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2130D090" w14:textId="697B87B9" w:rsidR="00947359" w:rsidRDefault="00F81579" w:rsidP="00A62C2B">
+<w:p w14:paraId="2130D090" w14:textId="18490505" w:rsidR="00947359" w:rsidRDefault="00F81579" w:rsidP="00A62C2B">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
@@ -2810,7 +2860,7 @@
 <w:t>Johdanto</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="7DC948F2" w14:textId="6905FD08" w:rsidR="005446B6" w:rsidRDefault="00E16AC1" w:rsidP="00723E6E">
+<w:p w14:paraId="7DC948F2" w14:textId="6FF355BF" w:rsidR="005446B6" w:rsidRDefault="00E16AC1" w:rsidP="00723E6E">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -2819,7 +2869,13 @@
 <w:t xml:space="preserve">Kirjoittajan motivaatio tutkia ohjelmistoprojektien menestystekijöitä on peräisin </w:t>
 </w:r>
 <w:r w:rsidR="00AB0C38">
-<w:t>osana hänen alempaa korkeakoulututkintoaan käymältä projektin hallinta -kurssilta, jossa e</w:t>
+<w:t>osana hänen alempaa korkeakoulututkintoaan</w:t>
+</w:r>
+<w:r w:rsidR="00653BA7">
+<w:t xml:space="preserve"> käydyltä</w:t>
+</w:r>
+<w:r w:rsidR="00AB0C38">
+<w:t xml:space="preserve"> projektin hallinta -kurssilta, jossa e</w:t>
 </w:r>
 <w:r w:rsidR="005446B6">
 <w:t xml:space="preserve">sitettiin </w:t>
@@ -2855,12 +2911,24 @@
 <w:t>tutkimuksen avulla IT-projektien matalaa onnistumisastetta.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="25C8FB5E" w14:textId="3379D5B6" w:rsidR="00FB0722" w:rsidRPr="00FB0722" w:rsidRDefault="00FB0722" w:rsidP="00FB0722">
+<w:p w14:paraId="25C8FB5E" w14:textId="10E6E7C3" w:rsidR="00FB0722" w:rsidRPr="00FB0722" w:rsidRDefault="00FB0722" w:rsidP="00FB0722">
 <w:r>
 <w:t xml:space="preserve">Ohjelmistoprojektien menestystekijöiden tutkimista on pidetty mielekkäänä, sillä </w:t>
 </w:r>
+<w:r w:rsidR="00DC61CD">
+<w:t xml:space="preserve">niihin uppoaa paljon resursseja </w:t>
+</w:r>
 <w:r w:rsidR="009F0237">
-<w:t>niissä liikkuu paljon rahaa (viite).</w:t>
+<w:t>(viite)</w:t>
+</w:r>
+<w:r w:rsidR="00DC61CD">
+<w:t xml:space="preserve"> joita </w:t>
+</w:r>
+<w:r w:rsidR="00B65300">
+<w:t>ei haluta haaskata, esimerkiksi aikaa ja rahaa</w:t>
+</w:r>
+<w:r w:rsidR="009F0237">
+<w:t>.</w:t>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> </w:t>
@@ -2886,15 +2954,6 @@
 </w:r>
 <w:r w:rsidR="009F0237">
 <w:t>] jos me tiedämme näin paljon miksi projektit menestyvät, miksi ne silti epäonnistuvat?” (viittaus).</w:t>
-</w:r>
-<w:r w:rsidR="00A30DE3">
-<w:t xml:space="preserve"> Kirjoittaja näkee, että syvimmillään kyse on tarve ihmisten rajallisten resurssien </w:t>
-</w:r>
-<w:r w:rsidR="00FA3608">
-<w:t>hukkaamiselta välttymisestä</w:t>
-</w:r>
-<w:r w:rsidR="00A30DE3">
-<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="4E2072A2" w14:textId="36668CE5" w:rsidR="00723E6E" w:rsidRPr="004079A3" w:rsidRDefault="004C7EF5" w:rsidP="00723E6E">
@@ -3110,17 +3169,17 @@
 <w:t>ihetta rajattiin aineiston lukemisen aikana pidemmälle</w:t>
 </w:r>
 <w:r w:rsidR="00562189">
-<w:t>. Toisin sanoen uusi tutkimuskysymys kuu</w:t>
-</w:r>
-<w:r w:rsidR="00562189">
-<w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">luu: </w:t>
+<w:t xml:space="preserve">. Toisin sanoen uusi tutkimuskysymys kuuluu: </w:t>
 </w:r>
 <w:r w:rsidR="006D1CB3">
 <w:t>”</w:t>
 </w:r>
 <w:r w:rsidR="00562189">
-<w:t>mitkä tekijät vaikuttavat siihen, että on haastavaa muodostaa yleispäteviä menestystekijöitä ohjelmistoprojekteilla</w:t>
+<w:t xml:space="preserve">mitkä tekijät vaikuttavat siihen, että on haastavaa muodostaa yleispäteviä </w:t>
+</w:r>
+<w:r w:rsidR="00562189">
+<w:lastRenderedPageBreak/>
+<w:t>menestystekijöitä ohjelmistoprojekteilla</w:t>
 </w:r>
 <w:r w:rsidR="006D1CB3">
 <w:t xml:space="preserve">?”. Tätä </w:t>
@@ -3136,7 +3195,7 @@
 </w:r>
 </w:p>
 <w:bookmarkEnd w:id="12"/>
-<w:p w14:paraId="5F64E059" w14:textId="77777777" w:rsidR="00A00E65" w:rsidRDefault="00887E4C" w:rsidP="003014CA">
+<w:p w14:paraId="5D120A84" w14:textId="6A9E4048" w:rsidR="00BF43A5" w:rsidRDefault="00887E4C" w:rsidP="00C25A7F">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -3154,13 +3213,20 @@
 <w:r w:rsidR="00A00E65">
 <w:t xml:space="preserve"> eli PMBOK (Project Management Institute, xxxx). Sen määritelmä projektista on seuraava: ””.</w:t>
 </w:r>
-</w:p>
-<w:p w14:paraId="5D120A84" w14:textId="77777777" w:rsidR="00BF43A5" w:rsidRDefault="00A00E65" w:rsidP="00A00E65">
-<w:r>
+<w:r w:rsidR="00C25A7F">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="00A00E65">
 <w:t>[jotain pseudoanalyysiä</w:t>
 </w:r>
 <w:r w:rsidR="00BF43A5">
-<w:t xml:space="preserve"> määritelmästä]</w:t>
+<w:t xml:space="preserve"> määritelmästä</w:t>
+</w:r>
+<w:r w:rsidR="00C25A7F">
+<w:t>?</w:t>
+</w:r>
+<w:r w:rsidR="00BF43A5">
+<w:t>]</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="3ACF05CB" w14:textId="77777777" w:rsidR="00A778F2" w:rsidRDefault="00757243" w:rsidP="00EC4C08">
@@ -3186,13 +3252,7 @@
 <w:t xml:space="preserve"> </w:t>
 </w:r>
 <w:r w:rsidR="00E1367F">
-<w:t xml:space="preserve">eikä </w:t>
-</w:r>
-<w:r w:rsidR="00E1367F">
-<w:t xml:space="preserve">jälleen kirjoittajan käsityksen mukaan yleistason lähde kuten PMBOK (Project Management Institute, xxxx) ota välttämättä </w:t>
-</w:r>
-<w:r w:rsidR="00E1367F">
-<w:t>tarpeeksi huomioon IT-alan erityispiirteitä</w:t>
+<w:t>eikä jälleen kirjoittajan käsityksen mukaan yleistason lähde kuten PMBOK (Project Management Institute, xxxx) ota välttämättä tarpeeksi huomioon IT-alan erityispiirteitä</w:t>
 </w:r>
 <w:r w:rsidR="004F1010">
 <w:t xml:space="preserve">, </w:t>
@@ -3428,27 +3488,14 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r>
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r>
-<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
-</w:r>
-<w:r>
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r>
-<w:rPr>
-<w:noProof/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:fldSimple>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -3837,27 +3884,14 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r>
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r>
-<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
-</w:r>
-<w:r>
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>2</w:t>
 </w:r>
-<w:r>
-<w:rPr>
-<w:noProof/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:fldSimple>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -4383,27 +4417,14 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r>
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r>
-<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
-</w:r>
-<w:r>
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>3</w:t>
 </w:r>
-<w:r>
-<w:rPr>
-<w:noProof/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:fldSimple>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -4875,12 +4896,15 @@
 <w:t>nnistunut projekti</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="620BB29B" w14:textId="2482494D" w:rsidR="00625B66" w:rsidRDefault="00625B66" w:rsidP="00625B66">
+<w:p w14:paraId="620BB29B" w14:textId="6FD4EB84" w:rsidR="00625B66" w:rsidRDefault="00625B66" w:rsidP="00625B66">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
 <w:r>
 <w:t>Lyhyt johdatus</w:t>
+</w:r>
+<w:r w:rsidR="00DF6BB9">
+<w:t xml:space="preserve"> alalukuihin</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5D1EA069" w14:textId="4D80D22C" w:rsidR="00625B66" w:rsidRDefault="00625B66" w:rsidP="00625B66">
@@ -4958,23 +4982,16 @@
 </w:r>
 <w:bookmarkEnd w:id="20"/>
 </w:p>
-<w:p w14:paraId="232B037D" w14:textId="31071455" w:rsidR="003014CA" w:rsidRDefault="007609D3" w:rsidP="003014CA">
+<w:p w14:paraId="232B037D" w14:textId="3F5F8FF3" w:rsidR="003014CA" w:rsidRDefault="00A6139B" w:rsidP="003014CA">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
-<w:proofErr w:type="spellStart"/>
 <w:r>
-<w:t>Lorem</w:t>
+<w:t>Lyhyt johdatus</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r>
-<w:t xml:space="preserve"> </w:t>
+<w:r w:rsidR="000B40F6">
+<w:t xml:space="preserve"> alalukuihin</w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r>
-<w:t>ipsum</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="77A3C98E" w14:textId="6F080059" w:rsidR="007609D3" w:rsidRDefault="007609D3" w:rsidP="007609D3">
 <w:pPr>
@@ -5006,7 +5023,7 @@
 </w:r>
 <w:bookmarkEnd w:id="22"/>
 </w:p>
-<w:p w14:paraId="1F1AF11A" w14:textId="439A1B2A" w:rsidR="007609D3" w:rsidRDefault="00C61F0F" w:rsidP="007609D3">
+<w:p w14:paraId="1F1AF11A" w14:textId="625D79BB" w:rsidR="007609D3" w:rsidRDefault="00C61F0F" w:rsidP="007609D3">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -5023,23 +5040,7 @@
 <w:t>olettaa esimerkiksi sanalle projekti jonkun merkityksen.</w:t>
 </w:r>
 <w:r w:rsidR="000D79C9">
-<w:t xml:space="preserve"> Erinomaisen tarkasti käytetyt termit </w:t>
-</w:r>
-<w:proofErr w:type="gramStart"/>
-<w:r w:rsidR="000D79C9">
-<w:t>on</w:t>
-</w:r>
-<w:proofErr w:type="gramEnd"/>
-<w:r w:rsidR="000D79C9">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:proofErr w:type="spellStart"/>
-<w:r w:rsidR="000D79C9">
-<w:t>määäritellyt</w:t>
-</w:r>
-<w:proofErr w:type="spellEnd"/>
-<w:r w:rsidR="000D79C9">
-<w:t xml:space="preserve"> [</w:t>
+<w:t xml:space="preserve"> Erinomaisen tarkasti käytetyt termit on määritellyt [</w:t>
 </w:r>
 <w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="000D79C9">
@@ -5162,15 +5163,15 @@
 </w:pPr>
 <w:bookmarkStart w:id="27" w:name="_Toc274315275"/>
 <w:bookmarkStart w:id="28" w:name="_Toc56597510"/>
-<w:bookmarkStart w:id="29" w:name="_Toc274315276"/>
-<w:bookmarkStart w:id="30" w:name="_Toc56597511"/>
-<w:bookmarkStart w:id="31" w:name="_Toc93859444"/>
+<w:bookmarkStart w:id="29" w:name="_Toc93859444"/>
+<w:bookmarkStart w:id="30" w:name="_Toc274315276"/>
+<w:bookmarkStart w:id="31" w:name="_Toc56597511"/>
 <w:r>
 <w:t>Kolmannen tason alaotsikko</w:t>
 </w:r>
 <w:bookmarkEnd w:id="27"/>
 <w:bookmarkEnd w:id="28"/>
-<w:bookmarkEnd w:id="31"/>
+<w:bookmarkEnd w:id="29"/>
 </w:p>
 <w:p w14:paraId="5B883DEA" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
@@ -6855,8 +6856,8 @@
 <w:lastRenderedPageBreak/>
 <w:t>TOINEN PÄÄOTSIKKO</w:t>
 </w:r>
-<w:bookmarkEnd w:id="29"/>
 <w:bookmarkEnd w:id="30"/>
+<w:bookmarkEnd w:id="31"/>
 <w:bookmarkEnd w:id="34"/>
 </w:p>
 <w:p w14:paraId="4FFE6E78" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
@@ -6942,14 +6943,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>4</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="005E7A09">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r w:rsidR="00257167">
 <w:rPr>
 <w:noProof/>
@@ -7181,14 +7195,14 @@
 </w:pPr>
 </w:p>
 <w:p w14:paraId="028DA8DB" w14:textId="77777777" w:rsidR="007B4468" w:rsidRPr="007B4468" w:rsidRDefault="007B4468" w:rsidP="007B4468"/>
-<w:p w14:paraId="0F939308" w14:textId="77777777" w:rsidR="00B00A80" w:rsidRDefault="00F672E5" w:rsidP="00B00A80">
+<w:p w14:paraId="0F939308" w14:textId="77777777" w:rsidR="00B00A80" w:rsidRDefault="005E7A09" w:rsidP="00B00A80">
 <w:r>
 <w:rPr>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 <w:pict w14:anchorId="61197CD7">
-<v:group id="_x0000_s2060" style="position:absolute;left:0;text-align:left;margin-left:3.5pt;margin-top:.4pt;width:200.5pt;height:46.25pt;z-index:251658240" coordorigin="3315,12869" coordsize="3780,735">
+<v:group id="_x0000_s2060" style="position:absolute;left:0;text-align:left;margin-left:3.5pt;margin-top:.4pt;width:200.5pt;height:46.25pt;z-index:2" coordorigin="3315,12869" coordsize="3780,735">
 <v:oval id="Oval 4" o:spid="_x0000_s2058" style="position:absolute;left:5655;top:12869;width:1440;height:735;visibility:visible" o:gfxdata="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&#xA;BgAAAAAEAAQA8wAAAH8FAAAAAA==&#xA;">
 <v:textbox style="mso-next-textbox:#Oval 4">
 <w:txbxContent>
@@ -7254,14 +7268,27 @@
 <w:r>
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ KUVIO \* ARABIC ">
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="005E7A09">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r w:rsidR="00257167">
 <w:tab/>
 </w:r>
@@ -8861,14 +8888,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="005E7A09">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00397115">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>5</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="005E7A09">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>

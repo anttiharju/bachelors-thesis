@@ -1446,7 +1446,6 @@
 </w:style>
 <w:style w:type="character" w:styleId="UnresolvedMention">
 <w:name w:val="Unresolved Mention"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="99"/>
 <w:semiHidden/>
 <w:unhideWhenUsed/>

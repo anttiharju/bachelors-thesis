@@ -1,5 +1,13 @@
 # Eteneminen
 
+## Maanantaina 24.01.2022
+- Repoa siivottu
+
+## Sunnuntaina 23.01.2022
+- Kirjoitustyö aloitettu
+    - Raakile menetelmäluvusta
+    - Raakile johdannosta
+
 ## Lauantaina 22.01.2022
 - Kaikki artikkelit jotka tullaan lukemaan kokonaan, on luettu. Suhteellisen koheesiivinen idea on jo päässä, pitäisi vain kirjoittaa se ylös (jossa voi tulla esiin omia vaikeuksiaan)
 - Tavoite on vain päästä läpi ja valmistua.
