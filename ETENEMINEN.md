@@ -1,7 +1,16 @@
 # Eteneminen
 
+## Raaka arvio tutkielman valmistumisesta
+- Sunnuntaina 23.01.22 1549/5000 sanaa eli 31 %
+- Maanantaina 24.01.22 1949/5000 sanaa eli 39 %
+
+Arvio: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
+
 ## Maanantaina 24.01.2022
 - Repoa siivottu
+- Rakennetta hiottu
+- Kirjoitettu luvun 3 "Onnistunut projekti" alalukua "Jako projektin ja projektinhallinnan onnistumisen välillä"
+
 
 ## Sunnuntaina 23.01.2022
 - Kirjoitustyö aloitettu
