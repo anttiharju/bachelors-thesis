@@ -1,8 +1,9 @@
 # Eteneminen
 
 ## Raaka arvio tutkielman valmistumisesta
-- Sunnuntaina 23.01.22 1549/5000 sanaa eli 31 %
-- Maanantaina 24.01.22 2291/5000 sanaa eli 46 %
+- Sunnuntaina   23.01.22 1549/5000 sanaa eli 31 %
+- Maanantaina   24.01.22 2291/5000 sanaa eli 46 %
+- Tiistaina     25.01.22 2739/5000 sanaa eli 55 %
 
 Arvio: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
 
