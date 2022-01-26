@@ -703,7 +703,6 @@
 <w:basedOn w:val="Normal"/>
 <w:link w:val="HeaderChar"/>
 <w:uiPriority w:val="99"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 <w:rsid w:val="00A62C2B"/>
 <w:pPr>
@@ -719,7 +718,6 @@
 <w:name w:val="Header Char"/>
 <w:link w:val="Header"/>
 <w:uiPriority w:val="99"/>
-<w:semiHidden/>
 <w:rsid w:val="00840DBF"/>
 <w:rPr>
 <w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
@@ -731,7 +729,6 @@
 <w:basedOn w:val="Normal"/>
 <w:link w:val="FooterChar"/>
 <w:uiPriority w:val="99"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 <w:rsid w:val="00E6009A"/>
 <w:pPr>
@@ -746,7 +743,6 @@
 <w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="Footer"/>
 <w:uiPriority w:val="99"/>
-<w:semiHidden/>
 <w:rsid w:val="00E6009A"/>
 </w:style>
 <w:style w:type="paragraph" w:customStyle="1" w:styleId="Tutkielmankirjoittaja">
@@ -1257,7 +1253,6 @@
 <w:next w:val="Normal"/>
 <w:link w:val="SubtitleChar"/>
 <w:uiPriority w:val="11"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 <w:qFormat/>
 <w:rsid w:val="00656FEE"/>
@@ -1275,7 +1270,6 @@
 <w:name w:val="Subtitle Char"/>
 <w:link w:val="Subtitle"/>
 <w:uiPriority w:val="11"/>
-<w:semiHidden/>
 <w:rsid w:val="00656FEE"/>
 <w:rPr>
 <w:rFonts w:ascii="Calibri Light" w:eastAsia="Times New Roman" w:hAnsi="Calibri Light" w:cs="Times New Roman"/>
@@ -1515,6 +1509,31 @@
 <w:b/>
 <w:bCs/>
 <w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="ListBullet">
+<w:name w:val="List Bullet"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00D91EDB"/>
+<w:pPr>
+<w:numPr>
+<w:numId w:val="2"/>
+</w:numPr>
+<w:contextualSpacing/>
+</w:pPr>
+</w:style>
+<w:style w:type="character" w:styleId="FollowedHyperlink">
+<w:name w:val="FollowedHyperlink"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:uiPriority w:val="99"/>
+<w:semiHidden/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00D70280"/>
+<w:rPr>
+<w:color w:val="954F72" w:themeColor="followedHyperlink"/>
+<w:u w:val="single"/>
 </w:rPr>
 </w:style>
 </w:styles>
