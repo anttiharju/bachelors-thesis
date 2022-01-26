@@ -7,6 +7,105 @@
 
 Arvio: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
 
+## TODO / Ohjaajan palaute tulkittuna
+- Kirjoita johdanto uudestaan raportointiohjeen avulla
+    - "Motivaatio muotoillaan yleensä aiheen näkökulmasta (miksi tätä aihetta on tärkeä tutkia, ei miksi juuri minä olen kiinnostunut tutkimaan aihetta)"
+    - Tarkenna, miksi "tutkimusten tuloksia ei voida pitää tieteellisinä".
+    - Harkitse PMBOK lainauksen lyhentämistä "Tämä lainaus on aika pitkä. Voi olla hyödyllinenkin, mutta kannattaa miettiä, onko kaikki osat tarpeellisia (voisiko viitata tekstin puolella?"
+- Korjaa epäjohdonmukaisuudet menetelmäluvussa
+    - Menetelmäluvun johdanto metatekstiksi "Tässä alkuosassa olisi hyvä olla metatekstiä luvun sisältöön liittyen "Tässä luvussa käsitellään...""
+    - \[taulukko: Syyt julkaisujen karsiutumiselle hakuvaiheessa]
+        - "Eikös näitä pitäisi muuten olla 48 (108-60)?" Taulukosta laskemalla saa 47.
+        - Onko frekvenssi kuvaavin termi? Mun mielestä on, mutta tähän ehkä pitää etsiä vaihtoehtoja.
+    - Tutki menetelmäkirjallisuutta: "snowball sampling kannattaa terminä mainita jossain, tässä voisi viitata myös johonkin menetelmäkirjallisuuteen"
+    - Harkitse taulukon "eri jaottelujen esiintymisvuodet aineistoartikkeleissa" upottamista tekstiin. Mielestäni kyllä tehokas tapa.
+- Korjaa lähteviittaukset raportointiohjeen mukaisiksi
+    - "Puolipiste lähteiden välissä"
+    - Aivan liian aikaista murehtia tästä. Tarvitaan joku teksti, jota voi iteroida. Don't let perfect be the enemy of good jne.
+
+## Keskiviikkona 26.01.2022
+- Ohjaaja lähetti palautteen. Siinä esitetyt kommentit käydään tässä yksi kerrallaan läpi (toki kontekstia jää uupumaan tästä tiedostosta)
+- K kertoo, että asia korjattu
+- L kertoo, että asia on lykätty korjattavaksi myöhemmin
+
+### Johdanto
+- "Raportointiohjeesta kannattaa tsekata, mitä asioita sisällöllisesti tulee sisällyttää johdantoon"
+    - Kirjoita johdanto uudestaan raportointiohjeen avulla
+    - "Motivaatio muotoillaan yleensä aiheen näkökulmasta (miksi tätä aihetta on tärkeä tutkia, ei miksi juuri minä olen kiinnostunut tutkimaan aihetta)"
+        - Tavallaan ymmärrän ja tavallaan en. Mä en koe mahdolliseksi perustella tieteellisesti miksi tätä aihetta on tärkeä tutkia ja siksi yleensä oman motivaation kautta lähestynyt kysymystä. Kai tämä korjattavissa. Ehkei aihetta ole tarpeen motivoida tieteellisesti? En ymmärrä.
+    - Oma teksti: tutkimusten tuloksia ei voida pitää tieteellisinä
+        - Palaute: "Miksi? Olisi hyvä tuoda esille tässä yhteydessä"
+            - Oma korjaus tehty palauteversion lähetyksen jälkeen: Chaos report -raportteja kutsutaan raporteiksi eikä tutkimuksiksi.
+            - Totta. Avataan siinä yhteydessä.
+- K "Tätä lausrtta voisi ehkä selkeyttää - tarkoituksena varmaan sanoa, että joissain tutkimuk-sissa käytetty yhtenä lähtökohtana tai viitattu taustassa tms.?"
+    - Kyllä. Korjataan.
+- L "Puolipiste lähteiden välissä"
+    - Eikö saisi olla? Muutenhan me erotellaan vuodet ja lähteet samoilla erotusmerkeillä. Pitänee tarkistaa virallinen ohje.
+    - Lähteiden kanssa on paljon hienosäätöä, johon ei ole mitään järkeä upottaa aikaa etukäteen. En löytänyt raportointiohjeen luvusta 3.3 (olen kyllä väsyksissä juuri nyt) ohjetta tähän kyseiseen tilanteeseen, joten selkeyden vuoksi jatkan puolipisteen käyttöä ja selvitän asian tarkemmin vasta kun kaikki muu kunnossa.
+- L "sulkeissä & -merkki, tekstin puolella "ja""
+    - Selvä. Olisin luultavasti raportointiohjeen avulla viimeistelyssä huomannut. Korjataan.
+    - Korjaus lykätty, yo. kohdan perusteluin.
+- K poistanut tuplasanan (jättää kahdesti lauseessa)
+    - ok, viimeistelyssä olisin ehkä huomannut
+- K Oma teksti: "ei vastaavalle uudelle, nuoremman tutkijan tekemälle kirjallisuuskatsaukselle nähdä tarvetta tai arvoa."
+    - Kommentti: "muotoilu ehkä ennemmin jotenkin lievemmin, että vastaavan tyyppinen kirjallisuuskatsaus ei välttämättä tässä kohtaa tuottaisi merkittävää tietoa aiheesta"
+        - Selvä, korjataan.
+- L \[PMBOK lainaus] "Tämä lainaus on aika pitkä. Voi olla hyödyllinenkin, mutta kannattaa miettiä, onko kaikki osat tarpeellisia (voisiko viitata tekstin puolella?"
+    - Tarkastelen koko lainauksen tarpeellisuutta uudestaan. Yksi vaihtoehto lyhentää \[...] avulla.
+    - Johdannossa on paljon ongelmia, jonka vuoksi korjaus lykätty
+- K Oma teksti: "on mahdollista ymmärtää, "
+    - Kommentti: "Tälläiset sanamuodot tuo ehkä vähän turhaa kapulakielisyyttä. Nämä ehkä myös vähän perua englannin puolelta - käännöksissä kannattaa kiinnittää huomiota siihen, että kuulostaako suomennos luonnolliselta"
+        - Poistetaan kapulakielisyys. Oli saatettu poistaa jo.
+        - Oli korjattu jo ennen palautteen saamista.
+- K "lyhenteitä kannattaa välttää tekstin puolella, sulkeissa ok"
+    - Selvä. Korjataan.
+    - nk. poistettu
+    - mm. pidennetty
+    - nk. poistettu
+    - kpl poistettu
+
+### Tutkimusmenetelmä
+- L \[tutkimusmenetelmä johdannosta] "Tässä alkuosassa olisi hyvä olla metatekstiä luvun sisältöön liittyen "Tässä luvussa käsitellään...""
+    - Selvä. Korjataan. Pidetään johdanto metatekstinä eli nykyinen johdanto ympätään alalukuihin.
+    - Korjaus lykätty, mutta tiedostoon lisätty maininta korjaustarpeesta.
+- L/K "Tässä kappaleessa jää ehkä vähän epäselväksi Jufon ja Scopuksen välinen suhde (mitä Jufossa tehtiin, mitä Scopuksessa tehtiin, miten  nämä liittyvät toisiinsa). Ehkä vähän sekaisin aineiston keruuseen/valintaan ja laadunarviointiin liittyviä asioita?"
+    - Olin itse huomannut saman, mutta aikataulu aika tiukka ja lähetetty versio oli hyvin raakile. Täsmennetään miten Scopusta käytettiin Jufossa.
+    - Korjattu, mutta menetelmäluvussa on vielä paljon epäselvyyksiä, joiden korjaus lykätty.
+- K "Ensimmäinen kappale otsikon/alaotsikon/taulukon/kuvion jälkeen ei ole sisennetty"
+    - Yleispätevä kommentti. Korjataan kaikkialla. Muistin raportointiohjeen väärin.
+    - Muistin oikein; ohjaaja oli sisentänyt kun minä en ollut.
+- K Oma teksti: "Ennen  aineiston keruun aloittamista, aihealueeseen oli jo tutustuttu toisen tutkielma-aiheen yhteydessä, joka lopulta hylättiin sen laajuuden vuoksi (pro-jektipäällikön keskeisimmät kompetenssit ohjelmistokehitysprojekteissa). "
+    - Kommentti: "Tämän ehkä muotoilisin uudelleen niin, että käsitellään aihe edellä (vähän samasta asias-ta kyse, kun motivoinnin muotoilu introssa"
+        - Ok. Yritän korjata.
+        - Korjattu. Mielestäni nyt mennään hyvin aihe edellä.
+- K Oma teksti: "Koska kyseessä on tietojärjestelmätieteen kandidaatintutkielma, tieteen-aloiksi valittiin omaan alaan liittyvät."
+    - Kommentti: "Tämä lause loppuu kesken ja on vähän puhekielinen/kirjoittajakeskeinen"
+        - En ymmärrä miten loppuu kesken, mutta jälkimmäisen voin hyväksyä. Yritän korjata.
+        - Korjattu jo scopus/jufo selkeytyksen yhteydessä
+- L \[frekvenssistä] Mietin, onko tämä kuvaavin termi
+    - Arvioidaan uudestaan.
+    - L "Eikös näitä pitäisi muuten olla 48 (108-60)? Äkkiseltään lasketttuna saan 47"
+        - Voit olla oikeassa. Tarkistetaan.
+        - Yo. kommenttien korjauksen lykätty, sillä tutkimusmenetelmälukua tulee selkeyttää laajemminkin.
+- L \[lumipallo-otannasta] "snowball sampling kannattaa terminä mainita jossain, tässä voisi viitata myös johonkin menetelmäkirjallisuuteen"
+    - Yritän korjata.
+    - Lykätty. Lumipallo-otanta on nähty savolaisen kanditutkielmassa ja pitäisi ehkä sen kautta mennä ensisijaiseen lähteeseen.
+- K Oma teksti: "Lisäksi omaa menetelmää kehitettiin systemaattisen kirjallisuuskartoituksen suuntaan kahdella muulla lähteellä (Taipalus ja Seppänen, Taivalmaa),"
+    - Kommentti: "Tämä liittyy varmaan enemmän menetelmään, kuin tuloksiin? taustassa ja menetelmässä hyvin voi käyttää muitakin lähteitä"
+        - Ilmeisesti sanoo, että yo. lause väärässä kappaleessa. Ja sitten lisäkommentti. Ymmärretty.
+        - Korjattu poistamalla maalattu teksti. Sama asia mainittu jo korjausta vailla olevassa johdannossa, joka pitäisi ympätä alalukuihin.
+- K Oma teksti: "\[alaluku] 3.1	Jako projektin ja projektinhallinnan onnistumisen välillä"
+    - "Tässä hypätään aika suorilta aiheen käsittelyyn, joku johdattelu olisi kiva alussa"
+        - Samaa mietin ja nykyversiossa on nyt rautakolmion käsittely edeltävänä alalukuna. Lisäksi johdanto johdattelee joten en näe toistaiseksi tarvetta lisämuutoksille tämän kommentin ja tekstin nykytilan perusteella.
+        - Korjattu jo, perustelut yllä.
+- K/L \[taulukko jaotteluiden esiintymisvuosista aineistoartikkeleissa] "Vähän ehkä mietin onko tämä taulukko tarpeellinen, tulisiko paremmin esille osana tekstiä? Ja mietin kertooko tuo keskiarvo paljon, olisiko moodi/mediaani parempi (ts. mihin ajankohtaan tutkimukset painottuu)"
+    - Moodi/mediaani tarkistetaan. Keskiarvo otettiin, sillä aineiston koko on aika pieni jolloin moodi ja mediaani muistikuvien pohjalta saattaisivat olla aika harhaanjohtavia.
+        - K Vaihdetiin mediaaniin. Moodia varten aineisto liian pieni.
+    - L Tekstiin upottamista harkitaan.
+
+## Tiistaina 25.01.2022
+- etenemistä tullaan päivittämään tänne tiedostoon vain tarvittaessa. Muulloin gitin commit-viestit kertovat tarpeeksi.
+
 ## Maanantaina 24.01.2022
 - Repoa siivottu
 - Rakennetta hiottu

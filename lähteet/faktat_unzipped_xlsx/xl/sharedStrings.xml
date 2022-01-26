@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="290" uniqueCount="63">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="292" uniqueCount="65">
 <si>
 <t>A model of critical success factors for software projects</t>
 </si>
@@ -188,5 +188,11 @@
 </si>
 <si>
 <t>SH mittarina</t>
+</si>
+<si>
+<t>Liian pieni aineisto</t>
+</si>
+<si>
+<t>Ero keskiarvoon pieni, tukee toisaalta omaa pointtia paremmin. Lisäksi nyt ilmoitettu vuosi on varmemmin lähempänä jotain oikeasti julkaistua artikkelia. Voidaan vaihtaa tähän.</t>
 </si>
 </sst>
