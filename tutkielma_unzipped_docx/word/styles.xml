@@ -59,7 +59,7 @@
 <w:lsdException w:name="toa heading" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="List" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="List Bullet" w:semiHidden="1" w:unhideWhenUsed="1"/>
-<w:lsdException w:name="List Number" w:semiHidden="1" w:unhideWhenUsed="1"/>
+<w:lsdException w:name="List Number" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
 <w:lsdException w:name="List 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="List 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
 <w:lsdException w:name="List 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
@@ -1533,6 +1533,48 @@
 <w:rPr>
 <w:color w:val="954F72"/>
 <w:u w:val="single"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="ListNumber">
+<w:name w:val="List Number"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:qFormat/>
+<w:rsid w:val="00CE1DB2"/>
+<w:pPr>
+<w:tabs>
+<w:tab w:val="num" w:pos="357"/>
+</w:tabs>
+<w:spacing w:line="276" w:lineRule="auto"/>
+<w:ind w:left="357" w:hanging="357"/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:eastAsia="Arial" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="ListNumber2">
+<w:name w:val="List Number 2"/>
+<w:basedOn w:val="Normal"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00CE1DB2"/>
+<w:pPr>
+<w:tabs>
+<w:tab w:val="num" w:pos="720"/>
+</w:tabs>
+<w:spacing w:line="276" w:lineRule="auto"/>
+<w:ind w:left="720" w:hanging="363"/>
+<w:contextualSpacing/>
+<w:jc w:val="left"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Tenorite" w:eastAsia="Arial" w:hAnsi="Tenorite" w:cs="Arial"/>
+<w:sz w:val="22"/>
+<w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
 </w:style>
 </w:styles>
