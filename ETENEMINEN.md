@@ -7,6 +7,7 @@
 - Keskiviikko
 - Torstai
 - Perjantaina   28.01.22 3629/5000 sanaa eli 72 % 
+- Lauantaina    29.01.22 3433/5000 sanaa eli 68 % (laadukkaampaa tekstiä, 1. sisältöluku ok kunnossa)
 
 Tavoite: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
 

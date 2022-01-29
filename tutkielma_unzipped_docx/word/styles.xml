@@ -1526,13 +1526,12 @@
 </w:style>
 <w:style w:type="character" w:styleId="FollowedHyperlink">
 <w:name w:val="FollowedHyperlink"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:uiPriority w:val="99"/>
 <w:semiHidden/>
 <w:unhideWhenUsed/>
 <w:rsid w:val="00D70280"/>
 <w:rPr>
-<w:color w:val="954F72" w:themeColor="followedHyperlink"/>
+<w:color w:val="954F72"/>
 <w:u w:val="single"/>
 </w:rPr>
 </w:style>
