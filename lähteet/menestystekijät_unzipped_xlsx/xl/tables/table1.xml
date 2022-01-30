@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="1" xr:uid="{ED23BDD3-D765-4391-AC7D-D955AFCEC093}" name="Table1" displayName="Table1" ref="A1:C86" totalsRowShown="0" headerRowDxfId="10">
+<autoFilter ref="A1:C86" xr:uid="{ED23BDD3-D765-4391-AC7D-D955AFCEC093}"/>
+<sortState ref="A2:B86" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
+<sortCondition ref="B1:B86"/>
+</sortState>
+<tableColumns count="3">
+<tableColumn id="1" xr3:uid="{FCEA01DB-1136-43CE-A5D6-0F3BBE1C60B5}" name="Viite"/>
+<tableColumn id="2" xr3:uid="{F94A4E24-BF8B-48B0-BDF2-DCA4FCF52211}" name="Menestystekijä"/>
+<tableColumn id="3" xr3:uid="{E19EC259-5342-4DCD-A5BE-C4D8FA50E29F}" name="Tulkinta"/>
+</tableColumns>
+<tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
+</table>

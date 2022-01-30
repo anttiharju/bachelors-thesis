@@ -306,7 +306,6 @@
 <w:lvl w:ilvl="0">
 <w:start w:val="1"/>
 <w:numFmt w:val="none"/>
-<w:pStyle w:val="Normal"/>
 <w:lvlText w:val=""/>
 <w:lvlJc w:val="left"/>
 <w:pPr>
@@ -319,7 +318,6 @@
 <w:lvl w:ilvl="1">
 <w:start w:val="1"/>
 <w:numFmt w:val="decimal"/>
-<w:pStyle w:val="Tutkielmannimi"/>
 <w:lvlText w:val="%2."/>
 <w:lvlJc w:val="left"/>
 <w:pPr>
@@ -335,7 +333,6 @@
 <w:lvl w:ilvl="2">
 <w:start w:val="1"/>
 <w:numFmt w:val="lowerRoman"/>
-<w:pStyle w:val="Jyvskylnyliopisto"/>
 <w:lvlText w:val="%3)"/>
 <w:lvlJc w:val="left"/>
 <w:pPr>
