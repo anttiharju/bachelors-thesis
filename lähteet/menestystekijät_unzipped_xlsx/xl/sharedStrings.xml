@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1034" uniqueCount="380">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1311" uniqueCount="412">
 <si>
 <t>A model of critical success factors for software projects</t>
 </si>
@@ -1139,5 +1139,101 @@
 </si>
 <si>
 <t>Viitteitä</t>
+</si>
+<si>
+<t>Marchewka 2006 per Engelbrecht, Standish Group 2015, Chow ja Cao 2008</t>
+</si>
+<si>
+<t>Sudhakar 2012, Chow ja Cao 2008</t>
+</si>
+<si>
+<t>Chow ja Cao 2008, Sudhakar 2012</t>
+</si>
+<si>
+<t>Sudhakar 2012, Gingnell ym. 2014</t>
+</si>
+<si>
+<t>Sudhakar 2012, Gingnell ym. 2014, Marchewka 2006 per Engelbrecht, Standish Group 2017</t>
+</si>
+<si>
+<t>Artikkeli</t>
+</si>
+<si>
+<t>Miten</t>
+</si>
+<si>
+<t>Chaos Report 2015</t>
+</si>
+<si>
+<t>K</t>
+</si>
+<si>
+<t>H</t>
+</si>
+<si>
+<t>Haastattelu</t>
+</si>
+<si>
+<t>T</t>
+</si>
+<si>
+<t xml:space="preserve"> </t>
+</si>
+<si>
+<t>Toistanta</t>
+</si>
+<si>
+<t>E</t>
+</si>
+<si>
+<t>Ei kerro</t>
+</si>
+<si>
+<t>C</t>
+</si>
+<si>
+<t>M</t>
+</si>
+<si>
+<t>Muuta (ei selvinnyt heti)</t>
+</si>
+<si>
+<t>L</t>
+</si>
+<si>
+<t>Kirjallisuus (literature)</t>
+</si>
+<si>
+<t>Kysely</t>
+</si>
+<si>
+<t>L, H</t>
+</si>
+<si>
+<t>T: L, K</t>
+</si>
+<si>
+<t>L, K</t>
+</si>
+<si>
+<t>L, M</t>
+</si>
+<si>
+<t>Case (tapaus) tutkimus</t>
+</si>
+<si>
+<t>C: L</t>
+</si>
+<si>
+<t>C?: L, K</t>
+</si>
+<si>
+<t>C, K, C</t>
+</si>
+<si>
+<t>(L) K</t>
+</si>
+<si>
+<t>Chow</t>
 </si>
 </sst>
