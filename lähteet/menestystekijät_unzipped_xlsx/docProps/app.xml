@@ -9,15 +9,14 @@
 <vt:lpstr>Worksheets</vt:lpstr>
 </vt:variant>
 <vt:variant>
-<vt:i4>10</vt:i4>
+<vt:i4>9</vt:i4>
 </vt:variant>
 </vt:vector>
 </HeadingPairs>
 <TitlesOfParts>
-<vt:vector size="10" baseType="lpstr">
+<vt:vector size="9" baseType="lpstr">
 <vt:lpstr>1. alaluku</vt:lpstr>
 <vt:lpstr>Esiselvitys</vt:lpstr>
-<vt:lpstr>Sheet7</vt:lpstr>
 <vt:lpstr>Marchewka per Engelbrecht</vt:lpstr>
 <vt:lpstr>Gingnell</vt:lpstr>
 <vt:lpstr>1. Lista</vt:lpstr>
