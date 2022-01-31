@@ -771,10 +771,10 @@
 </sheetData>
 <phoneticPr fontId="2" type="noConversion"/>
 <conditionalFormatting sqref="B55:B75">
-<cfRule type="duplicateValues" dxfId="7" priority="2"/>
+<cfRule type="duplicateValues" dxfId="8" priority="2"/>
 </conditionalFormatting>
 <conditionalFormatting sqref="B2:B95">
-<cfRule type="duplicateValues" dxfId="6" priority="1"/>
+<cfRule type="duplicateValues" dxfId="7" priority="1"/>
 </conditionalFormatting>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
 </worksheet>

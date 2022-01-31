@@ -958,10 +958,10 @@
 </row>
 </sheetData>
 <conditionalFormatting sqref="B50:B66 B75">
-<cfRule type="duplicateValues" dxfId="1" priority="18"/>
+<cfRule type="duplicateValues" dxfId="2" priority="18"/>
 </conditionalFormatting>
 <conditionalFormatting sqref="B2:B73 B80:B81 B77 B75">
-<cfRule type="duplicateValues" dxfId="0" priority="20"/>
+<cfRule type="duplicateValues" dxfId="1" priority="20"/>
 </conditionalFormatting>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
 </worksheet>
