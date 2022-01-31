@@ -580,10 +580,10 @@
 <sortCondition ref="F2:F22"/>
 </sortState>
 <conditionalFormatting sqref="B23:B64">
-<cfRule type="duplicateValues" dxfId="9" priority="2"/>
+<cfRule type="duplicateValues" dxfId="10" priority="2"/>
 </conditionalFormatting>
 <conditionalFormatting sqref="F2:F22">
-<cfRule type="duplicateValues" dxfId="8" priority="1"/>
+<cfRule type="duplicateValues" dxfId="9" priority="1"/>
 </conditionalFormatting>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
 </worksheet>
