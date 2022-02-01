@@ -187,6 +187,119 @@
 </w:lvl>
 </w:abstractNum>
 <w:abstractNum w:abstractNumId="10" w15:restartNumberingAfterBreak="0">
+<w:nsid w:val="1B914CFD"/>
+<w:multiLevelType w:val="hybridMultilevel"/>
+<w:tmpl w:val="84A2ACAA"/>
+<w:lvl w:ilvl="0" w:tplc="040B0001">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="927" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Symbol" w:hAnsi="Symbol" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="1" w:tplc="040B0003">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="o"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="1647" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="2" w:tplc="040B0005" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="2367" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="3" w:tplc="040B0001" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="3087" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Symbol" w:hAnsi="Symbol" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="4" w:tplc="040B0003" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="o"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="3807" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="5" w:tplc="040B0005" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="4527" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="6" w:tplc="040B0001" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5247" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Symbol" w:hAnsi="Symbol" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="7" w:tplc="040B0003" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val="o"/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="5967" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+<w:lvl w:ilvl="8" w:tplc="040B0005" w:tentative="1">
+<w:start w:val="1"/>
+<w:numFmt w:val="bullet"/>
+<w:lvlText w:val=""/>
+<w:lvlJc w:val="left"/>
+<w:pPr>
+<w:ind w:left="6687" w:hanging="360"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+</w:rPr>
+</w:lvl>
+</w:abstractNum>
+<w:abstractNum w:abstractNumId="11" w15:restartNumberingAfterBreak="0">
 <w:nsid w:val="565A78F7"/>
 <w:multiLevelType w:val="hybridMultilevel"/>
 <w:tmpl w:val="D570BC06"/>
@@ -299,7 +412,7 @@
 </w:rPr>
 </w:lvl>
 </w:abstractNum>
-<w:abstractNum w:abstractNumId="11" w15:restartNumberingAfterBreak="0">
+<w:abstractNum w:abstractNumId="12" w15:restartNumberingAfterBreak="0">
 <w:nsid w:val="69CC0AF3"/>
 <w:multiLevelType w:val="multilevel"/>
 <w:tmpl w:val="8618AA08"/>
@@ -418,7 +531,7 @@
 </w:rPr>
 </w:lvl>
 </w:abstractNum>
-<w:abstractNum w:abstractNumId="12" w15:restartNumberingAfterBreak="0">
+<w:abstractNum w:abstractNumId="13" w15:restartNumberingAfterBreak="0">
 <w:nsid w:val="6ADC3CBA"/>
 <w:multiLevelType w:val="hybridMultilevel"/>
 <w:tmpl w:val="BFC8F352"/>
@@ -531,7 +644,7 @@
 </w:rPr>
 </w:lvl>
 </w:abstractNum>
-<w:abstractNum w:abstractNumId="13" w15:restartNumberingAfterBreak="0">
+<w:abstractNum w:abstractNumId="14" w15:restartNumberingAfterBreak="0">
 <w:nsid w:val="6F794C3F"/>
 <w:multiLevelType w:val="hybridMultilevel"/>
 <w:tmpl w:val="684A50E6"/>
@@ -620,7 +733,7 @@
 </w:pPr>
 </w:lvl>
 </w:abstractNum>
-<w:abstractNum w:abstractNumId="14" w15:restartNumberingAfterBreak="0">
+<w:abstractNum w:abstractNumId="15" w15:restartNumberingAfterBreak="0">
 <w:nsid w:val="78C32D1C"/>
 <w:multiLevelType w:val="multilevel"/>
 <w:tmpl w:val="040B0025"/>
@@ -716,7 +829,7 @@
 </w:lvl>
 </w:abstractNum>
 <w:num w:numId="1">
-<w:abstractNumId w:val="10"/>
+<w:abstractNumId w:val="11"/>
 </w:num>
 <w:num w:numId="2">
 <w:abstractNumId w:val="9"/>
@@ -749,15 +862,18 @@
 <w:abstractNumId w:val="0"/>
 </w:num>
 <w:num w:numId="12">
-<w:abstractNumId w:val="14"/>
+<w:abstractNumId w:val="15"/>
 </w:num>
 <w:num w:numId="13">
-<w:abstractNumId w:val="13"/>
+<w:abstractNumId w:val="14"/>
 </w:num>
 <w:num w:numId="14">
-<w:abstractNumId w:val="12"/>
+<w:abstractNumId w:val="13"/>
 </w:num>
 <w:num w:numId="15">
-<w:abstractNumId w:val="11"/>
+<w:abstractNumId w:val="12"/>
+</w:num>
+<w:num w:numId="16">
+<w:abstractNumId w:val="10"/>
 </w:num>
 </w:numbering>
