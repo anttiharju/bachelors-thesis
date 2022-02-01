@@ -1,4 +1,4 @@
-# Software project success factors and their universality limitations
+# Software project success factors and limitations of their universality
 
 The thesis is written in Finnish, but the English abstract has been copy-pasted below:
 
