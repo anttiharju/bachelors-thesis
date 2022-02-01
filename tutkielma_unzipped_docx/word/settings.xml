@@ -3,7 +3,7 @@
 <w:zoom w:percent="100"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
-<w:proofState w:spelling="clean" w:grammar="clean"/>
+<w:proofState w:grammar="clean"/>
 <w:stylePaneSortMethod w:val="0000"/>
 <w:doNotTrackMoves/>
 <w:defaultTabStop w:val="1304"/>
@@ -13,7 +13,7 @@
 <w:displayHorizontalDrawingGridEvery w:val="2"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
 <w:hdrShapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2066"/>
+<o:shapedefaults v:ext="edit" spidmax="2064"/>
 </w:hdrShapeDefaults>
 <w:footnotePr>
 <w:footnote w:id="-1"/>
@@ -274,6 +274,7 @@
 <w:rsid w:val="00163D81"/>
 <w:rsid w:val="00166BCF"/>
 <w:rsid w:val="00167DD0"/>
+<w:rsid w:val="0017022E"/>
 <w:rsid w:val="00171022"/>
 <w:rsid w:val="001717DC"/>
 <w:rsid w:val="0017238B"/>
@@ -452,6 +453,7 @@
 <w:rsid w:val="00283586"/>
 <w:rsid w:val="0028431D"/>
 <w:rsid w:val="00284FE0"/>
+<w:rsid w:val="00285B03"/>
 <w:rsid w:val="00286B6B"/>
 <w:rsid w:val="00287421"/>
 <w:rsid w:val="00291719"/>
@@ -806,6 +808,7 @@
 <w:rsid w:val="004D46B1"/>
 <w:rsid w:val="004D5078"/>
 <w:rsid w:val="004D58D3"/>
+<w:rsid w:val="004D6BA4"/>
 <w:rsid w:val="004D6D78"/>
 <w:rsid w:val="004E0BBA"/>
 <w:rsid w:val="004E23B6"/>
@@ -856,6 +859,7 @@
 <w:rsid w:val="00530976"/>
 <w:rsid w:val="005309B7"/>
 <w:rsid w:val="00532198"/>
+<w:rsid w:val="005327F1"/>
 <w:rsid w:val="00532866"/>
 <w:rsid w:val="00532FCA"/>
 <w:rsid w:val="00533902"/>
@@ -1105,7 +1109,9 @@
 <w:rsid w:val="006C5A6B"/>
 <w:rsid w:val="006C6A5B"/>
 <w:rsid w:val="006C6AC3"/>
+<w:rsid w:val="006C7E66"/>
 <w:rsid w:val="006D0295"/>
+<w:rsid w:val="006D0441"/>
 <w:rsid w:val="006D18BF"/>
 <w:rsid w:val="006D1CB3"/>
 <w:rsid w:val="006D1F2F"/>
@@ -1844,6 +1850,7 @@
 <w:rsid w:val="00B9074D"/>
 <w:rsid w:val="00B909FE"/>
 <w:rsid w:val="00B92246"/>
+<w:rsid w:val="00B92CD5"/>
 <w:rsid w:val="00B945A8"/>
 <w:rsid w:val="00B951C7"/>
 <w:rsid w:val="00B9619E"/>
@@ -2024,6 +2031,7 @@
 <w:rsid w:val="00CD20AD"/>
 <w:rsid w:val="00CD2738"/>
 <w:rsid w:val="00CD3DB6"/>
+<w:rsid w:val="00CD3DC1"/>
 <w:rsid w:val="00CD4E7F"/>
 <w:rsid w:val="00CD519D"/>
 <w:rsid w:val="00CD551E"/>
@@ -2531,7 +2539,7 @@
 <w:themeFontLang w:val="fi-FI"/>
 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
 <w:shapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2066"/>
+<o:shapedefaults v:ext="edit" spidmax="2064"/>
 <o:shapelayout v:ext="edit">
 <o:idmap v:ext="edit" data="2"/>
 </o:shapelayout>
