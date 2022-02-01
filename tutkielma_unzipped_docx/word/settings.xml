@@ -13,7 +13,7 @@
 <w:displayHorizontalDrawingGridEvery w:val="2"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
 <w:hdrShapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2064"/>
+<o:shapedefaults v:ext="edit" spidmax="2070"/>
 </w:hdrShapeDefaults>
 <w:footnotePr>
 <w:footnote w:id="-1"/>
@@ -127,6 +127,7 @@
 <w:rsid w:val="000850BC"/>
 <w:rsid w:val="00085A19"/>
 <w:rsid w:val="0008697C"/>
+<w:rsid w:val="000869CE"/>
 <w:rsid w:val="00086AFE"/>
 <w:rsid w:val="00090125"/>
 <w:rsid w:val="0009048F"/>
@@ -349,6 +350,7 @@
 <w:rsid w:val="002052D1"/>
 <w:rsid w:val="002054D5"/>
 <w:rsid w:val="00205B12"/>
+<w:rsid w:val="00205FC2"/>
 <w:rsid w:val="002067D6"/>
 <w:rsid w:val="002067F9"/>
 <w:rsid w:val="00206865"/>
@@ -356,6 +358,7 @@
 <w:rsid w:val="002123FB"/>
 <w:rsid w:val="00212671"/>
 <w:rsid w:val="00213C9E"/>
+<w:rsid w:val="0021439B"/>
 <w:rsid w:val="00214615"/>
 <w:rsid w:val="00215288"/>
 <w:rsid w:val="00215334"/>
@@ -585,6 +588,7 @@
 <w:rsid w:val="00387CDE"/>
 <w:rsid w:val="00387D49"/>
 <w:rsid w:val="003902B9"/>
+<w:rsid w:val="00390B32"/>
 <w:rsid w:val="0039305F"/>
 <w:rsid w:val="003943CB"/>
 <w:rsid w:val="003950D0"/>
@@ -1662,6 +1666,7 @@
 <w:rsid w:val="00AE0F19"/>
 <w:rsid w:val="00AE1B5E"/>
 <w:rsid w:val="00AE2499"/>
+<w:rsid w:val="00AE41F7"/>
 <w:rsid w:val="00AE4B9D"/>
 <w:rsid w:val="00AE4CEA"/>
 <w:rsid w:val="00AF29D5"/>
@@ -1688,6 +1693,7 @@
 <w:rsid w:val="00B20D63"/>
 <w:rsid w:val="00B21BC3"/>
 <w:rsid w:val="00B22B51"/>
+<w:rsid w:val="00B22E3A"/>
 <w:rsid w:val="00B24399"/>
 <w:rsid w:val="00B252DA"/>
 <w:rsid w:val="00B25613"/>
@@ -1767,7 +1773,6 @@
 <w:rsid w:val="00BB0601"/>
 <w:rsid w:val="00BB1B97"/>
 <w:rsid w:val="00BB2049"/>
-<w:rsid w:val="00BB384D"/>
 <w:rsid w:val="00BB437C"/>
 <w:rsid w:val="00BB43D5"/>
 <w:rsid w:val="00BB4E23"/>
@@ -1988,6 +1993,7 @@
 <w:rsid w:val="00D509D7"/>
 <w:rsid w:val="00D510C1"/>
 <w:rsid w:val="00D52C6E"/>
+<w:rsid w:val="00D53180"/>
 <w:rsid w:val="00D5330F"/>
 <w:rsid w:val="00D53B7E"/>
 <w:rsid w:val="00D53EDC"/>
@@ -2040,6 +2046,7 @@
 <w:rsid w:val="00DA11DA"/>
 <w:rsid w:val="00DA19F5"/>
 <w:rsid w:val="00DA3668"/>
+<w:rsid w:val="00DA46B4"/>
 <w:rsid w:val="00DA50DC"/>
 <w:rsid w:val="00DA594C"/>
 <w:rsid w:val="00DA70C7"/>
@@ -2124,6 +2131,7 @@
 <w:rsid w:val="00E20729"/>
 <w:rsid w:val="00E20FFD"/>
 <w:rsid w:val="00E2252B"/>
+<w:rsid w:val="00E22DBD"/>
 <w:rsid w:val="00E24157"/>
 <w:rsid w:val="00E24296"/>
 <w:rsid w:val="00E242D8"/>
@@ -2144,6 +2152,7 @@
 <w:rsid w:val="00E37955"/>
 <w:rsid w:val="00E421B6"/>
 <w:rsid w:val="00E439EE"/>
+<w:rsid w:val="00E45D2C"/>
 <w:rsid w:val="00E46F60"/>
 <w:rsid w:val="00E47823"/>
 <w:rsid w:val="00E47CD2"/>
@@ -2411,9 +2420,12 @@
 <w:themeFontLang w:val="fi-FI"/>
 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
 <w:shapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2064"/>
+<o:shapedefaults v:ext="edit" spidmax="2070"/>
 <o:shapelayout v:ext="edit">
 <o:idmap v:ext="edit" data="2"/>
+<o:rules v:ext="edit">
+<o:r id="V:Rule2" type="connector" idref="#AutoShape 7"/>
+</o:rules>
 </o:shapelayout>
 </w:shapeDefaults>
 <w:decimalSymbol w:val=","/>

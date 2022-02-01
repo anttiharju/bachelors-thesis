@@ -1580,10 +1580,14 @@
 <w:basedOn w:val="Bibliografisettiedot"/>
 <w:link w:val="LhdeluetteloChar"/>
 <w:qFormat/>
-<w:rsid w:val="00CD75C3"/>
+<w:rsid w:val="00DA46B4"/>
+<w:pPr>
+<w:spacing w:after="240"/>
+</w:pPr>
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BibliographyChar">
 <w:name w:val="Bibliography Char"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="Bibliography"/>
 <w:uiPriority w:val="6"/>
 <w:rsid w:val="00CD75C3"/>
@@ -1613,7 +1617,7 @@
 <w:name w:val="Lähdeluettelo Char"/>
 <w:basedOn w:val="BibliografisettiedotChar"/>
 <w:link w:val="Lhdeluettelo"/>
-<w:rsid w:val="00CD75C3"/>
+<w:rsid w:val="00DA46B4"/>
 <w:rPr>
 <w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
 <w:noProof/>
