@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="3" xr:uid="{452BC643-B92E-4F8D-8611-AF0485AF1D00}" name="Table3" displayName="Table3" ref="A5:H65" totalsRowShown="0" headerRowDxfId="40" headerRowBorderDxfId="39" tableBorderDxfId="38">
+<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr xr3" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" id="3" xr:uid="{452BC643-B92E-4F8D-8611-AF0485AF1D00}" name="Table3" displayName="Table3" ref="A5:H65" totalsRowShown="0" headerRowDxfId="37" headerRowBorderDxfId="36" tableBorderDxfId="35">
 <autoFilter ref="A5:H65" xr:uid="{452BC643-B92E-4F8D-8611-AF0485AF1D00}"/>
 <sortState ref="A6:H65" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
 <sortCondition descending="1" ref="B5:B65"/>
 </sortState>
 <tableColumns count="8">
-<tableColumn id="1" xr3:uid="{45863F27-31DD-43B2-B8E2-8CBBD292D5CE}" name="1.0" dataDxfId="37"/>
-<tableColumn id="2" xr3:uid="{7FEF954F-8FDE-45DF-B274-DFED690D3624}" name="Haku 1" dataDxfId="36"/>
-<tableColumn id="3" xr3:uid="{22563B84-0836-4523-A047-BBC1026E1D3B}" name="Haku 2" dataDxfId="35"/>
-<tableColumn id="4" xr3:uid="{C3D51FB6-77A8-4E75-99CA-7C66D3250AFE}" name="Haku 3" dataDxfId="34"/>
-<tableColumn id="5" xr3:uid="{31AEC670-9BA9-4DDA-8539-43A00411DFC6}" name="Haku 4" dataDxfId="33"/>
-<tableColumn id="6" xr3:uid="{5A1547C7-AFE2-4A4F-8256-40FBA0CCA3BB}" name="Suurin" dataDxfId="32">
+<tableColumn id="1" xr3:uid="{45863F27-31DD-43B2-B8E2-8CBBD292D5CE}" name="1.0" dataDxfId="34"/>
+<tableColumn id="2" xr3:uid="{7FEF954F-8FDE-45DF-B274-DFED690D3624}" name="Haku 1" dataDxfId="33"/>
+<tableColumn id="3" xr3:uid="{22563B84-0836-4523-A047-BBC1026E1D3B}" name="Haku 2" dataDxfId="32"/>
+<tableColumn id="4" xr3:uid="{C3D51FB6-77A8-4E75-99CA-7C66D3250AFE}" name="Haku 3" dataDxfId="31"/>
+<tableColumn id="5" xr3:uid="{31AEC670-9BA9-4DDA-8539-43A00411DFC6}" name="Haku 4" dataDxfId="30"/>
+<tableColumn id="6" xr3:uid="{5A1547C7-AFE2-4A4F-8256-40FBA0CCA3BB}" name="Suurin" dataDxfId="29">
 <calculatedColumnFormula>MAX(B6:E6)</calculatedColumnFormula>
 </tableColumn>
-<tableColumn id="7" xr3:uid="{8BBF40D9-1421-47F8-B96F-1B8D2F185CDA}" name="DB" dataDxfId="31"/>
-<tableColumn id="8" xr3:uid="{078FF364-AAAA-4174-ABF3-8F971C1395D2}" name="Haun ID" dataDxfId="30"/>
+<tableColumn id="7" xr3:uid="{8BBF40D9-1421-47F8-B96F-1B8D2F185CDA}" name="DB" dataDxfId="28"/>
+<tableColumn id="8" xr3:uid="{078FF364-AAAA-4174-ABF3-8F971C1395D2}" name="Haun ID" dataDxfId="27"/>
 </tableColumns>
 <tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/>
 </table>

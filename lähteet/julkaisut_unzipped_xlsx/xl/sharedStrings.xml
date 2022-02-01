@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5591" uniqueCount="883">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5711" uniqueCount="886">
 <si>
 <t>JUFOID</t>
 </si>
@@ -2648,5 +2648,14 @@
 </si>
 <si>
 <t>Hakutoiminto rikki</t>
+</si>
+<si>
+<t>Vldb (Very Large Data Base)</t>
+</si>
+<si>
+<t>Frekvenssi</t>
+</si>
+<si>
+<t>Merkkijono</t>
 </si>
 </sst>
