@@ -3,7 +3,7 @@
 <w:zoom w:percent="100"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
-<w:proofState w:spelling="clean"/>
+<w:proofState w:spelling="clean" w:grammar="clean"/>
 <w:stylePaneSortMethod w:val="0000"/>
 <w:doNotTrackMoves/>
 <w:defaultTabStop w:val="1304"/>
@@ -146,6 +146,7 @@
 <w:rsid w:val="00095F20"/>
 <w:rsid w:val="00096179"/>
 <w:rsid w:val="00096261"/>
+<w:rsid w:val="00096AF5"/>
 <w:rsid w:val="00096C65"/>
 <w:rsid w:val="00097A90"/>
 <w:rsid w:val="000A1430"/>
@@ -681,6 +682,7 @@
 <w:rsid w:val="004133E1"/>
 <w:rsid w:val="00414329"/>
 <w:rsid w:val="00415A8D"/>
+<w:rsid w:val="004160FB"/>
 <w:rsid w:val="00416DB9"/>
 <w:rsid w:val="004174A4"/>
 <w:rsid w:val="00417D3D"/>
@@ -828,6 +830,7 @@
 <w:rsid w:val="00505360"/>
 <w:rsid w:val="00505BBD"/>
 <w:rsid w:val="0050601F"/>
+<w:rsid w:val="00506116"/>
 <w:rsid w:val="00506509"/>
 <w:rsid w:val="00506D9D"/>
 <w:rsid w:val="005073EA"/>
@@ -1150,6 +1153,7 @@
 <w:rsid w:val="00725319"/>
 <w:rsid w:val="0072618C"/>
 <w:rsid w:val="007264BA"/>
+<w:rsid w:val="00726E4E"/>
 <w:rsid w:val="00727B2B"/>
 <w:rsid w:val="0073052B"/>
 <w:rsid w:val="00733BB7"/>
