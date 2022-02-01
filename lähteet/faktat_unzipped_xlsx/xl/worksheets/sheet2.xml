@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac xr xr2 xr3" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xr:uid="{0DB4983A-B526-48EF-A84D-2798AD02AB44}">
-<dimension ref="A1:D15"/>
+<dimension ref="A1:D31"/>
 <sheetViews>
-<sheetView workbookViewId="0">
-<selection activeCell="B8" sqref="B6:B8"/>
+<sheetView tabSelected="1" workbookViewId="0">
+<selection activeCell="B21" sqref="B21"/>
 </sheetView>
 </sheetViews>
 <sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
@@ -138,9 +138,92 @@
 <v>2008</v>
 </c>
 </row>
+<row r="20" spans="2:4" x14ac:dyDescent="0.25">
+<c r="B20" s="3" t="s">
+<v>65</v>
+</c>
+</row>
+<row r="21" spans="2:4" x14ac:dyDescent="0.25">
+<c r="B21">
+<f>MEDIAN(B23:B25)</f>
+<v>2016</v>
+</c>
+<c r="C21">
+<f>MEDIAN(C23:C25)</f>
+<v>2013</v>
+</c>
+<c r="D21">
+<f>MEDIAN(D23:D31)</f>
+<v>2013</v>
+</c>
+</row>
+<row r="23" spans="2:4" x14ac:dyDescent="0.25">
+<c r="B23">
+<v>2016</v>
+</c>
+<c r="C23">
+<v>2012</v>
+</c>
+<c r="D23">
+<v>2010</v>
+</c>
+</row>
+<row r="24" spans="2:4" x14ac:dyDescent="0.25">
+<c r="B24">
+<v>2012</v>
+</c>
+<c r="C24">
+<v>2018</v>
+</c>
+<c r="D24">
+<v>2008</v>
+</c>
+</row>
+<row r="25" spans="2:4" x14ac:dyDescent="0.25">
+<c r="B25">
+<v>2017</v>
+</c>
+<c r="C25">
+<v>2013</v>
+</c>
+<c r="D25">
+<v>2012</v>
+</c>
+</row>
+<row r="26" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D26">
+<v>2010</v>
+</c>
+</row>
+<row r="27" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D27">
+<v>2016</v>
+</c>
+</row>
+<row r="28" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D28">
+<v>2013</v>
+</c>
+</row>
+<row r="29" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D29">
+<v>2016</v>
+</c>
+</row>
+<row r="30" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D30">
+<v>2021</v>
+</c>
+</row>
+<row r="31" spans="2:4" x14ac:dyDescent="0.25">
+<c r="D31">
+<v>2015</v>
+</c>
+</row>
 </sheetData>
 <sortState ref="A6:A8" xmlns:xlrd2="http://schemas.microsoft.com/office/spreadsheetml/2017/richdata2">
 <sortCondition descending="1" ref="A6:A8"/>
 </sortState>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
+<pageSetup paperSize="9" orientation="portrait" r:id="rId1"/>
 </worksheet>
