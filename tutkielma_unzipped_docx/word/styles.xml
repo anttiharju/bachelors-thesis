@@ -648,6 +648,7 @@
 <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
 <w:name w:val="Default Paragraph Font"/>
 <w:uiPriority w:val="1"/>
+<w:semiHidden/>
 <w:unhideWhenUsed/>
 </w:style>
 <w:style w:type="table" w:default="1" w:styleId="TableNormal">
@@ -1593,7 +1594,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BibliographyChar">
 <w:name w:val="Bibliography Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="Bibliography"/>
 <w:uiPriority w:val="6"/>
 <w:rsid w:val="00CD75C3"/>
@@ -1607,7 +1607,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BibliografisettiedotChar">
 <w:name w:val="Bibliografiset tiedot Char"/>
-<w:basedOn w:val="BibliographyChar"/>
 <w:link w:val="Bibliografisettiedot"/>
 <w:uiPriority w:val="7"/>
 <w:rsid w:val="006D0441"/>
@@ -1621,7 +1620,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="LhdeluetteloChar">
 <w:name w:val="Lähdeluettelo Char"/>
-<w:basedOn w:val="BibliografisettiedotChar"/>
 <w:link w:val="Lhdeluettelo"/>
 <w:rsid w:val="00DA46B4"/>
 <w:rPr>
@@ -1644,7 +1642,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="LhteetChar">
 <w:name w:val="Lähteet Char"/>
-<w:basedOn w:val="BibliographyChar"/>
 <w:link w:val="Lhteet"/>
 <w:rsid w:val="00F67DE5"/>
 <w:rPr>
