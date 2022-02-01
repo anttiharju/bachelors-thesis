@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="292" uniqueCount="65">
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="293" uniqueCount="66">
 <si>
 <t>A model of critical success factors for software projects</t>
 </si>
@@ -194,5 +194,8 @@
 </si>
 <si>
 <t>Aranyossy, Blaskovics ja Horváth (2018)</t>
+</si>
+<si>
+<t>Päivitetyt (Zoteron vuodet):</t>
 </si>
 </sst>
