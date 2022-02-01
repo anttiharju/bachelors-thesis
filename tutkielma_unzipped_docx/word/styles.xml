@@ -648,7 +648,6 @@
 <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
 <w:name w:val="Default Paragraph Font"/>
 <w:uiPriority w:val="1"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 </w:style>
 <w:style w:type="table" w:default="1" w:styleId="TableNormal">
@@ -832,16 +831,12 @@
 </w:style>
 <w:style w:type="paragraph" w:customStyle="1" w:styleId="Bibliografisettiedot">
 <w:name w:val="Bibliografiset tiedot"/>
-<w:basedOn w:val="Normal"/>
+<w:basedOn w:val="Bibliography"/>
 <w:uiPriority w:val="7"/>
 <w:qFormat/>
-<w:rsid w:val="00AF2D37"/>
+<w:rsid w:val="007F1A0F"/>
 <w:pPr>
-<w:suppressAutoHyphens/>
-<w:spacing w:before="280" w:after="280"/>
-<w:ind w:firstLine="0"/>
-<w:contextualSpacing/>
-<w:jc w:val="left"/>
+<w:spacing w:after="240" w:line="276" w:lineRule="auto"/>
 </w:pPr>
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="Heading1Char">
@@ -1005,8 +1000,8 @@
 <w:rsid w:val="00BB43D5"/>
 <w:pPr>
 <w:suppressAutoHyphens/>
-<w:spacing w:after="120"/>
-<w:ind w:left="567" w:hanging="567"/>
+<w:spacing w:line="480" w:lineRule="auto"/>
+<w:ind w:left="720" w:hanging="720"/>
 <w:jc w:val="left"/>
 </w:pPr>
 <w:rPr>

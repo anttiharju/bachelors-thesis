@@ -9,7 +9,8 @@
 - Perjantaina   28.01.22 3629/5000 sanaa eli 72 % 
 - Lauantaina    29.01.22 3433/5000 sanaa eli 68 % (sanamäärä laski, mutta teksti on parempaa. Nyt 1. sisältöluvun sisältö ok)
 - Sunnuntaina
-- Maanantaina    31.1.22 4594/5000 sanaa eli 91 % (vain tiivistelmä uupuu)
+- Maanantaina   31.01.22 4594/5000 sanaa eli 91 % (vain tiivistelmä uupuu)
+- Tiistaina     01.02.22 5176/5000 sanaa (Zoteron jälkeen) eli yli 100 % :) VIIMEISTELYÄ
 
 Tavoite: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
 
