@@ -1671,7 +1671,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BodyTextIndent2Char">
 <w:name w:val="Body Text Indent 2 Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="BodyTextIndent2"/>
 <w:uiPriority w:val="99"/>
 <w:rsid w:val="00EC5238"/>
@@ -1702,7 +1701,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BodyTextChar">
 <w:name w:val="Body Text Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="BodyText"/>
 <w:uiPriority w:val="99"/>
 <w:rsid w:val="00EC5238"/>
@@ -1733,7 +1731,6 @@
 </w:style>
 <w:style w:type="character" w:customStyle="1" w:styleId="BodyTextIndent3Char">
 <w:name w:val="Body Text Indent 3 Char"/>
-<w:basedOn w:val="DefaultParagraphFont"/>
 <w:link w:val="BodyTextIndent3"/>
 <w:uiPriority w:val="99"/>
 <w:rsid w:val="0047114F"/>
