@@ -9,7 +9,7 @@
 <w:t>Antti Harju</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="37E94671" w14:textId="407FA0D8" w:rsidR="00B46D79" w:rsidRDefault="00764924" w:rsidP="00B46D79">
+<w:p w14:paraId="37E94671" w14:textId="407FA0D8" w:rsidR="00B46D79" w:rsidRDefault="0029775B" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Tutkielmannimi"/>
 </w:pPr>
@@ -22,16 +22,15 @@
 <v:stroke joinstyle="miter"/>
 <v:path gradientshapeok="t" o:connecttype="rect"/>
 </v:shapetype>
-<v:shape id="Text Box 2" o:spid="_x0000_s2063" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:1;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
+<v:shape id="Text Box 2" o:spid="_x0000_s2063" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:251657728;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQDAfAvRPgIAAMsEAAAOAAAAZHJzL2Uyb0RvYy54bWzEVNtuGyEQfa/Uf0C812u7seOujKPUaapK&#xA;6UVK+gEYWC8qMBSwd92vz8Dartu+VZW6D2gY4MyZOTO7vOmtIXsVogbH6GQ0pkQ5AVK7LaNfn+5f&#xA;LSiJiTvJDTjF6EFFerN6+WLZ+VpNoQUjVSAI4mLdeUbblHxdVVG0yvI4Aq8cHjYQLE+4DdtKBt4h&#xA;ujXVdDyeVx0E6QMIFSN674ZDuir4TaNE+tw0USViGEVuqayhrJu8Vqslr7eB+1aLIw3+Fyws1w6D&#xA;nqHueOJkF/QfUFaLABGaNBJgK2gaLVTJAbOZjH/L5rHlXpVcsDjRn8sU/x2s+LT/EoiWjM4pcdyi&#xA;RE+qT+Qt9GSaq9P5WOOlR4/XUo9uVLlkGv0DiG+ROFi33G3VbQjQtYpLZDfJL6uLpwNOzCCb7iNI&#xA;DMN3CQpQ3wSbS4fFIIiOKh3OymQqAp1X89eL+fWMEoFnk8X1/Go6KzF4fXruQ0zvFViSDUYDSl/g&#xA;+f4hpkyH16crOVoEo+W9NqZsDnFtAtlz7BJsLgkdJYbHhE5G78tXsMzOIvnh3mScv6GB0I9tNviL&#xA;C4PFglni/hLLONIx+maGCfxXHlYnnDyjLaOLi1Sygu+cLHORuDaDjfkYd5Q0qzjomfpNf2yRDcgD&#xA;ihtgmDD8I6DRQvhBSYfTxWj8vuNBYVk/OGyQPIonI5yMzcngTuBTRjeUDOY6DSO780FvW0QeWtDB&#xA;LTZRo4u8udsGFkeeODGl+sfpziN5uS+3fv6DVs8AAAD//wMAUEsDBBQABgAIAAAAIQADtAXD3AAA&#xA;AAUBAAAPAAAAZHJzL2Rvd25yZXYueG1sTI9BS8QwEIXvgv8hjODNTa20am26qCAIHly7u55nm7Et&#xA;NpOSZLtdf73Ri14GHu/x3jflcjaDmMj53rKCy0UCgrixuudWwWb9dHEDwgdkjYNlUnAkD8vq9KTE&#xA;QtsDv9FUh1bEEvYFKuhCGAspfdORQb+wI3H0PqwzGKJ0rdQOD7HcDDJNklwa7DkudDjSY0fNZ703&#xA;Cmj6WqVk6/dnl663+TF/GF9fZqXOz+b7OxCB5vAXhh/8iA5VZNrZPWsvBgXxkfB7o3d9lWQgdgrS&#xA;2ywDWZXyP331DQAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAA&#xA;AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAA&#xA;AAAAAAAAAAAALwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAMB8C9E+AgAAywQAAA4AAAAA&#xA;AAAAAAAAAAAALgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAAO0BcPcAAAABQEAAA8A&#xA;AAAAAAAAAAAAAAAAmAQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAAChBQAAAAA=&#xA;" strokecolor="white">
 <v:textbox style="mso-next-textbox:#Text Box 2" inset="0,0,0,0">
 <w:txbxContent>
-<w:p w14:paraId="62DB577C" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00764924" w:rsidP="00B46D79">
+<w:p w14:paraId="62DB577C" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="0029775B" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
 <w:r>
 <w:rPr>
-<w:b/>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
@@ -77,7 +76,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="469506D7" w14:textId="07ABDF7D" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="469506D7" w14:textId="0800D955" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -90,7 +89,7 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -1255,7 +1254,7 @@
 <w:bookmarkEnd w:id="4"/>
 <w:bookmarkEnd w:id="5"/>
 </w:p>
-<w:p w14:paraId="0579FB7B" w14:textId="46E855B3" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00B46D79">
+<w:p w14:paraId="0579FB7B" w14:textId="6D0D5383" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00B46D79">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1336,7 +1335,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1385,7 +1384,7 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="6D60DEF5" w14:textId="35DFF163" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="6D60DEF5" w14:textId="1BEF73DD" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1457,7 +1456,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1473,7 +1472,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3856471A" w14:textId="7E2F7C73" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="3856471A" w14:textId="4C445C6F" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1545,7 +1544,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1561,7 +1560,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="60F29213" w14:textId="1506D97D" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="60F29213" w14:textId="527048F0" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1633,7 +1632,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1649,7 +1648,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="54DAD6BE" w14:textId="19B693CB" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="54DAD6BE" w14:textId="13F7BE02" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1721,7 +1720,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1737,7 +1736,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6A6D09D1" w14:textId="07D84EC8" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="6A6D09D1" w14:textId="35B9F1FE" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1809,7 +1808,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1871,7 +1870,7 @@
 <w:t>KUVIOT JA TAULUKOT</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="71DA6F75" w14:textId="5974BBD1" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00B46D79">
+<w:p w14:paraId="71DA6F75" w14:textId="6CC92342" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00B46D79">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1950,7 +1949,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1966,7 +1965,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="63F2DD6D" w14:textId="7CA330F4" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="63F2DD6D" w14:textId="5BA180AB" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2036,7 +2035,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2052,7 +2051,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="77259D99" w14:textId="7B61CFC5" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="77259D99" w14:textId="5F34F895" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2120,7 +2119,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2136,7 +2135,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="791BF236" w14:textId="4C69F862" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="791BF236" w14:textId="187A9189" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2204,7 +2203,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2220,7 +2219,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="4027F6BB" w14:textId="501622D2" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="4027F6BB" w14:textId="4DBCD64F" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2290,7 +2289,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2306,7 +2305,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="58313A2D" w14:textId="2886D4FC" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="58313A2D" w14:textId="3DDF8EC0" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2374,7 +2373,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2390,7 +2389,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="7391ACCE" w14:textId="0586C329" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="7391ACCE" w14:textId="369DD188" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2458,7 +2457,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2474,7 +2473,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="369F6095" w14:textId="10BDCAAF" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="369F6095" w14:textId="389C9082" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2542,7 +2541,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2558,7 +2557,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1B4916D0" w14:textId="3A3B63BD" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="1B4916D0" w14:textId="3B41D381" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2628,7 +2627,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2644,7 +2643,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5DFCE581" w14:textId="01608DAE" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="5DFCE581" w14:textId="484D75A2" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2712,7 +2711,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2728,7 +2727,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="49FD6BB1" w14:textId="47B169D2" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="49FD6BB1" w14:textId="3939D91D" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2796,7 +2795,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2812,7 +2811,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1A19395F" w14:textId="299E04DF" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="1A19395F" w14:textId="0519A593" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2882,7 +2881,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2898,7 +2897,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="54BAC3B5" w14:textId="26340D41" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="54BAC3B5" w14:textId="26E344DD" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2952,7 +2951,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2968,7 +2967,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1BF2DA90" w14:textId="6B318F73" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="1BF2DA90" w14:textId="590B7263" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3021,7 +3020,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -3037,7 +3036,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="4EB777B1" w14:textId="61723BB1" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="00764924">
+<w:p w14:paraId="4EB777B1" w14:textId="7A5DD0E3" w:rsidR="00ED0151" w:rsidRPr="00764924" w:rsidRDefault="0029775B">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3090,7 +3089,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -6461,7 +6460,7 @@
 <w:t>toteavat jaon projektinhallinnan ja projektin onnistumisen välillä olevan usean tutkijan hyväksymä käytäntö.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="33033B7F" w14:textId="68CD3C5A" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="33033B7F" w14:textId="41164184" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -6472,14 +6471,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -7548,7 +7560,7 @@
 </w:r>
 <w:bookmarkEnd w:id="16"/>
 </w:p>
-<w:p w14:paraId="1E234F0A" w14:textId="5FB42540" w:rsidR="00B46D79" w:rsidRDefault="000006C5" w:rsidP="00B46D79">
+<w:p w14:paraId="1E234F0A" w14:textId="404EFE71" w:rsidR="00B46D79" w:rsidRDefault="000006C5" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
@@ -7651,23 +7663,463 @@
 <w:t xml:space="preserve"> tutkielmasta. </w:t>
 </w:r>
 <w:r w:rsidR="00B46D79">
-<w:t>Kuvio 1 kuvaa aineiston rajausprosessin lyhyesti. Siinä esitetty prosessi on kuvattu sanallisesti seuraavissa alaluvuissa.</w:t>
+<w:t xml:space="preserve">Kuvio 1 kuvaa aineiston rajausprosessin lyhyesti. </w:t>
+</w:r>
+<w:r w:rsidR="008954AC">
+<w:t>P</w:t>
+</w:r>
+<w:r w:rsidR="00B46D79">
+<w:t xml:space="preserve">rosessi </w:t>
+</w:r>
+<w:r w:rsidR="008954AC">
+<w:t xml:space="preserve">kuvataan tarkemmin ja laajemmin </w:t>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:t xml:space="preserve">sanallisesti </w:t>
+</w:r>
+<w:r w:rsidR="00B46D79">
+<w:t>seuraavissa alaluvuissa.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="4B9BEE0D" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79"/>
-<w:p w14:paraId="38084423" w14:textId="37C97B63" w:rsidR="00B46D79" w:rsidRDefault="00764924" w:rsidP="00B46D79">
+<w:p w14:paraId="38084423" w14:textId="5D8D3985" w:rsidR="00B46D79" w:rsidRDefault="00EC5238" w:rsidP="00B46D79">
 <w:pPr>
 <w:jc w:val="center"/>
 </w:pPr>
 <w:r>
-<w:pict w14:anchorId="478F5537">
-<v:shape id="_x0000_i1027" type="#_x0000_t75" style="width:390.75pt;height:211.1pt">
-<v:imagedata r:id="rId11" o:title=""/>
+<w:pict w14:anchorId="192D7EBF">
+<v:group id="Group 35" o:spid="_x0000_s2137" style="width:330.65pt;height:180.65pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" coordsize="97366,60282">
+<v:rect id="Rectangle 2" o:spid="_x0000_s2138" style="position:absolute;left:423;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 2">
+<w:txbxContent>
+<w:p w14:paraId="3E6DF481" w14:textId="77777777" w:rsidR="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+<w:t>108</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="74D53AEB" w14:textId="6BD3FBC0" w:rsidR="00EC5238" w:rsidRPr="00EC5238" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:ind w:firstLine="0"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 3" o:spid="_x0000_s2139" style="position:absolute;left:39031;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 3">
+<w:txbxContent>
+<w:p w14:paraId="0F02F7CD" w14:textId="77777777" w:rsidR="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyText"/>
+<w:spacing w:before="120"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:t>60</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3342302C" w14:textId="5477B260" w:rsidR="00EC5238" w:rsidRPr="00EC5238" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyText"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 4" o:spid="_x0000_s2140" style="position:absolute;left:77639;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 4">
+<w:txbxContent>
+<w:p w14:paraId="1247237C" w14:textId="77777777" w:rsidR="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>31</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0D3EE9EB" w14:textId="4E28FB1A" w:rsidR="00EC5238" w:rsidRPr="00EC5238" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 5" o:spid="_x0000_s2141" style="position:absolute;left:77639;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 5">
+<w:txbxContent>
+<w:p w14:paraId="2B4A3254" w14:textId="58798094" w:rsidR="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>176</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="41A09F5B" w14:textId="05766D42" w:rsidR="00EC5238" w:rsidRPr="00EC5238" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 6" o:spid="_x0000_s2142" style="position:absolute;left:39031;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 6">
+<w:txbxContent>
+<w:p w14:paraId="1F9991A1" w14:textId="77777777" w:rsidR="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>56</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4A0E4EBC" w14:textId="568AA2EF" w:rsidR="00EC5238" w:rsidRPr="00EC5238" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 7" o:spid="_x0000_s2143" style="position:absolute;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 7">
+<w:txbxContent>
+<w:p w14:paraId="17CB9E6F" w14:textId="77777777" w:rsidR="0047114F" w:rsidRPr="0047114F" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0047114F">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>Lumipallo-otanta:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="75416CCF" w14:textId="37C4E680" w:rsidR="00EC5238" w:rsidRPr="0047114F" w:rsidRDefault="00EC5238" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0047114F">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>61 artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 8" o:spid="_x0000_s2144" style="position:absolute;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 8">
+<w:txbxContent>
+<w:p w14:paraId="5F9668A7" w14:textId="77777777" w:rsidR="0047114F" w:rsidRPr="00340996" w:rsidRDefault="00EC5238" w:rsidP="00340996">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>19</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="69F8333D" w14:textId="5494213A" w:rsidR="00EC5238" w:rsidRPr="00340996" w:rsidRDefault="00340996" w:rsidP="0047114F">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>(</w:t>
+</w:r>
+<w:r w:rsidR="00EC5238" w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>tieteellistä</w:t>
+</w:r>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>)</w:t>
+</w:r>
+<w:r w:rsidR="00EC5238" w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t xml:space="preserve"> artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 9" o:spid="_x0000_s2145" style="position:absolute;left:39031;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 9">
+<w:txbxContent>
+<w:p w14:paraId="36EB8427" w14:textId="1A4F9E37" w:rsidR="00EC5238" w:rsidRPr="00340996" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="80"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+<w:t>Keskeisten ei-tieteellisten sisällyttäminen:</w:t>
+</w:r>
+<w:r w:rsidR="0047114F" w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+<w:t>21 lähdettä (aineisto)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:rect id="Rectangle 10" o:spid="_x0000_s2146" style="position:absolute;left:77639;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:textbox style="mso-next-textbox:#Rectangle 10">
+<w:txbxContent>
+<w:p w14:paraId="602F1B1D" w14:textId="77777777" w:rsidR="000B775E" w:rsidRPr="000B775E" w:rsidRDefault="00EC5238" w:rsidP="00E75BAC">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B775E">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+<w:t>36 lähdettä (sisältää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="04399839" w14:textId="576887D0" w:rsidR="00EC5238" w:rsidRPr="000B775E" w:rsidRDefault="00EC5238" w:rsidP="000B775E">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B775E">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+<w:t>toissijaiset viitteet)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</v:textbox>
+</v:rect>
+<v:shapetype id="_x0000_t32" coordsize="21600,21600" o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
+<v:path arrowok="t" fillok="f" o:connecttype="none"/>
+<o:lock v:ext="edit" shapetype="t"/>
+</v:shapetype>
+<v:shape id="Straight Arrow Connector 11" o:spid="_x0000_s2147" type="#_x0000_t32" style="position:absolute;left:20150;top:7662;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
 </v:shape>
+<v:shape id="Straight Arrow Connector 12" o:spid="_x0000_s2148" type="#_x0000_t32" style="position:absolute;left:58758;top:7662;width:18881;height:0;flip:y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 13" o:spid="_x0000_s2149" type="#_x0000_t32" style="position:absolute;left:87502;top:15324;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 14" o:spid="_x0000_s2150" type="#_x0000_t32" style="position:absolute;left:58758;top:30141;width:18881;height:0;flip:x y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 15" o:spid="_x0000_s2151" type="#_x0000_t32" style="position:absolute;left:19727;top:30141;width:19304;height:0;flip:x;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 16" o:spid="_x0000_s2152" type="#_x0000_t32" style="position:absolute;left:9863;top:37803;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 17" o:spid="_x0000_s2153" type="#_x0000_t32" style="position:absolute;left:19727;top:52620;width:19304;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<v:shape id="Straight Arrow Connector 18" o:spid="_x0000_s2154" type="#_x0000_t32" style="position:absolute;left:58758;top:52620;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
+<w10:anchorlock/>
+</v:group>
 </w:pict>
 </w:r>
 </w:p>
-<w:p w14:paraId="2723E9A4" w14:textId="7060BDC6" w:rsidR="00DD5CAE" w:rsidRPr="00CC4D96" w:rsidRDefault="00DD5CAE" w:rsidP="00DD5CAE">
+<w:p w14:paraId="2723E9A4" w14:textId="61D15919" w:rsidR="00DD5CAE" w:rsidRPr="00CC4D96" w:rsidRDefault="00DD5CAE" w:rsidP="00DD5CAE">
 <w:pPr>
 <w:pStyle w:val="Caption"/>
 </w:pPr>
@@ -7675,14 +8127,27 @@
 <w:r>
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ KUVIO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:tab/>
 <w:t>Rajausprosessi</w:t>
@@ -7709,7 +8174,6 @@
 </w:p>
 <w:p w14:paraId="44499CAC" w14:textId="24669585" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Aineiston keruu aloitettiin </w:t>
 </w:r>
 <w:r w:rsidR="008C4339">
@@ -7728,7 +8192,11 @@
 <w:t>.</w:t>
 </w:r>
 <w:r>
-<w:t xml:space="preserve"> Se luokittelee tieteellisi</w:t>
+<w:t xml:space="preserve"> Se luokittelee tieteelli</w:t>
+</w:r>
+<w:r>
+<w:lastRenderedPageBreak/>
+<w:t>si</w:t>
 </w:r>
 <w:r w:rsidR="00C67F0A">
 <w:t>ä</w:t>
@@ -7945,7 +8413,7 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="3DB5D21C" w14:textId="3AFB94C4" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="3DB5D21C" w14:textId="4268B6AD" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -7956,14 +8424,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>2</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -8296,11 +8777,7 @@
 <w:t>n</w:t>
 </w:r>
 <w:r w:rsidR="00D844A6">
-<w:t xml:space="preserve"> </w:t>
-</w:r>
-<w:r w:rsidR="00D844A6">
-<w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">artikkeleille, luottaen kunkin julkaisun käyttämän tietokannan hakukoneen sisäiseen </w:t>
+<w:t xml:space="preserve"> artikkeleille, luottaen kunkin julkaisun käyttämän tietokannan hakukoneen sisäiseen </w:t>
 </w:r>
 <w:r w:rsidR="00CD64DA">
 <w:t xml:space="preserve">hakutulosten </w:t>
@@ -8341,7 +8818,11 @@
 <w:t xml:space="preserve">perusteella </w:t>
 </w:r>
 <w:r w:rsidR="00B01DEC">
-<w:t xml:space="preserve">artikkeleita </w:t>
+<w:t>ar</w:t>
+</w:r>
+<w:r w:rsidR="00B01DEC">
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">tikkeleita </w:t>
 </w:r>
 <w:r w:rsidR="00F110EC">
 <w:t xml:space="preserve">tiedettiin </w:t>
@@ -8453,7 +8934,7 @@
 <w:t>julkaisuja oli lopulta vain 31.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0ED893D5" w14:textId="5B332189" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="0ED893D5" w14:textId="20DA93D9" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -8464,14 +8945,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>3</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -8815,7 +9309,6 @@
 <w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidR="00CB1CFC">
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Näille artikkeleille toteutettiin kevyt sisältöön pohjautuva arviointi, käymällä ne </w:t>
 </w:r>
 <w:r>
@@ -8842,6 +9335,7 @@
 </w:p>
 <w:p w14:paraId="4B528CF4" w14:textId="69944373" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Ennen viimeistä rajauskierrosta tehtiin harkinnanvarainen lumipallo-otanta</w:t>
 </w:r>
 <w:r w:rsidR="0030758B">
@@ -14350,7 +14844,7 @@
 </w:r>
 <w:bookmarkEnd w:id="29"/>
 </w:p>
-<w:p w14:paraId="2D58C255" w14:textId="53AA9C0B" w:rsidR="006A59F4" w:rsidRDefault="006A59F4" w:rsidP="006A59F4">
+<w:p w14:paraId="2D58C255" w14:textId="4B20F1A6" w:rsidR="006A59F4" w:rsidRDefault="006A59F4" w:rsidP="006A59F4">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -14361,14 +14855,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>4</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -16607,7 +17114,7 @@
 </w:r>
 <w:bookmarkEnd w:id="32"/>
 </w:p>
-<w:p w14:paraId="5BA0445C" w14:textId="490E728A" w:rsidR="00A92A40" w:rsidRDefault="00A23454" w:rsidP="00A23454">
+<w:p w14:paraId="5BA0445C" w14:textId="7F406BC8" w:rsidR="00A92A40" w:rsidRDefault="00A23454" w:rsidP="00A23454">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -16618,14 +17125,27 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="008E2885">
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="0029775B">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="002517A9">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>5</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="0029775B">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -21020,7 +21540,7 @@
 </w:pPr>
 </w:p>
 <w:sectPr w:rsidR="005244FD" w:rsidRPr="009878CF" w:rsidSect="00900134">
-<w:headerReference w:type="first" r:id="rId12"/>
+<w:headerReference w:type="first" r:id="rId11"/>
 <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
 <w:pgMar w:top="1701" w:right="1701" w:bottom="1418" w:left="1701" w:header="1134" w:footer="851" w:gutter="0"/>
 <w:cols w:space="708"/>

@@ -648,7 +648,6 @@
 <w:style w:type="character" w:default="1" w:styleId="DefaultParagraphFont">
 <w:name w:val="Default Paragraph Font"/>
 <w:uiPriority w:val="1"/>
-<w:semiHidden/>
 <w:unhideWhenUsed/>
 </w:style>
 <w:style w:type="table" w:default="1" w:styleId="TableNormal">
@@ -1649,6 +1648,101 @@
 <w:noProof/>
 <w:sz w:val="24"/>
 <w:szCs w:val="22"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyTextIndent2">
+<w:name w:val="Body Text Indent 2"/>
+<w:basedOn w:val="Normal"/>
+<w:link w:val="BodyTextIndent2Char"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00EC5238"/>
+<w:pPr>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="BodyTextIndent2Char">
+<w:name w:val="Body Text Indent 2 Char"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:link w:val="BodyTextIndent2"/>
+<w:uiPriority w:val="99"/>
+<w:rsid w:val="00EC5238"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyText">
+<w:name w:val="Body Text"/>
+<w:basedOn w:val="Normal"/>
+<w:link w:val="BodyTextChar"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="00EC5238"/>
+<w:pPr>
+<w:ind w:firstLine="0"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="BodyTextChar">
+<w:name w:val="Body Text Char"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:link w:val="BodyText"/>
+<w:uiPriority w:val="99"/>
+<w:rsid w:val="00EC5238"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua" w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:lang w:eastAsia="zh-CN"/>
+</w:rPr>
+</w:style>
+<w:style w:type="paragraph" w:styleId="BodyTextIndent3">
+<w:name w:val="Body Text Indent 3"/>
+<w:basedOn w:val="Normal"/>
+<w:link w:val="BodyTextIndent3Char"/>
+<w:uiPriority w:val="99"/>
+<w:unhideWhenUsed/>
+<w:rsid w:val="0047114F"/>
+<w:pPr>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:rPr>
+<w:rFonts w:ascii="Calibri" w:hAnsi="Calibri" w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+</w:style>
+<w:style w:type="character" w:customStyle="1" w:styleId="BodyTextIndent3Char">
+<w:name w:val="Body Text Indent 3 Char"/>
+<w:basedOn w:val="DefaultParagraphFont"/>
+<w:link w:val="BodyTextIndent3"/>
+<w:uiPriority w:val="99"/>
+<w:rsid w:val="0047114F"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
 <w:lang w:eastAsia="zh-CN"/>
 </w:rPr>
 </w:style>
