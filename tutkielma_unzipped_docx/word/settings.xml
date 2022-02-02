@@ -3,7 +3,7 @@
 <w:zoom w:percent="122"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
-<w:proofState w:spelling="clean"/>
+<w:proofState w:spelling="clean" w:grammar="clean"/>
 <w:stylePaneSortMethod w:val="0000"/>
 <w:doNotTrackMoves/>
 <w:defaultTabStop w:val="1304"/>
@@ -13,7 +13,7 @@
 <w:displayHorizontalDrawingGridEvery w:val="2"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
 <w:hdrShapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2064"/>
+<o:shapedefaults v:ext="edit" spidmax="2155"/>
 </w:hdrShapeDefaults>
 <w:footnotePr>
 <w:footnote w:id="-1"/>
@@ -186,6 +186,7 @@
 <w:rsid w:val="000B4B0A"/>
 <w:rsid w:val="000B4D96"/>
 <w:rsid w:val="000B662C"/>
+<w:rsid w:val="000B775E"/>
 <w:rsid w:val="000B7E8E"/>
 <w:rsid w:val="000C11FC"/>
 <w:rsid w:val="000C135C"/>
@@ -481,6 +482,7 @@
 <w:rsid w:val="00250A65"/>
 <w:rsid w:val="00250E54"/>
 <w:rsid w:val="0025169C"/>
+<w:rsid w:val="002517A9"/>
 <w:rsid w:val="00251B09"/>
 <w:rsid w:val="002520AF"/>
 <w:rsid w:val="0025260D"/>
@@ -537,6 +539,7 @@
 <w:rsid w:val="002942EB"/>
 <w:rsid w:val="002952DE"/>
 <w:rsid w:val="00295C41"/>
+<w:rsid w:val="0029775B"/>
 <w:rsid w:val="002A05E6"/>
 <w:rsid w:val="002A23F6"/>
 <w:rsid w:val="002A2818"/>
@@ -657,6 +660,7 @@
 <w:rsid w:val="003355C9"/>
 <w:rsid w:val="00336D60"/>
 <w:rsid w:val="00337E46"/>
+<w:rsid w:val="00340996"/>
 <w:rsid w:val="003413DD"/>
 <w:rsid w:val="0034141B"/>
 <w:rsid w:val="003427BD"/>
@@ -861,6 +865,7 @@
 <w:rsid w:val="00465EDD"/>
 <w:rsid w:val="00466F64"/>
 <w:rsid w:val="00467A7F"/>
+<w:rsid w:val="0047114F"/>
 <w:rsid w:val="00471A0B"/>
 <w:rsid w:val="004724A4"/>
 <w:rsid w:val="004729C0"/>
@@ -1612,6 +1617,7 @@
 <w:rsid w:val="0089312F"/>
 <w:rsid w:val="0089414B"/>
 <w:rsid w:val="00894674"/>
+<w:rsid w:val="008954AC"/>
 <w:rsid w:val="00895DEC"/>
 <w:rsid w:val="00896337"/>
 <w:rsid w:val="00897E36"/>
@@ -1955,6 +1961,7 @@
 <w:rsid w:val="00A90BBD"/>
 <w:rsid w:val="00A90FC7"/>
 <w:rsid w:val="00A91BA1"/>
+<w:rsid w:val="00A9269D"/>
 <w:rsid w:val="00A92A40"/>
 <w:rsid w:val="00A93291"/>
 <w:rsid w:val="00A9329E"/>
@@ -2656,6 +2663,7 @@
 <w:rsid w:val="00E73B11"/>
 <w:rsid w:val="00E73B1D"/>
 <w:rsid w:val="00E74D29"/>
+<w:rsid w:val="00E75BAC"/>
 <w:rsid w:val="00E7698B"/>
 <w:rsid w:val="00E77806"/>
 <w:rsid w:val="00E77C9A"/>
@@ -2717,6 +2725,7 @@
 <w:rsid w:val="00EC49CC"/>
 <w:rsid w:val="00EC4C08"/>
 <w:rsid w:val="00EC50D6"/>
+<w:rsid w:val="00EC5238"/>
 <w:rsid w:val="00EC53FC"/>
 <w:rsid w:val="00EC6334"/>
 <w:rsid w:val="00EC6DF4"/>
@@ -2947,9 +2956,123 @@
 <w:themeFontLang w:val="fi-FI"/>
 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
 <w:shapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2064"/>
+<o:shapedefaults v:ext="edit" spidmax="2155"/>
 <o:shapelayout v:ext="edit">
 <o:idmap v:ext="edit" data="2"/>
+<o:rules v:ext="edit">
+<o:r id="V:Rule1" type="connector" idref="#Straight Arrow Connector 32"/>
+<o:r id="V:Rule2" type="connector" idref="#Straight Arrow Connector 29"/>
+<o:r id="V:Rule3" type="connector" idref="#Straight Arrow Connector 26"/>
+<o:r id="V:Rule4" type="connector" idref="#Straight Arrow Connector 23"/>
+<o:r id="V:Rule5" type="connector" idref="#Straight Arrow Connector 20"/>
+<o:r id="V:Rule6" type="connector" idref="#Straight Arrow Connector 17"/>
+<o:r id="V:Rule7" type="connector" idref="#Straight Arrow Connector 14"/>
+<o:r id="V:Rule8" type="connector" idref="#Straight Arrow Connector 13"/>
+<o:r id="V:Rule9" type="connector" idref="#Straight Arrow Connector 32"/>
+<o:r id="V:Rule10" type="connector" idref="#Straight Arrow Connector 29"/>
+<o:r id="V:Rule11" type="connector" idref="#Straight Arrow Connector 26"/>
+<o:r id="V:Rule12" type="connector" idref="#Straight Arrow Connector 23"/>
+<o:r id="V:Rule13" type="connector" idref="#Straight Arrow Connector 20"/>
+<o:r id="V:Rule14" type="connector" idref="#Straight Arrow Connector 17"/>
+<o:r id="V:Rule15" type="connector" idref="#Straight Arrow Connector 14"/>
+<o:r id="V:Rule16" type="connector" idref="#Straight Arrow Connector 13"/>
+<o:r id="V:Rule17" type="connector" idref="#Straight Arrow Connector 11">
+<o:proxy start="" idref="#Rectangle 2" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 3" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule18" type="connector" idref="#Straight Arrow Connector 12">
+<o:proxy start="" idref="#Rectangle 3" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 4" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule19" type="connector" idref="#Straight Arrow Connector 13">
+<o:proxy start="" idref="#Rectangle 4" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 5" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule20" type="connector" idref="#Straight Arrow Connector 14">
+<o:proxy start="" idref="#Rectangle 5" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 6" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule21" type="connector" idref="#Straight Arrow Connector 15">
+<o:proxy start="" idref="#Rectangle 6" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 7" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule22" type="connector" idref="#Straight Arrow Connector 16">
+<o:proxy start="" idref="#Rectangle 7" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 8" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule23" type="connector" idref="#Straight Arrow Connector 17">
+<o:proxy start="" idref="#Rectangle 8" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 9" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule24" type="connector" idref="#Straight Arrow Connector 18">
+<o:proxy start="" idref="#Rectangle 9" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 10" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule25" type="connector" idref="#Straight Arrow Connector 11">
+<o:proxy start="" idref="#Rectangle 2" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 3" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule26" type="connector" idref="#Straight Arrow Connector 12">
+<o:proxy start="" idref="#Rectangle 3" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 4" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule27" type="connector" idref="#Straight Arrow Connector 13">
+<o:proxy start="" idref="#Rectangle 4" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 5" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule28" type="connector" idref="#Straight Arrow Connector 14">
+<o:proxy start="" idref="#Rectangle 5" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 6" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule29" type="connector" idref="#Straight Arrow Connector 15">
+<o:proxy start="" idref="#Rectangle 6" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 7" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule30" type="connector" idref="#Straight Arrow Connector 16">
+<o:proxy start="" idref="#Rectangle 7" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 8" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule31" type="connector" idref="#Straight Arrow Connector 17">
+<o:proxy start="" idref="#Rectangle 8" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 9" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule32" type="connector" idref="#Straight Arrow Connector 18">
+<o:proxy start="" idref="#Rectangle 9" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 10" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule33" type="connector" idref="#Straight Arrow Connector 11">
+<o:proxy start="" idref="#Rectangle 2" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 3" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule34" type="connector" idref="#Straight Arrow Connector 12">
+<o:proxy start="" idref="#Rectangle 3" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 4" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule35" type="connector" idref="#Straight Arrow Connector 13">
+<o:proxy start="" idref="#Rectangle 4" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 5" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule36" type="connector" idref="#Straight Arrow Connector 14">
+<o:proxy start="" idref="#Rectangle 5" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 6" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule37" type="connector" idref="#Straight Arrow Connector 15">
+<o:proxy start="" idref="#Rectangle 6" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 7" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule38" type="connector" idref="#Straight Arrow Connector 16">
+<o:proxy start="" idref="#Rectangle 7" connectloc="2"/>
+<o:proxy end="" idref="#Rectangle 8" connectloc="0"/>
+</o:r>
+<o:r id="V:Rule39" type="connector" idref="#Straight Arrow Connector 17">
+<o:proxy start="" idref="#Rectangle 8" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 9" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule40" type="connector" idref="#Straight Arrow Connector 18">
+<o:proxy start="" idref="#Rectangle 9" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 10" connectloc="1"/>
+</o:r>
+</o:rules>
 </o:shapelayout>
 </w:shapeDefaults>
 <w:decimalSymbol w:val=","/>
