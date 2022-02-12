@@ -1,0 +1,2414 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://doi.org/10.1177/875697280403500104">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:8756-9728"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kendra</foaf:surname>
+                        <foaf:givenName>Korin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taplin</foaf:surname>
+                        <foaf:givenName>Laura J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_85"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>cultural values</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>grounded theory</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>open systems</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>organization culture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>project success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Project Success: A Cultural Framework</dc:title>
+        <dcterms:abstract>This paper presents results of a qualitative study of the adoption of Project Management (PM) practices in an Information Technology (IT) division of a large manufacturing company. Structured interviews were used to gather data from a cross section of IT divisional leaders in the company to test and confirm a project management system developed from a literature review of project success factors that have contributed to projects' being on time, on budget, and of high quality. Data analysis using organization development (OD) grounded theory (Strauss and Corbin, 1990) identified common themes and cultural values that exist among the eight participants. Results of this study include the development of cultural framework to improve organization project performance (project success model) based on organization system design methods constructed from sociotechnical system theory (Taylor &amp; Felton, 1993) and open system theory (Emery and Purser, 1996). In addition, the study confirmed the proposed open system design for the successful adoption of project management practices comprised of a project manager, project teams, performance measurement systems, and supporting management practices. An important conclusion from this research was that IT organizations that adopt the confirmed project success model must develop a project management culture based on shared cultural values of the organization's members that support adoption of project management. An implication of this study to the fields of organization development and project management is the confirmation of a project management system that IT organizations, OD practitioners, and project managers can employ to support the adoption of project management practices at both the organizational and project levels.</dcterms:abstract>
+        <dc:date>April 1, 2004</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Project Success</z:shortTitle>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/875697280403500104</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 17:14:14</dcterms:dateSubmitted>
+        <dc:description>252 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: SAGE Publications Inc</dc:description>
+        <bib:pages>30-45</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:8756-9728">
+        <prism:volume>35</prism:volume>
+        <dc:title>Project Management Journal</dc:title>
+        <dc:identifier>DOI 10.1177/875697280403500104</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Project Management Journal</dcterms:alternative>
+        <dc:identifier>ISSN 8756-9728</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_85">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/pdf/10.1177/875697280403500104</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 17:15:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1177/875697281604700507">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>47</prism:volume>
+                <dc:title>Project Management Journal</dc:title>
+                <dc:identifier>DOI 10.1177/875697281604700507</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>Project Management Journal</dcterms:alternative>
+                <dc:identifier>ISSN 8756-9728</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Millhollan</foaf:surname>
+                        <foaf:givenName>Chuck</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaarst-Brown</foaf:surname>
+                        <foaf:givenName>Michelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_90"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>project success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>efficacy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project management success</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project manager success</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project outcomes</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Lessons for IT Project Manager Efficacy: A Review of the Literature Associated with Project Success</dc:title>
+        <dcterms:abstract>In the maturing IT project management space, there are still many debates about the skills needed to achieve success. This article presents a review and synthesis of project management literature that highlights the potential conflict in goals and the measurement of “success” from three perspectives: project outcomes, project management processes, and the project manager's influence. Our review indicates that each perspective of success, defined by various stakeholders at various points in time, shifts the focus onto different skills and knowledge. Drawing upon this tri-focal lens, we propose a shift in focus on success to the intersection, or “sweet spot of project manager efficacy.”</dcterms:abstract>
+        <dc:date>October 1, 2016</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Lessons for IT Project Manager Efficacy</z:shortTitle>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1177/875697281604700507</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 17:14:19</dcterms:dateSubmitted>
+        <dc:description>20 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: SAGE Publications Inc</dc:description>
+        <bib:pages>89-106</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_90">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/pdf/10.1177/875697281604700507</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 17:15:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www-igi-global-com.ezproxy.jyu.fi/gateway/article/www.igi-global.com/gateway/article/150532?ct=-8585597663264550353">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1938-0232"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Truong</foaf:surname>
+                        <foaf:givenName>Dothang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jitbaipoon</foaf:surname>
+                        <foaf:givenName>Thawatchai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_595"/>
+        <dc:title>How Can Agile Methodologies Be Used to Enhance the Success of Information Technology Projects?</dc:title>
+        <dcterms:abstract>Dynamic and unpredictable business environments in the information technology (IT) sector have led to a rapid growth of agile methodologies. Organizations claim that using agile methodologies can enhance the success of IT projects in such environments. However, fluctuating patterns of successful and...</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www-igi-global-com.ezproxy.jyu.fi</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-igi-global-com.ezproxy.jyu.fi/gateway/article/www.igi-global.com/gateway/article/150532?ct=-8585597663264550353</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 18:50:36</dcterms:dateSubmitted>
+        <dc:rights>Access limited to members</dc:rights>
+        <dc:description>7 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: IGI Global</dc:description>
+        <bib:pages>1-16</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1938-0232">
+        <prism:volume>7</prism:volume>
+        <dc:title>International Journal of Information Technology Project Management (IJITPM)</dc:title>
+        <dc:identifier>DOI 10.4018/IJITPM.2016040101</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1938-0232</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_595">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www-igi-global-com.ezproxy.jyu.fi/ViewTitle.aspx?TitleId=150532&amp;isxn=9781466689954</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-10 18:50:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0164121213000496">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0164-1212"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stankovic</foaf:surname>
+                        <foaf:givenName>Dragan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nikolic</foaf:surname>
+                        <foaf:givenName>Vesna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Djordjevic</foaf:surname>
+                        <foaf:givenName>Miodrag</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Dac-Buu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_616"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Critical success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Agile methods</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A survey study of critical success factors in agile software projects in former Yugoslavia IT companies</dc:title>
+        <dcterms:abstract>Determining the factors that have an influence on the success of the software development projects has been the focus of extensive research for more than 30 years. In recent years agile methodology of software development has become the dominant one for all kinds of software development projects. In this paper we present the results of empirical study for determining critical factors that influence the success of agile software projects which we conducted among senior developers and project managers from IT companies located in the former Yugoslavia countries within South Eastern Europe (SEE) region. This study is inspired by the similar study conducted 5 years ago (Chow and Cao, 2008). With this study we were not able to confirm the model developed in the previous study. Moreover it disconfirmed not only part of the factors, but very much questioned the whole scheme. However, we were able to shed additional light regarding agile software development in former Yugoslavia countries from SEE region as a reference region for investigating outsourced projects done in agile way.</dcterms:abstract>
+        <dc:date>June 1, 2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0164121213000496</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:42:48</dcterms:dateSubmitted>
+        <dc:description>110 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>1663-1678</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0164-1212">
+        <prism:volume>86</prism:volume>
+        <dc:title>Journal of Systems and Software</dc:title>
+        <dc:identifier>DOI 10.1016/j.jss.2013.02.027</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Journal of Systems and Software</dcterms:alternative>
+        <dc:identifier>ISSN 0164-1212</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_616">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0164121213000496</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:43:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/10580530.2020.1818899">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1058-0530"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsoy</foaf:surname>
+                        <foaf:givenName>Mikhail</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Staples</foaf:surname>
+                        <foaf:givenName>D. Sandy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_640"/>
+        <link:link rdf:resource="#item_641"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>agile project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>agile projects</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Analytics projects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>What Are the Critical Success Factors for Agile Analytics Projects?</dc:title>
+        <dcterms:abstract>To get value from BI (Business Intelligence) and Big Data initiatives, organizations need to develop the capability to successfully execute their analytics projects. Via updating Chow and Cao’s list of 12 success factors for agile projects, 43 attributes of these potential critical success factors (CSFs) were identified. Data from four case studies of analytics projects suggest that the critical success factors for analytics projects may be Strong Customer Involvement and a Methodical Project Definition Process.</dcterms:abstract>
+        <dc:date>October 2, 2021</dc:date>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/10580530.2020.1818899</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:23</dcterms:dateSubmitted>
+        <dc:description>3 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/10580530.2020.1818899</dc:description>
+        <bib:pages>324-341</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1058-0530">
+        <prism:volume>38</prism:volume>
+        <dc:title>Information Systems Management</dc:title>
+        <dc:identifier>DOI 10.1080/10580530.2020.1818899</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1058-0530</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_640">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/10580530.2020.1818899</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_641">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/full/10.1080/10580530.2020.1818899</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/10580530.2014.854033">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>31</prism:volume>
+                <dc:title>Information Systems Management</dc:title>
+                <dc:identifier>DOI 10.1080/10580530.2014.854033</dc:identifier>
+                <prism:number>1</prism:number>
+                <dc:identifier>ISSN 1058-0530</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gingnell</foaf:surname>
+                        <foaf:givenName>Liv</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Franke</foaf:surname>
+                        <foaf:givenName>Ulrik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lagerström</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ericsson</foaf:surname>
+                        <foaf:givenName>Evelina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lilliesköld</foaf:surname>
+                        <foaf:givenName>Joakim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_642"/>
+        <link:link rdf:resource="#item_643"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Bayesian networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>decision support</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>expert elicitation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT project success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Noisy-OR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Quantifying Success Factors for IT Projects—An Expert-Based Bayesian Model</dc:title>
+        <dcterms:abstract>Large investments are made annually to develop and maintain IT systems. Successful outcome of IT projects is therefore crucial for the economy. Yet, many IT projects fail completely or are delayed or over budget, or they end up with less functionality than planned. This article describes a Bayesian decision-support model. The model is based on expert elicited data from 51 experts. Using this model, the effect management decisions have upon projects can be estimated beforehand, thus providing decision support for the improvement of IT project performance.</dcterms:abstract>
+        <dc:date>January 2, 2014</dc:date>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1080/10580530.2014.854033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:25</dcterms:dateSubmitted>
+        <dc:description>47 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/10580530.2014.854033</dc:description>
+        <bib:pages>21-36</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_642">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/10580530.2014.854033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_643">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/full/10.1080/10580530.2014.854033</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/10580530.2013.794658">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>Information Systems Management</dc:title>
+                <dc:identifier>DOI 10.1080/10580530.2013.794658</dc:identifier>
+                <prism:number>3</prism:number>
+                <dc:identifier>ISSN 1058-0530</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lech</foaf:surname>
+                        <foaf:givenName>Przemysław</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_648"/>
+        <link:link rdf:resource="#item_649"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>empirical study</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT project success evaluation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project success criteria</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Time, Budget, And Functionality?—IT Project Success Criteria Revised</dc:title>
+        <dcterms:abstract>The purpose of this article is to explore the relevance of classic project success measures of Enterprise Systems implementation projects' success from the adopting organizations' perspective. Based on a mixed quantitative-qualitative approach, the results show that, although the organizations valued project management criteria, they did not perceive them as determinants of success if the goals of the project were achieved. A refined set of success criteria is proposed on the basis of these findings.</dcterms:abstract>
+        <dc:date>July 3, 2013</dc:date>
+        <z:shortTitle>Time, Budget, And Functionality?</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1080/10580530.2013.794658</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:30</dcterms:dateSubmitted>
+        <dc:description>48 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/10580530.2013.794658</dc:description>
+        <bib:pages>263-275</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_648">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/10580530.2013.794658</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:49:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_649">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/full/10.1080/10580530.2013.794658</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:49:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/10580530.2017.1416943">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>35</prism:volume>
+                <dc:title>Information Systems Management</dc:title>
+                <dc:identifier>DOI 10.1080/10580530.2017.1416943</dc:identifier>
+                <prism:number>1</prism:number>
+                <dc:identifier>ISSN 1058-0530</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aranyossy</foaf:surname>
+                        <foaf:givenName>Márta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blaskovics</foaf:surname>
+                        <foaf:givenName>Bálint</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Horváth</foaf:surname>
+                        <foaf:givenName>Ákos Ardzsuna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_650"/>
+        <link:link rdf:resource="#item_651"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>competencies of the project manager</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>East Central Europe</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Hungary</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>project failure factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>How universal are IT project success and failure factors? Evidence from Hungary</dc:title>
+        <dcterms:abstract>This article examines the universality of IT project failure factors and project manager characteristics for success — considering national cultural context, gender, experience and time. Based on a survey of 124 Hungarian IT professionals the comparative analysis concludes that stakeholder management, top management support and planning are the most critical factors of failure, whereas project managers with outstanding communication and change management skills are expected to excel — in Hungary and in the US as well.</dcterms:abstract>
+        <dc:date>January 2, 2018</dc:date>
+        <z:shortTitle>How universal are IT project success and failure factors?</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/10580530.2017.1416943</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:48:32</dcterms:dateSubmitted>
+        <dc:description>13 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/10580530.2017.1416943</dc:description>
+        <bib:pages>15-28</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_650">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/10580530.2017.1416943</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:49:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_651">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/full/10.1080/10580530.2017.1416943</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:49:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.emerald.com/insight/content/doi/10.1108/17410391211272829/full/html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1741-0398"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudhakar</foaf:surname>
+                        <foaf:givenName>Purna Goparaju</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A model of critical success factors for software projects</dc:title>
+        <dc:date>2012-10-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/17410391211272829/full/html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 17:49:38</dcterms:dateSubmitted>
+        <dc:description>99 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>537-558</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1741-0398">
+        <prism:volume>25</prism:volume>
+        <dc:title>Journal of Enterprise Information Management</dc:title>
+        <dc:identifier>DOI 10.1108/17410391211272829</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Journal of Ent Info Management</dcterms:alternative>
+        <dc:identifier>ISSN 1741-0398</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1080/10919392.2016.1263113">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1091-9392"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hidding</foaf:surname>
+                        <foaf:givenName>Gezinus J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nicholas</foaf:surname>
+                        <foaf:givenName>John M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_701"/>
+        <link:link rdf:resource="#item_702"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>failure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>new paradigm</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>PMBOK</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>success factors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>VDCL</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A new way of thinking about IT project management practices: Early empirical results</dc:title>
+        <dcterms:abstract>Despite decades of efforts to improve the management of Information Technology (IT) projects, failure rates remain high. This article first reviews literature about information systems success and IT project success. Most of the improvement efforts have focused on advancing variations of the traditional project management paradigm, such as embodied by the Project Management Body of Knowledge. This article describes a new way of thinking about managing IT project called Value-Driven Change Leadership (VDCL), and reports the results of an initial empirical exploration to identify project success factors stemming from VDCL as well as the traditional paradigm. The results are based on data collected from 16 medium-sized IT-intensive projects at eight Chicago-based organizations from six different industries. The results, although not based on a large sample, point to several project management practices associated with project success that stem from both the traditional paradigm as well as VDCL. For example, traditional practices managing stakeholders’ expectations, scope, and schedule are associated with project success, as are practices stemming from VDCL, such as managing the end-product’s architecture, business value added, and the organization change associated with systems implementation. The results of this study also suggest that further research into new ways of thinking about IT project management may be fruitful.</dcterms:abstract>
+        <dc:date>January 2, 2017</dc:date>
+        <z:shortTitle>A new way of thinking about IT project management practices</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/10919392.2016.1263113</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 18:18:47</dcterms:dateSubmitted>
+        <dc:description>19 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1080/10919392.2016.1263113</dc:description>
+        <bib:pages>81-95</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1091-9392">
+        <prism:volume>27</prism:volume>
+        <dc:title>Journal of Organizational Computing and Electronic Commerce</dc:title>
+        <dc:identifier>DOI 10.1080/10919392.2016.1263113</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1091-9392</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_701">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1080/10919392.2016.1263113</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 18:18:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_702">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/full/10.1080/10919392.2016.1263113</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 18:18:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1057/jit.2011.8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0268-3962"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doherty</foaf:surname>
+                        <foaf:givenName>Neil F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ashurst</foaf:surname>
+                        <foaf:givenName>Colin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peppard</foaf:surname>
+                        <foaf:givenName>Joe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_709"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>benefits realisation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>ISD success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT development projects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>organisational change</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>value</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Factors Affecting the Successful Realisation of Benefits from Systems Development Projects: Findings from Three Case Studies</dc:title>
+        <dcterms:abstract>The return that organisations derive from investments in information systems and technology continues to disappoint. While there is a very significant body of literature on the factors that should facilitate a successful outcome from systems development, there is growing concern that these prescriptions are not having their desired effect. In this paper, we argue that the success of a systems development project should be measured in terms of its ability to deliver meaningful benefits, rather than the timely delivery of a technical artefact, and therefore organisations should adopt an explicit and proactive benefits realisation approach when investing in IT. Consequently, we sought to explore those actionable factors that might facilitate the effective realisation of benefits from systems development initiatives. Three organisations were identified that claimed to adopt a proactive approach to benefits realisation, and detailed studies of their systems development practices were conducted. Our analysis found that whilst one organisation had been successful in its adoption of a benefits realisation perspective, the other two had not, and this allowed us to identify those factors that helped to explain this difference in outcomes. In short, this paper makes an important contribution by identifying how a subset of traditional systems success factors might be enhanced, to give them a more explicit benefits realisation orientation. Moreover, it presents a coherent set of principles that can be used for deriving other factors and practices.</dcterms:abstract>
+        <dc:date>March 1, 2012</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Factors Affecting the Successful Realisation of Benefits from Systems Development Projects</z:shortTitle>
+        <z:libraryCatalog>SAGE Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1057/jit.2011.8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 18:25:58</dcterms:dateSubmitted>
+        <dc:description>159 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: SAGE Publications Ltd</dc:description>
+        <bib:pages>1-16</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0268-3962">
+        <prism:volume>27</prism:volume>
+        <dc:title>Journal of Information Technology</dc:title>
+        <dc:identifier>DOI 10.1057/jit.2011.8</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Journal of Information Technology</dcterms:alternative>
+        <dc:identifier>ISSN 0268-3962</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_709">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>SAGE PDF Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/pdf/10.1057/jit.2011.8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 18:25:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Standish Group</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Chaos Report</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.standishgroup.com/sample_research_files/CHAOSReport2015-Final.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01</dcterms:dateSubmitted>
+    </rdf:Description>
+    <bib:Article rdf:about="https://www.proquest.com/docview/215839527/abstract/2650A0F7196A4A87PQ/1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:07407459"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eveleens</foaf:surname>
+                        <foaf:givenName>Johan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoef</foaf:surname>
+                        <foaf:givenName>Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_754"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Forecasting</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Accuracy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computers--Software</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software upgrading</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Studies</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Rise and Fall of the Chaos Report Figures</dc:title>
+        <dcterms:abstract>In 1994, Standish published the Chaos report that showed a shocking 16% project success. This and renewed figures by Standish are often used to indicate that project management of application software development is in trouble. However, Standish's definitions have four major problems. First, they're misleading because they're based solely on estimation accuracy of cost, time, and functionality. Second, their estimation accuracy measure is one-sided, leading to unrealistic success rates. Third, steering on their definitions perverts good estimation practice. Fourth, the resulting figures are meaningless because they average numbers with an unknown bias, numbers that are introduced by different underlying estimation processes. The authors of this article applied Standish's definitions to their own extensive data consisting of 5,457 forecasts of 1,211 real-world projects, totaling hundreds of millions of Euros. The Standish figures didn't reflect the reality of the case studies at all. [PUBLICATION ABSTRACT]</dcterms:abstract>
+        <dc:date>Jan/Feb 2010</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>ProQuest</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.proquest.com/docview/215839527/abstract/2650A0F7196A4A87PQ/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 08:53:50</dcterms:dateSubmitted>
+        <dc:rights>Copyright IEEE Computer Society Jan/Feb 2010</dc:rights>
+        <bib:pages>30-36</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:07407459">
+        <prism:volume>27</prism:volume>
+        <dc:title>IEEE Software</dc:title>
+        <dc:identifier>DOI http://dx.doi.org/10.1109/MS.2009.154</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 07407459</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_754">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://media.proquest.com/media/pq/classic/doc/1936545931/fmt/pi/rep/NONE?cit%3Aauth=Eveleens%2C+Johan%3BVerhoef%2C+Chris&amp;cit%3Atitle=The+Rise+and+Fall+of+the+Chaos+Report+Figures&amp;cit%3Apub=IEEE+Software&amp;cit%3Avol=27&amp;cit%3Aiss=1&amp;cit%3Apg=30&amp;cit%3Adate=Jan%2FFeb+2010&amp;ic=true&amp;cit%3Aprod=ProQuest&amp;_a=ChgyMDIyMDIwMTA4NTM0NTQyODo3NDM1NjESBjEwMjcxNhoKT05FX1NFQVJDSCIMODQuMjUwLjg1LjM3KgUzNzc4NzIJMjE1ODM5NTI3Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMTAvMDEvMDFyCjIwMTAvMDIvMjh6AIIBM1AtMTAwMDAwMS0xMzY1ODItQ1VTVE9NRVItMTAwMDAyNTUvMTAwMDAwMDgtNDc2Mjk3M5IBBk9ubGluZcoBgwFNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTcuMC40NjkyLjk5IFNhZmFyaS81MzcuMzYgRWRnLzk3LjAuMTA3Mi43NtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAiVPUzpFTVMtRG93bmxvYWRQZGYtZ2V0TWVkaWFVcmxGb3JJdGVtygIHRmVhdHVyZdICAVniAihodHRwczovL3d3dy1wcm9xdWVzdC1jb20uZXpwcm94eS5qeXUuZmkv8gIA%2BgIBToIDA1dlYooDHENJRDoyMDIyMDIwMTA4NTM0NTQzMDo4NTM3MjA%3D&amp;_s=Brg6DailX1wv4mGrRCD%2Bih9Z2LY%3D</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 08:53:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0164121207001847">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Agile Product Line Engineering</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>81</prism:volume>
+                <dc:title>Journal of Systems and Software</dc:title>
+                <dc:identifier>DOI 10.1016/j.jss.2007.07.032</dc:identifier>
+                <prism:number>6</prism:number>
+                <dcterms:alternative>Journal of Systems and Software</dcterms:alternative>
+                <dc:identifier>ISSN 0164-1212</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pereira</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cerpa</foaf:surname>
+                        <foaf:givenName>Narciso</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verner</foaf:surname>
+                        <foaf:givenName>June</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rivas</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Procaccino</foaf:surname>
+                        <foaf:givenName>J. Drew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Job satisfaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cultural differences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Freedom</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Working environment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>What do software practitioners really think about project success: A cross-cultural comparison</dc:title>
+        <dcterms:abstract>Due to the increasing globalization of software development we are interested to discover if there exist significant cultural differences in practitioners’ definition of a successful software project. This study presents the results of a survey in which Chilean software practitioners’ perceptions of project success are compared with previous research with US practitioners. Responses from both groups of practitioners indicate that there is a relationship between team-work and success; our results also indicate that there are similar perceptions related to the importance of job satisfaction and project success. However, Chilean responses suggest that if a practitioner is allowed too much freedom within the work environment, job stress results; this in turn is reflected in increasing demands for both job satisfaction and good environmental conditions. This may indicate the potential for the attribution of failure to conditions outside the team, thus preventing a search for problematic team issues and technical problems. In contrast, the data suggests peer control inside the US teams indicating a less stressful environment.</dcterms:abstract>
+        <dc:date>June 1, 2008</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>What do software practitioners really think about project success</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0164121207001847</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 08:55:15</dcterms:dateSubmitted>
+        <dc:description>61 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>897-907</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="https://nanopdf.com/download/cobbs-paradox-sgraham745net_pdf">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>The Standish Group International, Inc.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cobb</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Unfinished Voyages -A Follow-Up to The CHAOS Report</dc:title>
+        <dc:date>1996</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nanopdf.com/download/cobbs-paradox-sgraham745net_pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786314001628">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0263-7863"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yim</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Castaneda</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doolen</foaf:surname>
+                        <foaf:givenName>Toni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tumer</foaf:surname>
+                        <foaf:givenName>Irem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malak</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Engineering design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Risk management</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A study of the impact of project classification on project risk indicators</dc:title>
+        <dcterms:abstract>Project risk management is essential for ensuring project success. Current risk management tools lack predictive ability to indicate potential risks before the start of a project. This study was conducted to determine whether or not project classification, which is known at the outset of a project, can be used by project managers to proactively identify likely risk events in engineering design projects. This study compared the types of risk events experienced during the project, using risk indicators, when undertaking three different types of projects: compliance, operational, and strategic projects. Risk indicators were developed to capture circumstances (risk events) with potential predictive power about the likelihood of a risk occurring during a given project. Interviews were conducted with employees involved in eleven engineering design projects, within a single organization. Interview notes were transcribed, and risk events were identified and coded using a set of risk indicator codes. Codes were summarized at the project level and compared based on the project classification. The results indicate that the type of risk events occurring in projects does vary based on project classification. Both the type and frequency of risk indicators were found to vary based on project classification. These results suggest that risk management plans can be customized, at the outset of the project based on project classification, which may increase the likelihood of project success.</dcterms:abstract>
+        <dc:date>May 1, 2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786314001628</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:30:55</dcterms:dateSubmitted>
+        <dc:description>29 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>863-876</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0263-7863">
+        <prism:volume>33</prism:volume>
+        <dc:title>International Journal of Project Management</dc:title>
+        <dc:identifier>DOI 10.1016/j.ijproman.2014.10.005</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+        <dc:identifier>ISSN 0263-7863</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0950584916300945">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0950-5849"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jørgensen</foaf:surname>
+                        <foaf:givenName>Magne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Client benefits</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software projects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Survey</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A survey on the characteristics of projects with success in delivering client benefits</dc:title>
+        <dcterms:abstract>Context
+A large waste of resources in software development projects currently results from being unable to produce client benefits.
+Objective
+The main objective is to better understand the characteristics of successful software projects and contribute to software projects that are more likely to produce the planned client benefits.
+Method
+We asked 63 Norwegian software professionals, representing both the client and the provider role, to report information about their last completed project. In a follow-up survey with 64 Norwegian software professionals, we addressed selected findings from the first survey.
+Results
+The analysis of the project information showed the following: i) The project management triangle criteria of being on time, on budget, and having the specified functionality are poor correlates of the essential success dimension client benefits. ii) Benefit management planning before the project started and benefit management activities during project execution were connected with success in delivering client benefits. iii) Fixed-price projects and projects in which the selection of providers had a strong focus on low price were less successful in delivering project benefits than other projects. iv) Agile projects were in general more successful than other projects, but agile projects without flexible scope to reflect changed user needs and learning, or without frequent delivery to the client, had less than average success in delivering client benefits.
+Conclusions
+The software projects that were successful in delivering client benefits differed from the less successful ones in several ways. In particular, they applied benefit management practices during project execution, they avoided fixed-price contracts, they had less focus on low price in the selection of providers, and they applied the core agile practices - frequent delivery to the client and scope flexibility.</dcterms:abstract>
+        <dc:date>October 1, 2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0950584916300945</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:31:54</dcterms:dateSubmitted>
+        <dc:description>42 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>83-94</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0950-5849">
+        <prism:volume>78</prism:volume>
+        <dc:title>Information and Software Technology</dc:title>
+        <dc:identifier>DOI 10.1016/j.infsof.2016.05.008</dc:identifier>
+        <dcterms:alternative>Information and Software Technology</dcterms:alternative>
+        <dc:identifier>ISSN 0950-5849</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_761">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>81</prism:volume>
+                <dc:title>The Journal of systems and software</dc:title>
+                <prism:number>6</prism:number>
+                <dc:identifier>ISSN 0164-1212</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chow</foaf:surname>
+                        <foaf:givenName>Tsun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Dac-Buu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_762"/>
+        <dc:title>A survey study of critical success factors in agile software projects</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>eng</z:language>
+        <bib:pages>961-971</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_762">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>A survey study of critical success factors in agile software projects | JYKDOK</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jyu.finna.fi/PrimoRecord/pci.cdi_crossref_primary_10_1016_j_jss_2007_08_020</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:32:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0950584910000595">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>52</prism:volume>
+                <dc:title>Information and Software Technology</dc:title>
+                <dc:identifier>DOI 10.1016/j.infsof.2010.03.011</dc:identifier>
+                <prism:number>9</prism:number>
+                <dcterms:alternative>Information and Software Technology</dcterms:alternative>
+                <dc:identifier>ISSN 0950-5849</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cerpa</foaf:surname>
+                        <foaf:givenName>Narciso</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bardeen</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kitchenham</foaf:surname>
+                        <foaf:givenName>Barbara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verner</foaf:surname>
+                        <foaf:givenName>June</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Classifier evaluation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cross-company data</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project outcome</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ROC analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Single-company data</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Tailored cut-off</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Evaluating logistic regression models to estimate software project outcomes</dc:title>
+        <dcterms:abstract>Context
+Software has been developed since the 1960s but the success rate of software development projects is still low. During the development of software, the probability of success is affected by various practices or aspects. To date, it is not clear which of these aspects are more important in influencing project outcome.
+Objective
+In this research, we identify aspects which could influence project success, build prediction models based on the aspects using data collected from multiple companies, and then test their performance on data from a single organization.
+Method
+A survey-based empirical investigation was used to examine variables and factors that contribute to project outcome. Variables that were highly correlated to project success were selected and the set of variables was reduced to three factors by using principal components analysis. A logistic regression model was built for both the set of variables and the set of factors, using heterogeneous data collected from two different countries and a variety of organizations. We tested these models by using a homogeneous hold-out dataset from one organization. We used the receiver operating characteristic (ROC) analysis to compare the performance of the variable and factor-based models when applied to the homogeneous dataset.
+Results
+We found that using raw variables or factors in the logistic regression models did not make any significant difference in predictive capability. The prediction accuracy of these models is more balanced when the cut-off is set to the ratio of success to failures in the datasets used to build the models. We found that the raw variable and factor-based models predict significantly better than random chance.
+Conclusion
+We conclude that an organization wishing to estimate whether a project will succeed or fail may use a model created from heterogeneous data derived from multiple organizations.</dcterms:abstract>
+        <dc:date>September 1, 2010</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0950584910000595</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:32:42</dcterms:dateSubmitted>
+        <dc:description>43 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>934-944</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786311000901">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>30</prism:volume>
+                <dc:title>International Journal of Project Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.ijproman.2011.07.002</dc:identifier>
+                <prism:number>4</prism:number>
+                <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+                <dc:identifier>ISSN 0263-7863</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savolainen</foaf:surname>
+                        <foaf:givenName>Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahonen</foaf:surname>
+                        <foaf:givenName>Jarmo J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richardson</foaf:surname>
+                        <foaf:givenName>Ita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_765"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Customer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Literature review</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Outsourcing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project failure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software development project</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Supplier</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Software development project success and failure from the supplier's perspective: A systematic literature review</dc:title>
+        <dcterms:abstract>In this paper, we consider software development project success and failure from the supplier's perspective. First we clarified concepts in order to be able to exclude review articles on in-house projects, continuous services, the customer's perspective, and software product development, with the aim of providing valid results for supplier firms. We divided success criteria into project success and project management (PM) success, and, in seven articles, identified three success criteria from the supplier's perspective: customer satisfaction, short-term business benefits, and long-term business benefits. In contrast, no definition of software development project failure was found. Articles were found in seven different journals, showing that knowledge on software development project success from the supplier's perspective is fragmented. This impedes the growth of knowledge on this topic.</dcterms:abstract>
+        <dc:date>May 1, 2012</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Software development project success and failure from the supplier's perspective</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786311000901</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:33:09</dcterms:dateSubmitted>
+        <dc:description>158 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>458-469</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_765">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ulir.ul.ie/bitstream/10344/1774/2/2011_Savolainen.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:33:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786304001048">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>International Journal of Project Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.ijproman.2004.11.002</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+                <dc:identifier>ISSN 0263-7863</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milosevic</foaf:surname>
+                        <foaf:givenName>Dragan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Patanakul</foaf:surname>
+                        <foaf:givenName>Peerasit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Development projects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project performance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Standardization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Success factors</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Standardized project management may increase development projects success</dc:title>
+        <dcterms:abstract>Companies frequently opt to implement standardized project management (SPM), which can be defined as a standardized set of project management practices. These companies expect that such an approach will carry significant potential for improving project performance. To investigate this potential, we undertook an exploratory study into the impact of SPM on project performance in development projects in high-velocity industries. Our research started with the qualitative method using case study research to identify the major factors in SPM efforts on the organizational project management level (as opposed to the individual project level). Then, we developed hypotheses based on these factors and performed hypothesis testing to identify factors that impact project success. In addition, we conducted the follow-up interviews to enrich and refine our findings. Three major findings came out of this study. First, the variables of SPM tools, leadership skills, and process showed themselves to be of higher interest to standardization than the other independent variables because they may impact project success; second, these variables of higher interest are typically customized to fit the strategic purpose of the company; and third, companies tend to standardize project management practices only to a certain level.</dcterms:abstract>
+        <dc:date>April 1, 2005</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786304001048</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:33:26</dcterms:dateSubmitted>
+        <dc:description>275 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>181-192</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786317305240">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>35</prism:volume>
+                <dc:title>International Journal of Project Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.ijproman.2017.04.016</dc:identifier>
+                <prism:number>6</prism:number>
+                <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+                <dc:identifier>ISSN 0263-7863</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engelbrecht</foaf:surname>
+                        <foaf:givenName>Jacus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnston</foaf:surname>
+                        <foaf:givenName>Kevin Allan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hooper</foaf:surname>
+                        <foaf:givenName>Val</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>IT project management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business process improvement</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Competences</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>IT capability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The influence of business managers' IT competence on IT project success</dc:title>
+        <dcterms:abstract>Unacceptably low IT project success rates continue to be a persistent problem for organisations and the lack of business involvement in IT projects has been suggested as an important contributor to failures. Adopting a Resource Based View, this paper explores the concept of IT competence of business managers and teases out what the relative impact of each of the components of IT competence is on IT project success. Based on a survey of 108 business managers, results yielded surprising insights. In particular, knowledge of applications exerts a strong influence on project success.</dcterms:abstract>
+        <dc:date>August 1, 2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786317305240</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:33:54</dcterms:dateSubmitted>
+        <dc:description>30 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>994-1005</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-1-935589-67-9">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Project Management Institute</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Fifth Edition</dc:title>
+        <dc:date>2013</dc:date>
+        <dc:identifier>ISBN 978-1-935589-67-9</dc:identifier>
+    </bib:Book>
+    <bib:Recording rdf:about="https://www.youtube.com/watch?v=2PpwEgk85xE">
+        <z:itemType>videoRecording</z:itemType>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Projektiliiketoiminta</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <dc:title>1-5 Projektin tavoitteet ja eri tavoitteiden priorisointi projektin aikana</dc:title>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=2PpwEgk85xE</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-02</dcterms:dateSubmitted>
+    </bib:Recording>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786309000787">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>28</prism:volume>
+                <dc:title>International Journal of Project Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.ijproman.2009.07.002</dc:identifier>
+                <prism:number>5</prism:number>
+                <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+                <dc:identifier>ISSN 0263-7863</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Bakker</foaf:surname>
+                        <foaf:givenName>Karel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boonstra</foaf:surname>
+                        <foaf:givenName>Albert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wortmann</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project success</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Information Technology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Managing risk</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Does risk management contribute to IT project success? A meta-analysis of empirical evidence</dc:title>
+        <dcterms:abstract>The question whether risk management contributes to IT project success is considered relevant by people from both academic and practitioners’ communities already for a long time. This paper presents a meta-analysis of the empirical evidence that either supports or opposes the claim that risk management contributes to IT project success. In addition, this paper also investigates the validity of the assumptions on which risk management is based. The analysis leads to remarkable conclusions. Over the last 10 years, much has become known about what causes IT projects to fail. However, there is still very little empirical evidence that this knowledge is actually used in projects for managing risks in IT projects. This paper concludes with indicating new directions for research in the relation between risk management and project success. Key elements are stakeholder perception of risk and success and stakeholder behaviour in the risk management process.</dcterms:abstract>
+        <dc:date>July 1, 2010</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Does risk management contribute to IT project success?</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786309000787</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:52:25</dcterms:dateSubmitted>
+        <dc:description>281 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>493-503</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1201/1078.10580530/46352.23.4.20060901/95110.4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>Information Systems Management</dc:title>
+                <dc:identifier>DOI 10.1201/1078.10580530/46352.23.4.20060901/95110.4</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 1058-0530</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kappelman</foaf:surname>
+                        <foaf:givenName>Leon A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McKeeman</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Lixuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_774"/>
+        <link:link rdf:resource="#item_775"/>
+        <dc:title>Early Warning Signs of it Project Failure: The Dominant Dozen</dc:title>
+        <dcterms:abstract>The postmortem examination of failed IT projects reveals that long before the failure there were significant symptoms or “early warning signs.” This article describes the top 12 people-related and project-related IT project risks, based on “early warning sign” data collected from a panel of 19 experts and a survey of 55 IT project managers.</dcterms:abstract>
+        <dc:date>September 1, 2006</dc:date>
+        <z:shortTitle>Early Warning Signs of it Project Failure</z:shortTitle>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1201/1078.10580530/46352.23.4.20060901/95110.4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:54:56</dcterms:dateSubmitted>
+        <dc:description>253 citations (Semantic Scholar/DOI) [2022-02-01]
+Publisher: Taylor &amp; Francis
+_eprint: https://doi.org/10.1201/1078.10580530/46352.23.4.20060901/95110.4</dc:description>
+        <bib:pages>31-36</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_774">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/pdf/10.1201/1078.10580530/46352.23.4.20060901/95110.4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:54:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_775">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.tandfonline.com/doi/abs/10.1201/1078.10580530/46352.23.4.20060901/95110.4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 09:55:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_778">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>EM-34</prism:volume>
+                <dc:title>Engineering Management, IEEE Transactions on</dc:title>
+                <dc:identifier>DOI 10.1109/TEM.1987.6498856</dc:identifier>
+                <dcterms:alternative>Engineering Management, IEEE Transactions on</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinto</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Slevin</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_779"/>
+        <link:link rdf:resource="#item_780"/>
+        <dc:title>Critical Factors in Successful Project Implementation</dc:title>
+        <dcterms:abstract>This paper describes a process used to determine critical success factors that are felt to be predictive of successful project management. Full time managers who have had experience with projects were used to generate critical success factors that they felt to be crucial to successful project implementation. Ten factors were discovered that relate well to previous theoretical formulations in the literature. In addition, these ten factors have been linked together in an interdependent quasi-sequential framework. This research has provided the basis for developing a behavioral instrument to be used as a diagnostic for assessing the status of any project as determined by the ten factor model.</dcterms:abstract>
+        <dc:date>February 1, 1987</dc:date>
+        <z:libraryCatalog>ResearchGate</z:libraryCatalog>
+        <dc:description>906 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>22-27</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_779">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Jeffrey-Pinto-2/publication/260621619_Critical_Factors_in_Successful_Project_Implementation/links/54d262bf0cf2b0c614695988/Critical-Factors-in-Successful-Project-Implementation.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:02:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_780">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ResearchGate Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/260621619_Critical_Factors_in_Successful_Project_Implementation</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:02:53</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://aisel.aisnet.org/irwitpm2007/11">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>International Research Workshop on IT Project Management 2007</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomas</foaf:surname>
+                        <foaf:givenName>Graeme</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernandez</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_782"/>
+        <dc:title>The Elusive Target of IT Project Success</dc:title>
+        <dc:date>2007-12-31</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aisel.aisnet.org/irwitpm2007/11</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_782">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>&quot;The Elusive Target of IT Project Success&quot; by Graeme Thomas and Walter Fernandez</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://aisel.aisnet.org/irwitpm2007/11/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:17:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_783">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Jyväskylä</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Jyväskylän yliopisto, matematiikan ja tilastotieteen laitos</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kärkkäinen</foaf:surname>
+                        <foaf:givenName>Salme</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Högmander</foaf:surname>
+                        <foaf:givenName>Harri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tilastomenetelmien peruskurssi TILP150</dc:title>
+        <dc:date>2008</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="http://doi.org/10.1145/3398377">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>20</prism:volume>
+                <dc:title>ACM Transactions on Computing Education</dc:title>
+                <dc:identifier>DOI 10.1145/3398377</dc:identifier>
+                <prism:number>3</prism:number>
+                <dcterms:alternative>ACM Trans. Comput. Educ.</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taipalus</foaf:surname>
+                        <foaf:givenName>Toni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seppänen</foaf:surname>
+                        <foaf:givenName>Ville</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_785"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>database</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>education</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>query language</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Structured Query Language (SQL)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>student</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>SQL Education: A Systematic Mapping Study and Future Research Agenda</dc:title>
+        <dcterms:abstract>Structured Query Language (SQL) skills are crucial in software engineering and computer science. However, teaching SQL effectively requires both pedagogical skill and considerable knowledge of the language. Educators and scholars have proposed numerous considerations for the betterment of SQL education, yet these considerations may be too numerous and scattered among different fora for educators to find and internalize, as no systematic mappings or literature reviews regarding SQL education have been conducted. The two main goals of this mapping study are to provide an overview of educational SQL research topics, research types, and publication fora, and to collect and propagate SQL teaching practices for educators to utilize. Additionally, we present a short future research agenda based on insights from the mapping process. We conducted a systematic mapping study complemented by snowballing techniques to identify applicable primary studies. We classified the primary studies according to research type and utilized directed content analysis to classify the primary studies by their topic. Out of our selected 89 primary studies, we identified six recurring topics: (i) student errors in query formulation; (ii) characteristics and presentation of the exercise database; (iii) specific and (iv) non-specific teaching approach suggestions; (v) patterns and visualization; and (vi) easing teacher workload. We list 66 teaching approaches the primary studies argued for (and in some cases against). For researchers, we provide a systematic map of educational SQL research and future research agenda. For educators, we present an aggregated body of knowledge on teaching practices in SQL education over a time frame of 30 years. In conclusion, we suggest that replication studies, studies on advanced SQL concepts, and studies on aspects other than data retrieval are needed to further educational SQL research.</dcterms:abstract>
+        <dc:date>August 7, 2020</dc:date>
+        <z:shortTitle>SQL Education</z:shortTitle>
+        <z:libraryCatalog>September 2020</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.org/10.1145/3398377</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:23:13</dcterms:dateSubmitted>
+        <dc:description>2 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>20:1–20:33</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_785">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://dl.acm.org/doi/pdf/10.1145/3398377</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:23:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://jyx.jyu.fi/handle/123456789/75891">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taivalmaa</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_787"/>
+        <link:link rdf:resource="#item_788"/>
+        <dc:title>Yksityisyysparadoksi : systemaattinen kirjallisuuskartoitus</dc:title>
+        <dcterms:abstract>Yksityisyysparadoksilla viitataan ihmisten yksityisyysasenteiden tai -huolien ja yksityisyyskäyttäytymisen väliseen ristiriitaan. Tässä systemaattisena kirjallisuuskartoituksena toteutetussa kandidaatintutkielmassa perehdyttiin yksityisyysparadoksin tutkimusmenetelmiin ja paradoksia selittäviin tekijöihin. Tutkielman tavoitteena oli selvittää, millä menetelmillä yksityisyysparadoksia on tutkittu, ja mitä selityksiä paradoksille on löydetty. Tutkielman aineistona oli 23 vertaisarvioitua tutkimusta, jotka haettiin hyödyntämällä tietokantahakuja ja lumipallo-otantamenetelmiä. Yksityisyysparadoksin tutkimuksessa on hyödynnetty runsaasti empiirisiä menetelmiä, ja aineistonkeruussa on hyödynnetty esimerkiksi kyselyitä, haastatteluja ja koemenetelmiä. Aiheesta on tehty myös kirjallisuuskatsauksia ja teoreettisia tutkimuksia. Yksityisyysparadoksille on löydetty useita selittäviä tekijöitä. Tutkielmassa luokiteltiin tutkimukset menetelmien perusteella kahteen luokkaan, joita ovat arviointitutkimukset ja filosofiset paperit. Yksityisyysparadoksia selittävät tekijät puolestaan luokiteltiin kolmeen luokkaan, joita ovat yksityisyysparadoksia suoraan selittävät tekijät, yksilön päätöksentekoprosessia selittäviin tekijät ja tutkimustapa yksityisyysparadoksia selittävänä tekijänä. Yksityisyysparadoksia on pyritty selittämään erityisesti erilaisten yksilön päätöksentekoprosessiin vaikuttavien tekijöiden kautta, ja yksilöiden käyttämien teknologioiden vaikutus yksityisyysparadoksin ilmenemiseen on jäänyt tutkimuksissa vähemmälle huomiolle. Tutkimuksissa ei myöskään ole kerätty juurikaan aineistoa ihmisten todellisesta yksityisyyskäyttäytymisestä, vaan käyttäytymistä on analysoitu ihmisten oman raportoinnin pohjalta.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>fi</z:language>
+        <z:shortTitle>Yksityisyysparadoksi</z:shortTitle>
+        <z:libraryCatalog>jyx.jyu.fi</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://jyx.jyu.fi/handle/123456789/75891</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:23:31</dcterms:dateSubmitted>
+        <dc:rights>Julkaisu on tekijänoikeussäännösten alainen. Teosta voi lukea ja tulostaa henkilökohtaista käyttöä varten. Käyttö kaupallisiin tarkoituksiin on kielletty.</dc:rights>
+        <dc:description>Accepted: 2021-05-24T09:52:50Z</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_787">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://jyx.jyu.fi/bitstream/123456789/75891/1/URN%3aNBN%3afi%3ajyu-202105243150.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:23:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_788">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://jyx.jyu.fi/handle/123456789/75891</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:23:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_791">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>John Wiley &amp; Sons (Asia) Pte Ltd., Hoboken.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchewka</foaf:surname>
+                        <foaf:givenName>Jack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Information Technology Project Management</dc:title>
+        <dc:date>2010</dc:date>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0268401205001118">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0268-4012"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>King</foaf:surname>
+                        <foaf:givenName>Stephen F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burgess</foaf:surname>
+                        <foaf:givenName>Thomas F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Critical success factors, CSFs</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Enterprise resource planning, ERP</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Enterprise systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Beyond critical success factors: A dynamic model of enterprise system innovation</dc:title>
+        <dcterms:abstract>Enterprise systems (often referred to as enterprise resource planning (ERP) systems) can help organisations manage their key resources: money, staff, products, customers and suppliers, more effectively. Like many new technologies, ERP has been accompanied by vendor hype and stories of implementation failure. Work on critical success factors (CSFs) should encourage more appropriate implementation practice; however many CSF studies conclude with a list of factors but provide little further guidance. This paper presents a new model of ERP CSFs which draws upon existing work in IS innovation and on simulation ideas in order to better understand the relationships between CSFs and to encourage exploration of more appropriate implementation strategies.</dcterms:abstract>
+        <dc:date>February 1, 2006</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Beyond critical success factors</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0268401205001118</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:50:21</dcterms:dateSubmitted>
+        <dc:description>207 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>59-69</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0268-4012">
+        <prism:volume>26</prism:volume>
+        <dc:title>International Journal of Information Management</dc:title>
+        <dc:identifier>DOI 10.1016/j.ijinfomgt.2005.10.005</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>International Journal of Information Management</dcterms:alternative>
+        <dc:identifier>ISSN 0268-4012</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0263786305000876">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>24</prism:volume>
+                <dc:title>International Journal of Project Management</dc:title>
+                <dc:identifier>DOI 10.1016/j.ijproman.2005.07.004</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>International Journal of Project Management</dcterms:alternative>
+                <dc:identifier>ISSN 0263-7863</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fortune</foaf:surname>
+                        <foaf:givenName>Joyce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>White</foaf:surname>
+                        <foaf:givenName>Diana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Critical success factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Formal system model</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Human and organisational aspects of projects</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Framing of project critical success factors by a systems model</dc:title>
+        <dcterms:abstract>Perhaps the best known approach for tackling the human and organisational aspects of projects is through the use of ‘critical success factors’ but although the approach has very many champions it is not without its critics. This paper sets out the findings of a major review of the sets of factors that are available and outlines the main reservations that have been expressed about the approach. It then shows how a systems model, the Formal Systems Model, can be used as a framing device to deliver the benefits of taking account of ‘critical success factors’ whilst at the same time avoiding the problems associated with ‘critical success factors’ that give rise to the criticisms. Two IS projects are used to demonstrate use of this framing devise. When observation began at the start of the projects they looked very similar and equally likely to succeed. In the event, one of the projects was largely successful across the whole of the range of measures normally used to judge success whilst the other exhibited most of the characteristics of failure. Analysis using the framing device is well able to demonstrate the marked differences in the ways the two projects were managed and to account for stark contrast in the levels of success achieved. The paper concludes that the Formal System Model allows the underlying benefits of ‘critical success factors’ to be secured whilst overcoming most of the problems associated with a checklist approach.</dcterms:abstract>
+        <dc:date>January 1, 2006</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0263786305000876</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:53:26</dcterms:dateSubmitted>
+        <dc:description>563 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>53-65</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0164121210001706">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Interplay between Usability Evaluation and Software Development</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <prism:volume>83</prism:volume>
+                <dc:title>Journal of Systems and Software</dc:title>
+                <dc:identifier>DOI 10.1016/j.jss.2010.06.023</dc:identifier>
+                <prism:number>11</prism:number>
+                <dcterms:alternative>Journal of Systems and Software</dcterms:alternative>
+                <dc:identifier>ISSN 0164-1212</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahonen</foaf:surname>
+                        <foaf:givenName>Jarmo J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Savolainen</foaf:surname>
+                        <foaf:givenName>Paula</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_796"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Customer</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Project failure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Supplier</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Post-mortem analysis</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Project cancellation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Software engineering projects may fail before they are started: Post-mortem analysis of five cancelled projects</dc:title>
+        <dcterms:abstract>Context
+Software project cancellations are often caused by mistakes made during the project, and such cancellations make a strong economic impact. We analyzed five cancelled software engineering projects. One case was an internal product development project of a company that sells products to its customers. The other four cases were different software engineering projects, and outcomes of these projects were planned to be delivered to external customers.
+Objective
+This study reports a post-mortem analysis of five software engineering projects with the aim of providing more knowledge about the reasons for cancellation decisions and the causes behind those reasons.
+Methods
+The research method is case study. A method for a document-based post-mortem analysis was developed and post-mortem analysis was performed. All project documentation was available for analysis.
+Results
+The reasons for the cancellation decisions were well-known ones. In four cases of five, the outcome of the project was to be delivered to an external customer, but in these cases the causes of the cancellation reasons were not found from the normal project documentation. In these cases the cause of the cancellation originated in a phase before the start of the project and therefore the project was doomed before it was started.
+Conclusion
+It is reasonable to suggest that a remarkable portion of project cancellations are due to mistakes made before the project is started in the case of contract-based software engineering projects.</dcterms:abstract>
+        <dc:date>November 1, 2010</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Software engineering projects may fail before they are started</z:shortTitle>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0164121210001706</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:56:23</dcterms:dateSubmitted>
+        <dc:description>45 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>2175-2187</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_796">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ulir.ul.ie/bitstream/10344/659/2/2010-Ahonen-Software.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:56:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0167923607000280">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0167-9236"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ke</foaf:surname>
+                        <foaf:givenName>Weiling</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Kwok Kee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_798"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>ERP implementation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Leadership</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Organizational culture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Organizational culture and leadership in ERP implementation</dc:title>
+        <dcterms:abstract>This paper theorizes how leadership affects ERP implementation by fostering the desired organizational culture. We contend that ERP implementation success is positively related with organizational culture along the dimensions of learning and development, participative decision making, power sharing, support and collaboration, and tolerance for risk and conflicts. In addition, we identify the strategic and tactical actions that the top management can take to influence organizational culture and foster a culture conducive to ERP implementation. The theoretical contributions and managerial implications of this study are discussed.</dcterms:abstract>
+        <dc:date>May 1, 2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0167923607000280</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:58:23</dcterms:dateSubmitted>
+        <dc:description>359 citations (Semantic Scholar/DOI) [2022-02-01]</dc:description>
+        <bib:pages>208-218</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0167-9236">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>I.T. and Value Creation</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>45</prism:volume>
+        <dc:title>Decision Support Systems</dc:title>
+        <dc:identifier>DOI 10.1016/j.dss.2007.02.002</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Decision Support Systems</dcterms:alternative>
+        <dc:identifier>ISSN 0167-9236</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_798">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1147&amp;context=pacis2005</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 10:58:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com/doi/abs/10.1002/sys.20089">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1520-6858"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vanek</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grzybowski</foaf:surname>
+                        <foaf:givenName>Richard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_800"/>
+        <link:link rdf:resource="#item_801"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>best practices</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>commercial product development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>new product development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>quality management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>R&amp;D management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>six sigma</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>systems engineering metric</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Systems engineering metrics and applications in product development: A critical literature review and agenda for further research</dc:title>
+        <dcterms:abstract>The military/aerospace industries have several decades of experience in the application of systems engineering. In the world of complex systems developed under contract, systems engineering has a well-articulated, generally accepted, client-mandated methodology. This is not the case currently in most commercially oriented research and development organizations. Unlike the military/aerospace environment, it is not widely accepted that systems engineering can or will deliver value within commercial enterprises. This said, it is possible that a systems engineering-like methodology may be routinely employed but not so stated, or is recognized under a different label. This seems likely since complex products continue to be successfully developed and commercialized via the use of methods that are closely related to systems engineering. The purpose of this paper is to establish the groundwork for measuring the effectiveness of the systems engineering methodology, and closely associated analogs, as part of the product development process in a commercial research and development organization. In this paper, we review the literature in systems engineering and related fields to identify measurement issues and methodologies, specific metrics proposed and in use, and case studies and best practices. We also identify gaps in the literature and propose the next steps in a research agenda. © 2008 Wiley Periodicals, Inc. Syst Eng</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Systems engineering metrics and applications in product development</z:shortTitle>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/abs/10.1002/sys.20089</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 11:00:29</dcterms:dateSubmitted>
+        <dc:description>7 citations (Semantic Scholar/DOI) [2022-02-01]
+_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/sys.20089</dc:description>
+        <bib:pages>107-124</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1520-6858">
+        <prism:volume>11</prism:volume>
+        <dc:title>Systems Engineering</dc:title>
+        <dc:identifier>DOI 10.1002/sys.20089</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1520-6858</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_800">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sys.20089</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 11:00:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_801">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com/doi/abs/10.1002/sys.20089</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-02-01 11:00:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
