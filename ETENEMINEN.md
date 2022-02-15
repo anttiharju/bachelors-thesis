@@ -1,5 +1,132 @@
 # Eteneminen
 
+## Tiistaina 15.2.2022
+- Ohjaaja lähetti täyden palautteen sähköpostilla
+    - Myös opponoijalta on palautetta
+        - Puran nämä molemmat alle. Korjaan mitä pystyn ja lähetän tarkistukseen. Yleisesti ottaen tutkikielma oli ilmeisesti ihan hyvä.
+    - "keltaiset (maalaukset) tökkii: epäselviä virkkeitä, puuttuvia sanoja"
+    - "turkoosilla toisto"
+    - Kehitettävää per seminaaripalaute (kehujakin tuli, mutteivat tässä olennaisia):
+        - Motivointia tieteen näkökulmasta voisi lisätä / kirkastaa ts. mikä tieteessä/kentällä sai valitsemaan aiheen, miksi se on tieteen näkökulmasta tärkeä.
+        - Kirjoittajan ääni saa kuulua, mutta tapa/paikka hyvä miettiä (henkilökohtaisen näkökulman käyttäminen)
+            - Tää ei aukea mulle. Mielestäni pyrin minimoimaan henkilökohtaisen näkökulman.
+        - Hyvin rajattu, mutta joissain kohdissa voisi kääntää toisin päin, mitä tämä tutkielma on (vs. mitä se ei ole)
+        - Lukujen järjestystä/esitystapaa voisi vielä pohtia, aineistoon viittaminen ennen sen esittelyä hieman hämää lukijaa
+            - Aikaisemmassa palautteessa pyydettiin siirtämään menetelmäluku vasta 1. sisältöluvun jälkeen. Tilanteen voisi korjata poistamalla aineistoviittaukset, mutta koska koko tutkielma nojaa vahvasti aineistoon, siirrän menetelmäluvun olemaan heti johdantojen jälkeen.
+        - Yleisesti: kandin arvosteluperusteet (katsoin, motivointi ehkä estää tällä hetkellä kolmosen saantia. Osittain ehkä yltäisin neloseenkin)
+        - Raportointiohjeesta löytyy paljon hyvää tekstiä. Pitänee katsoa
+        - Kerro esitarkistusta pyydettäessä mitä olet muuttanut
+            - Kokeilen jos wordissa saisi jonkun vertailutilan.
+
+- Kehitettävää per opponointi (Inna, jälleen kehujakin tuli, mutta keskityn vain kehitysehdotuksiin tässä tiedostossa)
+    - Otsikko ei heti auennut yleistettävyyden rajoitusten osalta
+    - Tutkimusmenetelmä-luku hassussa paikkaa
+        - Siirrän olemaan ennen sisältölukuja.
+    - Kaipaa määritelmää yleistettävyyden rajoituksille
+    - Ensimmäisistä viittauksista puuttuu usein kaikkien kirjoittajien nimet. Nimet tulisi luetella tiettyyn lähteeseen ensimmäistä kertaa vitattaessa, kun kirjoittajia on vähemmän kuin kuusi (raportointiohje)
+        - Tarkistan raportointiohjeesta ja korjaan.
+    - Käsitteistön suhdetta aiheeseen olisi ehkä voinut hieman avata, jotta lukijalla olisi selkeämpi käsitys aiheesta jo pelkän tiivistelmän perusteella.
+    - Tiivistelmässä kuvataan menetelmää melko runsaasti.
+    - Kuvio 2 ei auennut Innalle täysin (viitteet).
+        - Koitan säätää sen asettelua, mutta ilmeisesti kuvio aukesi ohjaajalle joten en sen suurempia muutoksia tee.
+
+- Kehitettävää per ohjaajan palaute (Saana Mehtälä)
+    - Tiivistelmä
+        - ks. sisältö raportointiohjeesta
+            - mielestäni katsoin
+        - Tutkielman kuvailu jää vähän taustoituksen jalkoihin
+        - Menetelmäpohdinta sopii ehkä paremmin menetlemälukuun, tässä vie aika paljon tilaa.
+            - korjaan
+        - (toistoa) "tutkielmassa tutkittiin"
+        - (tökkii) "sillä näin artikkelivalinnat täytyy perustella"
+        - (tökkii) "sille tyypillisiä lähtökohtia"
+    - Abstract
+        - Varmaan pitkälti samat kuin yllä pätee
+        - (toistoa) "of those success factors"
+    - 1 Johdanto
+        - ks. vielä johdannon sisältö raportointiohjeesta
+            - mielestäni katsoin
+        - (suora) "osana alempaa ..."
+        - Onko Chaos Report -raporttien" turhan toisteinen? Viittaa esim. kaaosraporttina, mutta ensimmäisessä viittauksessa englanninkielinen mukana
+        - kirjoita auki: "on tutkimuksen tausta"
+        - (suora) poista: Taustoituslinjalla jatkaen
+        - "Esimerkiksi aineistossa paljon viitattu"
+            - Tätkin muotoilua voisi miettiä, lukija ei ole perehtynyt tässä kohtaa aineistoon
+        - \[lista projektin määritelmästä]
+            - Loppuun lähdeviite
+        - (tökkii) "Tämän tutkielman tutkimuksen tarkoitus on tarkastella
+        - "Koska esimerkiksi \[...]
+            - Tämän voisi muotoilla paremmin sen kautta mitä puhuttiin, eli aihetta tutkittu paljon vii-me vuosina (listat yms.). Tämä näkyy tuossa alempana, mutta tämä alkuosa antaa ymmärtää, että ei tutkittu vain koska joku on jo tutkinut 
+        - "Koska tutkimuksen rajaus \[...]"
+            - voisi muotoilla toisin, esim. kanditutkielman luonteen kautta. Voisi tuoda myös tieteen näkökulmaa esiin
+    - 2 Tutkimusmenetelmä
+        - "Rajaus esimerkiksi vain tasoon 2 tai 3 ei ole mielekästä, sillä kyseiset tasot ovat kiintiöityjä."
+            - Korvausehdotus: "Tässä tutkielmassa rajausta tasoihin 2 tai 3 ei nähty mielekkäänä..."
+        - (tökkii) "Julkaisufoorumissa jakaa"
+        - (tökkii) "Lisäksi koska"
+        - "joiden perusteella julkaisuja on rajattu pois"
+            - tätä voisi esim. yhdellä lauseella vähän avata, että millä perusteella rajaukset tehtiin
+        - (taulukko 3 kaksi viimeistä riviä) voisiko nämä niputtaa samaan?
+            - Voi, mutta en nähnyt tarpeelliseksi. Niputan samaan.
+        - (Ctrl+F menetelmä) en ehkä käyttäisi termiä menetelmä, ja ehkä ctrl+f sijaan voisi käyttää 'hakutoiminnolla' -sanaa
+        - "Aineisto oli siis suhteellisen tuoretta tutkimusta."
+            - "Kokonaisuutena aineisto painottuukin suhteellisen tuoreeseen tutkimukseen" tms.    
+    - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
+        - (tökkii) "Vaikka projektin alussa tapahtuvan \[...]"
+        - (tökkii) "ja suunnittelua"
+        - (tökkii) "on pidetty projektin lopputuloksiin vaikuttavia"
+        - (puuttuva sana) "Savolaisen ym. (2012) \[ja] de Bakker ym. (2010)"
+            - (tökkii) tutkimuksen avulla
+        - (puuttuva sana) "tutkimukseen \[on] hyvin epävarmaa"
+        - Onko metateksti viimeisessä kappaleessa tarpeen?
+    - 4	Menestystekijöiden yleistettävyyden rajoitukset
+        - Heti otsikosta: "menestystekijät ja niiden yleistettävyyden rajoitukset?"
+            - Kyllä
+        - "Ensimmäisen kuuden tutkimusartikkelin, eli ei muusta kirjallisuudesta laajasti koostettujen listojen pohjalta koostettiin 72 menestystekijän lista, joka on luettavissa liitteessä 2."
+            - Tätä muotoilua voisi selkeyttää - eli siis tutkijoiden omiin (empiirisiin) tutkimuksiin perustuvat listaukset?
+        - "Herääkin \[...]"
+            - Eli siis löytyikö tuo listaus ilman pääsyä alkuperäiseen tutkimukseen?
+                - Kyllä
+            - Mietin, että jos alkuperäiseen ei ole pääsyä, niin ehkä voisi jättää tämänkin lauseen pois (lukija voi vetää omat johtopäätöksensä päällekkäisyydestä)
+                - Ei. Löysin Googlesta uudemman painoksen pdfn (mutta siihen ei ole ehkä suotavaa viitata), josta asian voi tarkistaa.
+                - Haluan painottaa listauksen epätäydellisyyttä / esimerkinomaisuutta.
+        - "Epävarmasti tulkitut menestystekijät poistettiin listasta"
+            - Millaista menestystekijää pidettiin epävarmasti tulkittavana? Ts. mitä tässä vaiheessa käytännössä tehtiin?
+        - (suora) Voisi lieventää, että on päällekkäisyyttä
+            - Kyllä
+        - "Tässä taas mietin missä määrin tällä kannattaa spekuloida, jos ei päästä alkup. lähteeseen käsiksi"
+            - Haluan painottaa listauksen epätäydellisyyttä / esimerkinomaisuutta.
+        - (toistoa) saattaa \[...] saattavat
+        - "tiukkana" -> huolellinen/perusteellinen?
+        - (suora) poista: "Kirjoittaja on samaa mieltä edellä esitetyn lainauksen kanssa."
+        - (suora) poista: "Aineiston lukuprosessin aikana tehtiin muistinpanot menestystekijöiden yleistettävyyden rajoituksia käsitelleistä ajatuksista. Ne käydään seuraavissa kappaleissa läpi."
+        - "yleistyvyyttä" -> yleistettävyyttä
+        - (toistoa) "kriittisten \[...] kritisoitu \[...] kritiikki"
+            - saisiko tämän lauseen muotoiltua ilman kaksoispistettä?
+        - "datan ymmärtämistä" lähdeviite myös tänne loppuun
+        - (suora) poista: "Tämän tutkielman kirjoittaja uskoo lainauksen logiikan pätevän myös menestystekijöihin."
+            - korvaa: "Samantyyppistä ajatusketjua voiyaisiin kenyies hyödyntää myös menestystekijöiden kohdalla" tms.
+        - käsiteltiin (lisäys: ohjelmistoprojektien) menestystekijöitä
+        - (suora) poista: Pohjustuksena näille alussa käytiin läpi 
+            - korvaa: "Näitä pohjustettiin käymällä läpi" tms.
+        - "sillä tämän tutkielman aihe syntyi aiheenvaihdon seurauksena."
+            - Tämä on henkilökohtainen näkökulma suhteessa kandiprosessiin, voisi ottaa pois. Miksi tieteen kannalta kokonaiskuva on tärkeä?
+                - A: Aikaisempi palaute aukesi tämän avulla
+        - "Tutkielma siis pyrki tarjoamaan muille tutkijoille mielekkäitä tapoja rajata omaa menestystekijöiden tutkimustaan ennen varsinaisen tutkimustyön aloittamista."
+            - Tämän voisi muotoilla eri tavalla jatkotutkimusaiheeksi?
+        - "Tutkimuksen tavoitteiden saavuttamisessa koetaan onnistuneen vähintäänkin tyydyttävästi."
+            - Tämäkin lause jää ehkä vähän geneeriselle tasolle, voisi varmaan jättää pois
+        - "Edellisen aiheen parissa oli koettu ongelmia olennaisten artikkeleiden löytä-misessä, joten tässä tutkielmassa käytetty hakukysely oli vastareaktiona rajattu ehkä turhankin tiukasti."
+            - Tämä taas henkilökohtaista näkökulmaa. Ehkä voisi muotoilla menetelmälukuun jotenkin hakuprosessin/aiheen/lähdekirjallisuuden luonteen näkökulmasta (vrt. nykyisellään näkökul-mana hlökohtainen kandiprosessi)
+        - (suora) poista: "Tutkielman rajoitteita on jo sivuttu."
+        - "ja lähinnä vain kuvailee sitä ilman suuria omia kontribuutioita"
+            - eikös tämä ole itsessään kontribuutio? :)
+        - (tökkii + kommentti) "Tätä rajoitti aikataulupaineet ja aineiston saatavuus, esimerkiksi Marchewkan (2010) kirja oli saatavana vain fyysisenä kaukolainana. Lisäksi alkuperäisen aineiston keruuseen ja lukemiseen olisi voinut käyttää enemmän aikaa. "
+            - "Tässä taas vahvasti läsnä hlökohtainen näkökulma, voisi jättää pois tai muotoilla lähde-kirjallisuuden saatavuuden ('paikoittain lähdeaineiston saatavuudessa oli rajoitteita') ja kanditutkielman luonteen kautta"
+        - "yrittää muodostaa listaa"
+            - "tämä ei itsessään ehkä hyvä tavoite - muotoile toisin (jos lopputuloksena muodostetaan lis-ta joistain asioista, mikä tutkimuksen tavoite voi olla?)"
+        - tiukasti -> tarkasti
+
 ## Raaka arvio tutkielman valmistumisesta
 - Sunnuntaina   23.01.22 1549/5000 sanaa eli 31 %
 - Maanantaina   24.01.22 2291/5000 sanaa eli 46 %
@@ -13,22 +140,6 @@
 - Tiistaina     01.02.22 5176/5000 sanaa (Zoteron jälkeen) eli yli 100 % :) VIIMEISTELYÄ
 
 Tavoite: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, tekstin sujuvoittamiseen, raportointohjeiden täytäntöönpanoon sekä tarkisteluun.
-
-## TODO / Ohjaajan palaute tulkittuna
-- Kirjoita johdanto uudestaan raportointiohjeen avulla
-    - "Motivaatio muotoillaan yleensä aiheen näkökulmasta (miksi tätä aihetta on tärkeä tutkia, ei miksi juuri minä olen kiinnostunut tutkimaan aihetta)"
-    - Tarkenna, miksi "tutkimusten tuloksia ei voida pitää tieteellisinä".
-    - Harkitse PMBOK lainauksen lyhentämistä "Tämä lainaus on aika pitkä. Voi olla hyödyllinenkin, mutta kannattaa miettiä, onko kaikki osat tarpeellisia (voisiko viitata tekstin puolella?"
-- Korjaa epäjohdonmukaisuudet menetelmäluvussa
-    - Menetelmäluvun johdanto metatekstiksi "Tässä alkuosassa olisi hyvä olla metatekstiä luvun sisältöön liittyen "Tässä luvussa käsitellään...""
-    - \[taulukko: Syyt julkaisujen karsiutumiselle hakuvaiheessa]
-        - "Eikös näitä pitäisi muuten olla 48 (108-60)?" Taulukosta laskemalla saa 47.
-        - Onko frekvenssi kuvaavin termi? Mun mielestä on, mutta tähän ehkä pitää etsiä vaihtoehtoja.
-    - Tutki menetelmäkirjallisuutta: "snowball sampling kannattaa terminä mainita jossain, tässä voisi viitata myös johonkin menetelmäkirjallisuuteen"
-    - Harkitse taulukon "eri jaottelujen esiintymisvuodet aineistoartikkeleissa" upottamista tekstiin. Mielestäni kyllä tehokas tapa.
-- Korjaa lähteviittaukset raportointiohjeen mukaisiksi
-    - "Puolipiste lähteiden välissä"
-    - Aivan liian aikaista murehtia tästä. Tarvitaan joku teksti, jota voi iteroida. Don't let perfect be the enemy of good jne.
 
 ## Keskiviikkona 26.01.2022
 - Ohjaaja lähetti palautteen. Siinä esitetyt kommentit käydään tässä yksi kerrallaan läpi (toki kontekstia jää uupumaan tästä tiedostosta)
