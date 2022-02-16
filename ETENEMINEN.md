@@ -31,14 +31,10 @@
         - ks. sisältö raportointiohjeesta
             - mielestäni katsoin
         - Tutkielman kuvailu jää vähän taustoituksen jalkoihin
-        - Menetelmäpohdinta sopii ehkä paremmin menetlemälukuun, tässä vie aika paljon tilaa.
+        - Menetelmäpohdinta sopii ehkä paremmin menetelmälukuun, tässä vie aika paljon tilaa.
             - korjaan
-        - (toistoa) "tutkielmassa tutkittiin"
-        - (tökkii) "sillä näin artikkelivalinnat täytyy perustella"
-        - (tökkii) "sille tyypillisiä lähtökohtia"
     - Abstract
         - Varmaan pitkälti samat kuin yllä pätee
-        - (toistoa) "of those success factors"
     - 1 Johdanto
         - ks. vielä johdannon sisältö raportointiohjeesta
             - mielestäni katsoin
