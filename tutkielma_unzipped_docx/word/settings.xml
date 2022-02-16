@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
-<w:zoom w:percent="102"/>
+<w:zoom w:percent="105"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
 <w:proofState w:spelling="clean" w:grammar="clean"/>
@@ -13,7 +13,7 @@
 <w:displayHorizontalDrawingGridEvery w:val="2"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
 <w:hdrShapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2177"/>
+<o:shapedefaults v:ext="edit" spidmax="2199"/>
 </w:hdrShapeDefaults>
 <w:footnotePr>
 <w:footnote w:id="-1"/>
@@ -726,6 +726,7 @@
 <w:rsid w:val="00347F4A"/>
 <w:rsid w:val="00347F5F"/>
 <w:rsid w:val="003500F2"/>
+<w:rsid w:val="00350120"/>
 <w:rsid w:val="00350721"/>
 <w:rsid w:val="00350DE7"/>
 <w:rsid w:val="00350FA2"/>
@@ -1965,6 +1966,7 @@
 <w:rsid w:val="009B5F26"/>
 <w:rsid w:val="009C097A"/>
 <w:rsid w:val="009C10C1"/>
+<w:rsid w:val="009C1B1C"/>
 <w:rsid w:val="009C2CB1"/>
 <w:rsid w:val="009C2DFE"/>
 <w:rsid w:val="009C2FF0"/>
@@ -3215,50 +3217,32 @@
 <w:themeFontLang w:val="fi-FI"/>
 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
 <w:shapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2177"/>
+<o:shapedefaults v:ext="edit" spidmax="2199"/>
 <o:shapelayout v:ext="edit">
 <o:idmap v:ext="edit" data="2"/>
 <o:rules v:ext="edit">
-<o:r id="V:Rule1" type="connector" idref="#Straight Arrow Connector 11">
-<o:proxy start="" idref="#Rectangle 2" connectloc="3"/>
-<o:proxy end="" idref="#Rectangle 3" connectloc="1"/>
-</o:r>
-<o:r id="V:Rule2" type="connector" idref="#Straight Arrow Connector 12">
-<o:proxy start="" idref="#Rectangle 3" connectloc="3"/>
-<o:proxy end="" idref="#Rectangle 4" connectloc="1"/>
-</o:r>
-<o:r id="V:Rule3" type="connector" idref="#Straight Arrow Connector 13">
-<o:proxy start="" idref="#Rectangle 4" connectloc="2"/>
-<o:proxy end="" idref="#Rectangle 5" connectloc="0"/>
-</o:r>
-<o:r id="V:Rule4" type="connector" idref="#Straight Arrow Connector 14">
-<o:proxy start="" idref="#Rectangle 5" connectloc="1"/>
-<o:proxy end="" idref="#Rectangle 6" connectloc="3"/>
-</o:r>
-<o:r id="V:Rule5" type="connector" idref="#Straight Arrow Connector 15">
-<o:proxy start="" idref="#Rectangle 6" connectloc="1"/>
-<o:proxy end="" idref="#Rectangle 7" connectloc="3"/>
-</o:r>
-<o:r id="V:Rule6" type="connector" idref="#Straight Arrow Connector 16">
-<o:proxy start="" idref="#Rectangle 7" connectloc="2"/>
-<o:proxy end="" idref="#Rectangle 8" connectloc="0"/>
-</o:r>
-<o:r id="V:Rule7" type="connector" idref="#Straight Arrow Connector 17">
-<o:proxy start="" idref="#Rectangle 8" connectloc="3"/>
-<o:proxy end="" idref="#Rectangle 9" connectloc="1"/>
-</o:r>
-<o:r id="V:Rule8" type="connector" idref="#Straight Arrow Connector 18">
-<o:proxy start="" idref="#Rectangle 9" connectloc="3"/>
-<o:proxy end="" idref="#Rectangle 10" connectloc="1"/>
-</o:r>
-<o:r id="V:Rule9" type="connector" idref="#Straight Arrow Connector 11">
-<o:proxy start="" idref="#Rectangle 3" connectloc="2"/>
-<o:proxy end="" idref="#Rectangle 5" connectloc="0"/>
-</o:r>
-<o:r id="V:Rule10" type="connector" idref="#Straight Arrow Connector 12">
+<o:r id="V:Rule9" type="connector" idref="#Straight Arrow Connector 11"/>
+<o:r id="V:Rule10" type="connector" idref="#Straight Arrow Connector 12"/>
+<o:r id="V:Rule18" type="connector" idref="#Straight Arrow Connector 13"/>
+<o:r id="V:Rule20" type="connector" idref="#Straight Arrow Connector 12">
 <o:proxy start="" idref="#Rectangle 4" connectloc="2"/>
 <o:proxy end="" idref="#Rectangle 6" connectloc="0"/>
 </o:r>
+<o:r id="V:Rule23" type="connector" idref="#Straight Arrow Connector 11"/>
+<o:r id="V:Rule24" type="connector" idref="#Straight Arrow Connector 18">
+<o:proxy start="" idref="#Rectangle 9" connectloc="3"/>
+<o:proxy end="" idref="#Rectangle 10" connectloc="1"/>
+</o:r>
+<o:r id="V:Rule25" type="connector" idref="#Straight Arrow Connector 17"/>
+<o:r id="V:Rule26" type="connector" idref="#Straight Arrow Connector 15">
+<o:proxy start="" idref="#Rectangle 6" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 7" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule27" type="connector" idref="#Straight Arrow Connector 14">
+<o:proxy start="" idref="#Rectangle 5" connectloc="1"/>
+<o:proxy end="" idref="#Rectangle 6" connectloc="3"/>
+</o:r>
+<o:r id="V:Rule28" type="connector" idref="#Straight Arrow Connector 16"/>
 </o:rules>
 </o:shapelayout>
 </w:shapeDefaults>
