@@ -702,10 +702,10 @@
 </sheetData>
 <phoneticPr fontId="2" type="noConversion"/>
 <conditionalFormatting sqref="B2:B86 B94:B95 B92">
-<cfRule type="duplicateValues" dxfId="6" priority="4"/>
+<cfRule type="duplicateValues" dxfId="14" priority="4"/>
 </conditionalFormatting>
 <conditionalFormatting sqref="B58:B76">
-<cfRule type="duplicateValues" dxfId="5" priority="9"/>
+<cfRule type="duplicateValues" dxfId="13" priority="9"/>
 </conditionalFormatting>
 <pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
 </worksheet>
