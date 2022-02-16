@@ -19,22 +19,12 @@
             - Kokeilen jos wordissa saisi jonkun vertailutilan.
 
 - Kehitettävää per opponointi (Inna, jälleen kehujakin tuli, mutta keskityn vain kehitysehdotuksiin tässä tiedostossa)
-    - Otsikko ei heti auennut yleistettävyyden rajoitusten osalta
-    - Kaipaa määritelmää yleistettävyyden rajoituksille
     - Ensimmäisistä viittauksista puuttuu usein kaikkien kirjoittajien nimet. Nimet tulisi luetella tiettyyn lähteeseen ensimmäistä kertaa vitattaessa, kun kirjoittajia on vähemmän kuin kuusi (raportointiohje)
         - Tarkistan raportointiohjeesta ja korjaan.
-    - Käsitteistön suhdetta aiheeseen olisi ehkä voinut hieman avata, jotta lukijalla olisi selkeämpi käsitys aiheesta jo pelkän tiivistelmän perusteella.
-    - Tiivistelmässä kuvataan menetelmää melko runsaasti.
 
 - Kehitettävää per ohjaajan palaute (Saana Mehtälä)
     - Tiivistelmä
-        - ks. sisältö raportointiohjeesta
-            - mielestäni katsoin
-        - Tutkielman kuvailu jää vähän taustoituksen jalkoihin
-        - Menetelmäpohdinta sopii ehkä paremmin menetelmälukuun, tässä vie aika paljon tilaa.
-            - korjaan
     - Abstract
-        - Varmaan pitkälti samat kuin yllä pätee
     - 1 Johdanto
     - 2 Tutkimusmenetelmä
     - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
