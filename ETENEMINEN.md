@@ -53,8 +53,6 @@
         - (tökkii) "Savolaisen ym. (2012) \[ja] de Bakker ym. (2010)"
             - (tökkii) tutkimuksen avulla
     - 4	Menestystekijöiden yleistettävyyden rajoitukset
-        - Heti otsikosta: "menestystekijät ja niiden yleistettävyyden rajoitukset?"
-            - Kyllä
         - "Ensimmäisen kuuden tutkimusartikkelin, eli ei muusta kirjallisuudesta laajasti koostettujen listojen pohjalta koostettiin 72 menestystekijän lista, joka on luettavissa liitteessä 2."
             - Tätä muotoilua voisi selkeyttää - eli siis tutkijoiden omiin (empiirisiin) tutkimuksiin perustuvat listaukset?
         - "Herääkin \[...]"
@@ -69,20 +67,10 @@
             - Kyllä
         - "Tässä taas mietin missä määrin tällä kannattaa spekuloida, jos ei päästä alkup. lähteeseen käsiksi"
             - Haluan painottaa listauksen epätäydellisyyttä / esimerkinomaisuutta.
-        - (toistoa) saattaa \[...] saattavat
-        - "tiukkana" -> huolellinen/perusteellinen?
-        - (suora) poista: "Kirjoittaja on samaa mieltä edellä esitetyn lainauksen kanssa."
-        - (suora) poista: "Aineiston lukuprosessin aikana tehtiin muistinpanot menestystekijöiden yleistettävyyden rajoituksia käsitelleistä ajatuksista. Ne käydään seuraavissa kappaleissa läpi."
-        - "yleistyvyyttä" -> yleistettävyyttä
         - (toistoa) "kriittisten \[...] kritisoitu \[...] kritiikki"
             - saisiko tämän lauseen muotoiltua ilman kaksoispistettä?
-        - "datan ymmärtämistä" lähdeviite myös tänne loppuun
-        - (suora) poista: "Tämän tutkielman kirjoittaja uskoo lainauksen logiikan pätevän myös menestystekijöihin."
-            - korvaa: "Samantyyppistä ajatusketjua voiyaisiin kenyies hyödyntää myös menestystekijöiden kohdalla" tms.
+            - A: ei tässä ole turhaa toistoa.
     - 5 Yhteenveto
-        - käsiteltiin (lisäys: ohjelmistoprojektien) menestystekijöitä
-        - (suora) poista: Pohjustuksena näille alussa käytiin läpi 
-            - korvaa: "Näitä pohjustettiin käymällä läpi" tms.
         - "sillä tämän tutkielman aihe syntyi aiheenvaihdon seurauksena."
             - Tämä on henkilökohtainen näkökulma suhteessa kandiprosessiin, voisi ottaa pois. Miksi tieteen kannalta kokonaiskuva on tärkeä?
                 - A: Aikaisempi palaute aukesi tämän avulla
@@ -92,14 +80,12 @@
             - Tämäkin lause jää ehkä vähän geneeriselle tasolle, voisi varmaan jättää pois
         - "Edellisen aiheen parissa oli koettu ongelmia olennaisten artikkeleiden löytä-misessä, joten tässä tutkielmassa käytetty hakukysely oli vastareaktiona rajattu ehkä turhankin tiukasti."
             - Tämä taas henkilökohtaista näkökulmaa. Ehkä voisi muotoilla menetelmälukuun jotenkin hakuprosessin/aiheen/lähdekirjallisuuden luonteen näkökulmasta (vrt. nykyisellään näkökul-mana hlökohtainen kandiprosessi)
-        - (suora) poista: "Tutkielman rajoitteita on jo sivuttu."
         - "ja lähinnä vain kuvailee sitä ilman suuria omia kontribuutioita"
             - eikös tämä ole itsessään kontribuutio? :)
         - (tökkii + kommentti) "Tätä rajoitti aikataulupaineet ja aineiston saatavuus, esimerkiksi Marchewkan (2010) kirja oli saatavana vain fyysisenä kaukolainana. Lisäksi alkuperäisen aineiston keruuseen ja lukemiseen olisi voinut käyttää enemmän aikaa. "
             - "Tässä taas vahvasti läsnä hlökohtainen näkökulma, voisi jättää pois tai muotoilla lähde-kirjallisuuden saatavuuden ('paikoittain lähdeaineiston saatavuudessa oli rajoitteita') ja kanditutkielman luonteen kautta"
         - "yrittää muodostaa listaa"
             - "tämä ei itsessään ehkä hyvä tavoite - muotoile toisin (jos lopputuloksena muodostetaan lis-ta joistain asioista, mikä tutkimuksen tavoite voi olla?)"
-        - tiukasti -> tarkasti
 
 ## Raaka arvio tutkielman valmistumisesta
 - Sunnuntaina   23.01.22 1549/5000 sanaa eli 31 %
