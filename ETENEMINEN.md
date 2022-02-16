@@ -37,8 +37,6 @@
         - Varmaan pitkälti samat kuin yllä pätee
     - 1 Johdanto
     - 2 Tutkimusmenetelmä
-        - "joiden perusteella julkaisuja on rajattu pois"
-            - tätä voisi esim. yhdellä lauseella vähän avata, että millä perusteella rajaukset tehtiin
     - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
         - (tökkii) "Vaikka projektin alussa tapahtuvan \[...]"
         - (tökkii) "Savolaisen ym. (2012) \[ja] de Bakker ym. (2010)"
