@@ -3,6 +3,7 @@
 <w:zoom w:percent="95"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
+<w:proofState w:spelling="clean"/>
 <w:stylePaneSortMethod w:val="0000"/>
 <w:doNotTrackMoves/>
 <w:defaultTabStop w:val="1304"/>
@@ -207,6 +208,7 @@
 <w:rsid w:val="000B662C"/>
 <w:rsid w:val="000B775E"/>
 <w:rsid w:val="000B7E8E"/>
+<w:rsid w:val="000C00BB"/>
 <w:rsid w:val="000C11FC"/>
 <w:rsid w:val="000C135C"/>
 <w:rsid w:val="000C1D8F"/>
@@ -274,6 +276,7 @@
 <w:rsid w:val="00115D61"/>
 <w:rsid w:val="00116332"/>
 <w:rsid w:val="00117376"/>
+<w:rsid w:val="00117644"/>
 <w:rsid w:val="00120B3E"/>
 <w:rsid w:val="00121EB5"/>
 <w:rsid w:val="0012271E"/>
@@ -321,6 +324,7 @@
 <w:rsid w:val="00145BF3"/>
 <w:rsid w:val="00146BD0"/>
 <w:rsid w:val="00150087"/>
+<w:rsid w:val="00150865"/>
 <w:rsid w:val="00150BE9"/>
 <w:rsid w:val="00150F9C"/>
 <w:rsid w:val="00151E90"/>
@@ -697,6 +701,7 @@
 <w:rsid w:val="00314ED8"/>
 <w:rsid w:val="0031557C"/>
 <w:rsid w:val="00315FB0"/>
+<w:rsid w:val="00316121"/>
 <w:rsid w:val="00316BFA"/>
 <w:rsid w:val="00316E05"/>
 <w:rsid w:val="003213A7"/>
@@ -744,6 +749,7 @@
 <w:rsid w:val="003519A4"/>
 <w:rsid w:val="003519CB"/>
 <w:rsid w:val="003528EE"/>
+<w:rsid w:val="0035358B"/>
 <w:rsid w:val="00353B43"/>
 <w:rsid w:val="003560EB"/>
 <w:rsid w:val="00356411"/>
@@ -753,6 +759,7 @@
 <w:rsid w:val="00362F00"/>
 <w:rsid w:val="0036302B"/>
 <w:rsid w:val="003633F3"/>
+<w:rsid w:val="0036375F"/>
 <w:rsid w:val="00363F6B"/>
 <w:rsid w:val="00364BC6"/>
 <w:rsid w:val="00365D3E"/>
@@ -771,6 +778,7 @@
 <w:rsid w:val="00376D37"/>
 <w:rsid w:val="003777B7"/>
 <w:rsid w:val="00380264"/>
+<w:rsid w:val="00380639"/>
 <w:rsid w:val="0038083D"/>
 <w:rsid w:val="003815B2"/>
 <w:rsid w:val="00382995"/>
@@ -954,8 +962,10 @@
 <w:rsid w:val="00465502"/>
 <w:rsid w:val="00465653"/>
 <w:rsid w:val="0046579E"/>
+<w:rsid w:val="00465D87"/>
 <w:rsid w:val="00465EDD"/>
 <w:rsid w:val="00466F64"/>
+<w:rsid w:val="0046777B"/>
 <w:rsid w:val="00467A7F"/>
 <w:rsid w:val="0047114F"/>
 <w:rsid w:val="00471A0B"/>
@@ -1648,6 +1658,7 @@
 <w:rsid w:val="007F39F0"/>
 <w:rsid w:val="007F5AD3"/>
 <w:rsid w:val="007F5BC0"/>
+<w:rsid w:val="007F64C0"/>
 <w:rsid w:val="007F6912"/>
 <w:rsid w:val="007F720E"/>
 <w:rsid w:val="00800636"/>
@@ -1920,6 +1931,7 @@
 <w:rsid w:val="0095366A"/>
 <w:rsid w:val="0095487E"/>
 <w:rsid w:val="009557F3"/>
+<w:rsid w:val="0095590A"/>
 <w:rsid w:val="009568D5"/>
 <w:rsid w:val="00956C14"/>
 <w:rsid w:val="00957559"/>
@@ -1981,6 +1993,7 @@
 <w:rsid w:val="009A07C1"/>
 <w:rsid w:val="009A0A54"/>
 <w:rsid w:val="009A2786"/>
+<w:rsid w:val="009A43E9"/>
 <w:rsid w:val="009A58CC"/>
 <w:rsid w:val="009A6365"/>
 <w:rsid w:val="009A7010"/>
@@ -2059,6 +2072,7 @@
 <w:rsid w:val="00A036CE"/>
 <w:rsid w:val="00A040B7"/>
 <w:rsid w:val="00A04DB2"/>
+<w:rsid w:val="00A05302"/>
 <w:rsid w:val="00A055D4"/>
 <w:rsid w:val="00A05EF5"/>
 <w:rsid w:val="00A061D1"/>
@@ -2101,6 +2115,7 @@
 <w:rsid w:val="00A41F60"/>
 <w:rsid w:val="00A42589"/>
 <w:rsid w:val="00A42F68"/>
+<w:rsid w:val="00A44568"/>
 <w:rsid w:val="00A44996"/>
 <w:rsid w:val="00A44BEE"/>
 <w:rsid w:val="00A44D04"/>
@@ -2424,8 +2439,10 @@
 <w:rsid w:val="00BE1FBF"/>
 <w:rsid w:val="00BE2493"/>
 <w:rsid w:val="00BE3E0E"/>
+<w:rsid w:val="00BE405C"/>
 <w:rsid w:val="00BE419F"/>
 <w:rsid w:val="00BE74E1"/>
+<w:rsid w:val="00BE7640"/>
 <w:rsid w:val="00BE79E2"/>
 <w:rsid w:val="00BE7DE2"/>
 <w:rsid w:val="00BE7E5F"/>
@@ -2456,6 +2473,7 @@
 <w:rsid w:val="00C10C8D"/>
 <w:rsid w:val="00C110D6"/>
 <w:rsid w:val="00C11380"/>
+<w:rsid w:val="00C11976"/>
 <w:rsid w:val="00C12362"/>
 <w:rsid w:val="00C123B1"/>
 <w:rsid w:val="00C12637"/>
@@ -2594,6 +2612,7 @@
 <w:rsid w:val="00CC4D96"/>
 <w:rsid w:val="00CC4FAE"/>
 <w:rsid w:val="00CC5171"/>
+<w:rsid w:val="00CC71EE"/>
 <w:rsid w:val="00CC73C3"/>
 <w:rsid w:val="00CC78C7"/>
 <w:rsid w:val="00CC78EB"/>
@@ -2616,6 +2635,7 @@
 <w:rsid w:val="00CE1DB2"/>
 <w:rsid w:val="00CE1E0B"/>
 <w:rsid w:val="00CE7530"/>
+<w:rsid w:val="00CF0063"/>
 <w:rsid w:val="00CF0EE4"/>
 <w:rsid w:val="00CF17F1"/>
 <w:rsid w:val="00CF1910"/>
@@ -2756,12 +2776,14 @@
 <w:rsid w:val="00DA060A"/>
 <w:rsid w:val="00DA0D04"/>
 <w:rsid w:val="00DA11DA"/>
+<w:rsid w:val="00DA1972"/>
 <w:rsid w:val="00DA19F5"/>
 <w:rsid w:val="00DA3668"/>
 <w:rsid w:val="00DA46B4"/>
 <w:rsid w:val="00DA50DC"/>
 <w:rsid w:val="00DA594C"/>
 <w:rsid w:val="00DA6478"/>
+<w:rsid w:val="00DA68EC"/>
 <w:rsid w:val="00DA70C7"/>
 <w:rsid w:val="00DA74AE"/>
 <w:rsid w:val="00DA7A63"/>
@@ -2897,6 +2919,7 @@
 <w:rsid w:val="00E421B6"/>
 <w:rsid w:val="00E4388E"/>
 <w:rsid w:val="00E439EE"/>
+<w:rsid w:val="00E4451C"/>
 <w:rsid w:val="00E44E83"/>
 <w:rsid w:val="00E45D2C"/>
 <w:rsid w:val="00E46B6A"/>
@@ -3051,6 +3074,7 @@
 <w:rsid w:val="00F001B8"/>
 <w:rsid w:val="00F00792"/>
 <w:rsid w:val="00F0247E"/>
+<w:rsid w:val="00F02E11"/>
 <w:rsid w:val="00F03CF5"/>
 <w:rsid w:val="00F03E71"/>
 <w:rsid w:val="00F04620"/>
@@ -3085,6 +3109,7 @@
 <w:rsid w:val="00F30818"/>
 <w:rsid w:val="00F30AE1"/>
 <w:rsid w:val="00F3124B"/>
+<w:rsid w:val="00F31D41"/>
 <w:rsid w:val="00F32338"/>
 <w:rsid w:val="00F33016"/>
 <w:rsid w:val="00F344FF"/>
@@ -3189,6 +3214,7 @@
 <w:rsid w:val="00FB16AD"/>
 <w:rsid w:val="00FB3AA4"/>
 <w:rsid w:val="00FB3EBB"/>
+<w:rsid w:val="00FB426E"/>
 <w:rsid w:val="00FB4FAE"/>
 <w:rsid w:val="00FB50E7"/>
 <w:rsid w:val="00FB5420"/>
