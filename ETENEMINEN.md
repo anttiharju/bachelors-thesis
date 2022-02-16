@@ -38,17 +38,11 @@
     - 1 Johdanto
         - ks. vielä johdannon sisältö raportointiohjeesta
             - mielestäni katsoin
-        - (suora) "osana alempaa ..."
-        - Onko Chaos Report -raporttien" turhan toisteinen? Viittaa esim. kaaosraporttina, mutta ensimmäisessä viittauksessa englanninkielinen mukana
         - kirjoita auki: "on tutkimuksen tausta"
-        - (suora) poista: Taustoituslinjalla jatkaen
         - "Esimerkiksi aineistossa paljon viitattu"
             - Tätkin muotoilua voisi miettiä, lukija ei ole perehtynyt tässä kohtaa aineistoon
-        - \[lista projektin määritelmästä]
-            - Loppuun lähdeviite
-        - (tökkii) "Tämän tutkielman tutkimuksen tarkoitus on tarkastella
         - "Koska esimerkiksi \[...]
-            - Tämän voisi muotoilla paremmin sen kautta mitä puhuttiin, eli aihetta tutkittu paljon vii-me vuosina (listat yms.). Tämä näkyy tuossa alempana, mutta tämä alkuosa antaa ymmärtää, että ei tutkittu vain koska joku on jo tutkinut 
+            - Tämän voisi muotoilla paremmin sen kautta mitä puhuttiin, eli aihetta tutkittu paljon viime vuosina (listat yms.). Tämä näkyy tuossa alempana, mutta tämä alkuosa antaa ymmärtää, että ei tutkittu vain koska joku on jo tutkinut 
         - "Koska tutkimuksen rajaus \[...]"
             - voisi muotoilla toisin, esim. kanditutkielman luonteen kautta. Voisi tuoda myös tieteen näkökulmaa esiin
     - 2 Tutkimusmenetelmä
