@@ -50,12 +50,8 @@
             - tätä voisi esim. yhdellä lauseella vähän avata, että millä perusteella rajaukset tehtiin
     - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
         - (tökkii) "Vaikka projektin alussa tapahtuvan \[...]"
-        - (tökkii) "ja suunnittelua"
-        - (tökkii) "on pidetty projektin lopputuloksiin vaikuttavia"
-        - (puuttuva sana) "Savolaisen ym. (2012) \[ja] de Bakker ym. (2010)"
+        - (tökkii) "Savolaisen ym. (2012) \[ja] de Bakker ym. (2010)"
             - (tökkii) tutkimuksen avulla
-        - (puuttuva sana) "tutkimukseen \[on] hyvin epävarmaa"
-        - Onko metateksti viimeisessä kappaleessa tarpeen?
     - 4	Menestystekijöiden yleistettävyyden rajoitukset
         - Heti otsikosta: "menestystekijät ja niiden yleistettävyyden rajoitukset?"
             - Kyllä
@@ -83,6 +79,7 @@
         - "datan ymmärtämistä" lähdeviite myös tänne loppuun
         - (suora) poista: "Tämän tutkielman kirjoittaja uskoo lainauksen logiikan pätevän myös menestystekijöihin."
             - korvaa: "Samantyyppistä ajatusketjua voiyaisiin kenyies hyödyntää myös menestystekijöiden kohdalla" tms.
+    - 5 Yhteenveto
         - käsiteltiin (lisäys: ohjelmistoprojektien) menestystekijöitä
         - (suora) poista: Pohjustuksena näille alussa käytiin läpi 
             - korvaa: "Näitä pohjustettiin käymällä läpi" tms.
