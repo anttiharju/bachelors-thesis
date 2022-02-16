@@ -20,15 +20,11 @@
 
 - Kehitettävää per opponointi (Inna, jälleen kehujakin tuli, mutta keskityn vain kehitysehdotuksiin tässä tiedostossa)
     - Otsikko ei heti auennut yleistettävyyden rajoitusten osalta
-    - Tutkimusmenetelmä-luku hassussa paikkaa
-        - Siirrän olemaan ennen sisältölukuja.
     - Kaipaa määritelmää yleistettävyyden rajoituksille
     - Ensimmäisistä viittauksista puuttuu usein kaikkien kirjoittajien nimet. Nimet tulisi luetella tiettyyn lähteeseen ensimmäistä kertaa vitattaessa, kun kirjoittajia on vähemmän kuin kuusi (raportointiohje)
         - Tarkistan raportointiohjeesta ja korjaan.
     - Käsitteistön suhdetta aiheeseen olisi ehkä voinut hieman avata, jotta lukijalla olisi selkeämpi käsitys aiheesta jo pelkän tiivistelmän perusteella.
     - Tiivistelmässä kuvataan menetelmää melko runsaasti.
-    - Kuvio 2 ei auennut Innalle täysin (viitteet).
-        - Koitan säätää sen asettelua, mutta ilmeisesti kuvio aukesi ohjaajalle joten en sen suurempia muutoksia tee.
 
 - Kehitettävää per ohjaajan palaute (Saana Mehtälä)
     - Tiivistelmä
