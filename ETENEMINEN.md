@@ -30,17 +30,8 @@
     - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
     - 4	Menestystekijöiden yleistettävyyden rajoitukset
     - 5 Yhteenveto
-        - "sillä tämän tutkielman aihe syntyi aiheenvaihdon seurauksena."
-            - Tämä on henkilökohtainen näkökulma suhteessa kandiprosessiin, voisi ottaa pois. Miksi tieteen kannalta kokonaiskuva on tärkeä?
-                - A: Aikaisempi palaute aukesi tämän avulla
-        - "Tutkielma siis pyrki tarjoamaan muille tutkijoille mielekkäitä tapoja rajata omaa menestystekijöiden tutkimustaan ennen varsinaisen tutkimustyön aloittamista."
-            - Tämän voisi muotoilla eri tavalla jatkotutkimusaiheeksi?
-        - "Tutkimuksen tavoitteiden saavuttamisessa koetaan onnistuneen vähintäänkin tyydyttävästi."
-            - Tämäkin lause jää ehkä vähän geneeriselle tasolle, voisi varmaan jättää pois
-        - "Edellisen aiheen parissa oli koettu ongelmia olennaisten artikkeleiden löytä-misessä, joten tässä tutkielmassa käytetty hakukysely oli vastareaktiona rajattu ehkä turhankin tiukasti."
+        - "Edellisen aiheen parissa oli koettu ongelmia olennaisten artikkeleiden löytämisessä, joten tässä tutkielmassa käytetty hakukysely oli vastareaktiona rajattu ehkä turhankin tiukasti."
             - Tämä taas henkilökohtaista näkökulmaa. Ehkä voisi muotoilla menetelmälukuun jotenkin hakuprosessin/aiheen/lähdekirjallisuuden luonteen näkökulmasta (vrt. nykyisellään näkökul-mana hlökohtainen kandiprosessi)
-        - "ja lähinnä vain kuvailee sitä ilman suuria omia kontribuutioita"
-            - eikös tämä ole itsessään kontribuutio? :)
         - (tökkii + kommentti) "Tätä rajoitti aikataulupaineet ja aineiston saatavuus, esimerkiksi Marchewkan (2010) kirja oli saatavana vain fyysisenä kaukolainana. Lisäksi alkuperäisen aineiston keruuseen ja lukemiseen olisi voinut käyttää enemmän aikaa. "
             - "Tässä taas vahvasti läsnä hlökohtainen näkökulma, voisi jättää pois tai muotoilla lähde-kirjallisuuden saatavuuden ('paikoittain lähdeaineiston saatavuudessa oli rajoitteita') ja kanditutkielman luonteen kautta"
         - "yrittää muodostaa listaa"
