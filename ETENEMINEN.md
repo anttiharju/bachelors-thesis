@@ -1,41 +1,10 @@
 # Eteneminen
 
-## Tiistaina 15.2.2022
-- Ohjaaja lähetti täyden palautteen sähköpostilla
-    - Myös opponoijalta on palautetta
-        - Puran nämä molemmat alle. Korjaan mitä pystyn ja lähetän tarkistukseen. Yleisesti ottaen tutkikielma oli ilmeisesti ihan hyvä.
-    - "keltaiset (maalaukset) tökkii: epäselviä virkkeitä, puuttuvia sanoja"
-    - "turkoosilla toisto"
-    - Kehitettävää per seminaaripalaute (kehujakin tuli, mutteivat tässä olennaisia):
-        - Motivointia tieteen näkökulmasta voisi lisätä / kirkastaa ts. mikä tieteessä/kentällä sai valitsemaan aiheen, miksi se on tieteen näkökulmasta tärkeä.
-        - Kirjoittajan ääni saa kuulua, mutta tapa/paikka hyvä miettiä (henkilökohtaisen näkökulman käyttäminen)
-            - Tää ei aukea mulle. Mielestäni pyrin minimoimaan henkilökohtaisen näkökulman.
-        - Hyvin rajattu, mutta joissain kohdissa voisi kääntää toisin päin, mitä tämä tutkielma on (vs. mitä se ei ole)
-        - Lukujen järjestystä/esitystapaa voisi vielä pohtia, aineistoon viittaminen ennen sen esittelyä hieman hämää lukijaa
-            - Aikaisemmassa palautteessa pyydettiin siirtämään menetelmäluku vasta 1. sisältöluvun jälkeen. Tilanteen voisi korjata poistamalla aineistoviittaukset, mutta koska koko tutkielma nojaa vahvasti aineistoon, siirrän menetelmäluvun olemaan heti johdantojen jälkeen.
-        - Yleisesti: kandin arvosteluperusteet (katsoin, motivointi ehkä estää tällä hetkellä kolmosen saantia. Osittain ehkä yltäisin neloseenkin)
-        - Raportointiohjeesta löytyy paljon hyvää tekstiä. Pitänee katsoa
-        - Kerro esitarkistusta pyydettäessä mitä olet muuttanut
-            - Kokeilen jos wordissa saisi jonkun vertailutilan.
+## Torstaina 17.2.2022
+- Kelvollistaminen loppuun, ajattelin lukea vielä itse diffin kanssa läpi ja ehkä kerran kokonaan ennen kuin lähetän ohjaajalle esitarkistukseen
 
-- Kehitettävää per opponointi (Inna, jälleen kehujakin tuli, mutta keskityn vain kehitysehdotuksiin tässä tiedostossa)
-    - Ensimmäisistä viittauksista puuttuu usein kaikkien kirjoittajien nimet. Nimet tulisi luetella tiettyyn lähteeseen ensimmäistä kertaa vitattaessa, kun kirjoittajia on vähemmän kuin kuusi (raportointiohje)
-        - Tarkistan raportointiohjeesta ja korjaan.
-
-- Kehitettävää per ohjaajan palaute (Saana Mehtälä)
-    - Tiivistelmä
-    - Abstract
-    - 1 Johdanto
-    - 2 Tutkimusmenetelmä
-    - 3 Yleisiä lähtökohtia menestystekijöiden määrittelyyn
-    - 4	Menestystekijöiden yleistettävyyden rajoitukset
-    - 5 Yhteenveto
-        - "Edellisen aiheen parissa oli koettu ongelmia olennaisten artikkeleiden löytämisessä, joten tässä tutkielmassa käytetty hakukysely oli vastareaktiona rajattu ehkä turhankin tiukasti."
-            - Tämä taas henkilökohtaista näkökulmaa. Ehkä voisi muotoilla menetelmälukuun jotenkin hakuprosessin/aiheen/lähdekirjallisuuden luonteen näkökulmasta (vrt. nykyisellään näkökul-mana hlökohtainen kandiprosessi)
-        - (tökkii + kommentti) "Tätä rajoitti aikataulupaineet ja aineiston saatavuus, esimerkiksi Marchewkan (2010) kirja oli saatavana vain fyysisenä kaukolainana. Lisäksi alkuperäisen aineiston keruuseen ja lukemiseen olisi voinut käyttää enemmän aikaa. "
-            - "Tässä taas vahvasti läsnä hlökohtainen näkökulma, voisi jättää pois tai muotoilla lähde-kirjallisuuden saatavuuden ('paikoittain lähdeaineiston saatavuudessa oli rajoitteita') ja kanditutkielman luonteen kautta"
-        - "yrittää muodostaa listaa"
-            - "tämä ei itsessään ehkä hyvä tavoite - muotoile toisin (jos lopputuloksena muodostetaan lis-ta joistain asioista, mikä tutkimuksen tavoite voi olla?)"
+## Tiistaina 15.2.2022?
+- Purin palautteen tähän ja poistin sitä mukaa kun huomioin sen. Löytyy versiohistoriasta.
 
 ## Raaka arvio tutkielman valmistumisesta
 - Sunnuntaina   23.01.22 1549/5000 sanaa eli 31 %
