@@ -1171,13 +1171,14 @@
 <w:autoRedefine/>
 <w:uiPriority w:val="39"/>
 <w:unhideWhenUsed/>
-<w:rsid w:val="00A62C2B"/>
+<w:rsid w:val="002A2999"/>
 <w:pPr>
 <w:tabs>
 <w:tab w:val="left" w:pos="1134"/>
 <w:tab w:val="right" w:leader="dot" w:pos="8505"/>
 </w:tabs>
 <w:ind w:left="1134" w:hanging="567"/>
+<w:jc w:val="left"/>
 </w:pPr>
 </w:style>
 <w:style w:type="paragraph" w:styleId="TOC3">
