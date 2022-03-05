@@ -1,5 +1,32 @@
 # Eteneminen
 
+## Lauantaina 05.03.2022
+- Korjaan helpot/nopeat asiat
+
+- Tiivistelmä
+    - Ei muokkauksia. Olin pyrkinyt tekemään raportointiohjeen mukaan, mutta ilmeisesti en ollut sitä täysin sisäistänyt
+- Johdanto
+    - Sivunumero suoraan lainaukseen
+    - Poistettu: "Tiedonhankinta toteutettiin siis järjestelmällisesti."
+    - Uudelleen muotoilu: "Aineiston kerääminen aloitettiin"
+    - Lisäys: "_usein_ toistuvia"
+    - Ohjaajan uudelleenmuotoilu käyttöön: "Yleisten lähtökohtien tunnistamisen lisäksi on huominarvoista, että prosessissa esiintyi toisinaan myös vaihtelua tutkimusten välillä."
+- Menetelmäluku
+    - Omaan tieteenalaan -> Tietojärjestelmätieteeseen
+    - Viittaus lumipallo-otannan selitykselle (plus uudelleenmuotoilu)
+    - Viimeisen kappaleen tarkennusta.
+- 1. sisältöluku
+    - Ei kommentteja, ei muutoksia!
+- 2. sisältöluku
+    - listaus -> listauksensa (suora)
+    - Tämän jälkeen -> Lopuksi (toistoa pois, edeltävä kappale alkoi samoin sanoin)
+        - Ohjaajan suorat uudelleenmuotoilut tähän kappaleeseen hyviä, otan käyttöön.
+    - kuvio 2 jälkeen lisäys kuitenkaan, tutkielman näkökulmasta
+    - 4.2 tieteellisyyttä \[on] kritisoitu
+    - pistevirhe korjattu tsoy & staples viittauksessa
+- Yhteenveto
+    - Tässä välissä tallennus gittiin, on niin isoja kommentteja
+
 ## Perjantaina 04.03.2022
 - Ohjaaja palautti esitarkistuksen, arvio 4 (mulle ois riittänyt kakkonenkin ja kolmoseenkin oisin ollut tyytyväinen).
 - Hyvää palautetta. Erityisesti yhteenvedossa vaikuttaisi olevan korjattavaa.
