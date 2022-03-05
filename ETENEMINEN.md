@@ -1,9 +1,65 @@
 # Eteneminen
 
+## Perjantaina 04.03.2022
+- Ohjaaja palautti esitarkistuksen, arvio 4 (mulle ois riittänyt kakkonenkin ja kolmoseenkin oisin ollut tyytyväinen).
+- Hyvää palautetta. Erityisesti yhteenvedossa vaikuttaisi olevan korjattavaa.
+    - Toisaalta aikataulupaineita (toukokuun alussa muutto pois) joten korjaan helpot asiat. Kypsyysnäyte pitäisi päästä tekemään.
+- Käyn kommentit läpi ja korjaan nopeat/helpot asiat
+
+### Esitarkistuksen kommentit
+Huom. myös suoria korjauksia ilman kommenttia (typoja tmv.)
+
+- Tiivistelmä
+    - Ohjaaja (O): Tätä voisi vielä selkeyttää, vähän ehkä sisällöllisesti pomppii. Yleensä tiivistelmä noudat-taa rakennetta johdatus (aiheeseen) --> tutkielman menetelmä (tämä tosin suppea kanditutkiel-massa) --> tutkielman tulokset --> johtopäätökset. Parhaiten tämä käy ilmi ehkä tästä kuvasta: https://study.com/cimages/videopreview/videopreview-full/iugort78aj.jpg  Vinkkejä löytyy paljon myös netistä, esim. https://www.grammarly.com/blog/write-an-abst-ract/?gclid=Cj0KCQiA64GRBhCZARIsAHOLriKp0B0EUdPiZX0nlS3mXye4EY_C3vHQ7EhHuJ-QtkHFLAj109tHYHIaAmrVEALw_wcB&gclsrc=aw.ds 
+- Johdanto
+    - O: Nyt varsinkin kun 2. luku on jo menetelmäluku, niin tämän johdannon merkitys korostuu. Mieti vielä rakennetta ja asioiden käsittelyjärjestystä, tässä mennään nyt aika nopeasti asiaan taustoittamatta aihetta. Ks. rakenteeseen mallia: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&isAllowed=y
+    - O: suoraan lainaukseen sivunumero
+    - O: Mietin, pitääkö tämä lause paikkansa - eikös motivaatio tässä taustalla ollut se, että menes-tystekijöistä ollaan todella kiinnostuneita ja niitä ollaan tutkittu pitkään, mutta silti iso% projek-teista edelleen epäonnistuu?
+    - O: Tämä tulee vähän oudossa paikassa. Raportointiohjeesta: "[Johdannon] lopuksi esitellään lyhyesti tutkielman lukujen sisältö"
+    - O: Sinänsä "systemaattinen" tuossa kirjallisuuskartoituksen edessä viittaa jo järjestelmällisyy-teen, ehkä jättäisin tämän lauseen pois
+    - O: Tätä voisi vähän vielä kirjoittaa auki, että mitä tämä käytännössä tarkoittaa
+        - O: Ja tätä voisi vielä ehkä uudelleen muotoilla, kun tuossa seuraavassa lauseessa sanotaan, että kerättiin myös tjt ulkopuolelta - esim. "Aineiston kerääminen aloitettiin...."
+    - O: olisiko tämä selkeämpi, jos olisi "usein toistuvia"?
+    - O: Tsekkaa, pysyykö tässä ajatus samana - Tässä tavoitteena siis lisätä tieteellistä otetta ja tuoda tuloksia selkeämmin esille
+    - O: Tämä johdanto ehkä loppuu hieman yllättäen - korjaantuu kenties sillä, jos loppuun tulee vielä lukujen esittely (ks., että ei tule päällekkäistä metatekstiä luvuista tämän seurauksena)
+- Menetelmäluku
+    - O: "Tämän jälkeen voisi lisätä vielä lauseen: "Tämä nähtiin aiheen kannalta tarpeelliseksi, sil-lä..."
+        - O: Onko "Iranian" ja "Polish" jätetty pois kielen takia, ts. ovatko nämä ei-englanninkielisiä jul-kaisuja? Jos näin, niin voi mainita, että aiheen lisäksi tässä vaiheessa karsiutui pois myös muulla kuin englanninkielellä ilmestyviä julkaisuja.
+    - O: Tarkoittaako tämä tietojärjestelmätiedettä? Jos näin, niin selkeämpi jos kirjoittaa suoraan, että tietojärjestelmätiede
+    - O: Saisiko tähän loppuun jonkun menetelmälähteen, jossa tästä menetelmästä on puhuttu? Eli käytännössä voit laittaa tähän sulkuihin vain lähteenn joka tukee tätä väitettä, sopiva viittaus voisi olla muotoa (ks. esim. Author1, xxxx)
+    - O: Tämä on vähän epäselvä - otetaanko tässäkin siis tuollainen harkinnanvarainen lumipal-lo-otanta, kun lähteiden määrä kasvaa 36:n? Eikös tällöin tutkielman sisältö perustu 36:n lähtee-seen? Esim. pääasiallisia lähteitä 21, jonka lisäksi kirjallisuudesta tunnistettiin muita aiheen kannalta olennaisia lähteitä (jos on siis tarvetta tehdä ero pääasiallisten ja muiden lähteiden vä-lille)
+- 1. sisältöluku (yleisiä lähtökohtia...)
+    - Ei kommentteja! woo
+- 2. sisältöäluku (menestystekijät ja ...)
+    - O: Tämä jää nyt vähän tyngäksi, saisiko tähän vaikka yhdellä/muutamalla lauseella esimer-kin, miten ne ovat päällekkäisiä?
+    - O: Pysyykö tässä idea samana?
+- Yhteenveto
+    - O: Tutkimusraportin yhteenvedossa muodostetaan selkeä kuva saavutetuista tuloksista ja niiden merkityksestä. Tutkielman tekijän tulee siis muistaa, että tutkimuksen analysointia ei tule jättää tutkielman yhteenvetoon. Yhteenvedossa oletetaan (toisin kuin johdannossa), että lukija on jo tutustunut työhön ja sen vuoksi työn tulosten esittelyn on oltava kriittistä, reflektoivaa ja eteen-päin suuntautuvaa. Työn ongelmanasettelu ja tavoitteet kerrataan. Tutkimusmenetelmät ja -tulokset sekä niihin liittyvät rajoitukset esitetään tiivistetysti. Tässä yhteydessä on syytä tuoda selvästi esille, mitkä ovat kirjoittajan omia kontribuutioita. On myös tuotava esille, missä määrin tulokset poikkeavat tai tukevat aiemmin saavutettuja tuloksia. Lisäksi edellytetään, että tuloksiin kohdistetaan kritiikkiä esimerkiksi osoittamalla, millaisia rajoitteita tulosten yleistettävyydelle on asetettava ja millaisia ongelmakohtia on jätetty vähemmälle huomiolle. Lopuksi esitetään jatko-tutkimusaiheita. Tavallisesti yhteenvetoluku on 2–3 sivua pitkä
+        - O: Eli saisiko tähän sellaisen rakenteen, että ensin tulee mitä tutkittiin ja miksi, millä mene-telmällä --> mitä tuloksia saatiin --> mikä on niiden merkitys --> kritiikki omaan tutkimukseen ja kirjallisuuteen --> jatkotutkimusaiheet
+        - O: ks. esim. tästä kandista ideaa rakenteen kannalta: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&isAllowed=y
+        - O: Yleisesti siis hyvää asiaa, mutta monia asioita on käsitely melkoisen laajasti. Esimerkin-omaisesti olen merkinnyt, mitä voisi jättää kokonaan pois, lisäksi muutakin tiviistämistarvetta. 
+    - O: mistä? Tähän myös tieteellisempi termi
+    - O: Tällainen kriittinen reflektointi on hyvää, mutta mietin, sopiiko se jo tähän kohtaan, kun tutkielmaa ei ole vielä käyty edes läpi
+        - O: Eikös yleistasoinen kysymys ole menetelmää ajatellen juuri hyvä? Toki tämän voisi muo-toilla jatkotutkimusaiheeksi, eli "aihetta voisi olla aiheellista tutkia myös tarkemmalla rajauksella, esim...."
+    - O: Mikä oli ensimmäinen tavoite?
+    - O: Jos tämä osio tulee mukaan, niin voisi tulla eri kohdassa ja vähän voisi tiivistää, esim. "ha-kutulosten osuvuutta olisi mahdollisesti voinut parantaa laajentamalla kyselyissä käytettyä ter-mistöä ja näiden yhdistelmiä" tms.
+    - O: Eikö nämä lauseet ole keskenään vähän ristiriidassa?
+    - O: tämäkin on sellainen yksityiskohta, joka on varmaan mainittu jo tutkielman puolella? voi-nee jättää pois
+    - O: Mietin, onko tässä vähän päällekkäisyyttä tuon ensimmäisen tekstikappaleen kanssa
+    - O: Tämä on ehkä vähän itsestään selvä lause, olettaen, että lukija on jo lukenut tutkielman?
+    - O: tämä on vähän hassu muotoilu :) ehkä voisi käyttää mieluummin "pääasiallista lähdettä", jos tämä jako on tehty tuolla aikaisemmin
+    - O: Tämä ajatus tulee vähän yllättäen, ei kytkeydy edelliseen lauseeseen
+    - O: Tämä on taas aika itsestään selvä asia, olettaen, että lukija on lukenut tutkielman. 
+    - O: Eikös tämäkin ole aika itsestään selvää, jos tutkielma perustuu tarkasteltuun kirjallisuu-teen?
+    - O: Olisiko joku toinen kohta tälle parempi, tai saisiko jotenkin selkeämmin kytkettyä tähän kappaleeseen? Tulee nyt vähän yllättäin
+    - O: Tämä jää vähän kellumaan, ja mietin, onko tähän hyvä lopettaa
+- Lähteet
+    - O: DOI-linkkejä ei yleensä sisällytetä lähdeluetteloon
+
 ## Torstaina 17.2.2022
 - Kelvollistaminen loppuun, ajattelin lukea vielä itse diffin kanssa läpi ja ehkä kerran kokonaan ennen kuin lähetän ohjaajalle esitarkistukseen
 
-## Tiistaina 15.2.2022?
+## Tiistaina 15.2.2022
 - Purin palautteen tähän ja poistin sitä mukaa kun huomioin sen. Löytyy versiohistoriasta.
 
 ## Raaka arvio tutkielman valmistumisesta
