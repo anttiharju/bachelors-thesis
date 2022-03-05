@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="media/image1.emf" Id="rId8" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="header3.xml" Id="rId13" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml" Id="rId3" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes" Target="endnotes.xml" Id="rId7" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.google.com/intl/en/policies/privacy/" TargetMode="External" Id="rId12" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml" Id="rId2" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml" Target="../customXml/item1.xml" Id="rId1" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes" Target="footnotes.xml" Id="rId6" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="https://yle.fi/uutiset/3-11887691" TargetMode="External" Id="rId11" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings" Target="webSettings.xml" Id="rId5" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml" Id="rId15" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="header2.xml" Id="rId10" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml" Id="rId4" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="header1.xml" Id="rId9" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable" Target="fontTable.xml" Id="rId14" />
+<Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments" Target="comments.xml" Id="R9fef16fc71754168" />
+<Relationship Type="http://schemas.microsoft.com/office/2011/relationships/people" Target="people.xml" Id="R84a16e41f1d74e4f" />
+<Relationship Type="http://schemas.microsoft.com/office/2011/relationships/commentsExtended" Target="commentsExtended.xml" Id="R4a95e4936fc84e96" />
+<Relationship Type="http://schemas.microsoft.com/office/2016/09/relationships/commentsIds" Target="commentsIds.xml" Id="R2600bce211c54b4c" />
+</Relationships>
