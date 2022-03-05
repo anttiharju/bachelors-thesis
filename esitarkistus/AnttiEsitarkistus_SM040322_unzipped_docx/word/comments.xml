@@ -295,19 +295,17 @@
 </w:p>
 </w:comment>
 <w:comment w:id="38" w:author="Author" w:initials="A">
-<w:p w14:paraId="25138BD0" w14:textId="4122A983" w:rsidR="23F95831" w:rsidRDefault="23F95831">
+<w:p w14:paraId="25138BD0" w14:textId="7912DF4B" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
 <w:pStyle w:val="CommentText"/>
 </w:pPr>
 <w:r>
 <w:t xml:space="preserve">Saisiko tähän loppuun jonkun menetelmälähteen, jossa tästä menetelmästä on puhuttu? Eli käytännössä voit laittaa tähän sulkuihin vain </w:t>
 </w:r>
-<w:proofErr w:type="spellStart"/>
 <w:proofErr w:type="gramStart"/>
 <w:r>
-<w:t>lähteenn</w:t>
+<w:t>lähteen</w:t>
 </w:r>
-<w:proofErr w:type="spellEnd"/>
 <w:proofErr w:type="gramEnd"/>
 <w:r>
 <w:t xml:space="preserve"> joka tukee tätä väitettä, sopiva viittaus voisi olla muotoa (ks. esim. Author1, xxxx)</w:t>
