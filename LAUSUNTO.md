@@ -1,0 +1,7 @@
+# Lausunto
+
+Antti Harjun kandidaatintutkielma käsittelee ohjelmistoprojektien menestystekijöitä. Harju on lähestynyt haastavaa aihetta erityisesti menestystekijöiden yleistettävyyden rajoitusten näkökulmasta. Tutkielmassa käytetään runsaasti kirjallisuuslähteitä, joista merkittävä osa on korkeatasoisia tieteellisiä julkaisuja. Tiedonhakuprosessi itsessään on hyvin tarkasti raportoitu sekä tarkoituksenmukaisesti toteutettu. Tutkielma osoittaa aiheen hyvää käsitteellistä hallintaa sekä perehtyneisyyttä lähdekirjallisuuteen.
+
+Harjun tutkielma on sisällöllisesti hyvin jäsennelty, ja myös rakenteensa puolesta varsin tasapainoinen. Tutkielma etenee loogisesti, muodostaen eheän kokonaisuuden. Harju on luonut tulosten ja johtopäätösten tueksi lähdekirjallisuudesta synteesin, jonka avulla tutkimuskysymykseen vastataan. Kirjallisuutta on kyetty arvioimaan myös kriittisesti ja oman tutkimuksen rajoitteita on tunnistettu. Lisäksi Harju esittää tutkielman pohjalta jatkotutkimusaiheita.
+
+Tutkimuksen liittyvät ratkaisut on tehty hyvin itsenäisesti ja toteutus itsessään on onnistunut. Lisäksi Harju on osannut hyödyntää tarjottua ohjausresurssia tarkoituksenmukaisesti, mikä on osaltaan tukenut työn edistymistä. Tutkielman ulkoasu noudattaa pitkälti tiedekunnan raportointiohjetta. Vastaavasti tutkielmassa käytetty kieli on ymmärrettävää ja lähes virheetöntä, tieteellisellä otteella kirjoitettua asiatekstiä
