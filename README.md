@@ -1,6 +1,6 @@
 # Software project success factors and limitations of their universality
 
-The thesis has been written in Finnish, but the English abstract is copy-pasted below. For the full PDF follow the link in the repository's 'about' section.
+The thesis has been written in Finnish, but the English abstract is available below. For the full PDF follow the link in the repository's 'about' section.
 
 ## Abstract
 
@@ -28,3 +28,15 @@ Keywords: project management, software projects, success factors, universality l
 The thesis (7 cr) is given the grade 4.
 - [The full assessment statement is available in Finnish.](LAUSUNTO.md)
 - [The assessment instructions are also included in this repo (also in Finnish).](PERUSTEET.md)
+
+## How to transform the unzipped .docx's back to usable files
+
+To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `\scripts\zi.ps1` to recreate the original files.
+
+Powershell is in theory cross platform software, but I haven't tried running the scripts on macOS or on any Linux distribution. So if you're on one of those, best of luck you're on your own.
+
+## Permissions
+
+If you want to use the contents of this repository for anything (research etc.) please contact me at the email in my GitHub profile, although
+- the [.docx zip/unzip utility](https://github.com/anttiharju/zipsi-utility) is available in a separate MIT-licensed repository and
+- the final thesis is published as open access (follow the link in the repository's 'about' section).
