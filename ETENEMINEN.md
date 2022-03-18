@@ -1,5 +1,7 @@
 # Eteneminen
 
+Olen käyttänyt tätä tiedostoa oman työskentelyn ohjaamiseen. Se ei välttämättä aukea täysin ulkopuolisille jälkeenpäin luettuna.
+
 ## Lauantaina 05.03.2022
 - Korjaan helpot/nopeat asiat
 
@@ -15,9 +17,9 @@
     - Omaan tieteenalaan -> Tietojärjestelmätieteeseen
     - Viittaus lumipallo-otannan selitykselle (plus uudelleenmuotoilu)
     - Viimeisen kappaleen tarkennusta.
-- 1. sisältöluku
+- 1\. sisältöluku
     - Ei kommentteja, ei muutoksia!
-- 2. sisältöluku
+- 2\. sisältöluku
     - listaus -> listauksensa (suora)
     - Tämän jälkeen -> Lopuksi (toistoa pois, edeltävä kappale alkoi samoin sanoin)
         - Ohjaajan suorat uudelleenmuotoilut tähän kappaleeseen hyviä, otan käyttöön.
@@ -37,7 +39,7 @@
 Huom. myös suoria korjauksia ilman kommenttia (typoja tmv.)
 
 - Tiivistelmä
-    - Ohjaaja (O): Tätä voisi vielä selkeyttää, vähän ehkä sisällöllisesti pomppii. Yleensä tiivistelmä noudat-taa rakennetta johdatus (aiheeseen) --> tutkielman menetelmä (tämä tosin suppea kanditutkiel-massa) --> tutkielman tulokset --> johtopäätökset. Parhaiten tämä käy ilmi ehkä tästä kuvasta: https://study.com/cimages/videopreview/videopreview-full/iugort78aj.jpg  Vinkkejä löytyy paljon myös netistä, esim. https://www.grammarly.com/blog/write-an-abst-ract/?gclid=Cj0KCQiA64GRBhCZARIsAHOLriKp0B0EUdPiZX0nlS3mXye4EY_C3vHQ7EhHuJ-QtkHFLAj109tHYHIaAmrVEALw_wcB&gclsrc=aw.ds 
+    - Ohjaaja (O): Tätä voisi vielä selkeyttää, vähän ehkä sisällöllisesti pomppii. Yleensä tiivistelmä noudat-taa rakennetta johdatus (aiheeseen) --> tutkielman menetelmä (tämä tosin suppea kanditutkiel-massa) --> tutkielman tulokset --> johtopäätökset. Parhaiten tämä käy ilmi ehkä tästä kuvasta: https://study.com/cimages/videopreview/videopreview-full/iugort78aj.jpg  Vinkkejä löytyy paljon myös netistä, esim. https://www.grammarly.com/blog/write-an-abstract/
 - Johdanto
     - O: Nyt varsinkin kun 2. luku on jo menetelmäluku, niin tämän johdannon merkitys korostuu. Mieti vielä rakennetta ja asioiden käsittelyjärjestystä, tässä mennään nyt aika nopeasti asiaan taustoittamatta aihetta. Ks. rakenteeseen mallia: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&isAllowed=y
     - O: suoraan lainaukseen sivunumero
@@ -55,9 +57,9 @@ Huom. myös suoria korjauksia ilman kommenttia (typoja tmv.)
     - O: Tarkoittaako tämä tietojärjestelmätiedettä? Jos näin, niin selkeämpi jos kirjoittaa suoraan, että tietojärjestelmätiede
     - O: Saisiko tähän loppuun jonkun menetelmälähteen, jossa tästä menetelmästä on puhuttu? Eli käytännössä voit laittaa tähän sulkuihin vain lähteenn joka tukee tätä väitettä, sopiva viittaus voisi olla muotoa (ks. esim. Author1, xxxx)
     - O: Tämä on vähän epäselvä - otetaanko tässäkin siis tuollainen harkinnanvarainen lumipal-lo-otanta, kun lähteiden määrä kasvaa 36:n? Eikös tällöin tutkielman sisältö perustu 36:n lähtee-seen? Esim. pääasiallisia lähteitä 21, jonka lisäksi kirjallisuudesta tunnistettiin muita aiheen kannalta olennaisia lähteitä (jos on siis tarvetta tehdä ero pääasiallisten ja muiden lähteiden vä-lille)
-- 1. sisältöluku (yleisiä lähtökohtia...)
+- 1\. sisältöluku (yleisiä lähtökohtia...)
     - Ei kommentteja! woo
-- 2. sisältöäluku (menestystekijät ja ...)
+- 2\. sisältöäluku (menestystekijät ja ...)
     - O: Tämä jää nyt vähän tyngäksi, saisiko tähän vaikka yhdellä/muutamalla lauseella esimer-kin, miten ne ovat päällekkäisiä?
     - O: Pysyykö tässä idea samana?
 - Yhteenveto
@@ -365,14 +367,14 @@ Tavoite: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, t
 ### JUFO:n käyttöohjeet ja rajoitteet
 - Ohjaaja myös suositteli lukemaan yhden osan JUFO:n käyttöohjeista ja sivun sen rajoitteista. Teen sen.
 - Luokituksen rajoitteet
-    1. Luokituksille 2 ja 3 on kiintiöt. Ei ole perusteltua rajata hakua vain näihin.
-    2. Luokittelu on karkeaa eli sitä ei voida soveltaa yhden tutkimuspaperin tasolla.
-    3. Luokittelu ei huomioi tieteenaloja jolloin esimerkiksi jonkun erityisen aihealueen tutkimuksen voivat jäädä luokkaan 1.
+    - 1\. Luokituksille 2 ja 3 on kiintiöt. Ei ole perusteltua rajata hakua vain näihin.
+    - 2\. Luokittelu on karkeaa eli sitä ei voida soveltaa yhden tutkimuspaperin tasolla.
+    - 3\. Luokittelu ei huomioi tieteenaloja jolloin esimerkiksi jonkun erityisen aihealueen tutkimuksen voivat jäädä luokkaan 1.
         - Johtopäätös: otetaan myös JUFO 1 -luokituksen julkaisut mukaan heti alusta asti.
     - Myös muita, mutta tässä olennaiset
 - Luokitteluperusteet
     - Vain tieteelliset julkaisukanavat voivat saada JUFO-luokituksen (1, 2 tai 3)
-    1. luokka
+    - 1\. luokka
         - ISSN- tai ISBN tunnus
         - Toimituskunta ja vertaisarviointiprosessi on kuvattu läpinäkyvästi
         - Erikoistunut tieteellisten tutkimustulosten julkaisemiseen
@@ -380,12 +382,12 @@ Tavoite: ensi sunnuntaina valmis. Loppuaika käytetään viitteiden hiomiseen, t
         - Tieteelliset artikkelit ja kirjat käyvät läpi koko käsikirjoitukseen kohdistuvan vertaisarvioinnin
         - Kansallisen tai kansainvälisen tiedeyhteisön käyttämä julkaisukanava. Toimituskunnasta yli puolet edustaa muuta kuin julkaisukanavan kustantajan tutkimusorganisaatiota.
         - Uskottava eli tieteellisesti relevantti kansainvälisen tai suomalaisen tiedeyhteisön näkökulmasta
-    2. luokka
+    - 2\. luokka
         - Julkaisukanava on tieteenalan kansainvälisen asiantuntijayhteisön laajasti tavoittava ja arvostama
         - Tutkijat eri maista julkaisevat siinä parhainta tukimustaan
         - Toimitus-, kirjoiittaja- ja lukijakunta edustavat eri kansallisuuksia
         - Erikoissääntöjä suomen/ruotsinkielisille (ei merkitystä, valikoidaan vain englanninkielistä)
-    3. luokka
+    - 3\. luokka
         - Tutkimus edustaa alansa korkeinta tasoa
         - Kattaa oman tieteenalansa laajasti
         - Kansainvälinen lukijakunta
