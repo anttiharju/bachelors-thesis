@@ -9,7 +9,7 @@
 <w:t>Antti Harju</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="37E94671" w14:textId="407FA0D8" w:rsidR="00B46D79" w:rsidRDefault="005A153F" w:rsidP="00B46D79">
+<w:p w14:paraId="37E94671" w14:textId="0EAA4024" w:rsidR="00B46D79" w:rsidRDefault="004B59C0" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Tutkielmannimi"/>
 </w:pPr>
@@ -17,48 +17,121 @@
 <w:rPr>
 <w:noProof/>
 </w:rPr>
-<w:pict w14:anchorId="31AE26A9">
-<v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
-<v:stroke joinstyle="miter"/>
-<v:path gradientshapeok="t" o:connecttype="rect"/>
-</v:shapetype>
-<v:shape id="Text Box 2" o:spid="_x0000_s2063" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:3;visibility:visible;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
-<v:textbox style="mso-next-textbox:#Text Box 2" inset="0,0,0,0">
+<mc:AlternateContent>
+<mc:Choice Requires="wps">
+<w:drawing>
+<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="3" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="31AE26A9" wp14:editId="5E137A91">
+<wp:simplePos x="0" y="0"/>
+<wp:positionH relativeFrom="page">
+<wp:align>center</wp:align>
+</wp:positionH>
+<wp:positionV relativeFrom="margin">
+<wp:align>bottom</wp:align>
+</wp:positionV>
+<wp:extent cx="4638675" cy="1876425"/>
+<wp:effectExtent l="0" t="0" r="9525" b="9525"/>
+<wp:wrapSquare wrapText="bothSides"/>
+<wp:docPr id="33" name="Text Box 2">
+<a:extLst xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:ext uri="{C183D7F6-B498-43B3-948B-1728B52AA6E4}">
+<adec:decorative xmlns:adec="http://schemas.microsoft.com/office/drawing/2017/decorative" val="1"/>
+</a:ext>
+</a:extLst>
+</wp:docPr>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+<wps:wsp>
+<wps:cNvSpPr txBox="1">
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="4638675" cy="1876425"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:sysClr val="window" lastClr="FFFFFF">
+<a:lumMod val="100000"/>
+<a:lumOff val="0"/>
+</a:sysClr>
+</a:solidFill>
+<a:ln w="9525">
+<a:solidFill>
+<a:sysClr val="window" lastClr="FFFFFF">
+<a:lumMod val="100000"/>
+<a:lumOff val="0"/>
+</a:sysClr>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
 <w:txbxContent>
-<w:p w14:paraId="62DB577C" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="005A153F" w:rsidP="00B46D79">
+<w:p w14:paraId="62DB577C" w14:textId="0B211A22" w:rsidR="00B46D79" w:rsidRDefault="004B59C0" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Jyvskylnyliopisto"/>
 </w:pPr>
 <w:r>
 <w:rPr>
-<w:b/>
 <w:noProof/>
 <w:lang w:eastAsia="fi-FI"/>
 </w:rPr>
-<w:pict w14:anchorId="10C7FA55">
-<v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
-<v:stroke joinstyle="miter"/>
-<v:formulas>
-<v:f eqn="if lineDrawn pixelLineWidth 0"/>
-<v:f eqn="sum @0 1 0"/>
-<v:f eqn="sum 0 0 @1"/>
-<v:f eqn="prod @2 1 2"/>
-<v:f eqn="prod @3 21600 pixelWidth"/>
-<v:f eqn="prod @3 21600 pixelHeight"/>
-<v:f eqn="sum @0 0 1"/>
-<v:f eqn="prod @6 1 2"/>
-<v:f eqn="prod @7 21600 pixelWidth"/>
-<v:f eqn="sum @8 21600 0"/>
-<v:f eqn="prod @7 21600 pixelHeight"/>
-<v:f eqn="sum @10 21600 0"/>
-</v:formulas>
-<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-<o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype>
-<v:shape id="_x0000_i1026" type="#_x0000_t75" alt="jyu_soihtu.eps" style="width:35.25pt;height:78.75pt;visibility:visible">
-<v:imagedata r:id="rId8" o:title="jyu_soihtu"/>
-</v:shape>
-</w:pict>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="10C7FA55" wp14:editId="21B72C09">
+<wp:extent cx="447675" cy="1000125"/>
+<wp:effectExtent l="0" t="0" r="0" b="0"/>
+<wp:docPr id="35" name="Picture 35" descr="jyu_soihtu.eps"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="0" name="Picture 2" descr="jyu_soihtu.eps"/>
+<pic:cNvPicPr>
+<a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+</pic:cNvPicPr>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId8">
+<a:extLst>
+<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+<a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+</a:ext>
+</a:extLst>
+</a:blip>
+<a:srcRect/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="447675" cy="1000125"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
 </w:r>
 </w:p>
 <w:p w14:paraId="13B815C4" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
@@ -77,7 +150,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="469506D7" w14:textId="1F1777E2" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="469506D7" w14:textId="2CCA9C86" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -90,7 +163,134 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="00EE63C0">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:t>2022</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" anchor="b" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+</a:graphicData>
+</a:graphic>
+<wp14:sizeRelH relativeFrom="page">
+<wp14:pctWidth>0</wp14:pctWidth>
+</wp14:sizeRelH>
+<wp14:sizeRelV relativeFrom="page">
+<wp14:pctHeight>0</wp14:pctHeight>
+</wp14:sizeRelV>
+</wp:anchor>
+</w:drawing>
+</mc:Choice>
+<mc:Fallback>
+<w:pict>
+<v:shapetype w14:anchorId="31AE26A9" id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+<v:stroke joinstyle="miter"/>
+<v:path gradientshapeok="t" o:connecttype="rect"/>
+</v:shapetype>
+<v:shape id="Text Box 2" o:spid="_x0000_s1026" type="#_x0000_t202" alt="&quot;&quot;" style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:365.25pt;height:147.75pt;z-index:3;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:center;mso-position-horizontal-relative:page;mso-position-vertical:bottom;mso-position-vertical-relative:margin;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:bottom" o:gfxdata="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&#xA;" strokecolor="white">
+<v:textbox inset="0,0,0,0">
+<w:txbxContent>
+<w:p w14:paraId="62DB577C" w14:textId="0B211A22" w:rsidR="00B46D79" w:rsidRDefault="004B59C0" w:rsidP="00B46D79">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:noProof/>
+<w:lang w:eastAsia="fi-FI"/>
+</w:rPr>
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="10C7FA55" wp14:editId="21B72C09">
+<wp:extent cx="447675" cy="1000125"/>
+<wp:effectExtent l="0" t="0" r="0" b="0"/>
+<wp:docPr id="35" name="Picture 35" descr="jyu_soihtu.eps"/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+<pic:nvPicPr>
+<pic:cNvPr id="0" name="Picture 2" descr="jyu_soihtu.eps"/>
+<pic:cNvPicPr>
+<a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+</pic:cNvPicPr>
+</pic:nvPicPr>
+<pic:blipFill>
+<a:blip r:embed="rId8">
+<a:extLst>
+<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+<a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+</a:ext>
+</a:extLst>
+</a:blip>
+<a:srcRect/>
+<a:stretch>
+<a:fillRect/>
+</a:stretch>
+</pic:blipFill>
+<pic:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="447675" cy="1000125"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+</pic:spPr>
+</pic:pic>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</w:r>
+</w:p>
+<w:p w14:paraId="13B815C4" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:t>Jyväskylän yliopisto</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="1827B69B" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:pPr>
+<w:pStyle w:val="Jyvskylnyliopisto"/>
+</w:pPr>
+<w:r>
+<w:t>informaatioteknologian tiedekunta</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="469506D7" w14:textId="2CCA9C86" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:pPr>
+<w:pStyle w:val="Laitoksennimi"/>
+</w:pPr>
+<w:r>
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r>
+<w:instrText xml:space="preserve"> DATE  \@ "yyyy"  \* MERGEFORMAT </w:instrText>
+</w:r>
+<w:r>
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -108,6 +308,8 @@
 <w10:wrap type="square" anchorx="page" anchory="margin"/>
 </v:shape>
 </w:pict>
+</mc:Fallback>
+</mc:AlternateContent>
 </w:r>
 <w:r w:rsidR="00DB7C63">
 <w:t>O</w:t>
@@ -1251,7 +1453,7 @@
 <w:bookmarkEnd w:id="4"/>
 <w:bookmarkEnd w:id="5"/>
 </w:p>
-<w:p w14:paraId="7A598E9B" w14:textId="72103E30" w:rsidR="00371321" w:rsidRDefault="00B46D79">
+<w:p w14:paraId="7A598E9B" w14:textId="614BA26C" w:rsidR="00371321" w:rsidRDefault="00B46D79">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1332,7 +1534,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1348,7 +1550,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="58C0D1EF" w14:textId="18058004" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="58C0D1EF" w14:textId="6E9E1588" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1420,7 +1622,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1469,7 +1671,7 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="64ECB90F" w14:textId="5143532E" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="64ECB90F" w14:textId="25442CAE" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1541,7 +1743,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1557,7 +1759,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="68845B8C" w14:textId="4C3B6957" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="68845B8C" w14:textId="26D9F222" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1629,7 +1831,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1645,7 +1847,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="38B907AA" w14:textId="4F8CD8C3" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="38B907AA" w14:textId="104E40FC" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1717,7 +1919,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1733,7 +1935,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="2D67DDA0" w14:textId="729143F3" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="2D67DDA0" w14:textId="4FE4EE83" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1805,7 +2007,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1821,7 +2023,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="04AE06F0" w14:textId="01C96199" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="04AE06F0" w14:textId="177E87B3" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1893,7 +2095,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -1955,7 +2157,7 @@
 <w:t>KUVIOT JA TAULUKOT</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="1D32BE1E" w14:textId="4DDD9052" w:rsidR="00371321" w:rsidRDefault="00B46D79">
+<w:p w14:paraId="1D32BE1E" w14:textId="6A743E44" w:rsidR="00371321" w:rsidRDefault="00B46D79">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2034,7 +2236,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2050,7 +2252,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3EB4427D" w14:textId="0CB5E6A6" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="3EB4427D" w14:textId="0C3CBA2A" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2120,7 +2322,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2136,7 +2338,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="24679B17" w14:textId="580997CD" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="24679B17" w14:textId="7A980465" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2204,7 +2406,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2220,7 +2422,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="35B5877D" w14:textId="4AD8AFF1" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="35B5877D" w14:textId="19FC1E5B" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2288,7 +2490,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2304,7 +2506,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="101BA0DA" w14:textId="091A0885" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="101BA0DA" w14:textId="47AFC405" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2372,7 +2574,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2388,7 +2590,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="0EF687E4" w14:textId="09A81C37" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="0EF687E4" w14:textId="3B67C461" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2458,7 +2660,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2474,7 +2676,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="22C7EE40" w14:textId="74A6FD31" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="22C7EE40" w14:textId="7E18CC02" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2542,7 +2744,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2558,7 +2760,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6B0BDE78" w14:textId="2DA2563D" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="6B0BDE78" w14:textId="6A3F1CC7" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2626,7 +2828,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2642,7 +2844,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="41629DE6" w14:textId="2014EC3D" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="41629DE6" w14:textId="39A91B9D" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2712,7 +2914,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2728,7 +2930,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="7F506794" w14:textId="6AB6FE56" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="7F506794" w14:textId="21D6107D" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2796,7 +2998,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2812,7 +3014,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="4AA28F9A" w14:textId="637CB57E" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="4AA28F9A" w14:textId="2CEFA3B2" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2880,7 +3082,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2896,7 +3098,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="596BE414" w14:textId="6CC3AD41" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="596BE414" w14:textId="250F045C" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2966,7 +3168,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -2982,7 +3184,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1B19CB01" w14:textId="54BF18A6" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="1B19CB01" w14:textId="0E9554DD" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3036,7 +3238,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -3052,7 +3254,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="478DA2E1" w14:textId="4ADB4101" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="478DA2E1" w14:textId="27BE7881" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3105,7 +3307,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -3121,7 +3323,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="1FAE7073" w14:textId="12B44035" w:rsidR="00371321" w:rsidRDefault="005A153F">
+<w:p w14:paraId="1FAE7073" w14:textId="13334E38" w:rsidR="00371321" w:rsidRDefault="002B021C">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3174,7 +3376,7 @@
 </w:rPr>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 <w:webHidden/>
@@ -3222,7 +3424,7 @@
 </w:sectPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="2FF5FDFA" w14:textId="77777777" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="2FF5FDFA" w14:textId="154B5E62" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
@@ -4302,11 +4504,11 @@
 <w:t xml:space="preserve">muodostetaan esimerkinomaisesti lista ohjelmistoprojektien menestystekijöistä. Lopuksi </w:t>
 </w:r>
 <w:r w:rsidR="00712A14">
-<w:t>esitel</w:t>
+<w:t xml:space="preserve">esitellään lyhyesti </w:t>
 </w:r>
 <w:r w:rsidR="00712A14">
 <w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">lään lyhyesti menestystekijöiden </w:t>
+<w:t xml:space="preserve">menestystekijöiden </w:t>
 </w:r>
 <w:r w:rsidR="00523EF9">
 <w:t>määrittelyn</w:t>
@@ -4682,15 +4884,904 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="4E993460" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C"/>
-<w:p w14:paraId="667B3697" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="005A153F" w:rsidP="009C1B1C">
+<w:p w14:paraId="667B3697" w14:textId="052415A0" w:rsidR="009C1B1C" w:rsidRDefault="004B59C0" w:rsidP="009C1B1C">
 <w:pPr>
 <w:jc w:val="center"/>
 </w:pPr>
 <w:r>
-<w:pict w14:anchorId="729671DC">
-<v:group id="Group 35" o:spid="_x0000_s2179" style="width:330.65pt;height:180.65pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" coordsize="97366,60282">
-<v:rect id="Rectangle 2" o:spid="_x0000_s2180" style="position:absolute;left:423;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 2">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<mc:AlternateContent>
+<mc:Choice Requires="wpg">
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="729671DC" wp14:editId="039CB160">
+<wp:extent cx="4199255" cy="2294255"/>
+<wp:effectExtent l="12065" t="13970" r="8255" b="6350"/>
+<wp:docPr id="15" name="Group 35" descr="Kuviossa yhdeksän laatikkoa nuolien avulla ketjutettuna. Luettelen seuraavaksi laatikkojen sisällöt ensimmäisestä viimeiseen:&#xA;108 julkaisua.&#xA;60 julkaisua.&#xA;31 julkaisua.&#xA;176 artikkelia.&#xA;56 artikkelia.&#xA;Lumipallo-otanta: 61 artikkelia.&#xA;19 (tieteellistä) artikkelia&#xA;Keskeisten ei-tieteellisten sisällyttäminen: 21 lähdettä (aineisto).&#xA;36 lähdettä (sisältää toissijaiset viitteet)."/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">
+<wpg:wgp>
+<wpg:cNvGrpSpPr>
+<a:grpSpLocks/>
+</wpg:cNvGrpSpPr>
+<wpg:grpSpPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="4199255" cy="2294255"/>
+<a:chOff x="0" y="0"/>
+<a:chExt cx="97366" cy="60282"/>
+</a:xfrm>
+</wpg:grpSpPr>
+<wps:wsp>
+<wps:cNvPr id="16" name="Rectangle 2"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="423" y="0"/>
+<a:ext cx="19727" cy="15324"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="109AE71E" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+<w:t>108</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="21A13235" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00EC5238" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:ind w:firstLine="0"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:cs="Times New Roman"/>
+<w:color w:val="000000"/>
+<w:kern w:val="24"/>
+<w:sz w:val="20"/>
+<w:szCs w:val="20"/>
+</w:rPr>
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="17" name="Rectangle 3"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="39031" y="0"/>
+<a:ext cx="19727" cy="15324"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="400FD998" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyText"/>
+<w:spacing w:before="120"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:t>60</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="3B1B7ADB" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00EC5238" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyText"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="18" name="Rectangle 4"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="77639" y="0"/>
+<a:ext cx="19727" cy="15324"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="2844E6D9" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>31</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="7658CAA7" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00EC5238" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>julkaisua</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="19" name="Rectangle 5"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="77639" y="22478"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="47634EDF" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>176</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="47D5918F" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00EC5238" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="20" name="Rectangle 6"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="39031" y="22478"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="673DFEE7" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="120"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>56</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="5068C998" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00EC5238" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00EC5238">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+</w:rPr>
+<w:t>artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="21" name="Rectangle 7"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="22478"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="5F0AB8B7" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="0047114F" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0047114F">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>Lumipallo-otanta:</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="395D1EEB" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="0047114F" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="0047114F">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>61 artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="22" name="Rectangle 8"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="44957"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="4478006D" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00340996" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>19</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="4AB53462" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00340996" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="18"/>
+<w:szCs w:val="18"/>
+</w:rPr>
+<w:t>(tieteellistä) artikkelia</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="23" name="Rectangle 9"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="39031" y="44957"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="24A764D3" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00340996" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="80"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00340996">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="12"/>
+<w:szCs w:val="12"/>
+</w:rPr>
+<w:t>Keskeisten ei-tieteellisten sisällyttäminen: 21 lähdettä (aineisto)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="24" name="Rectangle 10"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="77639" y="44957"/>
+<a:ext cx="19727" cy="15325"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="44D3C898" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="000B775E" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:spacing w:before="40"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B775E">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+<w:t>36 lähdettä (sisältää</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="0BC3562C" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="000B775E" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:pPr>
+<w:pStyle w:val="BodyTextIndent2"/>
+<w:ind w:firstLine="0"/>
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="000B775E">
+<w:rPr>
+<w:rFonts w:ascii="Book Antiqua" w:hAnsi="Book Antiqua"/>
+<w:sz w:val="14"/>
+<w:szCs w:val="14"/>
+</w:rPr>
+<w:t>toissijaiset viitteet)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="25" name="Straight Arrow Connector 11"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks noChangeShapeType="1"/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="20150" y="7662"/>
+<a:ext cx="18881" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="26" name="Straight Arrow Connector 12"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm flipV="1">
+<a:off x="58758" y="7662"/>
+<a:ext cx="18881" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="27" name="Straight Arrow Connector 13"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="87502" y="15324"/>
+<a:ext cx="0" cy="7154"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="28" name="Straight Arrow Connector 14"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+<a:stCxn id="19" idx="1"/>
+<a:endCxn id="20" idx="3"/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm flipH="1" flipV="1">
+<a:off x="58758" y="30141"/>
+<a:ext cx="18881" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="29" name="Straight Arrow Connector 15"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+<a:stCxn id="20" idx="1"/>
+<a:endCxn id="21" idx="3"/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm flipH="1">
+<a:off x="19727" y="30141"/>
+<a:ext cx="19304" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="30" name="Straight Arrow Connector 16"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="9863" y="37803"/>
+<a:ext cx="0" cy="7154"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="31" name="Straight Arrow Connector 17"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="19727" y="52620"/>
+<a:ext cx="19304" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="32" name="Straight Arrow Connector 18"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+<a:stCxn id="23" idx="3"/>
+<a:endCxn id="24" idx="1"/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="58758" y="52620"/>
+<a:ext cx="18881" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+</wpg:wgp>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</mc:Choice>
+<mc:Fallback>
+<w:pict>
+<v:group w14:anchorId="729671DC" id="Group 35" o:spid="_x0000_s1027" alt="Kuviossa yhdeksän laatikkoa nuolien avulla ketjutettuna. Luettelen seuraavaksi laatikkojen sisällöt ensimmäisestä viimeiseen:&#xA;108 julkaisua.&#xA;60 julkaisua.&#xA;31 julkaisua.&#xA;176 artikkelia.&#xA;56 artikkelia.&#xA;Lumipallo-otanta: 61 artikkelia.&#xA;19 (tieteellistä) artikkelia&#xA;Keskeisten ei-tieteellisten sisällyttäminen: 21 lähdettä (aineisto).&#xA;36 lähdettä (sisältää toissijaiset viitteet)." style="width:330.65pt;height:180.65pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" coordsize="97366,60282" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQC41shsSQUAAHEtAAAOAAAAZHJzL2Uyb0RvYy54bWzsml1v2zYUhu8H7D8Qul+sL1uWEKco3CYb&#xA;0G3F0u2e1oclTCI1iomd/vodHsqUZUdxmrbOgCkXhhRKFHn46OURX16+2VYluU9FU3C2sJwL2yIp&#xA;i3lSsPXC+vPT9U9zizSSsoSWnKUL6yFtrDdXP/5wuamj1OU5L5NUEKiENdGmXli5lHU0mTRxnla0&#xA;ueB1yqAw46KiEk7FepIIuoHaq3Li2vZssuEiqQWP06aB/77ThdYV1p9laSx/z7ImlaRcWNA2ib8C&#xA;f1fqd3J1SaO1oHVexG0z6AtaUdGCwUNNVe+opOROFEdVVUUseMMzeRHzasKzrIhT7AP0xrEPenMj&#xA;+F2NfVlHm3VtwgShPYjTi6uNf7u/EfVt/VHo1sPhBx7/3UBcJpt6He2Xq/O1vpisNr/yBMaT3kmO&#xA;Hd9molJVQJfIFuP7YOKbbiWJ4Z++E4budGqRGMpcN/TVCY5AnMMwHd0X5+/bO8PAm830fTPbnbvq&#xA;rgmN9EOxoW3D1MADSU0XrObrgnWb0zrFMWhUMD4KUiQAOjSG0QoC8AcgRtm6TAk2Sj0dLtsFtNHR&#xA;JIwvc7gqfSsE3+QpTaBVDnaid4M6aWAsTobXdz2LHAfYCQM30GFypp7r98JEo1o08iblFVEHC0tA&#xA;03Hs6P2HRuqI7i5RQ9nwskiui7LEE7FeLUtB7im8Sdf419beu6xkZANdcwPbxqp7hc1+HTb+PVZH&#xA;VUjQhLKoFtbcXEQjFbb3LEFeJC1KfQwUlAxh1aHTAMjtaqsHSj1AhXXFkwcIrOBaAkCy4CDn4rNF&#xA;NvD6L6zmnzsqUouUvzAYnNDxfaUXeOJPAxdOxH7Jar+EshiqWlixFBbRJ0upVeauFsU6h2c5GA/G&#xA;38IbkxUY7q5dbQeA23MBDJgcAuztYnUGgL3Q9pwRYcT5BMJGV0aEtbjuNBhSi0OEUfF6kgoy9p00&#xA;OAhmXjgi/ByEjbKMCPcRBn4OEcaM6OwIu64fzJX+02iXrR0kE9guk3P9L5MJoy4jxj2MVXJ0iPHs&#xA;VZKJEWOVH59IKIzCjBj3MYaE9BDj4IwYw1uE38WjEp9E2KjLiHAfYfcYYZzWz5RQaIR9P5ziizMm&#xA;E8MrE0ZZRoT7CMPK1qEKh2dU4W5lYsT4GcmEUZcR4z7G/jHGDvoNZ5Libnli5PgZHBuJGTnucwx2&#xA;jZbjWymoWsomaGKQJWcMDAQuiINORov1kmkrKd6y1koy5gdaKZ8eanBNet6HvkXd/yzvA4yyqc4z&#xA;gtkMF0f30oz5fA5ZvPKX8F0bXq9o2t6Ybuj1+QErhHHlg+DySOtwhDY04mmX5Fs4HERivKQo0GQC&#xA;s2JhVWkCNkUKfqs6Gvze0yCrYhXa81kLrvHGhokxa9pgNRwTs2uzKXyaDZKVRf3XzmFpDcjpPJjC&#xA;AjGAMFLyn6TEGFDDlJhlYwMCjTpd+UJK1LvasgFo2PChBGwYl7STEJAWJR+BMz1hn44KAjs2vou7&#xA;7hpnZ5gNsxY7xAYYP3K5ZdoFhnX2IoEdCDjvwFizZFek1i6xCGFDqTQ1PkN2flZ1nhAgz3b83YPb&#xA;/QzOOE/hlhMV4Vebp4z5MkyZWSo1TBwo0D5lBqXdYO9RBpB8LWV7AtZaMyBTj7EVejZ8fIw50Cuy&#xA;5YGqnMqazRrmEFtfIkZ7cITzmd4c5AVzG1VtnNwe2SL0WrKjtr2cQsOsDX5jNDrdmLozkCtIoTo2&#xA;nFE3Xn1O8sz6/fCcZFbchuDozUkgBd3E0898YJLokqIXik33mfUYUWOW8xRREHLc14tuV7sHWW0c&#xA;3j/Hr/dup/TVvwAAAP//AwBQSwMEFAAGAAgAAAAhAHTRpPLbAAAABQEAAA8AAABkcnMvZG93bnJl&#xA;di54bWxMj0FrwkAQhe+F/odlCt7qJg2GkmYjIq0nKaiF0tuYHZNgdjZk1yT++6691Mvwhje8902+&#xA;nEwrBupdY1lBPI9AEJdWN1wp+Dp8PL+CcB5ZY2uZFFzJwbJ4fMgx03bkHQ17X4kQwi5DBbX3XSal&#xA;K2sy6Oa2Iw7eyfYGfVj7SuoexxBuWvkSRak02HBoqLGjdU3leX8xCjYjjqskfh+259P6+nNYfH5v&#xA;Y1Jq9jSt3kB4mvz/MdzwAzoUgeloL6ydaBWER/zfDF6axgmIo4LkJmSRy3v64hcAAP//AwBQSwEC&#xA;LQAUAAYACAAAACEAtoM4kv4AAADhAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNd&#xA;LnhtbFBLAQItABQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAAAC8BAABfcmVscy8u&#xA;cmVsc1BLAQItABQABgAIAAAAIQC41shsSQUAAHEtAAAOAAAAAAAAAAAAAAAAAC4CAABkcnMvZTJv&#xA;RG9jLnhtbFBLAQItABQABgAIAAAAIQB00aTy2wAAAAUBAAAPAAAAAAAAAAAAAAAAAKMHAABkcnMv&#xA;ZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAAqwgAAAAA&#xA;">
+<v:rect id="Rectangle 2" o:spid="_x0000_s1028" style="position:absolute;left:423;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBHAmzBwAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Li8Iw&#xA;EL4L/ocwgjdN9SBLNRYRBQ9e2t2D3oZmbIvNpDSxD3/9ZkHY23x8z9klg6lFR62rLCtYLSMQxLnV&#xA;FRcKfr7Piy8QziNrrC2TgpEcJPvpZIextj2n1GW+ECGEXYwKSu+bWEqXl2TQLW1DHLiHbQ36ANtC&#xA;6hb7EG5quY6ijTRYcWgosaFjSfkzexkFmA33cRxvfS/TOqpO77TJrqlS89lw2ILwNPh/8cd90WH+&#xA;Bv5+CQfI/S8AAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAAAAAA&#xA;AAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAAAAAA&#xA;AAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEARwJswcAAAADbAAAADwAAAAAA&#xA;AAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPQCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="109AE71E" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4742,8 +5833,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 3" o:spid="_x0000_s2181" style="position:absolute;left:39031;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 3">
+<v:rect id="Rectangle 3" o:spid="_x0000_s1029" style="position:absolute;left:39031;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQAoTslawAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Ni8Iw&#xA;EL0L/ocwC940XQ8qXdOyLAoevLR6cG9DM9uWbSalibb11xtB8DaP9znbdDCNuFHnassKPhcRCOLC&#xA;6ppLBefTfr4B4TyyxsYyKRjJQZpMJ1uMte05o1vuSxFC2MWooPK+jaV0RUUG3cK2xIH7s51BH2BX&#xA;St1hH8JNI5dRtJIGaw4NFbb0U1Hxn1+NAsyH33EcL30vsyaqd/eszY+ZUrOP4fsLhKfBv8Uv90GH&#xA;+Wt4/hIOkMkDAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAAAAAA&#xA;AAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAAAAAA&#xA;AAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAKE7JWsAAAADbAAAADwAAAAAA&#xA;AAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPQCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="400FD998" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4767,8 +5858,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 4" o:spid="_x0000_s2182" style="position:absolute;left:77639;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 4">
+<v:rect id="Rectangle 4" o:spid="_x0000_s1030" style="position:absolute;left:77639;width:19727;height:15324;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBZ0V0owwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8JA&#xA;DIXvgv9hyII3ne4eFqmOIssKHvbS6kFvoRPbYidTOqNt99ebg+At4b2892W9HVyjHtSF2rOBz0UC&#xA;irjwtubSwOm4ny9BhYhssfFMBkYKsN1MJ2tMre85o0ceSyUhHFI0UMXYplqHoiKHYeFbYtGuvnMY&#xA;Ze1KbTvsJdw1+itJvrXDmqWhwpZ+Kipu+d0ZwHy4jON47nudNUn9+5+1+V9mzOxj2K1ARRri2/y6&#xA;PljBF1j5RQbQmycAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAA&#xA;AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAA&#xA;AAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAWdFdKMMAAADbAAAADwAA&#xA;AAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPcCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="2844E6D9" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4804,8 +5895,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 5" o:spid="_x0000_s2183" style="position:absolute;left:77639;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 5">
+<v:rect id="Rectangle 5" o:spid="_x0000_s1031" style="position:absolute;left:77639;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQA2nfizwAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Ni8Iw&#xA;EL0L/ocwC940XQ+iXdOyLAoevLR6cG9DM9uWbSalibb11xtB8DaP9znbdDCNuFHnassKPhcRCOLC&#xA;6ppLBefTfr4G4TyyxsYyKRjJQZpMJ1uMte05o1vuSxFC2MWooPK+jaV0RUUG3cK2xIH7s51BH2BX&#xA;St1hH8JNI5dRtJIGaw4NFbb0U1Hxn1+NAsyH33EcL30vsyaqd/eszY+ZUrOP4fsLhKfBv8Uv90GH&#xA;+Rt4/hIOkMkDAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAAAAAA&#xA;AAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAAAAAA&#xA;AAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEANp34s8AAAADbAAAADwAAAAAA&#xA;AAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPQCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="47634EDF" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4841,8 +5932,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 6" o:spid="_x0000_s2184" style="position:absolute;left:39031;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 6">
+<v:rect id="Rectangle 6" o:spid="_x0000_s1032" style="position:absolute;left:39031;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBpy5uTvAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE+9CsIw&#xA;EN4F3yGc4KapDiLVKCIKDi6tDrodzdkWm0tpom19ejMIjh/f/3rbmUq8qXGlZQWzaQSCOLO65FzB&#xA;9XKcLEE4j6yxskwKenKw3QwHa4y1bTmhd+pzEULYxaig8L6OpXRZQQbd1NbEgXvYxqAPsMmlbrAN&#xA;4aaS8yhaSIMlh4YCa9oXlD3Tl1GAaXfv+/7WtjKpovLwSer0nCg1HnW7FQhPnf+Lf+6TVjAP68OX&#xA;8APk5gsAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAAAAAAAAAAAAAA&#xA;W0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAALAAAAAAAAAAAA&#xA;AAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBpy5uTvAAAANsAAAAPAAAAAAAAAAAA&#xA;AAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA8AIAAAAA&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="673DFEE7" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4878,8 +5969,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 7" o:spid="_x0000_s2185" style="position:absolute;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 7">
+<v:rect id="Rectangle 7" o:spid="_x0000_s1033" style="position:absolute;top:22478;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQAGhz4IwwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA&#xA;FITvgv9heYI33cSDlJhNKEWhBy9JPejtkX1NQrNvQ3ZrEn99tyB4HGbmGybNJ9OJOw2utawg3kYg&#xA;iCurW64VXL5OmzcQziNr7CyTgpkc5NlykWKi7cgF3UtfiwBhl6CCxvs+kdJVDRl0W9sTB+/bDgZ9&#xA;kEMt9YBjgJtO7qJoLw22HBYa7Omjoeqn/DUKsJxu8zxfx1EWXdQeH0Vfngul1qvp/QDC0+Rf4Wf7&#xA;UyvYxfD/JfwAmf0BAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAA&#xA;AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAA&#xA;AAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEABoc+CMMAAADbAAAADwAA&#xA;AAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPcCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="5F0AB8B7" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="0047114F" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4923,8 +6014,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 8" o:spid="_x0000_s2186" style="position:absolute;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 8">
+<v:rect id="Rectangle 8" o:spid="_x0000_s1034" style="position:absolute;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQD2VaB/wQAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvC/6H8ARva2oPslSjiCh48NKuB709mmdbbF5KE23rrzeC4HGYmW+Y5bo3tXhQ6yrLCmbTCARx&#xA;bnXFhYLT//73D4TzyBpry6RgIAfr1ehniYm2Haf0yHwhAoRdggpK75tESpeXZNBNbUMcvKttDfog&#xA;20LqFrsAN7WMo2guDVYcFkpsaFtSfsvuRgFm/WUYhnPXybSOqt0zbbJjqtRk3G8WIDz1/hv+tA9a&#xA;QRzD+0v4AXL1AgAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAAAAAA&#xA;AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAAAA&#xA;AAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAPZVoH/BAAAA2wAAAA8AAAAA&#xA;AAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD1AgAAAAA=&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="4478006D" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00340996" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4968,8 +6059,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 9" o:spid="_x0000_s2187" style="position:absolute;left:39031;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 9">
+<v:rect id="Rectangle 9" o:spid="_x0000_s1035" style="position:absolute;left:39031;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCZGQXkwwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvC/6H8ARva6rCslTTIqLgwUu7e9Dbo3m2xealNNG2/nojLOxxmJlvmE06mEY8qHO1ZQWLeQSC&#xA;uLC65lLB78/h8xuE88gaG8ukYCQHaTL52GCsbc8ZPXJfigBhF6OCyvs2ltIVFRl0c9sSB+9qO4M+&#xA;yK6UusM+wE0jl1H0JQ3WHBYqbGlXUXHL70YB5sNlHMdz38usier9M2vzU6bUbDps1yA8Df4//Nc+&#xA;agXLFby/hB8gkxcAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAA&#xA;AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAA&#xA;AAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAmRkF5MMAAADbAAAADwAA&#xA;AAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPcCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="24A764D3" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="00340996" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -4994,8 +6085,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 10" o:spid="_x0000_s2188" style="position:absolute;left:77639;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox style="mso-next-textbox:#Rectangle 10">
+<v:rect id="Rectangle 10" o:spid="_x0000_s1036" style="position:absolute;left:77639;top:44957;width:19727;height:15325;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQAW8J2QwwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvC/6H8ARva6rIslTTIqLgwUu7e9Dbo3m2xealNNG2/nojLOxxmJlvmE06mEY8qHO1ZQWLeQSC&#xA;uLC65lLB78/h8xuE88gaG8ukYCQHaTL52GCsbc8ZPXJfigBhF6OCyvs2ltIVFRl0c9sSB+9qO4M+&#xA;yK6UusM+wE0jl1H0JQ3WHBYqbGlXUXHL70YB5sNlHMdz38usier9M2vzU6bUbDps1yA8Df4//Nc+&#xA;agXLFby/hB8gkxcAAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAA&#xA;AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAA&#xA;AAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAFvCdkMMAAADbAAAADwAA&#xA;AAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPcCAAAAAA==&#xA;" strokeweight="1pt">
+<v:textbox>
 <w:txbxContent>
 <w:p w14:paraId="44D3C898" w14:textId="77777777" w:rsidR="009C1B1C" w:rsidRPr="000B775E" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
@@ -5043,44 +6134,45 @@
 <v:path arrowok="t" fillok="f" o:connecttype="none"/>
 <o:lock v:ext="edit" shapetype="t"/>
 </v:shapetype>
-<v:shape id="Straight Arrow Connector 11" o:spid="_x0000_s2189" type="#_x0000_t32" style="position:absolute;left:20150;top:7662;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 11" o:spid="_x0000_s1037" type="#_x0000_t32" style="position:absolute;left:20150;top:7662;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCcMbi4xwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9La8Mw&#xA;EITvhf4HsYVeSiLXIQ/cKMEthPjUkAeE3jbW1ja1VsZSYie/PioUehxm5htmvuxNLS7Uusqygtdh&#xA;BII4t7riQsFhvxrMQDiPrLG2TAqu5GC5eHyYY6Jtx1u67HwhAoRdggpK75tESpeXZNANbUMcvG/b&#xA;GvRBtoXULXYBbmoZR9FEGqw4LJTY0EdJ+c/ubBRM919j9O+37Hj4HG1eaH06p/Kk1PNTn76B8NT7&#xA;//BfO9MK4jH8fgk/QC7uAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAA&#xA;AAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEA&#xA;AAsAAAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAJwxuLjHAAAA2wAA&#xA;AA8AAAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD7AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 12" o:spid="_x0000_s2190" type="#_x0000_t32" style="position:absolute;left:58758;top:7662;width:18881;height:0;flip:y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
-<v:stroke endarrow="block" joinstyle="miter"/>
-<o:lock v:ext="edit" shapetype="f"/>
-</v:shape>
-<v:shape id="Straight Arrow Connector 13" o:spid="_x0000_s2191" type="#_x0000_t32" style="position:absolute;left:87502;top:15324;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 12" o:spid="_x0000_s1038" type="#_x0000_t32" style="position:absolute;left:58758;top:7662;width:18881;height:0;flip:y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBDj6vpwwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA&#xA;FITvQv/D8gq96aYegqRZRaQFpQgapXh8ZF+T0OzbdHc18d+7guBxmPlmmHwxmFZcyPnGsoL3SQKC&#xA;uLS64UrB8fA1noHwAVlja5kUXMnDYv4yyjHTtuc9XYpQiVjCPkMFdQhdJqUvazLoJ7Yjjt6vdQZD&#xA;lK6S2mEfy00rp0mSSoMNx4UaO1rVVP4VZ6Ngaj91f9p9b1b/xfq0/Nm6mU+dUm+vw/IDRKAhPMMP&#xA;eq0jl8L9S/wBcn4DAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAA&#xA;AAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAA&#xA;AAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAQ4+r6cMAAADbAAAADwAA&#xA;AAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPcCAAAAAA==&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 14" o:spid="_x0000_s2192" type="#_x0000_t32" style="position:absolute;left:58758;top:30141;width:18881;height:0;flip:x y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 13" o:spid="_x0000_s1039" type="#_x0000_t32" style="position:absolute;left:87502;top:15324;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQADr4NUxAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvC/6H8AQvi6YqrtI1igqiJ2VVEG/P5m1bbF5KE7X6642wsMdhZr5hxtPaFOJGlcstK+h2IhDE&#xA;idU5pwoO+2V7BMJ5ZI2FZVLwIAfTSeNjjLG2d/6h286nIkDYxagg876MpXRJRgZdx5bEwfu1lUEf&#xA;ZJVKXeE9wE0he1H0JQ3mHBYyLGmRUXLZXY2C4f40QD9/ro+HTX/7SavzdSbPSrWa9ewbhKfa/4f/&#xA;2mutoDeE95fwA+TkBQAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAAOvg1TEAAAA2wAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 15" o:spid="_x0000_s2193" type="#_x0000_t32" style="position:absolute;left:19727;top:30141;width:19304;height:0;flip:x;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 14" o:spid="_x0000_s1040" type="#_x0000_t32" style="position:absolute;left:58758;top:30141;width:18881;height:0;flip:x y;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBha1kZwAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9La8JA&#xA;EL4X/A/LCL3VjRYWSV2lKEJPBeMDvQ3ZaRKanQ3ZaUz/vXso9PjxvVeb0bdqoD42gS3MZxko4jK4&#xA;hisLp+P+ZQkqCrLDNjBZ+KUIm/XkaYW5C3c+0FBIpVIIxxwt1CJdrnUsa/IYZ6EjTtxX6D1Kgn2l&#xA;XY/3FO5bvcgyoz02nBpq7GhbU/ld/HgLn9VuMFfTFrfLdh/Ox1cj4oy1z9Px/Q2U0Cj/4j/3h7Ow&#xA;SGPTl/QD9PoBAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAAAAAA&#xA;AAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAAAAAA&#xA;AAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAYWtZGcAAAADbAAAADwAAAAAA&#xA;AAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPQCAAAAAA==&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 16" o:spid="_x0000_s2194" type="#_x0000_t32" style="position:absolute;left:9863;top:37803;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 15" o:spid="_x0000_s1041" type="#_x0000_t32" style="position:absolute;left:19727;top:30141;width:19304;height:0;flip:x;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQAyED+bxAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Ba8JA&#xA;FITvgv9heUJvutGDaOoqIViwFKFGKR4f2dckNPs23d2a+O+7hYLHYeabYTa7wbTiRs43lhXMZwkI&#xA;4tLqhisFl/PLdAXCB2SNrWVScCcPu+14tMFU255PdCtCJWIJ+xQV1CF0qZS+rMmgn9mOOHqf1hkM&#xA;UbpKaod9LDetXCTJUhpsOC7U2FFeU/lV/BgFC7vX/fX97TX/Lg7X7OPoVn7plHqaDNkziEBDeIT/&#xA;6YOO3Br+vsQfILe/AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhADIQP5vEAAAA2wAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 17" o:spid="_x0000_s2195" type="#_x0000_t32" style="position:absolute;left:19727;top:52620;width:19304;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 16" o:spid="_x0000_s1042" type="#_x0000_t32" style="position:absolute;left:9863;top:37803;width:0;height:7154;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQAJn439wQAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE/LisIw&#xA;FN0P+A/hCrMRTVV8UI2iwjCuFB8g7q7NtS02N6WJ2vHrzUKY5eG8p/PaFOJBlcstK+h2IhDEidU5&#xA;pwqOh5/2GITzyBoLy6TgjxzMZ42vKcbaPnlHj71PRQhhF6OCzPsyltIlGRl0HVsSB+5qK4M+wCqV&#xA;usJnCDeF7EXRUBrMOTRkWNIqo+S2vxsFo8N5gH75Wp+Om/62Rb+X+0JelPpu1osJCE+1/xd/3Gut&#xA;oB/Why/hB8jZGwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAAAAAA&#xA;AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAAAA&#xA;AAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAAmfjf3BAAAA2wAAAA8AAAAA&#xA;AAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD1AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<v:shape id="Straight Arrow Connector 18" o:spid="_x0000_s2196" type="#_x0000_t32" style="position:absolute;left:58758;top:52620;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 17" o:spid="_x0000_s1043" type="#_x0000_t32" style="position:absolute;left:19727;top:52620;width:19304;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBm0yhmxQAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Pi8Iw&#xA;FMTvwn6H8AQvsqYquks1irsgelL8A4u3Z/NsyzYvpYla/fRGEDwOM/MbZjytTSEuVLncsoJuJwJB&#xA;nFidc6pgv5t/foNwHlljYZkU3MjBdPLRGGOs7ZU3dNn6VAQIuxgVZN6XsZQuycig69iSOHgnWxn0&#xA;QVap1BVeA9wUshdFQ2kw57CQYUm/GSX/27NR8LU7DND/3Jd/+1V/3abF8TyTR6VazXo2AuGp9u/w&#xA;q73UCvpdeH4JP0BOHgAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAA&#xA;AAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAAL&#xA;AAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBm0yhmxQAAANsAAAAP&#xA;AAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA+QIAAAAA&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<w10:wrap type="none"/>
+<v:shape id="Straight Arrow Connector 18" o:spid="_x0000_s1044" type="#_x0000_t32" style="position:absolute;left:58758;top:52620;width:18881;height:0;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCWAbYRxgAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Pa8JA&#xA;FMTvhX6H5RV6KWZTxT+kWcUWRE+KGpDeXrKvSWj2bciumvbTu0Khx2FmfsOki9404kKdqy0reI1i&#xA;EMSF1TWXCrLjajAD4TyyxsYyKfghB4v540OKibZX3tPl4EsRIOwSVFB53yZSuqIigy6yLXHwvmxn&#xA;0AfZlVJ3eA1w08hhHE+kwZrDQoUtfVRUfB/ORsH0+DlG//67OWXb0e6F1vl5KXOlnp/65RsIT73/&#xA;D/+1N1rBaAj3L+EHyPkNAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAA&#xA;AAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAA&#xA;CwAAAAAAAAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAlgG2EcYAAADbAAAA&#xA;DwAAAAAAAAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPoCAAAAAA==&#xA;" strokeweight="1.5pt">
+<v:stroke endarrow="block" joinstyle="miter"/>
+<o:lock v:ext="edit" shapetype="f"/>
+</v:shape>
 <w10:anchorlock/>
 </v:group>
 </w:pict>
+</mc:Fallback>
+</mc:AlternateContent>
 </w:r>
 </w:p>
-<w:p w14:paraId="1FEA3864" w14:textId="09F57639" w:rsidR="009C1B1C" w:rsidRPr="00CC4D96" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:p w14:paraId="1FEA3864" w14:textId="68205A1E" w:rsidR="009C1B1C" w:rsidRPr="00CC4D96" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
 <w:pStyle w:val="Caption"/>
 </w:pPr>
@@ -5088,22 +6180,22 @@
 <w:r>
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -5147,11 +6239,11 @@
 <w:t>suomalaisen tiedeyhteisön toteuttama, tutkimuksen laadunarviointia tukeva julkaisukanavien tasoluokitus</w:t>
 </w:r>
 <w:r>
-<w:t>”. Se luokittelee tieteelli</w:t>
+<w:t xml:space="preserve">”. Se luokittelee tieteellisiä </w:t>
 </w:r>
 <w:r>
 <w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">siä julkaisuja neljälle tasolle: </w:t>
+<w:t xml:space="preserve">julkaisuja neljälle tasolle: </w:t>
 </w:r>
 <w:r w:rsidR="00181385">
 <w:t>0</w:t>
@@ -5348,7 +6440,7 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="74399034" w14:textId="5A787C84" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:p w14:paraId="74399034" w14:textId="2CE396F3" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -5359,22 +6451,22 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -5764,7 +6856,7 @@
 <w:t>esitetyillä syillä 60 julkaisun joukko. Lopullisen aineiston keruuseen valittiin kuitenkin kysely 1, joten julkaisuja jäi lopulta jäljelle vain 31.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0A75D635" w14:textId="44979293" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
+<w:p w14:paraId="0A75D635" w14:textId="0BB7E99F" w:rsidR="009C1B1C" w:rsidRDefault="009C1B1C" w:rsidP="009C1B1C">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -5775,22 +6867,22 @@
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="begin"/>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>2</w:t>
 </w:r>
-<w:r w:rsidR="005A153F">
+<w:r w:rsidR="002B021C">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -8698,7 +9790,7 @@
 <w:t>toteavat jaon projektinhallinnan ja projektin onnistumisen välillä olevan usean tutkijan hyväksymä käytäntö.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="33033B7F" w14:textId="3DCAA0FE" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
+<w:p w14:paraId="33033B7F" w14:textId="2C75330B" w:rsidR="00B46D79" w:rsidRDefault="00B46D79" w:rsidP="00B46D79">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -8710,7 +9802,7 @@
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
 <w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -9409,16 +10501,13 @@
 <w:t>projektin onnistumista</w:t>
 </w:r>
 <w:r w:rsidR="00382F9D">
-<w:t xml:space="preserve"> alihankkijan </w:t>
-</w:r>
-<w:r w:rsidR="00382F9D">
-<w:lastRenderedPageBreak/>
-<w:t xml:space="preserve">(engl. </w:t>
+<w:t xml:space="preserve"> alihankkijan (engl. </w:t>
 </w:r>
 <w:r w:rsidR="00382F9D" w:rsidRPr="00981B2B">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>supplier</w:t>
 </w:r>
 <w:r w:rsidR="00382F9D">
@@ -10284,7 +11373,6 @@
 </w:p>
 <w:p w14:paraId="411C5B92" w14:textId="1B072C25" w:rsidR="00433F87" w:rsidRDefault="000C1E2B" w:rsidP="005132E1">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Lopuksi</w:t>
 </w:r>
 <w:r w:rsidR="004C6AD3">
@@ -10309,7 +11397,11 @@
 <w:t xml:space="preserve"> </w:t>
 </w:r>
 <w:r w:rsidR="006407BC">
-<w:t>Menestystekijät, joiden tulkintamahdollisuudet nähtiin rajallisiksi laajemman kontekstin puuttuessa, päätettiin</w:t>
+<w:t xml:space="preserve">Menestystekijät, joiden tulkintamahdollisuudet nähtiin rajallisiksi </w:t>
+</w:r>
+<w:r w:rsidR="006407BC">
+<w:lastRenderedPageBreak/>
+<w:t>laajemman kontekstin puuttuessa, päätettiin</w:t>
 </w:r>
 <w:r w:rsidR="00BC4BA1">
 <w:t xml:space="preserve"> jättää listauksen ulkopuolelle. Yksi esimerkki tällaisesta menestystekijästä on </w:t>
@@ -10838,22 +11930,554 @@
 <w:t>menestystekijän epätarkkuutta terminä.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="662C967E" w14:textId="11B316C4" w:rsidR="005F5858" w:rsidRDefault="005A153F" w:rsidP="00AD580B">
+<w:p w14:paraId="662C967E" w14:textId="63314DBC" w:rsidR="005F5858" w:rsidRDefault="004B59C0" w:rsidP="00AD580B">
 <w:r>
-<w:pict w14:anchorId="4304AF56">
-<v:group id="Group 26" o:spid="_x0000_s2314" style="width:960pt;height:191.5pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" coordsize="121920,24321">
-<v:rect id="Rectangle 2" o:spid="_x0000_s2315" style="position:absolute;top:508;width:121920;height:0;visibility:visible;mso-wrap-style:none;v-text-anchor:middle" filled="f" fillcolor="#5b9bd5" stroked="f">
-<v:shadow color="#e7e6e6"/>
-<v:textbox style="mso-fit-shape-to-text:t"/>
-</v:rect>
-<v:group id="Group 3" o:spid="_x0000_s2316" style="position:absolute;left:1386;width:44499;height:24321" coordorigin="138620" coordsize="75438,44036">
-<v:rect id="Rectangle 6" o:spid="_x0000_s2317" style="position:absolute;left:161585;top:8815;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
-<v:textbox>
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<mc:AlternateContent>
+<mc:Choice Requires="wpg">
+<w:drawing>
+<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="4304AF56" wp14:editId="0D12418C">
+<wp:extent cx="12192000" cy="2432050"/>
+<wp:effectExtent l="1905" t="0" r="0" b="7620"/>
+<wp:docPr id="1" name="Group 26" descr="Kuviossa 2 x 2 matriisi. Vasemmanpuoleinen sarake kuvaa Sudhakarin (2012) kategorioiden suhdetta menestystekijöihin, kategorian ollessa yläkäsite.&#xA;Oikeapuoleinen sarake kuvaa Chown ja Caon (2008) menestystekijöiden suhdetta ominaisuuksiin, menestystekijän ollessa yläkäsite.&#xA;Kuviossa yläkäsitteet on liitetty laatikolla yhteen, havainnollistaen Sudhakarin (2012) kategorioiden rinnastettavuutta Chown ja Caon (2008) menestystekijöihin."/>
+<wp:cNvGraphicFramePr>
+<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+</wp:cNvGraphicFramePr>
+<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup">
+<wpg:wgp>
+<wpg:cNvGrpSpPr>
+<a:grpSpLocks/>
+</wpg:cNvGrpSpPr>
+<wpg:grpSpPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="0"/>
+<a:ext cx="12192000" cy="2432050"/>
+<a:chOff x="0" y="0"/>
+<a:chExt cx="121920" cy="24321"/>
+</a:xfrm>
+</wpg:grpSpPr>
+<wps:wsp>
+<wps:cNvPr id="3" name="Rectangle 2"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="0" y="508"/>
+<a:ext cx="121920" cy="0"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+<a:effectLst/>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:solidFill>
+<a:srgbClr val="5B9BD5"/>
+</a:solidFill>
+</a14:hiddenFill>
+</a:ext>
+<a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+<a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a14:hiddenLine>
+</a:ext>
+<a:ext uri="{AF507438-7753-43E0-B8FC-AC1667EBCBE1}">
+<a14:hiddenEffects xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:effectLst/>
+</a14:hiddenEffects>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr rot="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:spAutoFit/>
+</wps:bodyPr>
+</wps:wsp>
+<wpg:grpSp>
+<wpg:cNvPr id="4" name="Group 3"/>
+<wpg:cNvGrpSpPr>
+<a:grpSpLocks/>
+</wpg:cNvGrpSpPr>
+<wpg:grpSpPr bwMode="auto">
+<a:xfrm>
+<a:off x="1386" y="0"/>
+<a:ext cx="44499" cy="24321"/>
+<a:chOff x="138620" y="0"/>
+<a:chExt cx="75438" cy="44036"/>
+</a:xfrm>
+</wpg:grpSpPr>
+<wps:wsp>
+<wps:cNvPr id="5" name="Rectangle 6"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="161585" y="8815"/>
+<a:ext cx="21952" cy="15240"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
 <w:txbxContent>
-<w:p w14:paraId="353A0066" w14:textId="480D3037" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="006F0B23">
+<w:p w14:paraId="353A0066" w14:textId="480D3037" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
-<w:spacing w:before="434"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t>Kategoria</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="6" name="Rectangle 7"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="189840" y="8815"/>
+<a:ext cx="21952" cy="15240"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="0D2E2585" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t>Menestystekijä</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="7" name="Rectangle 8"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="161585" y="28796"/>
+<a:ext cx="21952" cy="15240"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="3E621856" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t>Menestystekijä</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="8" name="Rectangle 9"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="189840" y="28796"/>
+<a:ext cx="21952" cy="15240"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+<a:ln w="12700">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="544C7DD9" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r w:rsidRPr="00906910">
+<w:t>Ominaisuus</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="9" name="Rectangle 10"/>
+<wps:cNvSpPr>
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="138620" y="6850"/>
+<a:ext cx="75438" cy="19833"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="9525">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:round/>
+<a:headEnd/>
+<a:tailEnd/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="ctr" anchorCtr="0" upright="1">
+<a:noAutofit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="10" name="TextBox 8"/>
+<wps:cNvSpPr txBox="1">
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="139255" y="13947"/>
+<a:ext cx="20840" cy="5542"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+</a14:hiddenFill>
+</a:ext>
+<a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+<a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a14:hiddenLine>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="1584C92C" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00192332">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:spacing w:after="40"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t>Vastaava käsite</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="none" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0" upright="1">
+<a:spAutoFit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="11" name="TextBox 9"/>
+<wps:cNvSpPr txBox="1">
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="187577" y="0"/>
+<a:ext cx="26481" cy="6922"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+</a14:hiddenFill>
+</a:ext>
+<a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+<a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a14:hiddenLine>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="22266092" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00C6284E">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
+<w:spacing w:before="160"/>
+<w:jc w:val="center"/>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+</w:pPr>
+<w:r>
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Chow ja Cao (2008)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0" upright="1">
+<a:spAutoFit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="12" name="Straight Arrow Connector 13"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="200811" y="24055"/>
+<a:ext cx="0" cy="4741"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+</wpg:grpSp>
+<wps:wsp>
+<wps:cNvPr id="13" name="TextBox 9"/>
+<wps:cNvSpPr txBox="1">
+<a:spLocks noChangeArrowheads="1"/>
+</wps:cNvSpPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="13595" y="0"/>
+<a:ext cx="15621" cy="3822"/>
+</a:xfrm>
+<a:prstGeom prst="rect">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln>
+<a:noFill/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:solidFill>
+<a:srgbClr val="FFFFFF"/>
+</a:solidFill>
+</a14:hiddenFill>
+</a:ext>
+<a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+<a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd/>
+</a14:hiddenLine>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:txbx>
+<w:txbxContent>
+<w:p w14:paraId="355394BC" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00C6284E">
+<w:pPr>
+<w:pStyle w:val="NormaalitekstiAbstract-osassa"/>
+<w:spacing w:before="160"/>
+<w:jc w:val="center"/>
+</w:pPr>
+<w:r>
+<w:t>Sudhakar (2012)</w:t>
+</w:r>
+</w:p>
+</w:txbxContent>
+</wps:txbx>
+<wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" anchor="t" anchorCtr="0" upright="1">
+<a:spAutoFit/>
+</wps:bodyPr>
+</wps:wsp>
+<wps:wsp>
+<wps:cNvPr id="14" name="Straight Arrow Connector 5"/>
+<wps:cNvCnPr>
+<a:cxnSpLocks/>
+</wps:cNvCnPr>
+<wps:spPr bwMode="auto">
+<a:xfrm>
+<a:off x="21416" y="13279"/>
+<a:ext cx="0" cy="2618"/>
+</a:xfrm>
+<a:prstGeom prst="straightConnector1">
+<a:avLst/>
+</a:prstGeom>
+<a:noFill/>
+<a:ln w="19050">
+<a:solidFill>
+<a:srgbClr val="000000"/>
+</a:solidFill>
+<a:miter lim="800000"/>
+<a:headEnd/>
+<a:tailEnd type="triangle" w="med" len="med"/>
+</a:ln>
+<a:extLst>
+<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+<a:noFill/>
+</a14:hiddenFill>
+</a:ext>
+</a:extLst>
+</wps:spPr>
+<wps:bodyPr/>
+</wps:wsp>
+</wpg:wgp>
+</a:graphicData>
+</a:graphic>
+</wp:inline>
+</w:drawing>
+</mc:Choice>
+<mc:Fallback>
+<w:pict>
+<v:group w14:anchorId="4304AF56" id="Group 26" o:spid="_x0000_s1045" alt="Kuviossa 2 x 2 matriisi. Vasemmanpuoleinen sarake kuvaa Sudhakarin (2012) kategorioiden suhdetta menestystekijöihin, kategorian ollessa yläkäsite.&#xA;Oikeapuoleinen sarake kuvaa Chown ja Caon (2008) menestystekijöiden suhdetta ominaisuuksiin, menestystekijän ollessa yläkäsite.&#xA;Kuviossa yläkäsitteet on liitetty laatikolla yhteen, havainnollistaen Sudhakarin (2012) kategorioiden rinnastettavuutta Chown ja Caon (2008) menestystekijöihin." style="width:960pt;height:191.5pt;mso-position-horizontal-relative:char;mso-position-vertical-relative:line" coordsize="121920,24321" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQBdTlfx/QQAAJoeAAAOAAAAZHJzL2Uyb0RvYy54bWzsWW1v2zYQ/j5g/4HQ98WmXmxJiFN0aRMM&#xA;6LZi6X4ALcmWMInUSCZ2+ut3POrFkpcmTR0HRe0Pht5IHe+ee3j36PzNtirJXSZVIfjCoWdTh2Q8&#xA;EWnB1wvn709Xv4QOUZrxlJWCZwvnPlPOm4uffzrf1HHmilyUaSYJTMJVvKkXTq51HU8mKsmziqkz&#xA;UWccbq6ErJiGU7mepJJtYPaqnLjT6WyyETKtpUgypeDqO3vTucD5V6ss0X+uVirTpFw4YJvGf4n/&#xA;S/M/uThn8VqyOi+Sxgz2DCsqVnB4aTfVO6YZuZXF3lRVkUihxEqfJaKaiNWqSDJcA6yGTkeruZbi&#xA;tsa1rOPNuu7cBK4d+enZ0yZ/3F3L+qb+KK31cPhBJP8o8MtkU6/j3fvmfG0fJsvN7yKFeLJbLXDh&#xA;25WszBSwJLJF/953/s22miRwkbo0gqBBHBK46fqeOw2aECQ5xGlvYJK/HwztB1ITuQmL7WvR1MY0&#xA;E3rAkurdpb7NXTc5qzOMgjLu+ChJkS4czyGcVeCBvwBjjK/LjLjGJvNyeKr1qLLuJFxc5vBU9lZK&#xA;sckzloJRdg2DAeZEQTCe6N9gGloEDz1s3YSe7VzE4loqfZ2JipiDhSPBbowcu/ugtPVm+4gJJBdX&#xA;RVnCdRaXfHAB5rRXMkywZnRrunXBUqT3sAwpbMYBQ8BBLuRnh2wg2xYOBzpwSPkbB0dE1PdNcuKJ&#xA;H8xdOJG7d5a7dxhPYKKFk2jpEHtyqW1K39ayWOfwJoorU/VbgOdVgasz9lmrENoIEWNrg2l72MfX&#xA;b+OLSUg8G9thQph0P1TCUC+cOWQ/Z3zfj6IR7lncpYsZZtzVD+xzZh74HtCvyTXwrzd77ZQJWpf2&#xA;KYM2DTKAAf6RgQ6eMnRGgxBsAHeEIQ2GiQPMFLjWVzRwAY279PLVuaNEWaQmfUzeKLleXpaS3DHY&#xA;g67w18w+eKzkZGMocg78iMMenAMY1JCotXAwR1Vo2E3LooIldg+x2PDNe55iLmtWlPa4SWPgTss5&#xA;NnH1drlFgqP4hj5rvpDL6t9bJl88m7kw2bz6cjYfgfkhTcfMPzfBOBaMwyg0bHmC8dNgjLvsCcZ7&#xA;Bcx8H8ZYTBwLxj0bu+E8wo2AxW0dc6JjOabjrrp8tLT6segYKpwxHUevQ8cnHJsS47Gyoqmk22L8&#xA;VFY0DSUU+WMc9yXYETrKnU5iFrZtecvHO60EjUIPY3ig1tJUvVB7B88uekEkaWrbr6lzTyxqhYoG&#xA;fQC1Bn6fIOa/ii0ZFwNEb+Fy31q/UJPmRW5gmzTqRT4W1jtlwRRLX9PRBoGPO+KBUPh/AseDnZHf&#xA;7i+PgujbVQ59CI3jCF0RpWMAjXfhIwEonAdzqG0BItjA7oBn5odgpAHPLHJfDTwoPBytH/lu4APi&#xA;i93+brRkRsQjKJWSS8E5KJVCEtpVDrAbXnKrWCdbPlCsUXy1N42Pn6SlgiQdGvgCMED5AfZBoaTd&#xA;+oAYUUGb+0PNeU8UUo3hncVWhHyKvIrKT2TE8JdXfoi+r0G21rJA1Rr02IVTZSlosRl8wTFHDxZx&#xA;lu7MbeNbkNjxaEdAPQbPdMJ7u1G9Es94QWT3qRHN0GDmNjTjha9HM52y+ugedYh28buhGf9Rmun4&#xA;+dAsQ31qFX7quXMEbb83NSTjziiWXQ8XNT8uycAHUGwum4+15gvr7jlSUf9J+eI/AAAA//8DAFBL&#xA;AwQUAAYACAAAACEAwORyq9wAAAAGAQAADwAAAGRycy9kb3ducmV2LnhtbEyPQWvCQBCF74X+h2UK&#xA;vdVNGlo0zUZE2p5EqAribcyOSTA7G7JrEv99Vy/t5cHwhve+l81H04ieOldbVhBPIhDEhdU1lwp2&#xA;26+XKQjnkTU2lknBlRzM88eHDFNtB/6hfuNLEULYpaig8r5NpXRFRQbdxLbEwTvZzqAPZ1dK3eEQ&#xA;wk0jX6PoXRqsOTRU2NKyouK8uRgF3wMOiyT+7Ffn0/J62L6t96uYlHp+GhcfIDyN/u8ZbvgBHfLA&#xA;dLQX1k40CsIQf9ebNwtdII4KkmkSgcwz+R8//wUAAP//AwBQSwECLQAUAAYACAAAACEAtoM4kv4A&#xA;AADhAQAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAA&#xA;IQA4/SH/1gAAAJQBAAALAAAAAAAAAAAAAAAAAC8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAA&#xA;IQBdTlfx/QQAAJoeAAAOAAAAAAAAAAAAAAAAAC4CAABkcnMvZTJvRG9jLnhtbFBLAQItABQABgAI&#xA;AAAAIQDA5HKr3AAAAAYBAAAPAAAAAAAAAAAAAAAAAFcHAABkcnMvZG93bnJldi54bWxQSwUGAAAA&#xA;AAQABADzAAAAYAgAAAAA&#xA;">
+<v:rect id="Rectangle 2" o:spid="_x0000_s1046" style="position:absolute;top:508;width:121920;height:0;visibility:visible;mso-wrap-style:none;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCl6EsRwQAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/RisIw&#xA;FETfBf8hXME3TVVYStcoVRBc37buB1yaa1tsbkoS27pfb4SFfRxm5gyz3Y+mFT0531hWsFomIIhL&#xA;qxuuFPxcT4sUhA/IGlvLpOBJHva76WSLmbYDf1NfhEpECPsMFdQhdJmUvqzJoF/ajjh6N+sMhihd&#xA;JbXDIcJNK9dJ8iENNhwXauzoWFN5Lx5GQfprDsU6/Xo0/fPSXfJTfnVDpdR8NuafIAKN4T/81z5r&#xA;BRt4X4k3QO5eAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAAAAAA&#xA;AAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAAAA&#xA;AAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAKXoSxHBAAAA2gAAAA8AAAAA&#xA;AAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD1AgAAAAA=&#xA;" filled="f" fillcolor="#5b9bd5" stroked="f">
+<v:textbox style="mso-fit-shape-to-text:t"/>
+</v:rect>
+<v:group id="Group 3" o:spid="_x0000_s1047" style="position:absolute;left:1386;width:44499;height:24321" coordorigin="138620" coordsize="75438,44036" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBSlSazxQAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Pa8JA&#xA;FMTvBb/D8oTe6ibaFomuEkItPYRCVRBvj+wzCWbfhuw2f759t1DocZiZ3zDb/Wga0VPnassK4kUE&#xA;griwuuZSwfl0eFqDcB5ZY2OZFEzkYL+bPWwx0XbgL+qPvhQBwi5BBZX3bSKlKyoy6Ba2JQ7ezXYG&#xA;fZBdKXWHQ4CbRi6j6FUarDksVNhSVlFxP34bBe8DDukqfuvz+y2brqeXz0sek1KP8zHdgPA0+v/w&#xA;X/tDK3iG3yvhBsjdDwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAA&#xA;AAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAAL&#xA;AAAAAAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBSlSazxQAAANoAAAAP&#xA;AAAAAAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA+QIAAAAA&#xA;">
+<v:rect id="Rectangle 6" o:spid="_x0000_s1048" style="position:absolute;left:161585;top:8815;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBUb8DVwgAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvgv8hPGFvmrrgItW0iCjswUu7e9Dbo3m2xealNNG2++uNsOBxmJlvmG06mEY8qHO1ZQXLRQSC&#xA;uLC65lLB789xvgbhPLLGxjIpGMlBmkwnW4y17TmjR+5LESDsYlRQed/GUrqiIoNuYVvi4F1tZ9AH&#xA;2ZVSd9gHuGnkZxR9SYM1h4UKW9pXVNzyu1GA+XAZx/Hc9zJrovrwl7X5KVPqYzbsNiA8Df4d/m9/&#xA;awUreF0JN0AmTwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAAAAAA&#xA;AAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAALAAAA&#xA;AAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQBUb8DVwgAAANoAAAAPAAAA&#xA;AAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA9gIAAAAA&#xA;" strokeweight="1pt">
+<v:textbox>
+<w:txbxContent>
+<w:p w14:paraId="353A0066" w14:textId="480D3037" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
+<w:pPr>
+<w:pStyle w:val="Normaaliensimminenkappale"/>
 <w:jc w:val="center"/>
 </w:pPr>
 <w:r>
@@ -10863,13 +12487,12 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 7" o:spid="_x0000_s2318" style="position:absolute;left:189840;top:8815;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:rect id="Rectangle 7" o:spid="_x0000_s1049" style="position:absolute;left:189840;top:8815;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQCkvV6iwAAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvgv8hvAVvNl0PItUoiyh48NLqQW+P5tmWbV5KE23rrzeC4HGYmW+Y1aY3tXhQ6yrLCn6jGARx&#xA;bnXFhYLzaT9dgHAeWWNtmRQM5GCzHo9WmGjbcUqPzBciQNglqKD0vkmkdHlJBl1kG+Lg3Wxr0AfZ&#xA;FlK32AW4qeUsjufSYMVhocSGtiXl/9ndKMCsvw7DcOk6mdZxtXumTXZMlZr89H9LEJ56/w1/2get&#xA;YA7vK+EGyPULAAD//wMAUEsBAi0AFAAGAAgAAAAhANvh9svuAAAAhQEAABMAAAAAAAAAAAAAAAAA&#xA;AAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEAWvQsW78AAAAVAQAACwAAAAAA&#xA;AAAAAAAAAAAfAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEApL1eosAAAADaAAAADwAAAAAA&#xA;AAAAAAAAAAAHAgAAZHJzL2Rvd25yZXYueG1sUEsFBgAAAAADAAMAtwAAAPQCAAAAAA==&#xA;" strokeweight="1pt">
 <v:textbox>
 <w:txbxContent>
-<w:p w14:paraId="0D2E2585" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="006F0B23">
+<w:p w14:paraId="0D2E2585" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
-<w:spacing w:before="434"/>
 <w:jc w:val="center"/>
 </w:pPr>
 <w:r>
@@ -10879,13 +12502,12 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 8" o:spid="_x0000_s2319" style="position:absolute;left:161585;top:28796;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:rect id="Rectangle 8" o:spid="_x0000_s1050" style="position:absolute;left:161585;top:28796;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQDL8fs5wgAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Bi8Iw&#xA;FITvgv8hPGFvmroHV6ppEVHYg5d296C3R/Nsi81LaaJt99cbYcHjMDPfMNt0MI14UOdqywqWiwgE&#xA;cWF1zaWC35/jfA3CeWSNjWVSMJKDNJlOthhr23NGj9yXIkDYxaig8r6NpXRFRQbdwrbEwbvazqAP&#xA;siul7rAPcNPIzyhaSYM1h4UKW9pXVNzyu1GA+XAZx/Hc9zJrovrwl7X5KVPqYzbsNiA8Df4d/m9/&#xA;awVf8LoSboBMngAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAAAAAA&#xA;AAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAALAAAA&#xA;AAAAAAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQDL8fs5wgAAANoAAAAPAAAA&#xA;AAAAAAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA9gIAAAAA&#xA;" strokeweight="1pt">
 <v:textbox>
 <w:txbxContent>
-<w:p w14:paraId="3E621856" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="006F0B23">
+<w:p w14:paraId="3E621856" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
-<w:spacing w:before="434"/>
 <w:jc w:val="center"/>
 </w:pPr>
 <w:r>
@@ -10895,27 +12517,26 @@
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 9" o:spid="_x0000_s2320" style="position:absolute;left:189840;top:28796;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" strokeweight="1pt">
+<v:rect id="Rectangle 9" o:spid="_x0000_s1051" style="position:absolute;left:189840;top:28796;width:21952;height:15240;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQC6bm9LuwAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE+9CsIw&#xA;EN4F3yGc4KapDiLVKCIKDi6tDrodzdkWm0tpom19ejMIjh/f/3rbmUq8qXGlZQWzaQSCOLO65FzB&#xA;9XKcLEE4j6yxskwKenKw3QwHa4y1bTmhd+pzEULYxaig8L6OpXRZQQbd1NbEgXvYxqAPsMmlbrAN&#xA;4aaS8yhaSIMlh4YCa9oXlD3Tl1GAaXfv+/7WtjKpovLwSer0nCg1HnW7FQhPnf+Lf+6TVhC2hivh&#xA;BsjNFwAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAAAAAAAAAAAABb&#xA;Q29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAAAAAAAAAAAA&#xA;AAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhALpub0u7AAAA2gAAAA8AAAAAAAAAAAAA&#xA;AAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAADvAgAAAAA=&#xA;" strokeweight="1pt">
 <v:textbox>
 <w:txbxContent>
-<w:p w14:paraId="544C7DD9" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="006F0B23">
+<w:p w14:paraId="544C7DD9" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00906910">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
-<w:spacing w:before="434"/>
 <w:jc w:val="center"/>
 </w:pPr>
-<w:r>
+<w:r w:rsidRPr="00906910">
 <w:t>Ominaisuus</w:t>
 </w:r>
 </w:p>
 </w:txbxContent>
 </v:textbox>
 </v:rect>
-<v:rect id="Rectangle 10" o:spid="_x0000_s2321" style="position:absolute;left:138620;top:6850;width:75438;height:19833;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" filled="f">
+<v:rect id="Rectangle 10" o:spid="_x0000_s1052" style="position:absolute;left:138620;top:6850;width:75438;height:19833;visibility:visible;mso-wrap-style:square;v-text-anchor:middle" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQBT7sWZxAAAANoAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI9Pa8JA&#xA;FMTvhX6H5Qm91Y0G/6WuUgIFQQ9WRentkX1NQrNvY3bV5Nu7gtDjMDO/YebL1lTiSo0rLSsY9CMQ&#xA;xJnVJecKDvuv9ykI55E1VpZJQUcOlovXlzkm2t74m647n4sAYZeggsL7OpHSZQUZdH1bEwfv1zYG&#xA;fZBNLnWDtwA3lRxG0VgaLDksFFhTWlD2t7sYBWUXb3826WmSrs/H2Nnu6OKRUeqt135+gPDU+v/w&#xA;s73SCmbwuBJugFzcAQAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAFPuxZnEAAAA2gAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" filled="f">
 <v:stroke joinstyle="round"/>
 </v:rect>
-<v:shape id="TextBox 8" o:spid="_x0000_s2322" type="#_x0000_t202" style="position:absolute;left:139255;top:13947;width:20840;height:5542;visibility:visible;mso-wrap-style:none;v-text-anchor:top" filled="f" stroked="f">
-<v:textbox style="mso-next-textbox:#TextBox 8;mso-fit-shape-to-text:t">
+<v:shape id="TextBox 8" o:spid="_x0000_s1053" type="#_x0000_t202" style="position:absolute;left:139255;top:13947;width:20840;height:5542;visibility:visible;mso-wrap-style:none;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQABQPrbxAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRI/NbsJA&#xA;DITvlXiHlZF6KxtQW0FgQYi2Um8tPw9gZU02JOuNslsIPH19QOJma8Yznxer3jfqTF2sAhsYjzJQ&#xA;xEWwFZcGDvuvlymomJAtNoHJwJUirJaDpwXmNlx4S+ddKpWEcMzRgEupzbWOhSOPcRRaYtGOofOY&#xA;ZO1KbTu8SLhv9CTL3rXHiqXBYUsbR0W9+/MGppn/qevZ5Df619v4zW0+wmd7MuZ52K/noBL16WG+&#xA;X39bwRd6+UUG0Mt/AAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAAFA+tvEAAAA2wAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" filled="f" stroked="f">
+<v:textbox style="mso-fit-shape-to-text:t">
 <w:txbxContent>
 <w:p w14:paraId="1584C92C" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00192332">
 <w:pPr>
@@ -10930,8 +12551,8 @@
 </w:txbxContent>
 </v:textbox>
 </v:shape>
-<v:shape id="TextBox 9" o:spid="_x0000_s2323" type="#_x0000_t202" style="position:absolute;left:187577;width:26481;height:6922;visibility:visible;mso-wrap-style:square;v-text-anchor:top" filled="f" stroked="f">
-<v:textbox style="mso-next-textbox:#TextBox 9;mso-fit-shape-to-text:t">
+<v:shape id="TextBox 9" o:spid="_x0000_s1054" type="#_x0000_t202" style="position:absolute;left:187577;width:26481;height:6922;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQClz8KjvwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Na8JA&#xA;EL0X/A/LCN7qJgVFUleRWsFDL9p4H7LTbGh2NmRHE/+9WxB6m8f7nPV29K26UR+bwAbyeQaKuAq2&#xA;4dpA+X14XYGKgmyxDUwG7hRhu5m8rLGwYeAT3c5SqxTCsUADTqQrtI6VI49xHjrixP2E3qMk2Nfa&#xA;9jikcN/qtyxbao8NpwaHHX04qn7PV29AxO7ye/np4/Eyfu0Hl1ULLI2ZTcfdOyihUf7FT/fRpvk5&#xA;/P2SDtCbBwAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAAAAAAAAAA&#xA;AAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAALAAAAAAAA&#xA;AAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQClz8KjvwAAANsAAAAPAAAAAAAA&#xA;AAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA8wIAAAAA&#xA;" filled="f" stroked="f">
+<v:textbox style="mso-fit-shape-to-text:t">
 <w:txbxContent>
 <w:p w14:paraId="22266092" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00C6284E">
 <w:pPr>
@@ -10952,12 +12573,12 @@
 </w:txbxContent>
 </v:textbox>
 </v:shape>
-<v:shape id="Straight Arrow Connector 13" o:spid="_x0000_s2324" type="#_x0000_t32" style="position:absolute;left:200811;top:24055;width:0;height:4741;visibility:visible;mso-wrap-style:square;v-text-anchor:top" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 13" o:spid="_x0000_s1055" type="#_x0000_t32" style="position:absolute;left:200811;top:24055;width:0;height:4741;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQDdtOpxxAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Na8JA&#xA;EL0L/Q/LFHqRummKrURXSQulOVmqQvE2ZsckNDsbsquJ/npXELzN433ObNGbWhypdZVlBS+jCARx&#xA;bnXFhYLN+ut5AsJ5ZI21ZVJwIgeL+cNghom2Hf/SceULEULYJaig9L5JpHR5SQbdyDbEgdvb1qAP&#xA;sC2kbrEL4aaWcRS9SYMVh4YSG/osKf9fHYyC9/V2jP7jnP1tlq8/Q/reHVK5U+rpsU+nIDz1/i6+&#xA;uTMd5sdw/SUcIOcXAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAN206nHEAAAA2wAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
 </v:group>
-<v:shape id="TextBox 9" o:spid="_x0000_s2325" type="#_x0000_t202" style="position:absolute;left:13595;width:15621;height:3822;visibility:visible;mso-wrap-style:square;v-text-anchor:top" filled="f" stroked="f">
+<v:shape id="TextBox 9" o:spid="_x0000_s1056" type="#_x0000_t202" style="position:absolute;left:13595;width:15621;height:3822;visibility:visible;mso-wrap-style:square;v-text-anchor:top" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQA6UflPvwAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9La8JA&#xA;EL4X/A/LCN7qxkpLia4iPsBDL7XxPmTHbDA7G7JTE/+9KxR6m4/vOcv14Bt1oy7WgQ3Mphko4jLY&#xA;misDxc/h9RNUFGSLTWAycKcI69XoZYm5DT1/0+0klUohHHM04ETaXOtYOvIYp6ElTtwldB4lwa7S&#xA;tsM+hftGv2XZh/ZYc2pw2NLWUXk9/XoDInYzuxd7H4/n4WvXu6x8x8KYyXjYLEAJDfIv/nMfbZo/&#xA;h+cv6QC9egAAAP//AwBQSwECLQAUAAYACAAAACEA2+H2y+4AAACFAQAAEwAAAAAAAAAAAAAAAAAA&#xA;AAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAIAAAAIQBa9CxbvwAAABUBAAALAAAAAAAA&#xA;AAAAAAAAAB8BAABfcmVscy8ucmVsc1BLAQItABQABgAIAAAAIQA6UflPvwAAANsAAAAPAAAAAAAA&#xA;AAAAAAAAAAcCAABkcnMvZG93bnJldi54bWxQSwUGAAAAAAMAAwC3AAAA8wIAAAAA&#xA;" filled="f" stroked="f">
 <v:textbox style="mso-fit-shape-to-text:t">
 <w:txbxContent>
 <w:p w14:paraId="355394BC" w14:textId="77777777" w:rsidR="0065370D" w:rsidRDefault="0065370D" w:rsidP="00C6284E">
@@ -10973,17 +12594,18 @@
 </w:txbxContent>
 </v:textbox>
 </v:shape>
-<v:shape id="Straight Arrow Connector 5" o:spid="_x0000_s2326" type="#_x0000_t32" style="position:absolute;left:21416;top:13279;width:0;height:2618;visibility:visible;mso-wrap-style:square;v-text-anchor:top" strokeweight="1.5pt">
+<v:shape id="Straight Arrow Connector 5" o:spid="_x0000_s1057" type="#_x0000_t32" style="position:absolute;left:21416;top:13279;width:0;height:2618;visibility:visible;mso-wrap-style:square" o:connectortype="straight" o:gfxdata="UEsDBBQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbHyQz07DMAyH&#xA;70i8Q+QralM4IITa7kDhCAiNB7ASt43WOlEcyvb2pNu4IODoPz9/n1xv9vOkForiPDdwXVagiI23&#xA;jocG3rdPxR0oScgWJ8/UwIEENu3lRb09BBKV0ywNjCmFe63FjDSjlD4Q50nv44wpl3HQAc0OB9I3&#xA;VXWrjedEnIq03oC27qjHjympx31un0wiTQLq4bS4shrAECZnMGVTvbD9QSnOhDInjzsyuiBXWQP0&#xA;r4R18jfgnHvJr4nOknrFmJ5xzhraRtHWf3Kkpfz/yGo5S+H73hkquyhdjr3R8m2lj09svwAAAP//&#xA;AwBQSwMEFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsAAABfcmVscy8ucmVsc2zPwWrDMAwG4Ptg72B0&#xA;X5TuUMaI01uh19I+gLGVxCy2jGSy9e1nemrHjpL4P0nD4SetZiPRyNnCruvBUPYcYp4tXC/Htw8w&#xA;Wl0ObuVMFm6kcBhfX4Yzra62kC6xqGlKVgtLreUTUf1CyWnHhXKbTCzJ1VbKjMX5LzcTvvf9HuXR&#xA;gPHJNKdgQU5hB+ZyK23zHztFL6w81c5zQp6m6P9TMfB3PtPWFCczVQtB9N4U2rp2HOA44NMz4y8A&#xA;AAD//wMAUEsDBBQABgAIAAAAIQA9EdeexAAAANsAAAAPAAAAZHJzL2Rvd25yZXYueG1sRE9Na8JA&#xA;EL0L/Q/LFHqRZmNra0ldxRaKnpRGQXqbZKdJMDsbsqtGf70rCN7m8T5nPO1MLQ7UusqygkEUgyDO&#xA;ra64ULBZ/zx/gHAeWWNtmRScyMF08tAbY6LtkX/pkPpChBB2CSoovW8SKV1ekkEX2YY4cP+2NegD&#xA;bAupWzyGcFPLlzh+lwYrDg0lNvRdUr5L90bBaP33hv7rvNhulq+rPs2z/UxmSj09drNPEJ46fxff&#xA;3Asd5g/h+ks4QE4uAAAA//8DAFBLAQItABQABgAIAAAAIQDb4fbL7gAAAIUBAAATAAAAAAAAAAAA&#xA;AAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAFr0LFu/AAAAFQEAAAsA&#xA;AAAAAAAAAAAAAAAAHwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAD0R157EAAAA2wAAAA8A&#xA;AAAAAAAAAAAAAAAABwIAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAAAwADALcAAAD4AgAAAAA=&#xA;" strokeweight="1.5pt">
 <v:stroke endarrow="block" joinstyle="miter"/>
 <o:lock v:ext="edit" shapetype="f"/>
 </v:shape>
-<w10:wrap type="none"/>
 <w10:anchorlock/>
 </v:group>
 </w:pict>
+</mc:Fallback>
+</mc:AlternateContent>
 </w:r>
 </w:p>
-<w:p w14:paraId="5C088F88" w14:textId="3BCC837E" w:rsidR="00151E90" w:rsidRDefault="00151E90" w:rsidP="0065370D">
+<w:p w14:paraId="5C088F88" w14:textId="0905CDFE" w:rsidR="00151E90" w:rsidRDefault="00151E90" w:rsidP="0065370D">
 <w:pPr>
 <w:pStyle w:val="Caption"/>
 <w:ind w:left="0" w:firstLine="0"/>
@@ -10993,7 +12615,7 @@
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
 <w:fldSimple w:instr=" SEQ KUVIO \* ARABIC ">
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -11025,7 +12647,6 @@
 <w:ind w:firstLine="0"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Liitteessä 2</w:t>
 </w:r>
 <w:r w:rsidR="007A377E">
@@ -11098,7 +12719,11 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 <w:r w:rsidR="00453E03" w:rsidRPr="00453E03">
-<w:t>(Standish Group, 2015)</w:t>
+<w:t xml:space="preserve">(Standish Group, </w:t>
+</w:r>
+<w:r w:rsidR="00453E03" w:rsidRPr="00453E03">
+<w:lastRenderedPageBreak/>
+<w:t>2015)</w:t>
 </w:r>
 <w:r w:rsidR="00453E03">
 <w:fldChar w:fldCharType="end"/>
@@ -11805,7 +13430,6 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:lastRenderedPageBreak/>
 <w:t>impaired</w:t>
 </w:r>
 <w:r w:rsidR="00C82F36">
@@ -11845,6 +13469,7 @@
 </w:pPr>
 <w:bookmarkStart w:id="26" w:name="_Toc97392797"/>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Yleistettävyyden rajoitukset</w:t>
 </w:r>
 <w:bookmarkEnd w:id="26"/>
@@ -12708,11 +14333,7 @@
 <w:t xml:space="preserve">i ajatuksen, että </w:t>
 </w:r>
 <w:r w:rsidR="00AF5060">
-<w:t>budjetin ylitys on konteksti</w:t>
-</w:r>
-<w:r w:rsidR="00AF5060">
-<w:lastRenderedPageBreak/>
-<w:t>riippuvaista</w:t>
+<w:t>budjetin ylitys on kontekstiriippuvaista</w:t>
 </w:r>
 <w:r w:rsidR="00061C6A">
 <w:t>:</w:t>
@@ -12787,13 +14408,14 @@
 <w:t>.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="4B3C9C30" w14:textId="59DB74BB" w:rsidR="000B1270" w:rsidRPr="00621EE8" w:rsidRDefault="00D741EE" w:rsidP="00621EE8">
+<w:p w14:paraId="4B3C9C30" w14:textId="2272A445" w:rsidR="000B1270" w:rsidRPr="00621EE8" w:rsidRDefault="00D741EE" w:rsidP="00621EE8">
 <w:pPr>
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
 <w:r>
+<w:lastRenderedPageBreak/>
 <w:t>Projektien uniikki luonne on myös yksi yleistettävyyttä rajoittava tekijä</w:t>
 </w:r>
 <w:r w:rsidR="0068607D" w:rsidRPr="0068607D">
@@ -12851,7 +14473,13 @@
 <w:t>H</w:t>
 </w:r>
 <w:r w:rsidR="001050E7">
-<w:t>eidän mukaan y</w:t>
+<w:t xml:space="preserve">eidän </w:t>
+</w:r>
+<w:r w:rsidR="00906910">
+<w:t>mukaansa</w:t>
+</w:r>
+<w:r w:rsidR="001050E7">
+<w:t xml:space="preserve"> y</w:t>
 </w:r>
 <w:r w:rsidR="002C6C0C">
 <w:t xml:space="preserve">ksi tapa ketterissä projekteissa on toimittaa lopullinen tuote paloissa. </w:t>
@@ -13932,11 +15560,7 @@
 <w:t xml:space="preserve">Tietojärjestelmätieteen ulkopuolista </w:t>
 </w:r>
 <w:r w:rsidR="000F3427">
-<w:t>tutki</w:t>
-</w:r>
-<w:r w:rsidR="000F3427">
-<w:lastRenderedPageBreak/>
-<w:t>musta</w:t>
+<w:t>tutkimusta</w:t>
 </w:r>
 <w:r w:rsidR="0044233B">
 <w:t xml:space="preserve"> </w:t>
@@ -13954,7 +15578,11 @@
 <w:t xml:space="preserve"> kourallinen</w:t>
 </w:r>
 <w:r w:rsidR="007E4E83">
-<w:t xml:space="preserve"> projektinhallinnan </w:t>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="007E4E83">
+<w:lastRenderedPageBreak/>
+<w:t xml:space="preserve">projektinhallinnan </w:t>
 </w:r>
 <w:r w:rsidR="00EF271A">
 <w:t>julkaisuja</w:t>
@@ -14412,7 +16040,6 @@
 <w:t xml:space="preserve">ja, </w:t>
 </w:r>
 <w:r w:rsidR="00DB060F">
-<w:lastRenderedPageBreak/>
 <w:t>tehden</w:t>
 </w:r>
 <w:r w:rsidR="00413DEA">
@@ -14428,7 +16055,11 @@
 <w:t>.</w:t>
 </w:r>
 <w:r w:rsidR="00990EAB">
-<w:t xml:space="preserve"> Mahdollisia jatkotutkimusaiheita voisi</w:t>
+<w:t xml:space="preserve"> Mahdollisia jatkotutkimusaiheita </w:t>
+</w:r>
+<w:r w:rsidR="00990EAB">
+<w:lastRenderedPageBreak/>
+<w:t>voisi</w:t>
 </w:r>
 <w:r w:rsidR="00657805">
 <w:t>vat</w:t>
@@ -15635,7 +17266,7 @@
 </w:r>
 <w:bookmarkEnd w:id="30"/>
 </w:p>
-<w:p w14:paraId="2D58C255" w14:textId="4ED272EF" w:rsidR="006A59F4" w:rsidRDefault="006A59F4" w:rsidP="006A59F4">
+<w:p w14:paraId="2D58C255" w14:textId="44A3DD6F" w:rsidR="006A59F4" w:rsidRDefault="006A59F4" w:rsidP="006A59F4">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -15647,7 +17278,7 @@
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
 <w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -17878,7 +19509,7 @@
 </w:r>
 <w:bookmarkEnd w:id="33"/>
 </w:p>
-<w:p w14:paraId="5BA0445C" w14:textId="14726F2A" w:rsidR="00A92A40" w:rsidRDefault="00A23454" w:rsidP="00A23454">
+<w:p w14:paraId="5BA0445C" w14:textId="0B46DA08" w:rsidR="00A92A40" w:rsidRDefault="00A23454" w:rsidP="00A23454">
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 <w:rPr>
@@ -17890,7 +19521,7 @@
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
 <w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
-<w:r w:rsidR="00371321">
+<w:r w:rsidR="00EE63C0">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -19033,6 +20664,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>Executive Sponsorship</w:t>
 </w:r>
 </w:p>
@@ -19047,11 +20679,7 @@
 <w:jc w:val="left"/>
 </w:pPr>
 <w:r>
-<w:t xml:space="preserve">Ylempi johto edistää </w:t>
-</w:r>
-<w:r>
-<w:lastRenderedPageBreak/>
-<w:t>projektin toteutumista</w:t>
+<w:t>Ylempi johto edistää projektin toteutumista</w:t>
 </w:r>
 </w:p>
 </w:tc>
@@ -19065,7 +20693,6 @@
 <w:jc w:val="left"/>
 </w:pPr>
 <w:r w:rsidRPr="00390B32">
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Standish Group </w:t>
 </w:r>
 <w:r w:rsidR="00126498">
@@ -21562,6 +23189,7 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t>Task orientation</w:t>
 </w:r>
 </w:p>
@@ -21576,11 +23204,7 @@
 <w:jc w:val="left"/>
 </w:pPr>
 <w:r>
-<w:t>Projektissa keskity</w:t>
-</w:r>
-<w:r>
-<w:lastRenderedPageBreak/>
-<w:t>tään tehtäviin</w:t>
+<w:t>Projektissa keskitytään tehtäviin</w:t>
 </w:r>
 </w:p>
 </w:tc>
@@ -21594,7 +23218,6 @@
 <w:jc w:val="left"/>
 </w:pPr>
 <w:r w:rsidRPr="00390B32">
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Sudhakar </w:t>
 </w:r>
 <w:r w:rsidR="00126498">
