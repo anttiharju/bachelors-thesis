@@ -26,12 +26,14 @@ Keywords: project management, software projects, success factors, universality l
 0 = fail
 
 The thesis (7 cr) is given the grade 4.
-- [The full assessment statement is available in Finnish.](LAUSUNTO.md)
+- [The full assessment statement in Finnish.](LAUSUNTO.md)
 - [The assessment instructions are also included in this repo (also in Finnish).](PERUSTEET.md)
 
 ## How to transform the unzipped .docx's back to usable files
 
-To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `\scripts\zi.ps1` to recreate the original files.
+Requirements: PowerShell, Windows Terminal and git
+
+To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `.\scripts\zi.ps1` to recreate the original files.
 
 Powershell is in theory cross platform software, but I haven't tried running the scripts on macOS or on any Linux distribution. So if you're on one of those, best of luck you're on your own.
 
