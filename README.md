@@ -1,6 +1,6 @@
 # Software project success factors and limitations of their universality
 
-The thesis has been written in Finnish, but the English abstract is available below. For the full PDF follow the link in the repository's 'about' section.
+This thesis has been written in Finnish, but the English abstract is available below. For the full PDF follow the link in the repository's 'about' section.
 
 ## Abstract
 
