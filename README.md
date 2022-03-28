@@ -35,7 +35,7 @@ Requirements: PowerShell, Windows Terminal and git
 
 To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `.\scripts\zi.ps1` to recreate the original files.
 
-Powershell is in theory cross platform software, but I haven't tried running the scripts on macOS or on any Linux distribution. So if you're on one of those, best of luck you're on your own.
+PowerShell is in theory cross platform software, but I haven't tried running the scripts on macOS or on any Linux distribution. So if you're on one of those, best of luck you're on your own.
 
 ## Permissions
 
