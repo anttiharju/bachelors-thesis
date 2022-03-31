@@ -144,7 +144,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="463C523D" w14:textId="251494D8" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
+<w:p w14:paraId="463C523D" w14:textId="2F109DAD" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -157,7 +157,7 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00E16BA2">
+<w:r w:rsidR="00622A60">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -271,7 +271,7 @@
 <w:t>informaatioteknologian tiedekunta</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="463C523D" w14:textId="251494D8" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
+<w:p w14:paraId="463C523D" w14:textId="2F109DAD" w:rsidR="0038549D" w:rsidRDefault="00E94463" w:rsidP="0038549D">
 <w:pPr>
 <w:pStyle w:val="Laitoksennimi"/>
 </w:pPr>
@@ -284,7 +284,7 @@
 <w:r>
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
-<w:r w:rsidR="00E16BA2">
+<w:r w:rsidR="00622A60">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
@@ -456,32 +456,24 @@
 <w:t>projektinhallinta, projektien menestystekijät, ohjelmistoprojektit</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="0D64B5A5" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E16BA2" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
+<w:p w14:paraId="0D64B5A5" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00622A60" w:rsidRDefault="00E6009A" w:rsidP="00372F2B">
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 <w:rPr>
-<w:rPrChange w:id="2" w:author="Author">
-<w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="3" w:name="_Toc274315269"/>
-<w:bookmarkStart w:id="4" w:name="_Toc274315647"/>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="5" w:author="Author">
+<w:bookmarkStart w:id="2" w:name="_Toc274315269"/>
+<w:bookmarkStart w:id="3" w:name="_Toc274315647"/>
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:lastRenderedPageBreak/>
 <w:t>ABSTRACT</w:t>
 </w:r>
+<w:bookmarkEnd w:id="2"/>
 <w:bookmarkEnd w:id="3"/>
-<w:bookmarkEnd w:id="4"/>
 </w:p>
 <w:p w14:paraId="6B9933CF" w14:textId="56A81F5D" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="003511F6" w:rsidP="00AF2D37">
 <w:pPr>
@@ -542,39 +534,25 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="6" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
 <w:t>Jyväskyl</w:t>
 </w:r>
-<w:r w:rsidR="00A90FC7" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="7" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidR="00A90FC7" w:rsidRPr="00622A60">
 <w:t>ä</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="00A90FC7">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t xml:space="preserve">: University of </w:t>
 </w:r>
-<w:r w:rsidR="00A90FC7" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="8" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00A90FC7" w:rsidRPr="00622A60">
 <w:t>Jyväskylä</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="00A90FC7">
 <w:rPr>
 <w:lang w:val="en-US"/>
@@ -657,15 +635,14 @@
 </w:rPr>
 <w:t xml:space="preserve">Supervisor: </w:t>
 </w:r>
-<w:r w:rsidR="00F74BB3" w:rsidRPr="00E16BA2">
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00F74BB3" w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-<w:rPrChange w:id="9" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
 </w:rPr>
 <w:t>Mehtälä</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="00F74BB3">
 <w:rPr>
 <w:lang w:val="en-US"/>
@@ -681,35 +658,39 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="40CF98DE" w14:textId="31FDDBBF" w:rsidR="000B662C" w:rsidRPr="00E16BA2" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
+<w:p w14:paraId="40CF98DE" w14:textId="31FDDBBF" w:rsidR="000B662C" w:rsidRPr="00622A60" w:rsidRDefault="000B662C" w:rsidP="00AF2D37">
 <w:pPr>
 <w:pStyle w:val="Bibliografisettiedot"/>
 <w:rPr>
 <w:b/>
 <w:bCs/>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="10" w:author="Author">
-<w:rPr>
-<w:b/>
-<w:bCs/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:b/>
-<w:bCs/>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="11" w:author="Author">
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:b/>
 <w:bCs/>
 </w:rPr>
-</w:rPrChange>
-</w:rPr>
-<w:t>Kirjoitetaan viimeisenä</w:t>
+<w:t>Kirjoitetaan</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:b/>
+<w:bCs/>
+</w:rPr>
+<w:t>viimeisenä</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 <w:p w14:paraId="019E5DA1" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="006B5BEF">
 <w:pPr>
@@ -749,14 +730,14 @@
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
-<w:bookmarkStart w:id="12" w:name="_Toc274315270"/>
-<w:bookmarkStart w:id="13" w:name="_Toc274315648"/>
+<w:bookmarkStart w:id="4" w:name="_Toc274315270"/>
+<w:bookmarkStart w:id="5" w:name="_Toc274315648"/>
 <w:r w:rsidRPr="0038549D">
 <w:lastRenderedPageBreak/>
 <w:t>KUVIOT</w:t>
 </w:r>
-<w:bookmarkEnd w:id="12"/>
-<w:bookmarkEnd w:id="13"/>
+<w:bookmarkEnd w:id="4"/>
+<w:bookmarkEnd w:id="5"/>
 </w:p>
 <w:p w14:paraId="2721D478" w14:textId="1D3B8E6C" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="0006628B">
 <w:pPr>
@@ -865,13 +846,13 @@
 <w:r>
 <w:fldChar w:fldCharType="end"/>
 </w:r>
-<w:bookmarkStart w:id="14" w:name="_Toc274315271"/>
-<w:bookmarkStart w:id="15" w:name="_Toc274315649"/>
+<w:bookmarkStart w:id="6" w:name="_Toc274315271"/>
+<w:bookmarkStart w:id="7" w:name="_Toc274315649"/>
 <w:r w:rsidR="00E6009A" w:rsidRPr="00E6009A">
 <w:t>TAULUKOT</w:t>
 </w:r>
-<w:bookmarkEnd w:id="14"/>
-<w:bookmarkEnd w:id="15"/>
+<w:bookmarkEnd w:id="6"/>
+<w:bookmarkEnd w:id="7"/>
 <w:r>
 <w:rPr>
 <w:lang w:val="en-US"/>
@@ -888,7 +869,7 @@
 <w:fldChar w:fldCharType="separate"/>
 </w:r>
 </w:p>
-<w:p w14:paraId="0793BC89" w14:textId="7C65505E" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="0793BC89" w14:textId="7C65505E" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -976,7 +957,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="49B496AE" w14:textId="53F2D39C" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="49B496AE" w14:textId="53F2D39C" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1064,7 +1045,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="300572EB" w14:textId="79BF8124" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="300572EB" w14:textId="79BF8124" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1152,7 +1133,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5C1675D0" w14:textId="2465388F" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="5C1675D0" w14:textId="2465388F" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1240,7 +1221,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="64B2A199" w14:textId="5DCF234D" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="64B2A199" w14:textId="5DCF234D" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1328,7 +1309,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="33EE6025" w14:textId="13DD207A" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="33EE6025" w14:textId="13DD207A" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TableofFigures"/>
 <w:tabs>
@@ -1428,15 +1409,15 @@
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
-<w:bookmarkStart w:id="16" w:name="_Toc274315272"/>
-<w:bookmarkStart w:id="17" w:name="_Toc274315650"/>
+<w:bookmarkStart w:id="8" w:name="_Toc274315272"/>
+<w:bookmarkStart w:id="9" w:name="_Toc274315650"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>SISÄLLYS</w:t>
 </w:r>
-<w:bookmarkStart w:id="18" w:name="_Toc274315273"/>
-<w:bookmarkEnd w:id="16"/>
-<w:bookmarkEnd w:id="17"/>
+<w:bookmarkStart w:id="10" w:name="_Toc274315273"/>
+<w:bookmarkEnd w:id="8"/>
+<w:bookmarkEnd w:id="9"/>
 </w:p>
 <w:p w14:paraId="20AFAC2E" w14:textId="77777777" w:rsidR="002C67CB" w:rsidRPr="00263B97" w:rsidRDefault="002C67CB" w:rsidP="002C67CB">
 <w:pPr>
@@ -1557,7 +1538,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="7EC08010" w14:textId="5336D9B1" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="7EC08010" w14:textId="5336D9B1" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1643,7 +1624,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="39FDDF46" w14:textId="5B897E59" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="39FDDF46" w14:textId="5B897E59" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1727,7 +1708,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5B6B44D6" w14:textId="53BC0E4D" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="5B6B44D6" w14:textId="53BC0E4D" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1811,7 +1792,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3D3CBFBA" w14:textId="50540577" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="3D3CBFBA" w14:textId="50540577" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -1895,7 +1876,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5E941152" w14:textId="2EC8799C" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="5E941152" w14:textId="2EC8799C" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -1981,7 +1962,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="71694CF4" w14:textId="2D3CB538" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="71694CF4" w14:textId="2D3CB538" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2065,7 +2046,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6FBA287F" w14:textId="2734B9F0" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="6FBA287F" w14:textId="2734B9F0" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2149,7 +2130,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="53B073B7" w14:textId="0393BDAE" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="53B073B7" w14:textId="0393BDAE" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2235,7 +2216,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="33541CC1" w14:textId="34BBDFF4" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="33541CC1" w14:textId="34BBDFF4" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2319,7 +2300,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3CDFF9D2" w14:textId="3566DFD8" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="3CDFF9D2" w14:textId="3566DFD8" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2403,7 +2384,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="777FC1BB" w14:textId="1B271D9A" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="777FC1BB" w14:textId="1B271D9A" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2489,7 +2470,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="7B3817F8" w14:textId="3B4FF537" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="7B3817F8" w14:textId="3B4FF537" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2575,7 +2556,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="31FC7ACF" w14:textId="6C92239F" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="31FC7ACF" w14:textId="6C92239F" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2659,7 +2640,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="3E001876" w14:textId="56A79832" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="3E001876" w14:textId="56A79832" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
@@ -2743,7 +2724,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="24B748BA" w14:textId="05CC1DCA" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="24B748BA" w14:textId="05CC1DCA" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC3"/>
 <w:rPr>
@@ -2827,7 +2808,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="266DC397" w14:textId="4221B5CC" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="266DC397" w14:textId="4221B5CC" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -2911,7 +2892,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="5BF53E49" w14:textId="70869A34" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="5BF53E49" w14:textId="70869A34" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -2999,7 +2980,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="6A636CD4" w14:textId="3DC238C8" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="6A636CD4" w14:textId="3DC238C8" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -3083,7 +3064,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="0352F9F4" w14:textId="1F68D5A1" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="0352F9F4" w14:textId="1F68D5A1" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC2"/>
 <w:rPr>
@@ -3167,7 +3148,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="214BBF90" w14:textId="4633ADCD" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="214BBF90" w14:textId="4633ADCD" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3254,7 +3235,7 @@
 </w:r>
 </w:hyperlink>
 </w:p>
-<w:p w14:paraId="7200BA73" w14:textId="36065457" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00E16BA2">
+<w:p w14:paraId="7200BA73" w14:textId="36065457" w:rsidR="00440A5D" w:rsidRPr="001F6CFD" w:rsidRDefault="00622A60">
 <w:pPr>
 <w:pStyle w:val="TOC1"/>
 <w:rPr>
@@ -3361,28 +3342,28 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="19" w:name="_Toc93952207"/>
-<w:bookmarkStart w:id="20" w:name="_Toc56597508"/>
-<w:bookmarkEnd w:id="18"/>
-<w:commentRangeStart w:id="21"/>
+<w:bookmarkStart w:id="11" w:name="_Toc93952207"/>
+<w:bookmarkStart w:id="12" w:name="_Toc56597508"/>
+<w:bookmarkEnd w:id="10"/>
+<w:commentRangeStart w:id="13"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Johdanto</w:t>
 </w:r>
-<w:bookmarkEnd w:id="19"/>
-<w:commentRangeEnd w:id="21"/>
+<w:bookmarkEnd w:id="11"/>
+<w:commentRangeEnd w:id="13"/>
 <w:r w:rsidR="00F81579">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="21"/>
+<w:commentReference w:id="13"/>
 </w:r>
 </w:p>
 <w:p w14:paraId="4E9F227D" w14:textId="430D6B7D" w:rsidR="00AD7C96" w:rsidRDefault="7C0E4E35" w:rsidP="00BD6522">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
-<w:commentRangeStart w:id="22"/>
+<w:commentRangeStart w:id="14"/>
 <w:r>
 <w:t xml:space="preserve">Kirjoittajan motivaatio tutkia ohjelmistoprojektien menestystekijöitä on peräisin </w:t>
 </w:r>
@@ -3398,12 +3379,12 @@
 <w:r w:rsidR="37CA5419">
 <w:t xml:space="preserve">sitettiin </w:t>
 </w:r>
-<w:commentRangeEnd w:id="22"/>
+<w:commentRangeEnd w:id="14"/>
 <w:r w:rsidR="00E16AC1">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="22"/>
+<w:commentReference w:id="14"/>
 </w:r>
 <w:r w:rsidR="6DE606FF">
 <w:t xml:space="preserve">Chaos </w:t>
@@ -3438,7 +3419,7 @@
 <w:r w:rsidR="0259B198">
 <w:t>Doherty</w:t>
 </w:r>
-<w:ins w:id="23" w:author="Author">
+<w:ins w:id="15" w:author="Author">
 <w:r w:rsidR="7E66471C">
 <w:t>n</w:t>
 </w:r>
@@ -3541,7 +3522,7 @@
 <w:r w:rsidR="3E52135C">
 <w:t xml:space="preserve"> -</w:t>
 </w:r>
-<w:commentRangeStart w:id="24"/>
+<w:commentRangeStart w:id="16"/>
 <w:r w:rsidR="76CBF750">
 <w:t>tutkimusten</w:t>
 </w:r>
@@ -3557,12 +3538,12 @@
 <w:r w:rsidR="3E52135C">
 <w:t xml:space="preserve"> pitää tieteellisinä</w:t>
 </w:r>
-<w:commentRangeEnd w:id="24"/>
+<w:commentRangeEnd w:id="16"/>
 <w:r w:rsidR="004C7EF5">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="24"/>
+<w:commentReference w:id="16"/>
 </w:r>
 <w:r w:rsidR="05A47B84">
 <w:t xml:space="preserve"> </w:t>
@@ -3582,7 +3563,7 @@
 <w:r w:rsidR="67D6C26F">
 <w:t>mutta niitä on kuitenkin vaikea jättää suosionsa ja pitkäjänteisyytensä vuoksi</w:t>
 </w:r>
-<w:del w:id="25" w:author="Author">
+<w:del w:id="17" w:author="Author">
 <w:r w:rsidR="004C7EF5" w:rsidDel="67D6C26F">
 <w:delText xml:space="preserve"> jättää</w:delText>
 </w:r>
@@ -3590,16 +3571,16 @@
 <w:r w:rsidR="67D6C26F">
 <w:t xml:space="preserve"> huomiotta. </w:t>
 </w:r>
-<w:commentRangeStart w:id="26"/>
+<w:commentRangeStart w:id="18"/>
 <w:r w:rsidR="514A7140">
 <w:t>Siis</w:t>
 </w:r>
-<w:commentRangeEnd w:id="26"/>
+<w:commentRangeEnd w:id="18"/>
 <w:r w:rsidR="004C7EF5">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="26"/>
+<w:commentReference w:id="18"/>
 </w:r>
 <w:r w:rsidR="514A7140">
 <w:t>pä jotkut menestystekijöitä</w:t>
@@ -3669,20 +3650,20 @@
 <w:r w:rsidR="5A50672F">
 <w:t>Doherty ym., 2012</w:t>
 </w:r>
-<w:commentRangeStart w:id="27"/>
-<w:ins w:id="28" w:author="Author">
+<w:commentRangeStart w:id="19"/>
+<w:ins w:id="20" w:author="Author">
 <w:r w:rsidR="316E33A9">
 <w:t>;</w:t>
 </w:r>
 </w:ins>
-<w:commentRangeEnd w:id="27"/>
+<w:commentRangeEnd w:id="19"/>
 <w:r w:rsidR="007B6C64">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="27"/>
+<w:commentReference w:id="19"/>
 </w:r>
-<w:del w:id="29" w:author="Author">
+<w:del w:id="21" w:author="Author">
 <w:r w:rsidR="007B6C64" w:rsidDel="5A50672F">
 <w:delText>,</w:delText>
 </w:r>
@@ -3693,28 +3674,28 @@
 <w:r w:rsidR="3A25D189">
 <w:t xml:space="preserve">Millhollan </w:t>
 </w:r>
-<w:commentRangeStart w:id="30"/>
-<w:del w:id="31" w:author="Author">
+<w:commentRangeStart w:id="22"/>
+<w:del w:id="23" w:author="Author">
 <w:r w:rsidR="007B6C64" w:rsidDel="3A25D189">
 <w:delText>ja</w:delText>
 </w:r>
 </w:del>
-<w:ins w:id="32" w:author="Author">
+<w:ins w:id="24" w:author="Author">
 <w:r w:rsidR="08FB7C6E">
 <w:t>&amp;</w:t>
 </w:r>
 </w:ins>
-<w:commentRangeEnd w:id="30"/>
+<w:commentRangeEnd w:id="22"/>
 <w:r w:rsidR="007B6C64">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="30"/>
+<w:commentReference w:id="22"/>
 </w:r>
 <w:r w:rsidR="3A25D189">
 <w:t xml:space="preserve"> Kaarst-Brown</w:t>
 </w:r>
-<w:ins w:id="33" w:author="Author">
+<w:ins w:id="25" w:author="Author">
 <w:r w:rsidR="7A100C9D">
 <w:t>,</w:t>
 </w:r>
@@ -3839,23 +3820,23 @@
 <w:r w:rsidR="524F5894">
 <w:t xml:space="preserve">, </w:t>
 </w:r>
-<w:commentRangeStart w:id="34"/>
+<w:commentRangeStart w:id="26"/>
 <w:r w:rsidR="524F5894">
 <w:t xml:space="preserve">ei </w:t>
 </w:r>
-<w:ins w:id="35" w:author="Author">
+<w:ins w:id="27" w:author="Author">
 <w:r w:rsidR="42FF7193">
 <w:t>vastaavalle</w:t>
 </w:r>
 </w:ins>
-<w:commentRangeEnd w:id="34"/>
+<w:commentRangeEnd w:id="26"/>
 <w:r w:rsidR="001F28A4">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="34"/>
+<w:commentReference w:id="26"/>
 </w:r>
-<w:del w:id="36" w:author="Author">
+<w:del w:id="28" w:author="Author">
 <w:r w:rsidR="001F28A4" w:rsidDel="5795C744">
 <w:delText>uudelle, nuoremman tutkijan tekemälle</w:delText>
 </w:r>
@@ -3909,27 +3890,29 @@
 <w:t>Aineiston valintaprosessi on kuvattu luvussa 2.</w:t>
 </w:r>
 </w:p>
-<w:p w14:paraId="5D120A84" w14:textId="40CAF4EB" w:rsidR="00BF43A5" w:rsidRPr="00E16BA2" w:rsidRDefault="00887E4C" w:rsidP="0029330D">
-<w:pPr>
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="37" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-</w:pPr>
+<w:p w14:paraId="5D120A84" w14:textId="40CAF4EB" w:rsidR="00BF43A5" w:rsidRPr="00622A60" w:rsidRDefault="00887E4C" w:rsidP="0029330D">
 <w:r>
 <w:t xml:space="preserve">Yksi usein viitattu aineisto projektinhallinnasta ja projektipäälliköiden koulutuksesta puhuessa, on </w:t>
 </w:r>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="38" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-</w:rPrChange>
+<w:t xml:space="preserve">Project Management </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>Project Management Body of Knowledge</w:t>
+<w:t>Body</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> of Knowledge</w:t>
 </w:r>
 <w:r w:rsidR="00A00E65">
 <w:t xml:space="preserve"> eli PMBOK</w:t>
@@ -3946,23 +3929,32 @@
 <w:r w:rsidR="00A00E65">
 <w:t xml:space="preserve">). </w:t>
 </w:r>
-<w:r w:rsidR="00A00E65" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="39" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:t xml:space="preserve">Sen määritelmä projektista on </w:t>
+<w:r w:rsidR="00A00E65" w:rsidRPr="00622A60">
+<w:t xml:space="preserve">Sen </w:t>
 </w:r>
-<w:r w:rsidR="00DC0996" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="40" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:t>seuraavanlainen:</w:t>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00A00E65" w:rsidRPr="00622A60">
+<w:t>määritelmä</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00A00E65" w:rsidRPr="00622A60">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00A00E65" w:rsidRPr="00622A60">
+<w:t>projektista</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00A00E65" w:rsidRPr="00622A60">
+<w:t xml:space="preserve"> on </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00DC0996" w:rsidRPr="00622A60">
+<w:t>seuraavanlainen</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00DC0996" w:rsidRPr="00622A60">
+<w:t>:</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="1504574A" w14:textId="1EAFD0D8" w:rsidR="00DC0996" w:rsidRPr="00DC0996" w:rsidRDefault="227C4C3F" w:rsidP="00DC0996">
@@ -3972,19 +3964,19 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:commentRangeStart w:id="41"/>
+<w:commentRangeStart w:id="29"/>
 <w:r w:rsidRPr="67C704D2">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>A proj</w:t>
 </w:r>
-<w:commentRangeEnd w:id="41"/>
+<w:commentRangeEnd w:id="29"/>
 <w:r w:rsidR="00DC0996">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="41"/>
+<w:commentReference w:id="29"/>
 </w:r>
 <w:r w:rsidRPr="67C704D2">
 <w:rPr>
@@ -4054,41 +4046,49 @@
 <w:r w:rsidR="46BAC85D">
 <w:t xml:space="preserve">. Millhollanin ja Kaarst-Brownin (2018) artikkelin lukemisen jälkeen </w:t>
 </w:r>
-<w:commentRangeStart w:id="42"/>
-<w:commentRangeStart w:id="43"/>
+<w:commentRangeStart w:id="30"/>
+<w:commentRangeStart w:id="31"/>
 <w:r w:rsidR="46BAC85D">
 <w:t>on mahdollista ymmärtää</w:t>
 </w:r>
-<w:commentRangeEnd w:id="42"/>
+<w:commentRangeEnd w:id="30"/>
 <w:r w:rsidR="00DF5271">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="42"/>
+<w:commentReference w:id="30"/>
 </w:r>
-<w:commentRangeEnd w:id="43"/>
+<w:commentRangeEnd w:id="31"/>
 <w:r w:rsidR="00DF5271">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="43"/>
+<w:commentReference w:id="31"/>
 </w:r>
 <w:r w:rsidR="46BAC85D">
 <w:t xml:space="preserve">, että </w:t>
 </w:r>
-<w:commentRangeStart w:id="44"/>
+<w:commentRangeStart w:id="32"/>
 <w:r w:rsidR="4D00F921">
 <w:t>nk.</w:t>
 </w:r>
-<w:commentRangeEnd w:id="44"/>
+<w:commentRangeEnd w:id="32"/>
 <w:r w:rsidR="00DF5271">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="44"/>
+<w:commentReference w:id="32"/>
 </w:r>
 <w:r w:rsidR="4D00F921">
-<w:t xml:space="preserve"> pehmeät taidot (engl. soft skills) ovat yksi asia, joille on nimenomaan IT-alalla tarvetta</w:t>
+<w:t xml:space="preserve"> pehmeät taidot (engl. soft </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="4D00F921">
+<w:t>skills</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="4D00F921">
+<w:t>) ovat yksi asia, joille on nimenomaan IT-alalla tarvetta</w:t>
 </w:r>
 <w:r w:rsidR="0B25C383">
 <w:t>.</w:t>
@@ -4154,7 +4154,6 @@
 </w:p>
 <w:p w14:paraId="2CA0BEF7" w14:textId="6C190133" w:rsidR="00A33E49" w:rsidRDefault="00845977" w:rsidP="00EB0AE2">
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Vaikka </w:t>
 </w:r>
 <w:r w:rsidR="00171022">
@@ -4176,8 +4175,13 @@
 <w:t xml:space="preserve">heikko ilmaisu: </w:t>
 </w:r>
 <w:r w:rsidR="0022159D">
-<w:t>tarkoitan consistent</w:t>
+<w:t xml:space="preserve">tarkoitan </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="0022159D">
+<w:t>consistent</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="0055642B">
 <w:t>]</w:t>
 </w:r>
@@ -4200,6 +4204,7 @@
 <w:t xml:space="preserve">; </w:t>
 </w:r>
 <w:r w:rsidR="004C5E71" w:rsidRPr="004C5E71">
+<w:lastRenderedPageBreak/>
 <w:t>Millhollan ja Kaarst-Brown</w:t>
 </w:r>
 <w:r w:rsidR="004C5E71">
@@ -4229,27 +4234,27 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="45" w:name="_Toc93952208"/>
+<w:bookmarkStart w:id="33" w:name="_Toc93952208"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Tutkimusmenetelmä</w:t>
 </w:r>
-<w:bookmarkEnd w:id="45"/>
+<w:bookmarkEnd w:id="33"/>
 </w:p>
 <w:p w14:paraId="1418726E" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="396643E6" w:rsidP="00AD616A">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
-<w:commentRangeStart w:id="46"/>
+<w:commentRangeStart w:id="34"/>
 <w:r>
 <w:t>Tutkielma</w:t>
 </w:r>
-<w:commentRangeEnd w:id="46"/>
+<w:commentRangeEnd w:id="34"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="46"/>
+<w:commentReference w:id="34"/>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> noudattaa löyhästi systemaattisen kirjallisuuskartoituksen menetelmää, kuten sitä ovat esimerkiksi Taipalus ja Seppänen (2020) sekä Taivalmaa (2021) käyttäneet. Kuvio 1 kuvaa aineiston rajausprosessin lyhyesti. Siinä esitetty prosessi on kuvattu sanallisesti seuraavissa alaluvuissa.</w:t>
@@ -4268,45 +4273,45 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="47" w:name="_Toc93952209"/>
-<w:commentRangeStart w:id="48"/>
+<w:bookmarkStart w:id="35" w:name="_Toc93952209"/>
+<w:commentRangeStart w:id="36"/>
 <w:r>
 <w:t>Tieteenalat</w:t>
 </w:r>
-<w:bookmarkEnd w:id="47"/>
-<w:commentRangeEnd w:id="48"/>
+<w:bookmarkEnd w:id="35"/>
+<w:commentRangeEnd w:id="36"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="48"/>
+<w:commentReference w:id="36"/>
 </w:r>
 </w:p>
 <w:p w14:paraId="295A448F" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="396643E6" w:rsidP="67C704D2">
 <w:pPr>
 <w:ind w:firstLine="0"/>
 </w:pPr>
-<w:commentRangeStart w:id="49"/>
-<w:commentRangeStart w:id="50"/>
+<w:commentRangeStart w:id="37"/>
+<w:commentRangeStart w:id="38"/>
 <w:r>
 <w:t>Ennen</w:t>
 </w:r>
-<w:commentRangeEnd w:id="49"/>
+<w:commentRangeEnd w:id="37"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="49"/>
+<w:commentReference w:id="37"/>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> aineiston keruun aloittamista, aihealueeseen oli jo tutustuttu toisen tutkielma-aiheen yhteydessä, joka lopulta hylättiin sen laajuuden vuoksi (projektipäällikön keskeisimmät kompetenssit ohjelmistokehitysprojekteissa).</w:t>
 </w:r>
-<w:commentRangeEnd w:id="50"/>
+<w:commentRangeEnd w:id="38"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="50"/>
+<w:commentReference w:id="38"/>
 </w:r>
 </w:p>
 <w:p w14:paraId="0704F14D" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="396643E6" w:rsidP="00AD616A">
@@ -4315,19 +4320,51 @@
 </w:r>
 </w:p>
 <w:p w14:paraId="63A9D829" w14:textId="4C93F3C5" w:rsidR="00AD616A" w:rsidRDefault="396643E6" w:rsidP="00AD616A">
-<w:commentRangeStart w:id="51"/>
+<w:commentRangeStart w:id="39"/>
 <w:r>
 <w:t>Koska kyseessä on tietojärjestelmätieteen kandidaatintutkielma, tieteenaloiksi valittiin omaan alaan liittyvät</w:t>
 </w:r>
-<w:commentRangeEnd w:id="51"/>
+<w:commentRangeEnd w:id="39"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="51"/>
+<w:commentReference w:id="39"/>
 </w:r>
 <w:r>
-<w:t xml:space="preserve">. Julkaisufoorumin tapauksessa se tarkoittaa Scopuksen tieteenaloja ”Information Systems”, ”Information Systems and Management” ja ”Management Information Systems”. </w:t>
+<w:t xml:space="preserve">. Julkaisufoorumin tapauksessa se tarkoittaa </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Scopuksen</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> tieteenaloja ”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Information</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> Systems”, ”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Information</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> Systems and Management” ja ”Management </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Information</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> Systems”. </w:t>
 </w:r>
 <w:r w:rsidR="09D987B5">
 <w:t xml:space="preserve">Rajaamalla artikkeleiden etsintä näihin tieteenaloihin, projektien menestystekijöiden toivotaan keskittyvän pääasiassa ohjelmistoprojekteihin. </w:t>
@@ -4336,22 +4373,30 @@
 <w:t>Lisäksi valittujen tieteenalojen julkaisuilta vaadittiin Julkaisufoorumin tasoa 1 tai korkeampaa</w:t>
 </w:r>
 <w:r>
-<w:t xml:space="preserve">. Jo taso 1 takaa, että julkaisulla on ”läpinäkyvä vertaisarviointiprosessi” (tarkista) ja rajaus esimerkiksi vain tasoon 2 tai/ja 3 ei ole mielekäs, sillä kyseiset tasot ovat kiintiöityjä. Koska </w:t>
+<w:t xml:space="preserve">. Jo taso 1 takaa, että julkaisulla on ”läpinäkyvä vertaisarviointiprosessi” (tarkista) ja rajaus esimerkiksi vain tasoon 2 tai/ja 3 ei ole mielekäs, sillä kyseiset tasot ovat kiintiöityjä. Koska aihe </w:t>
 </w:r>
 <w:r>
 <w:lastRenderedPageBreak/>
-<w:t>aihe liittyy vahvasti projektin hallintaan, mukaan valittiin myös vähintään tason 1 omaavat julkaisut, jotka löytyivät hakusanoilla ”project management”.</w:t>
+<w:t>liittyy vahvasti projektin hallintaan, mukaan valittiin myös vähintään tason 1 omaavat julkaisut, jotka löytyivät hakusanoilla ”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> management”.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="05D677C9" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="52" w:name="_Toc93952210"/>
+<w:bookmarkStart w:id="40" w:name="_Toc93952210"/>
 <w:r>
 <w:t>Julkaisut</w:t>
 </w:r>
-<w:bookmarkEnd w:id="52"/>
+<w:bookmarkEnd w:id="40"/>
 </w:p>
 <w:p w14:paraId="0FBE1A29" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:r>
@@ -4367,7 +4412,7 @@
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
-<w:bookmarkStart w:id="53" w:name="_Toc93952201"/>
+<w:bookmarkStart w:id="41" w:name="_Toc93952201"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
@@ -4396,7 +4441,7 @@
 <w:tab/>
 <w:t>Esiselvityksen vaihtoehtoiset hakutermit</w:t>
 </w:r>
-<w:bookmarkEnd w:id="53"/>
+<w:bookmarkEnd w:id="41"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -4695,29 +4740,63 @@
 </w:tbl>
 <w:p w14:paraId="6790D4B4" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:r>
-<w:t>Osa julkaisuista oli saatavilla useassa eri tietokannassa eri ajanjaksoilta. Ennen varsinaista järjestelmällistä hakuprosessia oli aikaisemman tutkielma-aiheen yhteydessä toteutettu ad hoc -hakuja, joiden perusteella tiedettiin, että artikkeleita on saatavilla useammalta vuosikymmeneltä. Tämän tiedon pohjalta haut toteutettiin siinä tietokannassa, jossa oli saatavilla uusimmat artikkelit pisimmältä ajanjaksolta. Esimerkiksi jos tietokannassa A olisi ollut saatavilla 10 vuotta enemmän artikkeleita kuin tietokannassa B, mutta siitä olisi puuttunut viimeisimmän vuoden artikkelit, olisi tietokanta B valittu. Lopullisen aineiston keruuta varten valittiin haku 1, sillä sen koettiin tuottavan parhaimman signaalin eli olennaiselta vaikuttavien artikkeleiden osuuden kaikista hakutuloksista. Artikkeleita siis arvioitiin otsikkotasolla. Arviointi toteutettiin vain ensimmäiselle hakutulossivulle mahtuneille artikkeleille, luottaen kunkin julkaisun käyttämän tietokannan hakukoneen sisäiseen olennaisuusluokitukseen hakutuloksia esitettäessä.</w:t>
+<w:t xml:space="preserve">Osa julkaisuista oli saatavilla useassa eri tietokannassa eri ajanjaksoilta. Ennen varsinaista järjestelmällistä hakuprosessia oli aikaisemman tutkielma-aiheen yhteydessä toteutettu </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>ad</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> hoc -hakuja, joiden perusteella tiedettiin, että artikkeleita on saatavilla useammalta vuosikymmeneltä. Tämän tiedon pohjalta haut toteutettiin siinä tietokannassa, jossa oli saatavilla uusimmat artikkelit pisimmältä ajanjaksolta. Esimerkiksi jos tietokannassa A olisi ollut saatavilla 10 vuotta enemmän artikkeleita kuin tietokannassa B, mutta siitä olisi puuttunut viimeisimmän vuoden artikkelit, olisi tietokanta B valittu. Lopullisen aineiston keruuta varten valittiin haku 1, sillä sen koettiin tuottavan parhaimman signaalin eli olennaiselta vaikuttavien artikkeleiden osuuden kaikista hakutuloksista. Artikkeleita siis arvioitiin otsikkotasolla. Arviointi toteutettiin vain ensimmäiselle hakutulossivulle mahtuneille artikkeleille, luottaen kunkin julkaisun käyttämän tietokannan hakukoneen sisäiseen olennaisuusluokitukseen hakutuloksia esitettäessä.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="3A3CFD25" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:r>
 <w:t>Hakusanalla 1 toteutettiin haut myös projektinhallinnan julkaisuille. Aikaisemman aiheen parissa projektinhallinnan julkaisujen oli havaittu käsittelevän paljon erilaisia fyysisessä maailmassa tapahtuvia rakennusprojekteja, joten pelkkä haku ”</w:t>
 </w:r>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="54" w:author="Author">
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-</w:rPrChange>
-</w:rPr>
-<w:t>project success factors</w:t>
+<w:t>project</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>success</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>factors</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r>
-<w:t>” olisi tuottanut paljon tuloksia huonolla signaalilla. Hakutermiä haluttiin rajata projektinhallinnan julkaisuja varten siis pidemmälle. Ehdon ”NOT ”Construction”” lisääminen nähtiin huonona, sillä artikkelit saattaisivat vähintäänkin lähdeluettelossa mainita muita rakennusalaa käsitteleviä tuloksia. Täten päädyttiin vähemmän rajaavaan eh</w:t>
+<w:t xml:space="preserve">” olisi tuottanut paljon tuloksia huonolla signaalilla. Hakutermiä haluttiin rajata projektinhallinnan julkaisuja varten siis pidemmälle. Ehdon ”NOT ”Construction”” lisääminen nähtiin huonona, sillä artikkelit saattaisivat vähintäänkin lähdeluettelossa mainita muita rakennusalaa käsitteleviä tuloksia. Täten päädyttiin vähemmän rajaavaan </w:t>
 </w:r>
 <w:r>
 <w:lastRenderedPageBreak/>
-<w:t>toon ”AND ”software””, joka takaisi, että ohjelmistot olisi mainittu artikkeleissa edes jossain muodossa. Useammassa artikkelissa ohjelmistot mainittiin vain tilasto-ohjelman SPSS yhteydessä, mutta nämä artikkelit olivat suodatettavissa myöhemmässä sisältötason rajauksessa suhteellisen helposti Ctrl+F hakutoiminnolla.</w:t>
+<w:t>ehtoon ”AND ”software””, joka takaisi, että ohjelmistot olisi mainittu artikkeleissa edes jossain muodossa. Useammassa artikkelissa ohjelmistot mainittiin vain tilasto-ohjelman SPSS yhteydessä, mutta nämä artikkelit olivat suodatettavissa myöhemmässä sisältötason rajauksessa suhteellisen helposti Ctrl+F hakutoiminnolla.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="50C842AA" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
@@ -4737,7 +4816,7 @@
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
-<w:bookmarkStart w:id="55" w:name="_Toc93952202"/>
+<w:bookmarkStart w:id="42" w:name="_Toc93952202"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
@@ -4766,7 +4845,7 @@
 <w:tab/>
 <w:t>Syyt julkaisujen karsiutumiselle hakuvaiheessa</w:t>
 </w:r>
-<w:bookmarkEnd w:id="55"/>
+<w:bookmarkEnd w:id="42"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -4795,24 +4874,24 @@
 <w:pPr>
 <w:ind w:firstLine="0"/>
 </w:pPr>
-<w:commentRangeStart w:id="56"/>
-<w:commentRangeStart w:id="57"/>
+<w:commentRangeStart w:id="43"/>
+<w:commentRangeStart w:id="44"/>
 <w:r>
 <w:t>Frekvenssi</w:t>
 </w:r>
-<w:commentRangeEnd w:id="56"/>
+<w:commentRangeEnd w:id="43"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="56"/>
+<w:commentReference w:id="43"/>
 </w:r>
-<w:commentRangeEnd w:id="57"/>
+<w:commentRangeEnd w:id="44"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="57"/>
+<w:commentReference w:id="44"/>
 </w:r>
 </w:p>
 </w:tc>
@@ -5046,11 +5125,11 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="58" w:name="_Toc93952211"/>
+<w:bookmarkStart w:id="45" w:name="_Toc93952211"/>
 <w:r>
 <w:t>Artikkelit</w:t>
 </w:r>
-<w:bookmarkEnd w:id="58"/>
+<w:bookmarkEnd w:id="45"/>
 </w:p>
 <w:p w14:paraId="2A93ACA6" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:pPr>
@@ -5062,23 +5141,39 @@
 </w:p>
 <w:p w14:paraId="7E531BD7" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
 <w:r>
-<w:t>Rajauskierroksia toteutettiin kolme. Ensimmäisellä otsikon perusteella lupaaville artikkeleille annettiin hyväksyntä seuraavalla kierrokselle. Kevyeen sisältöpohjaiseen arviointiin eteni 56 artikkelia. Artikkelit käytiin nopeasti läpi Ctrl+F hakutoiminnolla, käyttäen termejä ”success factors” ja ”software”, jotta nähtäisiin kuinka usein ja millaisissa konteksteissa kyseiset termit esiintyivät.</w:t>
+<w:t>Rajauskierroksia toteutettiin kolme. Ensimmäisellä otsikon perusteella lupaaville artikkeleille annettiin hyväksyntä seuraavalla kierrokselle. Kevyeen sisältöpohjaiseen arviointiin eteni 56 artikkelia. Artikkelit käytiin nopeasti läpi Ctrl+F hakutoiminnolla, käyttäen termejä ”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>success</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>factors</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>” ja ”software”, jotta nähtäisiin kuinka usein ja millaisissa konteksteissa kyseiset termit esiintyivät.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="55600881" w14:textId="77777777" w:rsidR="00AD616A" w:rsidRDefault="396643E6" w:rsidP="00AD616A">
 <w:r>
 <w:t xml:space="preserve">Ennen viimeistä rajauskierrosta tehtiin harkinnanvarainen lumipallo-otanta. </w:t>
 </w:r>
-<w:commentRangeStart w:id="59"/>
+<w:commentRangeStart w:id="46"/>
 <w:r>
 <w:t>Lumipallo-otannalla</w:t>
 </w:r>
-<w:commentRangeEnd w:id="59"/>
+<w:commentRangeEnd w:id="46"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="59"/>
+<w:commentReference w:id="46"/>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> tarkoitetaan sitä, että otetaan valikoituneista artikkeleista niiden lähteitä omaan aineistoon mukaan. Otanta toteutettiin Ctrl+F hakutoiminnon avulla samoilla termeillä kuin toinen rajauskierros. Otantaa kutsutaan harkinnanvaraiseksi, sillä artikkeleiden kaikkia lähteitä ei tarkasteltu otsikkotasolla. Harkinnanvarainen lumipallo-otanta toi mukaan viisi lähdettä. </w:t>
@@ -5194,7 +5289,15 @@
 <w:t xml:space="preserve">) </w:t>
 </w:r>
 <w:r>
-<w:t>viittasi Project Management Body of Knowledge</w:t>
+<w:t xml:space="preserve">viittasi Project Management </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Body</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> of Knowledge</w:t>
 </w:r>
 <w:r w:rsidR="00337E46">
 <w:t xml:space="preserve"> eli lyhennettynä PMBOK-oppaaseen </w:t>
@@ -5338,7 +5441,15 @@
 <w:t xml:space="preserve"> Samaan artikkeliin on myös viitannut yksi (useampi?) aineistoartikkeli (viite tähän).</w:t>
 </w:r>
 <w:r>
-<w:t xml:space="preserve"> Chaos Reporttien ympärillä käytyä keskustelua käydään tarkemmin läpi</w:t>
+<w:t xml:space="preserve"> Chaos </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>Reporttien</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> ympärillä käytyä keskustelua käydään tarkemmin läpi</w:t>
 </w:r>
 <w:r w:rsidR="0099175C">
 <w:t xml:space="preserve"> luvussa X.X</w:t>
@@ -5361,12 +5472,20 @@
 <w:t xml:space="preserve">Ei-tieteelliset </w:t>
 </w:r>
 <w:r w:rsidR="4B36F7D4">
-<w:t>lähteiden mukaantuonti nähtiin niiden keräämien viittausmäärien vuoksi perusteltuna.</w:t>
+<w:t xml:space="preserve">lähteiden </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="4B36F7D4">
+<w:t>mukaantuonti</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="4B36F7D4">
+<w:t xml:space="preserve"> nähtiin niiden keräämien viittausmäärien vuoksi perusteltuna.</w:t>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
-<w:commentRangeStart w:id="60"/>
+<w:commentRangeStart w:id="47"/>
 <w:r>
 <w:t>Lisäksi omaa menetelmää kehitettiin systemaattisen kirjallisuuskartoituksen suuntaan kahdella muulla lähteellä</w:t>
 </w:r>
@@ -5376,12 +5495,12 @@
 <w:r>
 <w:t>,</w:t>
 </w:r>
-<w:commentRangeEnd w:id="60"/>
+<w:commentRangeEnd w:id="47"/>
 <w:r w:rsidR="00AD616A">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="60"/>
+<w:commentReference w:id="47"/>
 </w:r>
 <w:r>
 <w:t xml:space="preserve"> tuoden lähteiden määrän 24:n.</w:t>
@@ -5396,7 +5515,15 @@
 <w:t>2004–2021</w:t>
 </w:r>
 <w:r>
-<w:t>, [tilastollisia tunnuslukuja] (harkitse esim. pylväsdiagrammia tmv. kuviota. Muista päivittää lähteiden määrät).</w:t>
+<w:t xml:space="preserve">, [tilastollisia tunnuslukuja] (harkitse esim. pylväsdiagrammia </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>tmv</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>. kuviota. Muista päivittää lähteiden määrät).</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5D64D54D" w14:textId="29A296CF" w:rsidR="00AD616A" w:rsidRDefault="00AD616A" w:rsidP="00AD616A">
@@ -5406,7 +5533,7 @@
 <w:noProof/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="61" w:name="_Toc93952203"/>
+<w:bookmarkStart w:id="48" w:name="_Toc93952203"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
@@ -5435,7 +5562,7 @@
 <w:tab/>
 <w:t>Lähteiden julkaisuvuodet</w:t>
 </w:r>
-<w:bookmarkEnd w:id="61"/>
+<w:bookmarkEnd w:id="48"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -5885,7 +6012,7 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="62" w:name="_Toc93952212"/>
+<w:bookmarkStart w:id="49" w:name="_Toc93952212"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>O</w:t>
@@ -5893,7 +6020,7 @@
 <w:r w:rsidR="00625B66">
 <w:t>nnistunut projekti</w:t>
 </w:r>
-<w:bookmarkEnd w:id="62"/>
+<w:bookmarkEnd w:id="49"/>
 </w:p>
 <w:p w14:paraId="302EB530" w14:textId="3D96150F" w:rsidR="00FD129C" w:rsidRPr="00FD129C" w:rsidRDefault="00625B66" w:rsidP="00661F06">
 <w:pPr>
@@ -5913,8 +6040,8 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="63" w:name="_Toc93952213"/>
-<w:commentRangeStart w:id="64"/>
+<w:bookmarkStart w:id="50" w:name="_Toc93952213"/>
+<w:commentRangeStart w:id="51"/>
 <w:r>
 <w:t xml:space="preserve">Jako projektin ja </w:t>
 </w:r>
@@ -5924,13 +6051,13 @@
 <w:r>
 <w:t>onnistumisen välillä</w:t>
 </w:r>
-<w:bookmarkEnd w:id="63"/>
-<w:commentRangeEnd w:id="64"/>
+<w:bookmarkEnd w:id="50"/>
+<w:commentRangeEnd w:id="51"/>
 <w:r w:rsidR="002F0F5F">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="64"/>
+<w:commentReference w:id="51"/>
 </w:r>
 </w:p>
 <w:p w14:paraId="7AFCCBC9" w14:textId="4429712C" w:rsidR="00625B66" w:rsidRDefault="008867D6" w:rsidP="00625B66">
@@ -6089,7 +6216,15 @@
 <w:t xml:space="preserve">kolmijaottelun ovat tehneet </w:t>
 </w:r>
 <w:r w:rsidR="00D82772">
-<w:t>Millhollan ja Kaarst-Borwn (2016)</w:t>
+<w:t>Millhollan ja Kaarst-</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00D82772">
+<w:t>Borwn</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00D82772">
+<w:t xml:space="preserve"> (2016)</w:t>
 </w:r>
 <w:r w:rsidR="00B45CDA">
 <w:t>.</w:t>
@@ -6134,7 +6269,23 @@
 <w:t xml:space="preserve">kaksijaottelun käyttöä puhtaan menestystekijöiden tutkimuksen ulkopuolella. </w:t>
 </w:r>
 <w:r w:rsidR="003867F5">
-<w:t>Artikkelissaan he käsittelevät ideaa nk. ihannepisteestä (engl. sweet spot)</w:t>
+<w:t xml:space="preserve">Artikkelissaan he käsittelevät ideaa nk. ihannepisteestä (engl. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="003867F5">
+<w:t>sweet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="003867F5">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="003867F5">
+<w:t>spot</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="003867F5">
+<w:t>)</w:t>
 </w:r>
 <w:r w:rsidR="006A0650">
 <w:t xml:space="preserve">, jonka avulla he ilmeisesti haluavat viestiä ideaa siitä, että </w:t>
@@ -6160,7 +6311,23 @@
 </w:p>
 <w:p w14:paraId="5ACAC4C4" w14:textId="0AC1C54D" w:rsidR="00EC6DF4" w:rsidRDefault="005A60B1" w:rsidP="004129BE">
 <w:r>
-<w:t>Valtaosa kerätyistä artikkeleista ei kuitenkaan mainitse sanoja ”project management success” kertaakaan (</w:t>
+<w:t>Valtaosa kerätyistä artikkeleista ei kuitenkaan mainitse sanoja ”</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>project</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> management </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>success</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t>” kertaakaan (</w:t>
 </w:r>
 <w:r w:rsidRPr="005A60B1">
 <w:t>Yim ym. 2015</w:t>
@@ -6199,11 +6366,11 @@
 <w:t xml:space="preserve">; </w:t>
 </w:r>
 <w:r w:rsidR="00DD72F2" w:rsidRPr="00DD72F2">
-<w:t>Truong ja Jitbai</w:t>
+<w:t xml:space="preserve">Truong ja Jitbaipoon </w:t>
 </w:r>
 <w:r w:rsidR="00DD72F2" w:rsidRPr="00DD72F2">
 <w:lastRenderedPageBreak/>
-<w:t>poon 2016</w:t>
+<w:t>2016</w:t>
 </w:r>
 <w:r w:rsidR="00DD72F2">
 <w:t>;</w:t>
@@ -6223,8 +6390,13 @@
 <w:r w:rsidR="004129BE">
 <w:t xml:space="preserve">; </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="004129BE" w:rsidRPr="004129BE">
-<w:t>Pereira ym. 2008</w:t>
+<w:t>Pereira</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="004129BE" w:rsidRPr="004129BE">
+<w:t xml:space="preserve"> ym. 2008</w:t>
 </w:r>
 <w:r w:rsidR="004129BE">
 <w:t>)</w:t>
@@ -6270,34 +6442,47 @@
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
-<w:bookmarkStart w:id="65" w:name="_Toc93952204"/>
+<w:bookmarkStart w:id="52" w:name="_Toc93952204"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="38330908" w:rsidRPr="67C704D2">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>4</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="00622A60">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r w:rsidR="001C7CD0">
 <w:tab/>
 </w:r>
-<w:commentRangeStart w:id="66"/>
+<w:commentRangeStart w:id="53"/>
 <w:r w:rsidRPr="67C704D2">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>Eri ja</w:t>
 </w:r>
-<w:commentRangeEnd w:id="66"/>
+<w:commentRangeEnd w:id="53"/>
 <w:r w:rsidR="001C7CD0">
 <w:rPr>
 <w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:commentReference w:id="66"/>
+<w:commentReference w:id="53"/>
 </w:r>
 <w:r w:rsidRPr="67C704D2">
 <w:rPr>
@@ -6305,7 +6490,7 @@
 </w:rPr>
 <w:t>ottelujen esiintymisvuodet aineistoartikkeleissa</w:t>
 </w:r>
-<w:bookmarkEnd w:id="65"/>
+<w:bookmarkEnd w:id="52"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -6545,14 +6730,14 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="67" w:name="_Toc93952214"/>
+<w:bookmarkStart w:id="54" w:name="_Toc93952214"/>
 <w:r>
 <w:t>Ohjelmistoprojektin m</w:t>
 </w:r>
 <w:r w:rsidR="00661F06">
 <w:t>enestystekijät</w:t>
 </w:r>
-<w:bookmarkEnd w:id="67"/>
+<w:bookmarkEnd w:id="54"/>
 </w:p>
 <w:p w14:paraId="081175BB" w14:textId="1300DAB9" w:rsidR="00661F06" w:rsidRDefault="00450004" w:rsidP="00661F06">
 <w:pPr>
@@ -6562,7 +6747,15 @@
 <w:t>[tähän aineiston perusteella koostetta menestystekijöistä, yksi idea yksi pitkä listaus (jota artikkelit eivät usein tee, ja syitä siihen voi käsitellä)</w:t>
 </w:r>
 <w:r w:rsidR="00362148">
-<w:t>, jolla havainnollisetetaan pointtia siitä, että projektin onnistumiseen positiivisesti vaikuttavia tekijöitä voidaan luetella lähes loputtomiin hyväksyttävästi.</w:t>
+<w:t xml:space="preserve">, jolla </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00362148">
+<w:t>havainnollisetetaan</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00362148">
+<w:t xml:space="preserve"> pointtia siitä, että projektin onnistumiseen positiivisesti vaikuttavia tekijöitä voidaan luetella lähes loputtomiin hyväksyttävästi.</w:t>
 </w:r>
 <w:r w:rsidR="002F2A7E">
 <w:t xml:space="preserve"> Sitten voi käsitellä sen, kuinka on nähty tarpeelliseksi tutkia _kriittisiä_ menestystekijöitä (listojen pituuden rajoittamiseksi?).]</w:t>
@@ -6577,12 +6770,12 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="68" w:name="_Toc93952215"/>
+<w:bookmarkStart w:id="55" w:name="_Toc93952215"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Menestystekijöiden yleistettävyyttä rajoittavat tekijät</w:t>
 </w:r>
-<w:bookmarkEnd w:id="68"/>
+<w:bookmarkEnd w:id="55"/>
 </w:p>
 <w:p w14:paraId="232B037D" w14:textId="227E397F" w:rsidR="003014CA" w:rsidRDefault="00A6139B" w:rsidP="003014CA">
 <w:pPr>
@@ -6602,23 +6795,55 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="69" w:name="_Toc93952216"/>
+<w:bookmarkStart w:id="56" w:name="_Toc93952216"/>
 <w:r>
 <w:t>Aineiston tutkimuksen toistettavuus</w:t>
 </w:r>
-<w:bookmarkEnd w:id="69"/>
+<w:bookmarkEnd w:id="56"/>
 </w:p>
 <w:p w14:paraId="67D7E561" w14:textId="77777777" w:rsidR="009A2786" w:rsidRDefault="009A2786" w:rsidP="009A2786">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
 <w:r>
-<w:t>[käy läpi kohtuu syvällisesti globaali – yugoslavia tutkimukset (yugoslavia globaalin toisto)]</w:t>
+<w:t xml:space="preserve">[käy läpi kohtuu syvällisesti globaali – </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>yugoslavia</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> tutkimukset (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>yugoslavia</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> globaalin toisto)]</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="6087B797" w14:textId="77777777" w:rsidR="009A2786" w:rsidRDefault="009A2786" w:rsidP="009A2786">
 <w:r>
-<w:t>[chaos reports -tutkimuksien menestystekijöiden vaihtelevuus, joku aineistoartikkeli käsitteli tätä]</w:t>
+<w:t>[</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>chaos</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r>
+<w:t>reports</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> -tutkimuksien menestystekijöiden vaihtelevuus, joku aineistoartikkeli käsitteli tätä]</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="519B17A3" w14:textId="77777777" w:rsidR="009A2786" w:rsidRDefault="009A2786" w:rsidP="009A2786">
@@ -6631,11 +6856,11 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="70" w:name="_Toc93952217"/>
+<w:bookmarkStart w:id="57" w:name="_Toc93952217"/>
 <w:r>
 <w:t>Pohdintaa</w:t>
 </w:r>
-<w:bookmarkEnd w:id="70"/>
+<w:bookmarkEnd w:id="57"/>
 </w:p>
 <w:p w14:paraId="1F1AF11A" w14:textId="625D79BB" w:rsidR="007609D3" w:rsidRDefault="00C61F0F" w:rsidP="007609D3">
 <w:pPr>
@@ -6654,7 +6879,15 @@
 <w:t>olettaa esimerkiksi sanalle projekti jonkun merkityksen.</w:t>
 </w:r>
 <w:r w:rsidR="000D79C9">
-<w:t xml:space="preserve"> Erinomaisen tarkasti käytetyt termit on määritellyt [authors] (xxxx) artikkelissaan (otsikko).</w:t>
+<w:t xml:space="preserve"> Erinomaisen tarkasti käytetyt termit on määritellyt [</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="000D79C9">
+<w:t>authors</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="000D79C9">
+<w:t>] (xxxx) artikkelissaan (otsikko).</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0A10EE1B" w14:textId="22D3AF78" w:rsidR="003A0F47" w:rsidRDefault="003A0F47" w:rsidP="003A0F47">
@@ -6691,19 +6924,24 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="71" w:name="_Toc93952218"/>
+<w:bookmarkStart w:id="58" w:name="_Toc93952218"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Yhteenveto</w:t>
 </w:r>
-<w:bookmarkEnd w:id="71"/>
+<w:bookmarkEnd w:id="58"/>
 </w:p>
 <w:p w14:paraId="7568D3BF" w14:textId="004ED94B" w:rsidR="003014CA" w:rsidRPr="003014CA" w:rsidRDefault="00BA59E7" w:rsidP="003014CA">
 <w:pPr>
 <w:pStyle w:val="Normaaliensimminenkappale"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r>
-<w:t>blablabla tämä kandidaatintutkielma ja mitä rajoituksia</w:t>
+<w:t>blablabla</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r>
+<w:t xml:space="preserve"> tämä kandidaatintutkielma ja mitä rajoituksia</w:t>
 </w:r>
 <w:r w:rsidR="00F672E5">
 <w:t>, ongelmia jne.</w:t>
@@ -6717,13 +6955,13 @@
 <w:pStyle w:val="Heading1"/>
 <w:framePr w:wrap="notBeside"/>
 </w:pPr>
-<w:bookmarkStart w:id="72" w:name="_Toc93952219"/>
+<w:bookmarkStart w:id="59" w:name="_Toc93952219"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Johdanto</w:t>
 </w:r>
-<w:bookmarkEnd w:id="20"/>
-<w:bookmarkEnd w:id="72"/>
+<w:bookmarkEnd w:id="12"/>
+<w:bookmarkEnd w:id="59"/>
 </w:p>
 <w:p w14:paraId="5AD118CE" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -6760,15 +6998,15 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="73" w:name="_Toc274315274"/>
-<w:bookmarkStart w:id="74" w:name="_Toc56597509"/>
-<w:bookmarkStart w:id="75" w:name="_Toc93952220"/>
+<w:bookmarkStart w:id="60" w:name="_Toc274315274"/>
+<w:bookmarkStart w:id="61" w:name="_Toc56597509"/>
+<w:bookmarkStart w:id="62" w:name="_Toc93952220"/>
 <w:r>
 <w:t>Toisen tason alaotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="73"/>
-<w:bookmarkEnd w:id="74"/>
-<w:bookmarkEnd w:id="75"/>
+<w:bookmarkEnd w:id="60"/>
+<w:bookmarkEnd w:id="61"/>
+<w:bookmarkEnd w:id="62"/>
 </w:p>
 <w:p w14:paraId="70EE77C8" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -6782,17 +7020,17 @@
 <w:pPr>
 <w:pStyle w:val="Heading3"/>
 </w:pPr>
-<w:bookmarkStart w:id="76" w:name="_Toc274315275"/>
-<w:bookmarkStart w:id="77" w:name="_Toc56597510"/>
-<w:bookmarkStart w:id="78" w:name="_Toc93952221"/>
-<w:bookmarkStart w:id="79" w:name="_Toc274315276"/>
-<w:bookmarkStart w:id="80" w:name="_Toc56597511"/>
+<w:bookmarkStart w:id="63" w:name="_Toc274315275"/>
+<w:bookmarkStart w:id="64" w:name="_Toc56597510"/>
+<w:bookmarkStart w:id="65" w:name="_Toc93952221"/>
+<w:bookmarkStart w:id="66" w:name="_Toc274315276"/>
+<w:bookmarkStart w:id="67" w:name="_Toc56597511"/>
 <w:r>
 <w:t>Kolmannen tason alaotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="76"/>
-<w:bookmarkEnd w:id="77"/>
-<w:bookmarkEnd w:id="78"/>
+<w:bookmarkEnd w:id="63"/>
+<w:bookmarkEnd w:id="64"/>
+<w:bookmarkEnd w:id="65"/>
 </w:p>
 <w:p w14:paraId="5B883DEA" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
@@ -6805,13 +7043,307 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+<w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>consectetuer</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>adipiscing</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>elit</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Maecenas </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>congue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>massa</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>posuere</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, magna sed pulvinar </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>ultricies</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>lectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> libero, sit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>commodo</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> magna eros </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>quis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>urna</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+<w:t xml:space="preserve">Nunc </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>viverra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>imperdiet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>enim</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> est.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="14BC15DF" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6820,11 +7352,257 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+<w:t>Vivamus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> a </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>tellus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Pellentesque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> habitant morbi tristique </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>senectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>netus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>fames</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>ac</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>turpis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>egestas</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Proin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pharetra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pede</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>orci</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Aenean</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> nec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>lorem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="0E9FDA04" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00AF5221" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6837,13 +7615,237 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+<w:t xml:space="preserve">In </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Donec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>laoreet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>augue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
+<w:t xml:space="preserve">Suspendisse </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>dui</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>scelerisque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>vulputate</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> vitae, pretium </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>mattis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, nunc. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eget</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>neque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>sem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>venenatis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eleifend</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. Ut </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="257B824D" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00372F2B" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6851,12 +7853,12 @@
 <w:pStyle w:val="Heading3"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
 </w:pPr>
-<w:bookmarkStart w:id="81" w:name="_Toc93952222"/>
+<w:bookmarkStart w:id="68" w:name="_Toc93952222"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>Kolmannen tason toinen alaotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="81"/>
+<w:bookmarkEnd w:id="68"/>
 </w:p>
 <w:p w14:paraId="0E429C51" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
@@ -6870,13 +7872,307 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+<w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>consectetuer</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>adipiscing</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>elit</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Maecenas </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>congue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>massa</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>posuere</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, magna sed pulvinar </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>ultricies</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>lectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> libero, sit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>commodo</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> magna eros </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>quis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>urna</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+<w:t xml:space="preserve">Nunc </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>viverra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>imperdiet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>enim</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> est.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="2C7388D3" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00E6009A" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6886,11 +8182,257 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+<w:t>Vivamus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> a </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>tellus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Pellentesque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> habitant morbi tristique </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>senectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>netus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>fames</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>ac</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>turpis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>egestas</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Proin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pharetra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pede</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>orci</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Aenean</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> nec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>lorem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="6754BF5F" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6904,13 +8446,237 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+<w:t xml:space="preserve">In </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Donec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>laoreet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>augue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</w:t>
+<w:t xml:space="preserve">Suspendisse </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>dui</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>scelerisque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>vulputate</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> vitae, pretium </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>mattis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, nunc. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eget</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>neque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>sem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>venenatis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eleifend</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. Ut </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="393E8C9C" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
@@ -6918,11 +8684,11 @@
 <w:pStyle w:val="Heading2"/>
 <w:framePr w:wrap="notBeside" w:vAnchor="text" w:hAnchor="text" w:y="1"/>
 </w:pPr>
-<w:bookmarkStart w:id="82" w:name="_Toc93952223"/>
+<w:bookmarkStart w:id="69" w:name="_Toc93952223"/>
 <w:r>
 <w:t>Toisen tason toinen alaotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="82"/>
+<w:bookmarkEnd w:id="69"/>
 </w:p>
 <w:p w14:paraId="2FA50222" w14:textId="77777777" w:rsidR="00B02A9E" w:rsidRPr="00B02A9E" w:rsidRDefault="00B02A9E" w:rsidP="00B02A9E">
 <w:pPr>
@@ -6941,7 +8707,7 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="83" w:name="_Toc93952224"/>
+<w:bookmarkStart w:id="70" w:name="_Toc93952224"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -6949,9 +8715,9 @@
 <w:lastRenderedPageBreak/>
 <w:t>TOINEN PÄÄOTSIKKO</w:t>
 </w:r>
-<w:bookmarkEnd w:id="79"/>
-<w:bookmarkEnd w:id="80"/>
-<w:bookmarkEnd w:id="83"/>
+<w:bookmarkEnd w:id="66"/>
+<w:bookmarkEnd w:id="67"/>
+<w:bookmarkEnd w:id="70"/>
 </w:p>
 <w:p w14:paraId="4FFE6E78" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -6977,15 +8743,15 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="84" w:name="_Toc274315277"/>
-<w:bookmarkStart w:id="85" w:name="_Toc56597512"/>
-<w:bookmarkStart w:id="86" w:name="_Toc93952225"/>
+<w:bookmarkStart w:id="71" w:name="_Toc274315277"/>
+<w:bookmarkStart w:id="72" w:name="_Toc56597512"/>
+<w:bookmarkStart w:id="73" w:name="_Toc93952225"/>
 <w:r>
 <w:t>Alaotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="84"/>
-<w:bookmarkEnd w:id="85"/>
-<w:bookmarkEnd w:id="86"/>
+<w:bookmarkEnd w:id="71"/>
+<w:bookmarkEnd w:id="72"/>
+<w:bookmarkEnd w:id="73"/>
 </w:p>
 <w:p w14:paraId="41259048" w14:textId="77777777" w:rsidR="00F6019C" w:rsidRPr="00F6019C" w:rsidRDefault="00E6009A" w:rsidP="00F6019C">
 <w:pPr>
@@ -7032,18 +8798,31 @@
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
-<w:bookmarkStart w:id="87" w:name="_Toc93952205"/>
+<w:bookmarkStart w:id="74" w:name="_Toc93952205"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00440A5D">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>5</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="00622A60">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r w:rsidR="00257167">
 <w:rPr>
 <w:noProof/>
@@ -7056,7 +8835,7 @@
 </w:rPr>
 <w:t>Esimerkki taulukon selitetekstistä</w:t>
 </w:r>
-<w:bookmarkEnd w:id="87"/>
+<w:bookmarkEnd w:id="74"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -7520,25 +9299,38 @@
 <w:pPr>
 <w:pStyle w:val="Caption"/>
 </w:pPr>
-<w:bookmarkStart w:id="88" w:name="_Toc93952200"/>
+<w:bookmarkStart w:id="75" w:name="_Toc93952200"/>
 <w:r>
 <w:t xml:space="preserve">KUVIO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ KUVIO \* ARABIC ">
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:instrText xml:space="preserve"> SEQ KUVIO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00440A5D">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>1</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="00622A60">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r w:rsidR="00257167">
 <w:tab/>
 </w:r>
 <w:r w:rsidR="00B00A80" w:rsidRPr="00B00A80">
 <w:t>Pelkistetty diagrammiesimerkki</w:t>
 </w:r>
-<w:bookmarkEnd w:id="88"/>
+<w:bookmarkEnd w:id="75"/>
 </w:p>
 <w:p w14:paraId="66F01931" w14:textId="77777777" w:rsidR="00AC4236" w:rsidRDefault="00F91E31" w:rsidP="00C7340F">
 <w:r>
@@ -7561,13 +9353,37 @@
 <w:t xml:space="preserve">lisättävä </w:t>
 </w:r>
 <w:r w:rsidR="00205B12">
-<w:t xml:space="preserve">Viittaukset (References) </w:t>
+<w:t>Viittaukset (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00205B12">
+<w:t>References</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00205B12">
+<w:t xml:space="preserve">) </w:t>
 </w:r>
 <w:r w:rsidR="00B8061B">
 <w:t xml:space="preserve">-välilehdellä </w:t>
 </w:r>
 <w:r w:rsidR="00205B12">
-<w:t>Lisää kuvateksti (Insert Caption)</w:t>
+<w:t>Lisää kuvateksti (</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00205B12">
+<w:t>Insert</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00205B12">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00205B12">
+<w:t>Caption</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00205B12">
+<w:t>)</w:t>
 </w:r>
 <w:r w:rsidR="00572D8D">
 <w:t xml:space="preserve"> -toiminnolla</w:t>
@@ -7621,18 +9437,18 @@
 <w:pPr>
 <w:pStyle w:val="Heading2"/>
 </w:pPr>
-<w:bookmarkStart w:id="89" w:name="_Toc274315278"/>
-<w:bookmarkStart w:id="90" w:name="_Toc56597513"/>
-<w:bookmarkStart w:id="91" w:name="_Toc93952226"/>
+<w:bookmarkStart w:id="76" w:name="_Toc274315278"/>
+<w:bookmarkStart w:id="77" w:name="_Toc56597513"/>
+<w:bookmarkStart w:id="78" w:name="_Toc93952226"/>
 <w:r>
 <w:t>Toinen a</w:t>
 </w:r>
 <w:r w:rsidR="00E6009A">
 <w:t>laotsikko</w:t>
 </w:r>
-<w:bookmarkEnd w:id="89"/>
-<w:bookmarkEnd w:id="90"/>
-<w:bookmarkEnd w:id="91"/>
+<w:bookmarkEnd w:id="76"/>
+<w:bookmarkEnd w:id="77"/>
+<w:bookmarkEnd w:id="78"/>
 </w:p>
 <w:p w14:paraId="1ED885E9" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -7737,23 +9553,61 @@
 <w:r w:rsidR="00E3001B">
 <w:t xml:space="preserve">. </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="00B8061B" w:rsidRPr="00656FEE">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t>Seuraavaksi</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="00572D8D" w:rsidRPr="00656FEE">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t>esimerkki sitaatin muotoilusta:</w:t>
+<w:t>esimerkki</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>sitaatin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>muotoilusta</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="00E6009A" w:rsidRPr="00656FEE">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>:</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="4EEFA46D" w14:textId="77777777" w:rsidR="00F91E31" w:rsidRPr="00656FEE" w:rsidRDefault="00F91E31" w:rsidP="00F91E31">
@@ -7809,7 +9663,23 @@
 <w:t xml:space="preserve"> </w:t>
 </w:r>
 <w:r w:rsidRPr="00656FEE">
-<w:t>(Faraj &amp; Sambamurthy, 2006</w:t>
+<w:t>(</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00656FEE">
+<w:t>Faraj</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00656FEE">
+<w:t xml:space="preserve"> &amp; </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00656FEE">
+<w:t>Sambamurthy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00656FEE">
+<w:t>, 2006</w:t>
 </w:r>
 <w:r w:rsidR="00906A52">
 <w:t>, s. 247</w:t>
@@ -7856,11 +9726,24 @@
 <w:t xml:space="preserve"> turhat sidesanat </w:t>
 </w:r>
 <w:r w:rsidR="000F720A">
-<w:t>(niinku,</w:t>
+<w:t>(</w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="000F720A">
+<w:t>niinku</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="000F720A">
+<w:t>,</w:t>
 </w:r>
 <w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
-<w:t xml:space="preserve"> tota</w:t>
+<w:t xml:space="preserve"> </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="000F720A" w:rsidRPr="000F720A">
+<w:t>tota</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 <w:r w:rsidR="000F720A">
 <w:t xml:space="preserve">) </w:t>
 </w:r>
@@ -7944,16 +9827,16 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="92" w:name="_Toc274315279"/>
-<w:bookmarkStart w:id="93" w:name="_Toc56597514"/>
-<w:bookmarkStart w:id="94" w:name="_Toc93952227"/>
+<w:bookmarkStart w:id="79" w:name="_Toc274315279"/>
+<w:bookmarkStart w:id="80" w:name="_Toc56597514"/>
+<w:bookmarkStart w:id="81" w:name="_Toc93952227"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t>KOLMAS PÄÄOTSIKKO</w:t>
 </w:r>
-<w:bookmarkEnd w:id="92"/>
-<w:bookmarkEnd w:id="93"/>
-<w:bookmarkEnd w:id="94"/>
+<w:bookmarkEnd w:id="79"/>
+<w:bookmarkEnd w:id="80"/>
+<w:bookmarkEnd w:id="81"/>
 </w:p>
 <w:p w14:paraId="18D8C142" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -7966,19 +9849,307 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor </w:t>
+<w:t xml:space="preserve">Lorem ipsum dolor sit </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>consectetuer</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>adipiscing</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>elit</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Maecenas </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00635683">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00E94463">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. </w:t>
+<w:t>congue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>massa</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>posuere</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, magna sed pulvinar </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>ultricies</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>lectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> libero, sit </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>amet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>commodo</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> magna eros </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>quis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>urna</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E94463">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Nunc viverra imperdiet enim. Fusce est.</w:t>
+<w:t xml:space="preserve">Nunc </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>viverra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>imperdiet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>enim</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Fusce</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> est.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="4E7AC323" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="00E6009A">
@@ -7987,11 +10158,257 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</w:t>
+<w:t>Vivamus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> a </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>tellus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Pellentesque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> habitant morbi tristique </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>senectus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>netus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>malesuada</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>fames</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>ac</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>turpis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>egestas</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Proin</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pharetra</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>pede</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> et </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>orci</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Aenean</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> nec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>lorem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="569CFE77" w14:textId="77777777" w:rsidR="0038549D" w:rsidRPr="0038549D" w:rsidRDefault="00E6009A" w:rsidP="0038549D">
@@ -8004,19 +10421,243 @@
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-<w:t xml:space="preserve">In porttitor. Donec laoreet nonummy augue. </w:t>
+<w:t xml:space="preserve">In </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>porttitor</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. Donec </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>laoreet</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t>augue</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="en-US"/>
+</w:rPr>
+<w:t xml:space="preserve">. </w:t>
 </w:r>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem ve</w:t>
+<w:t xml:space="preserve">Suspendisse </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>dui</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>purus</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>scelerisque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at, </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>vulputate</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> vitae, pretium </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>mattis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">, nunc. </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>Mauris</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eget</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>neque</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> at </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>sem</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00E6009A">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>ve</w:t>
 </w:r>
 <w:r w:rsidR="0038549D">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
 </w:rPr>
-<w:t>nenatis eleifend. Ut nonummy.</w:t>
+<w:t>nenatis</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>eleifend</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t xml:space="preserve">. Ut </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>nonummy</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidR="0038549D">
+<w:rPr>
+<w:lang w:val="fr-FR"/>
+</w:rPr>
+<w:t>.</w:t>
 </w:r>
 </w:p>
 <w:p w14:paraId="5FDAF285" w14:textId="77777777" w:rsidR="00E6009A" w:rsidRPr="00E6009A" w:rsidRDefault="00E6009A" w:rsidP="002C67CB">
@@ -8027,8 +10668,8 @@
 <w:lang w:val="fr-FR"/>
 </w:rPr>
 </w:pPr>
-<w:bookmarkStart w:id="95" w:name="_Toc274315280"/>
-<w:bookmarkStart w:id="96" w:name="_Toc93952228"/>
+<w:bookmarkStart w:id="82" w:name="_Toc274315280"/>
+<w:bookmarkStart w:id="83" w:name="_Toc93952228"/>
 <w:r w:rsidRPr="00E6009A">
 <w:rPr>
 <w:lang w:val="fr-FR"/>
@@ -8036,47 +10677,31 @@
 <w:lastRenderedPageBreak/>
 <w:t>LÄHTEET</w:t>
 </w:r>
-<w:bookmarkEnd w:id="95"/>
-<w:bookmarkEnd w:id="96"/>
+<w:bookmarkEnd w:id="82"/>
+<w:bookmarkEnd w:id="83"/>
 </w:p>
-<w:p w14:paraId="35E02C1B" w14:textId="6C3900FB" w:rsidR="00A8367E" w:rsidRPr="00E16BA2" w:rsidRDefault="00A8367E" w:rsidP="004733D9">
+<w:p w14:paraId="35E02C1B" w14:textId="6C3900FB" w:rsidR="00A8367E" w:rsidRPr="00622A60" w:rsidRDefault="00A8367E" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 <w:rPr>
-<w:rPrChange w:id="97" w:author="Author">
-<w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="98" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:t>omat (</w:t>
 </w:r>
-<w:r w:rsidR="006D5150" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="99" w:author="Author">
+<w:r w:rsidR="006D5150" w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:t xml:space="preserve">ohjaajaa varten, </w:t>
 </w:r>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="100" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:t>siivotaan myöhemmin oikeaan muotoon):</w:t>
 </w:r>
@@ -8143,7 +10768,7 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="57E82385" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="57E82385" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8175,19 +10800,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="101" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A model of critical success factors for software projects</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="3AB5DB00" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="3AB5DB00" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8219,19 +10838,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="102" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A new way of thinking about IT project management practices Early empirical results</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="04692A4C" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="04692A4C" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8263,19 +10876,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="103" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A study of the impact of project classification on project risk indicators</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="5D8947A8" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="5D8947A8" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8307,19 +10914,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="104" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A survey on the characteristics of projects with success in delivering client benefits</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="4531F36E" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="4531F36E" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8351,19 +10952,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="105" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A survey study of critical success factors in agile software projects in former Yugoslavia IT companies</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="1B34F602" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="1B34F602" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8395,13 +10990,7 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="106" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A survey study of critical success factors in agile software projects</w:t>
 </w:r>
 </w:p>
@@ -8445,7 +11034,7 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="71C03755" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="71C03755" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8477,19 +11066,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="107" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Evaluating logistic regression models to estimate software project outcomes</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="6FC7F655" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="6FC7F655" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8521,19 +11104,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="108" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Factors Affecting the Successful Realisation of Benefits from Systems Development Projects Findings from Three Case Studies</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="7DC3344E" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="7DC3344E" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8565,19 +11142,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="109" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>How Can Agile Methodologies Be Used to Enhance the Success of Information Technology Projects</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="0ED0D0D2" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="0ED0D0D2" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8609,19 +11180,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="110" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>How universal are IT project success and failure factors Evidence from Hungary</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="1F26397D" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="1F26397D" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8653,19 +11218,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="111" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Lessons for IT Project Manager Efficacy A Review of the Literature Associated with Project Success</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="32754D8A" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="32754D8A" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8680,6 +11239,7 @@
 </w:rPr>
 </w:pPr>
 <w:r w:rsidRPr="001755D7">
+<w:lastRenderedPageBreak/>
 <w:t>Kendra ja Taplin (2004)</w:t>
 </w:r>
 </w:p>
@@ -8697,29 +11257,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="112" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:t xml:space="preserve">Project Success A Cultural </w:t>
-</w:r>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="113" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:lastRenderedPageBreak/>
-<w:t>Framework</w:t>
+<w:r w:rsidRPr="00622A60">
+<w:t>Project Success A Cultural Framework</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="18DC1E70" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="18DC1E70" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8734,7 +11278,6 @@
 </w:rPr>
 </w:pPr>
 <w:r w:rsidRPr="001755D7">
-<w:lastRenderedPageBreak/>
 <w:t>Gingnell ym. (2014)</w:t>
 </w:r>
 </w:p>
@@ -8752,19 +11295,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="114" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Quantifying Success Factors for IT Projects—An Expert-Based Bayesian Model</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="5E33721E" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="5E33721E" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8796,19 +11333,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="115" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Software development project success and failure from the supplier's perspective A systematic literature review</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="34CEF090" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="34CEF090" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8840,19 +11371,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="116" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Standardized project management may increase development projects success</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="3489D4D9" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="3489D4D9" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8884,19 +11409,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="117" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>The influence of business managers' IT competence on IT project success</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="1C040318" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="1C040318" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8928,19 +11447,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="118" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>The Rise and Fall of the Chaos Report Figures</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="6AEB09F3" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="6AEB09F3" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -8972,19 +11485,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="119" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Time, Budget, And Functionality—IT Project Success Criteria Revised</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="61E6EA75" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="61E6EA75" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -9016,19 +11523,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="120" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>What Are the Critical Success Factors for Agile Analytics Projects</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="392F77F1" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="392F77F1" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -9060,19 +11561,13 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="121" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>What do software practitioners really think about project success A cross-cultural comparison</w:t>
 </w:r>
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="00CF7A18" w:rsidRPr="00E16BA2" w14:paraId="4D0B3D22" w14:textId="77777777" w:rsidTr="00CF7A18">
+<w:tr w:rsidR="00CF7A18" w:rsidRPr="00622A60" w14:paraId="4D0B3D22" w14:textId="77777777" w:rsidTr="00CF7A18">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4078" w:type="dxa"/>
@@ -9104,13 +11599,7 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="122" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>A model of critical success factors for software projects</w:t>
 </w:r>
 </w:p>
@@ -9125,24 +11614,16 @@
 </w:rPr>
 </w:pPr>
 </w:p>
-<w:p w14:paraId="112E0000" w14:textId="15ECBB75" w:rsidR="00A8367E" w:rsidRPr="00E16BA2" w:rsidRDefault="00A8367E" w:rsidP="004733D9">
+<w:p w14:paraId="112E0000" w14:textId="15ECBB75" w:rsidR="00A8367E" w:rsidRPr="00622A60" w:rsidRDefault="00A8367E" w:rsidP="004733D9">
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 <w:rPr>
-<w:rPrChange w:id="123" w:author="Author">
-<w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="124" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:t>mallipohjan:</w:t>
 </w:r>
@@ -9154,13 +11635,9 @@
 <w:lang w:val="en-US"/>
 </w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="125" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
-</w:rPr>
-</w:rPrChange>
 </w:rPr>
 <w:t xml:space="preserve">Faraj, S. &amp; Sambamurthy, V. (2006). </w:t>
 </w:r>
@@ -9206,21 +11683,7 @@
 </w:rPr>
 <w:t xml:space="preserve">Google (2020). Google privacy policy. Effective September 30, 2020. </w:t>
 </w:r>
-<w:r w:rsidR="00E16BA2">
-<w:fldChar w:fldCharType="begin"/>
-</w:r>
-<w:r w:rsidR="00E16BA2" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="126" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:instrText xml:space="preserve"> HYPERLINK "http://www.google.com/intl/en/policies/privacy/" </w:instrText>
-</w:r>
-<w:r w:rsidR="00E16BA2">
-<w:fldChar w:fldCharType="separate"/>
-</w:r>
+<w:hyperlink r:id="rId15" w:history="1">
 <w:r w:rsidRPr="004733D9">
 <w:rPr>
 <w:rStyle w:val="Hyperlink"/>
@@ -9229,14 +11692,7 @@
 </w:rPr>
 <w:t>http://www.google.com/intl/en/policies/privacy/</w:t>
 </w:r>
-<w:r w:rsidR="00E16BA2">
-<w:rPr>
-<w:rStyle w:val="Hyperlink"/>
-<w:color w:val="auto"/>
-<w:u w:val="none"/>
-</w:rPr>
-<w:fldChar w:fldCharType="end"/>
-</w:r>
+</w:hyperlink>
 <w:r w:rsidRPr="004733D9">
 <w:t>.</w:t>
 </w:r>
@@ -9357,14 +11813,11 @@
 <w:pPr>
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:rPrChange w:id="127" w:author="Author">
+<w:r w:rsidRPr="00622A60">
 <w:rPr>
 <w:lang w:val="en-US"/>
 </w:rPr>
-</w:rPrChange>
-</w:rPr>
+<w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Nunamaker, J. F., Briggs, R. O., &amp; Mittleman, D. D. (1996). </w:t>
 </w:r>
 <w:r w:rsidRPr="00263B97">
@@ -9401,7 +11854,6 @@
 <w:pStyle w:val="Lhde"/>
 </w:pPr>
 <w:r>
-<w:lastRenderedPageBreak/>
 <w:t>Toikka, S. (2008). Monikulttuurisen organisaation johtaminen esimiesnäkökulmasta. Pro gradu –tutkielma, Tampereen yliopisto.</w:t>
 </w:r>
 </w:p>
@@ -9414,8 +11866,8 @@
 <w:pPr>
 <w:pStyle w:val="Numeroimatonotsikko"/>
 </w:pPr>
-<w:bookmarkStart w:id="128" w:name="_Toc274314865"/>
-<w:bookmarkStart w:id="129" w:name="_Toc274315281"/>
+<w:bookmarkStart w:id="84" w:name="_Toc274314865"/>
+<w:bookmarkStart w:id="85" w:name="_Toc274315281"/>
 <w:r>
 <w:lastRenderedPageBreak/>
 <w:t xml:space="preserve">Liite 1 </w:t>
@@ -9428,18 +11880,31 @@
 <w:pPr>
 <w:pStyle w:val="Taulukonselite"/>
 </w:pPr>
-<w:bookmarkStart w:id="130" w:name="_Toc93952206"/>
+<w:bookmarkStart w:id="86" w:name="_Toc93952206"/>
 <w:r>
 <w:t xml:space="preserve">TAULUKKO </w:t>
 </w:r>
-<w:fldSimple w:instr=" SEQ TAULUKKO \* ARABIC ">
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="begin"/>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:instrText xml:space="preserve"> SEQ TAULUKKO \* ARABIC </w:instrText>
+</w:r>
+<w:r w:rsidR="00622A60">
+<w:fldChar w:fldCharType="separate"/>
+</w:r>
 <w:r w:rsidR="00440A5D">
 <w:rPr>
 <w:noProof/>
 </w:rPr>
 <w:t>6</w:t>
 </w:r>
-</w:fldSimple>
+<w:r w:rsidR="00622A60">
+<w:rPr>
+<w:noProof/>
+</w:rPr>
+<w:fldChar w:fldCharType="end"/>
+</w:r>
 <w:r>
 <w:rPr>
 <w:noProof/>
@@ -9452,7 +11917,7 @@
 </w:rPr>
 <w:t>Syyt julkaisujen karsiutumiselle otsikkotason tarkastelussa</w:t>
 </w:r>
-<w:bookmarkEnd w:id="130"/>
+<w:bookmarkEnd w:id="86"/>
 </w:p>
 <w:tbl>
 <w:tblPr>
@@ -9588,9 +12053,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Librar</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9678,9 +12145,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Bio</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9708,9 +12177,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Informatics</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9738,9 +12209,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Database</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9798,9 +12271,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Cybernetics</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9828,9 +12303,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Geo</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9888,9 +12365,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Logistics</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9948,9 +12427,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Education</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -9978,9 +12459,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Fusion</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10008,9 +12491,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Kyber</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10068,9 +12553,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Molecular</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10128,9 +12615,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Retrieval</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10158,9 +12647,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Agri</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10218,9 +12709,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Asset</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10248,9 +12741,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Automation</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10308,9 +12803,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Cultural</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10339,8 +12836,21 @@
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
 <w:r w:rsidRPr="00075E1A">
-<w:t>Data and information quality</w:t>
+<w:t xml:space="preserve">Data and </w:t>
 </w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00075E1A">
+<w:t>information</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00075E1A">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00075E1A">
+<w:t>quality</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10368,9 +12878,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Developing</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10398,9 +12910,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Documentation</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10428,9 +12942,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Econtent</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10458,9 +12974,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Globalisation</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10488,9 +13006,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Government</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10578,9 +13098,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Infrastructure</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10608,9 +13130,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Literary</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10638,9 +13162,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Medical</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10819,8 +13345,13 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
-<w:t>Requirements engineering</w:t>
+<w:t>Requirements</w:t>
+</w:r>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00075E1A">
+<w:t xml:space="preserve"> engineering</w:t>
 </w:r>
 </w:p>
 </w:tc>
@@ -10849,9 +13380,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Resolution</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10879,9 +13412,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Signal</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -10909,9 +13444,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Spatial</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11029,9 +13566,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Transfer</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11089,9 +13628,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Transportation</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11125,7 +13666,7 @@
 </w:p>
 </w:tc>
 </w:tr>
-<w:tr w:rsidR="002B2FFB" w:rsidRPr="00E16BA2" w14:paraId="303DC159" w14:textId="77777777" w:rsidTr="00631514">
+<w:tr w:rsidR="002B2FFB" w:rsidRPr="00622A60" w14:paraId="303DC159" w14:textId="77777777" w:rsidTr="00631514">
 <w:tc>
 <w:tcPr>
 <w:tcW w:w="4322" w:type="dxa"/>
@@ -11145,50 +13686,25 @@
 <w:tcW w:w="4322" w:type="dxa"/>
 <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
 </w:tcPr>
-<w:p w14:paraId="00008D6A" w14:textId="62C9A600" w:rsidR="002B2FFB" w:rsidRPr="00E16BA2" w:rsidRDefault="002B2FFB" w:rsidP="002B2FFB">
+<w:p w14:paraId="00008D6A" w14:textId="62C9A600" w:rsidR="002B2FFB" w:rsidRPr="00622A60" w:rsidRDefault="002B2FFB" w:rsidP="002B2FFB">
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="131" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
 </w:pPr>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="132" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
-<w:t xml:space="preserve">Vldb </w:t>
+<w:proofErr w:type="spellStart"/>
+<w:r w:rsidRPr="00622A60">
+<w:t>Vldb</w:t>
 </w:r>
-<w:r w:rsidR="006B6749" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="133" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:proofErr w:type="spellEnd"/>
+<w:r w:rsidRPr="00622A60">
+<w:t xml:space="preserve"> </w:t>
+</w:r>
+<w:r w:rsidR="006B6749" w:rsidRPr="00622A60">
 <w:t>(</w:t>
 </w:r>
-<w:r w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="134" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidRPr="00622A60">
 <w:t>Very Large Data Base</w:t>
 </w:r>
-<w:r w:rsidR="006B6749" w:rsidRPr="00E16BA2">
-<w:rPr>
-<w:lang w:val="en-US"/>
-<w:rPrChange w:id="135" w:author="Author">
-<w:rPr/>
-</w:rPrChange>
-</w:rPr>
+<w:r w:rsidR="006B6749" w:rsidRPr="00622A60">
 <w:t>)</w:t>
 </w:r>
 </w:p>
@@ -11248,9 +13764,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Built</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11278,9 +13796,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Iranian</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11308,9 +13828,11 @@
 <w:pPr>
 <w:pStyle w:val="Normaltextfirstchapter"/>
 </w:pPr>
+<w:proofErr w:type="spellStart"/>
 <w:r w:rsidRPr="00075E1A">
 <w:t>Polish</w:t>
 </w:r>
+<w:proofErr w:type="spellEnd"/>
 </w:p>
 </w:tc>
 </w:tr>
@@ -11328,8 +13850,8 @@
 <w:lastRenderedPageBreak/>
 <w:t>LIITE 1 ENSIMMÄINEN LIITE</w:t>
 </w:r>
-<w:bookmarkEnd w:id="128"/>
-<w:bookmarkEnd w:id="129"/>
+<w:bookmarkEnd w:id="84"/>
+<w:bookmarkEnd w:id="85"/>
 </w:p>
 <w:p w14:paraId="100096A9" w14:textId="77777777" w:rsidR="00A9362E" w:rsidRDefault="00E6009A" w:rsidP="00AF5221">
 <w:pPr>
@@ -11340,7 +13862,7 @@
 </w:r>
 </w:p>
 <w:sectPr w:rsidR="00A9362E" w:rsidSect="00900134">
-<w:headerReference w:type="first" r:id="rId15"/>
+<w:headerReference w:type="first" r:id="rId16"/>
 <w:pgSz w:w="11906" w:h="16838" w:code="9"/>
 <w:pgMar w:top="1701" w:right="1701" w:bottom="1418" w:left="1701" w:header="1134" w:footer="851" w:gutter="0"/>
 <w:cols w:space="708"/>
