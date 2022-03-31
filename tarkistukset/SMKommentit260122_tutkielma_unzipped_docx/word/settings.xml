@@ -3,7 +3,7 @@
 <w:zoom w:percent="100"/>
 <w:removePersonalInformation/>
 <w:removeDateAndTime/>
-<w:proofState w:grammar="clean"/>
+<w:proofState w:spelling="clean" w:grammar="clean"/>
 <w:stylePaneSortMethod w:val="0000"/>
 <w:trackRevisions/>
 <w:defaultTabStop w:val="1304"/>
@@ -13,7 +13,7 @@
 <w:displayHorizontalDrawingGridEvery w:val="2"/>
 <w:characterSpacingControl w:val="doNotCompress"/>
 <w:hdrShapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2063"/>
+<o:shapedefaults v:ext="edit" spidmax="2050"/>
 </w:hdrShapeDefaults>
 <w:footnotePr>
 <w:footnote w:id="-1"/>
@@ -266,6 +266,7 @@
 <w:rsid w:val="00613A73"/>
 <w:rsid w:val="00616E69"/>
 <w:rsid w:val="006224EC"/>
+<w:rsid w:val="00622A60"/>
 <w:rsid w:val="00625B66"/>
 <w:rsid w:val="00631514"/>
 <w:rsid w:val="00635683"/>
@@ -785,12 +786,9 @@
 <w:themeFontLang w:val="fi-FI"/>
 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
 <w:shapeDefaults>
-<o:shapedefaults v:ext="edit" spidmax="2063"/>
+<o:shapedefaults v:ext="edit" spidmax="2050"/>
 <o:shapelayout v:ext="edit">
 <o:idmap v:ext="edit" data="2"/>
-<o:rules v:ext="edit">
-<o:r id="V:Rule2" type="connector" idref="#AutoShape 7"/>
-</o:rules>
 </o:shapelayout>
 </w:shapeDefaults>
 <w:decimalSymbol w:val=","/>
