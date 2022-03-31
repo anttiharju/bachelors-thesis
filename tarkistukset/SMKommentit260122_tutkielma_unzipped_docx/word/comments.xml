@@ -1,376 +1,354 @@
-<?xml version="1.0" encoding="utf-8"?>
-<w:comments xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="750094804">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="7C0E05A8" w14:textId="2241B7C4">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:comments xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+<w:comment w:id="21" w:author="Author" w:initials="A">
+<w:p w14:paraId="4FC6869A" w14:textId="3A539BF8" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Motivaatio muotoillaan yleens‰ aiheen n‰kˆkulmasta (miksi t‰t‰ aihetta on t‰rke‰ tutkia, ei miksi juuri min‰ olen kiinnostunut tutkimaan aihetta)</w:t>
+<w:r>
+<w:t>Raportointiohjeesta kannattaa tsekata, mit√§ asioita sis√§ll√∂llisesti tulee sis√§llytt√§√§ johdantoon</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="135122364">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="5EB98F5F" w14:textId="1008286F">
+<w:comment w:id="22" w:author="Author" w:initials="A">
+<w:p w14:paraId="7C0E05A8" w14:textId="2241B7C4" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰t‰ lausrtta voisi ehk‰ selkeytt‰‰ - tarkoituksena varmaan sanoa, ett‰ joissain tutkimuksissa k‰ytetty yhten‰ l‰htˆkohtana tai viitattu taustassa tms.?</w:t>
+<w:r>
+<w:t>Motivaatio muotoillaan yleens√§ aiheen n√§k√∂kulmasta (miksi t√§t√§ aihetta on t√§rke√§ tutkia, ei miksi juuri min√§ olen kiinnostunut tutkimaan aihetta)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="980648729">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="34567904" w14:textId="62270AB3">
+<w:comment w:id="24" w:author="Author" w:initials="A">
+<w:p w14:paraId="258C5557" w14:textId="29ED62D9" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>muotoilu ehk‰ ennemmin jotenkin lievemmin, ett‰ vastaavan tyyppinen kirjallisuuskatsaus ei v‰ltt‰m‰tt‰ t‰ss‰ kohtaa tuottaisi merkitt‰v‰‰ tietoa aiheesta</w:t>
+<w:r>
+<w:t>Miksi? Olisi hyv√§ tuoda esille t√§ss√§ yhteydess√§</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="104898369">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="047AB0F8" w14:textId="08041AEC">
+<w:comment w:id="26" w:author="Author" w:initials="A">
+<w:p w14:paraId="5EB98F5F" w14:textId="1008286F" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰m‰ lainaus on aika pitk‰. Voi olla hyˆdyllinenkin, mutta kannattaa mietti‰, onko kaikki osat tarpeellisia (voisiko viitata tekstin puolella?</w:t>
+<w:r>
+<w:t>T√§t√§ lausrtta voisi ehk√§ selkeytt√§√§ - tarkoituksena varmaan sanoa, ett√§ joissain tutkimuksissa k√§ytetty yhten√§ l√§ht√∂kohtana tai viitattu taustassa tms.?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="940198290">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="01C21F90" w14:textId="156EE4D6">
+<w:comment w:id="27" w:author="Author" w:initials="A">
+<w:p w14:paraId="1377752E" w14:textId="653793BB" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>lyhenteit‰ kannattaa v‰ltt‰‰ tekstin puolella, sulkeissa ok</w:t>
+<w:r>
+<w:t>Puolipiste l√§hteiden v√§liss√§</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="712832661">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="111DD61E" w14:textId="2E01BC17">
+<w:comment w:id="30" w:author="Author" w:initials="A">
+<w:p w14:paraId="111DD61E" w14:textId="2E01BC17" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>sulkeiss‰ &amp; -merkki, tekstin puolella "ja"</w:t>
+<w:r>
+<w:t>sulkeiss√§ &amp; -merkki, tekstin puolella "ja"</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="777727980">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="1377752E" w14:textId="653793BB">
+<w:comment w:id="34" w:author="Author" w:initials="A">
+<w:p w14:paraId="34567904" w14:textId="62270AB3" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Puolipiste l‰hteiden v‰liss‰</w:t>
+<w:r>
+<w:t>muotoilu ehk√§ ennemmin jotenkin lievemmin, ett√§ vastaavan tyyppinen kirjallisuuskatsaus ei v√§ltt√§m√§tt√§ t√§ss√§ kohtaa tuottaisi merkitt√§v√§√§ tietoa aiheesta</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="190418775">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="4FC6869A" w14:textId="3A539BF8">
+<w:comment w:id="41" w:author="Author" w:initials="A">
+<w:p w14:paraId="047AB0F8" w14:textId="08041AEC" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Raportointiohjeesta kannattaa tsekata, mit‰ asioita sis‰llˆllisesti tulee sis‰llytt‰‰ johdantoon</w:t>
+<w:r>
+<w:t>T√§m√§ lainaus on aika pitk√§. Voi olla hy√∂dyllinenkin, mutta kannattaa mietti√§, onko kaikki osat tarpeellisia (voisiko viitata tekstin puolella?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1509442564">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="4D49EA67" w14:textId="652EF01F">
+<w:comment w:id="42" w:author="Author" w:initials="A">
+<w:p w14:paraId="4D49EA67" w14:textId="652EF01F" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰ll‰iset sanamuodot tuo ehk‰ v‰h‰n turhaa kapulakielisyytt‰</w:t>
+<w:r>
+<w:t>T√§ll√§iset sanamuodot tuo ehk√§ v√§h√§n turhaa kapulakielisyytt√§</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="216749056">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="7C878F54" w14:textId="1F4BBC74">
+<w:comment w:id="43" w:author="Author" w:initials="A">
+<w:p w14:paraId="7C878F54" w14:textId="1F4BBC74" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>N‰m‰ ehk‰ myˆs v‰h‰n perua englannin puolelta - k‰‰nnˆksiss‰ kannattaa kiinnitt‰‰ huomiota siihen, ett‰ kuulostaako suomennos luonnolliselta</w:t>
+<w:r>
+<w:t>N√§m√§ ehk√§ my√∂s v√§h√§n perua englannin puolelta - k√§√§nn√∂ksiss√§ kannattaa kiinnitt√§√§ huomiota siihen, ett√§ kuulostaako suomennos luonnolliselta</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1541009071">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="04985C6B" w14:textId="605DC91E">
+<w:comment w:id="44" w:author="Author" w:initials="A">
+<w:p w14:paraId="01C21F90" w14:textId="156EE4D6" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰ss‰ alkuosassa olisi hyv‰ olla metateksti‰ luvun sis‰ltˆˆn liittyen "T‰ss‰ luvussa k‰sitell‰‰n..."</w:t>
+<w:r>
+<w:t>lyhenteit√§ kannattaa v√§ltt√§√§ tekstin puolella, sulkeissa ok</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="2006482538">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="462A5D66" w14:textId="7A6FA482">
+<w:comment w:id="46" w:author="Author" w:initials="A">
+<w:p w14:paraId="04985C6B" w14:textId="605DC91E" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰ss‰ kappaleessa j‰‰ ehk‰ v‰h‰n ep‰selv‰ksi Jufon ja Scopuksen v‰linen suhde (mit‰ Jufossa tehtiin, mit‰ Scopuksessa tehtiin, miten  n‰m‰ liittyv‰t toisiinsa). Ehk‰ v‰h‰n sekaisin aineiston keruuseen/valintaan ja laadunarviointiin liittyvi‰ asioita?</w:t>
+<w:r>
+<w:t>T√§ss√§ alkuosassa olisi hyv√§ olla metateksti√§ luvun sis√§lt√∂√∂n liittyen "T√§ss√§ luvussa k√§sitell√§√§n..."</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="832560692">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="7A8CCF49" w14:textId="0A27F43F">
+<w:comment w:id="48" w:author="Author" w:initials="A">
+<w:p w14:paraId="462A5D66" w14:textId="7A6FA482" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Ensimm‰inen kappale otsikon/alaotsikon/taulukon/kuvion j‰lkeen ei ole sisennetty</w:t>
+<w:r>
+<w:t>T√§ss√§ kappaleessa j√§√§ ehk√§ v√§h√§n ep√§selv√§ksi Jufon ja Scopuksen v√§linen suhde (mit√§ Jufossa tehtiin, mit√§ Scopuksessa tehtiin, miten  n√§m√§ liittyv√§t toisiinsa). Ehk√§ v√§h√§n sekaisin aineiston keruuseen/valintaan ja laadunarviointiin liittyvi√§ asioita?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1509445028">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="0BE23CB8" w14:textId="0775740B">
+<w:comment w:id="49" w:author="Author" w:initials="A">
+<w:p w14:paraId="7A8CCF49" w14:textId="0A27F43F" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰m‰n ehk‰ muotoilisin uudelleen niin, ett‰ k‰sitell‰‰n aihe edell‰ (v‰h‰n samasta asiasta kyse, kun motivoinnin muotoilu introssa)</w:t>
+<w:r>
+<w:t>Ensimm√§inen kappale otsikon/alaotsikon/taulukon/kuvion j√§lkeen ei ole sisennetty</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="329450488">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="2E261682" w14:textId="6919C177">
+<w:comment w:id="50" w:author="Author" w:initials="A">
+<w:p w14:paraId="0BE23CB8" w14:textId="0775740B" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰m‰ lause loppuu kesken ja on v‰h‰n puhekielinen/kirjoittajakeskeinen</w:t>
+<w:r>
+<w:t>T√§m√§n ehk√§ muotoilisin uudelleen niin, ett√§ k√§sitell√§√§n aihe edell√§ (v√§h√§n samasta asiasta kyse, kun motivoinnin muotoilu introssa)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="2002319577">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="55B37C1C" w14:textId="61C1BD31">
+<w:comment w:id="51" w:author="Author" w:initials="A">
+<w:p w14:paraId="2E261682" w14:textId="6919C177" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Mietin, onko t‰m‰ kuvaavin termi</w:t>
+<w:r>
+<w:t>T√§m√§ lause loppuu kesken ja on v√§h√§n puhekielinen/kirjoittajakeskeinen</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="164402140">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="1C194DE9" w14:textId="1F49ECC6">
+<w:comment w:id="56" w:author="Author" w:initials="A">
+<w:p w14:paraId="55B37C1C" w14:textId="61C1BD31" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Eikˆs n‰it‰ pit‰isi muuten olla 48 (108-60)? ƒkkiselt‰‰n lasketttuna saan 47</w:t>
+<w:r>
+<w:t>Mietin, onko t√§m√§ kuvaavin termi</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1377720158">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="16A14403" w14:textId="75BA654D">
+<w:comment w:id="57" w:author="Author" w:initials="A">
+<w:p w14:paraId="1C194DE9" w14:textId="1F49ECC6" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>snowball sampling kannattaa termin‰ mainita jossain, t‰ss‰ voisi viitata myˆs johonkin menetelm‰kirjallisuuteen</w:t>
+<w:r>
+<w:t>Eik√∂s n√§it√§ pit√§isi muuten olla 48 (108-60)? √Ñkkiselt√§√§n lasketttuna saan 47</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1703981728">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="1628B7B0" w14:textId="7B4864DE">
+<w:comment w:id="59" w:author="Author" w:initials="A">
+<w:p w14:paraId="16A14403" w14:textId="75BA654D" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰m‰ liittyy varmaan enemm‰n menetelm‰‰n, kuin tuloksiin? taustassa ja menetelm‰ss‰ hyvin voi k‰ytt‰‰ muitakin l‰hteit‰</w:t>
+<w:r>
+<w:t>snowball sampling kannattaa termin√§ mainita jossain, t√§ss√§ voisi viitata my√∂s johonkin menetelm√§kirjallisuuteen</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="134526196">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="375FCBF1" w14:textId="5BFEE8DE">
+<w:comment w:id="60" w:author="Author" w:initials="A">
+<w:p w14:paraId="1628B7B0" w14:textId="7B4864DE" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>T‰ss‰ hyp‰t‰‰n aika suorilta aiheen k‰sittelyyn, joku johdattelu olisi kiva alussa</w:t>
+<w:r>
+<w:t>T√§m√§ liittyy varmaan enemm√§n menetelm√§√§n, kuin tuloksiin? taustassa ja menetelm√§ss√§ hyvin voi k√§ytt√§√§ muitakin l√§hteit√§</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1738832579">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="38A5F407" w14:textId="71184431">
+<w:comment w:id="64" w:author="Author" w:initials="A">
+<w:p w14:paraId="375FCBF1" w14:textId="5BFEE8DE" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>V‰h‰n ehk‰ mietin onko t‰m‰ taulukko tarpeellinen, tulisiko paremmin esille osana teksti‰? Ja mietin kertooko tuo keskiarvo paljon, olisiko moodi/mediaani parempi (ts. mihin ajankohtaan tutkimukset painottuu)</w:t>
+<w:r>
+<w:t>T√§ss√§ hyp√§t√§√§n aika suorilta aiheen k√§sittelyyn, joku johdattelu olisi kiva alussa</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1856693141">
-<w:p w:rsidR="67C704D2" w:rsidRDefault="67C704D2" w14:paraId="258C5557" w14:textId="29ED62D9">
+<w:comment w:id="66" w:author="Author" w:initials="A">
+<w:p w14:paraId="38A5F407" w14:textId="71184431" w:rsidR="67C704D2" w:rsidRDefault="67C704D2">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="67C704D2">
-<w:rPr />
-<w:t>Miksi? Olisi hyv‰ tuoda esille t‰ss‰ yhteydess‰</w:t>
+<w:r>
+<w:t>V√§h√§n ehk√§ mietin onko t√§m√§ taulukko tarpeellinen, tulisiko paremmin esille osana teksti√§? Ja mietin kertooko tuo keskiarvo paljon, olisiko moodi/mediaani parempi (ts. mihin ajankohtaan tutkimukset painottuu)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>

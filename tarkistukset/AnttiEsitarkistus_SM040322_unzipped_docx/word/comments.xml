@@ -1,742 +1,695 @@
-<?xml version="1.0" encoding="utf-8"?>
-<w:comments xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1400562849">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="70558917" w14:textId="70C5BBB6">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:comments xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+<w:comment w:id="2" w:author="Author" w:initials="A">
+<w:p w14:paraId="70558917" w14:textId="70C5BBB6" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">T‰t‰ voisi viel‰ selkeytt‰‰, v‰h‰n ehk‰ sis‰llˆllisesti pomppii. Yleens‰ tiivistelm‰ noudattaa rakennetta johdatus (aiheeseen) --&gt; tutkielman menetelm‰ (t‰m‰ tosin suppea kanditutkielmassa) --&gt; tutkielman tulokset --&gt; johtop‰‰tˆkset. Parhaiten t‰m‰ k‰y ilmi ehk‰ t‰st‰ kuvasta: </w:t>
+<w:r>
+<w:t xml:space="preserve">T√§t√§ voisi viel√§ selkeytt√§√§, v√§h√§n ehk√§ sis√§ll√∂llisesti pomppii. Yleens√§ tiivistelm√§ noudattaa rakennetta johdatus (aiheeseen) --&gt; tutkielman menetelm√§ (t√§m√§ tosin suppea kanditutkielmassa) --&gt; tutkielman tulokset --&gt; johtop√§√§t√∂kset. Parhaiten t√§m√§ k√§y ilmi ehk√§ t√§st√§ kuvasta: </w:t>
 </w:r>
-<w:hyperlink r:id="Rf9bb7a3f816b4ab8">
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:hyperlink r:id="rId1">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:rStyle w:val="Hyperlink" />
+<w:rStyle w:val="Hyperlink"/>
 </w:rPr>
 <w:t>https://study.com/cimages/videopreview/videopreview-full/iugort78aj.jpg</w:t>
 </w:r>
 </w:hyperlink>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">  Vinkkej‰ lˆytyy paljon myˆs netist‰, esim. </w:t>
+<w:r>
+<w:t xml:space="preserve">  Vinkkej√§ l√∂ytyy paljon my√∂s netist√§, esim. </w:t>
 </w:r>
-<w:hyperlink r:id="Ra4edcde138064784">
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:hyperlink r:id="rId2">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:rStyle w:val="Hyperlink" />
+<w:rStyle w:val="Hyperlink"/>
 </w:rPr>
 <w:t>https://www.grammarly.com/blog/write-an-abstract/?gclid=Cj0KCQiA64GRBhCZARIsAHOLriKp0B0EUdPiZX0nlS3mXye4EY_C3vHQ7EhHuJ-QtkHFLAj109tHYHIaAmrVEALw_wcB&amp;gclsrc=aw.ds</w:t>
 </w:r>
 </w:hyperlink>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="743921166">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="74C68CE9" w14:textId="4AF52924">
+<w:comment w:id="13" w:author="Author" w:initials="A">
+<w:p w14:paraId="5823C544" w14:textId="1BE380A8" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
+<w:t>Nyt varsinkin kun 2. luku on jo menetelm√§luku, niin t√§m√§n johdannon merkitys korostuu. Mieti viel√§ rakennetta ja asioiden k√§sittelyj√§rjestyst√§, t√§ss√§ menn√§√§n nyt aika nopeasti asiaan taustoittamatta aihetta. Ks. rakenteeseen mallia: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&amp;isAllowed=y</w:t>
+</w:r>
+<w:r>
+<w:rPr>
+<w:rStyle w:val="CommentReference"/>
+</w:rPr>
+<w:annotationRef/>
+</w:r>
+</w:p>
+</w:comment>
+<w:comment w:id="14" w:author="Author" w:initials="A">
+<w:p w14:paraId="74C68CE9" w14:textId="4AF52924" w:rsidR="23F95831" w:rsidRDefault="23F95831">
+<w:pPr>
+<w:pStyle w:val="CommentText"/>
+</w:pPr>
+<w:r>
 <w:t>suoraan lainaukseen sivunumero</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1653602164">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="21DBC661" w14:textId="6E01DB79">
+<w:comment w:id="15" w:author="Author" w:initials="A">
+<w:p w14:paraId="21DBC661" w14:textId="6E01DB79" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Mietin, pit‰‰kˆ t‰m‰ lause paikkansa - eikˆs motivaatio t‰ss‰ taustalla ollut se, ett‰ menestystekijˆist‰ ollaan todella kiinnostuneita ja niit‰ ollaan tutkittu pitk‰‰n, mutta silti iso% projekteista edelleen ep‰onnistuu?</w:t>
+<w:r>
+<w:t>Mietin, pit√§√§k√∂ t√§m√§ lause paikkansa - eik√∂s motivaatio t√§ss√§ taustalla ollut se, ett√§ menestystekij√∂ist√§ ollaan todella kiinnostuneita ja niit√§ ollaan tutkittu pitk√§√§n, mutta silti iso% projekteista edelleen ep√§onnistuu?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1840089976">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="71E32D9C" w14:textId="5FD427DB">
+<w:comment w:id="16" w:author="Author" w:initials="A">
+<w:p w14:paraId="71E32D9C" w14:textId="5FD427DB" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ tulee v‰h‰n oudossa paikassa. Raportointiohjeesta: "[Johdannon] lopuksi esitell‰‰n lyhyesti tutkielman lukujen sis‰ltˆ"</w:t>
+<w:r>
+<w:t>T√§m√§ tulee v√§h√§n oudossa paikassa. Raportointiohjeesta: "[Johdannon] lopuksi esitell√§√§n lyhyesti tutkielman lukujen sis√§lt√∂"</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1258165591">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="1144C48C" w14:textId="2FAFD442">
+<w:comment w:id="17" w:author="Author" w:initials="A">
+<w:p w14:paraId="1144C48C" w14:textId="2FAFD442" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Sin‰ns‰ "systemaattinen" tuossa kirjallisuuskartoituksen edess‰ viittaa jo j‰rjestelm‰llisyyteen, ehk‰ j‰tt‰isin t‰m‰n lauseen pois</w:t>
+<w:r>
+<w:t>Sin√§ns√§ "systemaattinen" tuossa kirjallisuuskartoituksen edess√§ viittaa jo j√§rjestelm√§llisyyteen, ehk√§ j√§tt√§isin t√§m√§n lauseen pois</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="988506482">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="058077D0" w14:textId="1569DC91">
+<w:comment w:id="18" w:author="Author" w:initials="A">
+<w:p w14:paraId="058077D0" w14:textId="1569DC91" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰t‰ voisi v‰h‰n viel‰ kirjoittaa auki, ett‰ mit‰ t‰m‰ k‰yt‰nnˆss‰ tarkoittaa</w:t>
+<w:r>
+<w:t>T√§t√§ voisi v√§h√§n viel√§ kirjoittaa auki, ett√§ mit√§ t√§m√§ k√§yt√§nn√∂ss√§ tarkoittaa</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1570841919">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="105214A4" w14:textId="07BFA718">
+<w:comment w:id="19" w:author="Author" w:initials="A">
+<w:p w14:paraId="105214A4" w14:textId="07BFA718" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Ja t‰t‰ voisi viel‰ ehk‰ uudelleen muotoilla, kun tuossa seuraavassa lauseessa sanotaan, ett‰ ker‰ttiin myˆs tjt ulkopuolelta - esim. "Aineiston ker‰‰minen aloitettiin...."</w:t>
+<w:r>
+<w:t>Ja t√§t√§ voisi viel√§ ehk√§ uudelleen muotoilla, kun tuossa seuraavassa lauseessa sanotaan, ett√§ ker√§ttiin my√∂s tjt ulkopuolelta - esim. "Aineiston ker√§√§minen aloitettiin...."</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1863658391">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="32106A1C" w14:textId="1C7069FE">
+<w:comment w:id="20" w:author="Author" w:initials="A">
+<w:p w14:paraId="32106A1C" w14:textId="1C7069FE" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>olisiko t‰m‰ selke‰mpi, jos olisi "usein toistuvia"?</w:t>
+<w:r>
+<w:t>olisiko t√§m√§ selke√§mpi, jos olisi "usein toistuvia"?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="893814739">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="62A9DEA5" w14:textId="17DA6BE1">
+<w:comment w:id="21" w:author="Author" w:initials="A">
+<w:p w14:paraId="62A9DEA5" w14:textId="17DA6BE1" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Tsekkaa, pysyykˆ t‰ss‰ ajatus samana - T‰ss‰ tavoitteena siis lis‰t‰ tieteellist‰ otetta ja tuoda tuloksia selke‰mmin esille</w:t>
+<w:r>
+<w:t>Tsekkaa, pysyyk√∂ t√§ss√§ ajatus samana - T√§ss√§ tavoitteena siis lis√§t√§ tieteellist√§ otetta ja tuoda tuloksia selke√§mmin esille</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1994748258">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="574C404B" w14:textId="3CB024E0">
+<w:comment w:id="27" w:author="Author" w:initials="A">
+<w:p w14:paraId="574C404B" w14:textId="3CB024E0" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ johdanto ehk‰ loppuu hieman yll‰tt‰en - korjaantuu kenties sill‰, jos loppuun tulee viel‰ lukujen esittely (ks., ett‰ ei tule p‰‰llekk‰ist‰ metateksti‰ luvuista t‰m‰n seurauksena)</w:t>
+<w:r>
+<w:t>T√§m√§ johdanto ehk√§ loppuu hieman yll√§tt√§en - korjaantuu kenties sill√§, jos loppuun tulee viel√§ lukujen esittely (ks., ett√§ ei tule p√§√§llekk√§ist√§ metateksti√§ luvuista t√§m√§n seurauksena)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1086725837">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="466476DB" w14:textId="4F6236C4">
+<w:comment w:id="32" w:author="Author" w:initials="A">
+<w:p w14:paraId="26CE29EA" w14:textId="69E2D541" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Tarkoittaako t‰m‰ tietoj‰rjestelm‰tiedett‰? Jos n‰in, niin selke‰mpi jos kirjoittaa suoraan, ett‰ tietoj‰rjestelm‰tiede</w:t>
+<w:r>
+<w:t>"T√§m√§n j√§lkeen voisi lis√§t√§ viel√§ lauseen: "T√§m√§ n√§htiin aiheen kannalta tarpeelliseksi, sill√§..."</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1037524071">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="26CE29EA" w14:textId="69E2D541">
+<w:comment w:id="33" w:author="Author" w:initials="A">
+<w:p w14:paraId="09476D7E" w14:textId="0223FC4B" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>"T‰m‰n j‰lkeen voisi lis‰t‰ viel‰ lauseen: "T‰m‰ n‰htiin aiheen kannalta tarpeelliseksi, sill‰..."</w:t>
+<w:r>
+<w:t>Onko "Iranian" ja "Polish" j√§tetty pois kielen takia, ts. ovatko n√§m√§ ei-englanninkielisi√§ julkaisuja? Jos n√§in, niin voi mainita, ett√§ aiheen lis√§ksi t√§ss√§ vaiheessa karsiutui pois my√∂s muulla kuin englanninkielell√§ ilmestyvi√§ julkaisuja.</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="428631254">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="09476D7E" w14:textId="0223FC4B">
+<w:comment w:id="34" w:author="Author" w:initials="A">
+<w:p w14:paraId="466476DB" w14:textId="4F6236C4" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Onko "Iranian" ja "Polish" j‰tetty pois kielen takia, ts. ovatko n‰m‰ ei-englanninkielisi‰ julkaisuja? Jos n‰in, niin voi mainita, ett‰ aiheen lis‰ksi t‰ss‰ vaiheessa karsiutui pois myˆs muulla kuin englanninkielell‰ ilmestyvi‰ julkaisuja.</w:t>
+<w:r>
+<w:t>Tarkoittaako t√§m√§ tietoj√§rjestelm√§tiedett√§? Jos n√§in, niin selke√§mpi jos kirjoittaa suoraan, ett√§ tietoj√§rjestelm√§tiede</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1757371380">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="25138BD0" w14:textId="4122A983">
+<w:comment w:id="38" w:author="Author" w:initials="A">
+<w:p w14:paraId="25138BD0" w14:textId="4122A983" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Saisiko t‰h‰n loppuun jonkun menetelm‰l‰hteen, jossa t‰st‰ menetelm‰st‰ on puhuttu? Eli k‰yt‰nnˆss‰ voit laittaa t‰h‰n sulkuihin vain l‰hteenn joka tukee t‰t‰ v‰itett‰, sopiva viittaus voisi olla muotoa (ks. esim. Author1, xxxx)</w:t>
+<w:r>
+<w:t>Saisiko t√§h√§n loppuun jonkun menetelm√§l√§hteen, jossa t√§st√§ menetelm√§st√§ on puhuttu? Eli k√§yt√§nn√∂ss√§ voit laittaa t√§h√§n sulkuihin vain l√§hteenn joka tukee t√§t√§ v√§itett√§, sopiva viittaus voisi olla muotoa (ks. esim. Author1, xxxx)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1287661420">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="7620495B" w14:textId="05C3A5CA">
+<w:comment w:id="39" w:author="Author" w:initials="A">
+<w:p w14:paraId="7620495B" w14:textId="05C3A5CA" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ on v‰h‰n ep‰selv‰ - otetaanko t‰ss‰kin siis tuollainen harkinnanvarainen lumipallo-otanta, kun l‰hteiden m‰‰r‰ kasvaa 36:n? Eikˆs t‰llˆin tutkielman sis‰ltˆ perustu 36:n l‰hteeseen? Esim. p‰‰asiallisia l‰hteit‰ 21, jonka lis‰ksi kirjallisuudesta tunnistettiinmuita aiheen kannalta olennaisia l‰hteit‰ (jos on siis tarvetta tehd‰ ero p‰asiallisesten ja muiden l‰hteiden v‰lille)</w:t>
+<w:r>
+<w:t>T√§m√§ on v√§h√§n ep√§selv√§ - otetaanko t√§ss√§kin siis tuollainen harkinnanvarainen lumipallo-otanta, kun l√§hteiden m√§√§r√§ kasvaa 36:n? Eik√∂s t√§ll√∂in tutkielman sis√§lt√∂ perustu 36:n l√§hteeseen? Esim. p√§√§asiallisia l√§hteit√§ 21, jonka lis√§ksi kirjallisuudesta tunnistettiinmuita aiheen kannalta olennaisia l√§hteit√§ (jos on siis tarvetta tehd√§ ero p√§asiallisesten ja muiden l√§hteiden v√§lille)</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1628093707">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="6BAADD0A" w14:textId="51F40E68">
+<w:comment w:id="48" w:author="Author" w:initials="A">
+<w:p w14:paraId="6BAADD0A" w14:textId="51F40E68" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ j‰‰ nyt v‰h‰n tyng‰ksi, saisiko t‰h‰n vaikka yhdell‰/muutamalla lauseella esimerkin, miten ne ovat p‰‰llekk‰isi‰?</w:t>
+<w:r>
+<w:t>T√§m√§ j√§√§ nyt v√§h√§n tyng√§ksi, saisiko t√§h√§n vaikka yhdell√§/muutamalla lauseella esimerkin, miten ne ovat p√§√§llekk√§isi√§?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1248663310">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="33C8E9E5" w14:textId="6BE0E388">
+<w:comment w:id="51" w:author="Author" w:initials="A">
+<w:p w14:paraId="33C8E9E5" w14:textId="6BE0E388" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Pysyykˆ t‰ss‰ idea samana?</w:t>
+<w:r>
+<w:t>Pysyyk√∂ t√§ss√§ idea samana?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="313073522">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="0FD488D7" w14:textId="38254C83">
+<w:comment w:id="81" w:author="Author" w:initials="A">
+<w:p w14:paraId="0FD488D7" w14:textId="38254C83" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
 <w:t xml:space="preserve">Tutkimusraportin yhteenvedossa muodostetaan </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
-<w:t>selke‰ kuva saavutetuista tuloksista ja niiden merkityksest‰</w:t>
+<w:t>selke√§ kuva saavutetuista tuloksista ja niiden merkityksest√§</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">. Tutkielman tekij‰n tulee siis muistaa, ett‰ tutkimuksen analysointia ei tule j‰tt‰‰ tutkielman yhteenvetoon. </w:t>
+<w:r>
+<w:t xml:space="preserve">. Tutkielman tekij√§n tulee siis muistaa, ett√§ tutkimuksen analysointia ei tule j√§tt√§√§ tutkielman yhteenvetoon. </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
 <w:t xml:space="preserve">Yhteenvedossa oletetaan </w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
 <w:t xml:space="preserve">(toisin kuin johdannossa), </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
-<w:t>ett‰ lukija on jo tutustunut tyˆhˆn ja sen vuoksi tyˆn tulosten esittelyn on oltava kriittist‰, reflektoivaa ja eteenp‰in suuntautuvaa</w:t>
+<w:t>ett√§ lukija on jo tutustunut ty√∂h√∂n ja sen vuoksi ty√∂n tulosten esittelyn on oltava kriittist√§, reflektoivaa ja eteenp√§in suuntautuvaa</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">. Tyˆn ongelmanasettelu ja tavoitteet kerrataan. </w:t>
+<w:r>
+<w:t xml:space="preserve">. Ty√∂n ongelmanasettelu ja tavoitteet kerrataan. </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
-<w:t>Tutkimusmenetelm‰t ja -tulokset sek‰ niihin liittyv‰t rajoitukset esitet‰‰n</w:t>
+<w:t>Tutkimusmenetelm√§t ja -tulokset sek√§ niihin liittyv√§t rajoitukset esitet√§√§n</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
 <w:t xml:space="preserve"> </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
 <w:t>tiivistetysti</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
+<w:r>
 <w:t xml:space="preserve">. </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
-<w:t>T‰ss‰ yhteydess‰ on syyt‰ tuoda selv‰sti esille, mitk‰ ovat kirjoittajan omia kontribuutioita</w:t>
+<w:t>T√§ss√§ yhteydess√§ on syyt√§ tuoda selv√§sti esille, mitk√§ ovat kirjoittajan omia kontribuutioita</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">. On myˆs tuotava esille, miss‰ m‰‰rin tulokset poikkeavat tai tukevat aiemmin saavutettuja tuloksia. Lis‰ksi edellytet‰‰n, ett‰ </w:t>
+<w:r>
+<w:t xml:space="preserve">. On my√∂s tuotava esille, miss√§ m√§√§rin tulokset poikkeavat tai tukevat aiemmin saavutettuja tuloksia. Lis√§ksi edellytet√§√§n, ett√§ </w:t>
 </w:r>
-<w:r w:rsidRPr="23F95831" w:rsidR="23F95831">
+<w:r w:rsidRPr="23F95831">
 <w:rPr>
-<w:u w:val="single" />
+<w:u w:val="single"/>
 </w:rPr>
-<w:t>tuloksiin kohdistetaan kritiikki‰</w:t>
+<w:t>tuloksiin kohdistetaan kritiikki√§</w:t>
 </w:r>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve"> esimerkiksi osoittamalla, millaisia rajoitteita tulosten yleistett‰vyydelle on asetettava ja millaisia ongelmakohtia on j‰tetty v‰hemm‰lle huomiolle. Lopuksi esitet‰‰n jatkotutkimusaiheita. Tavallisesti yhteenvetoluku on 2ñ3 sivua pitk‰</w:t>
+<w:r>
+<w:t xml:space="preserve"> esimerkiksi osoittamalla, millaisia rajoitteita tulosten yleistett√§vyydelle on asetettava ja millaisia ongelmakohtia on j√§tetty v√§hemm√§lle huomiolle. Lopuksi esitet√§√§n jatkotutkimusaiheita. Tavallisesti yhteenvetoluku on 2‚Äì3 sivua pitk√§</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="990396441">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="35FB9BB4" w14:textId="60371105">
+<w:comment w:id="82" w:author="Author" w:initials="A">
+<w:p w14:paraId="66FBF9F1" w14:textId="430AE574" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Mik‰ oli ensimm‰inen tavoite?</w:t>
+<w:r>
+<w:t>Eli saisiko t√§h√§n sellaisen rakenteen, ett√§ ensin tulee mit√§ tutkittiin ja miksi, mill√§ menetelm√§ll√§ --&gt; mit√§ tuloksia saatiin --&gt; mik√§ on niiden merkitys --&gt; kritiikki omaan tutkimukseen ja kirjallisuuteen --&gt; jatkotutkimusaiheet</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="323840058">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="20E46382" w14:textId="730EDF42">
+<w:comment w:id="83" w:author="Author" w:initials="A">
+<w:p w14:paraId="37CCEA71" w14:textId="535CBB15" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Eikˆ n‰m‰ lauseet ole kesken‰‰n v‰h‰n ristiriidassa?</w:t>
+<w:r>
+<w:t>ks. esim. t√§st√§ kandista ideaa rakenteen kannalta: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&amp;isAllowed=y</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="305129199">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="66FBF9F1" w14:textId="430AE574">
+<w:comment w:id="84" w:author="Author" w:initials="A">
+<w:p w14:paraId="7F4E9E9A" w14:textId="5F5A1216" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Eli saisiko t‰h‰n sellaisen rakenteen, ett‰ ensin tulee mit‰ tutkittiin ja miksi, mill‰ menetelm‰ll‰ --&gt; mit‰ tuloksia saatiin --&gt; mik‰ on niiden merkitys --&gt; kritiikki omaan tutkimukseen ja kirjallisuuteen --&gt; jatkotutkimusaiheet</w:t>
+<w:r>
+<w:t xml:space="preserve">Yleisesti siis hyv√§√§ asiaa, mutta monia asioita on k√§sitely melkoisen laajasti. Esimerkinomaisesti olen merkinnyt, mit√§ voisi j√§tt√§√§ kokonaan pois, lis√§ksi muutakin tiviist√§mistarvetta. </w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1524414986">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="14F09626" w14:textId="00DB8B92">
+<w:comment w:id="85" w:author="Author" w:initials="A">
+<w:p w14:paraId="14F09626" w14:textId="00DB8B92" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>mist‰? T‰h‰n myˆs tieteellisempi termi</w:t>
+<w:r>
+<w:t>mist√§? T√§h√§n my√∂s tieteellisempi termi</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="939369019">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="0ACF8A39" w14:textId="4AC76EC3">
+<w:comment w:id="87" w:author="Author" w:initials="A">
+<w:p w14:paraId="0ACF8A39" w14:textId="4AC76EC3" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰llainen kriittinen reflektointi on hyv‰‰, mutta mietin, sopiiko se jo t‰h‰n kohtaan, kun tutkielmaa ei ole viel‰ k‰yty edes l‰pi</w:t>
+<w:r>
+<w:t>T√§llainen kriittinen reflektointi on hyv√§√§, mutta mietin, sopiiko se jo t√§h√§n kohtaan, kun tutkielmaa ei ole viel√§ k√§yty edes l√§pi</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="2096551163">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="55A60CF0" w14:textId="39F2537A">
+<w:comment w:id="88" w:author="Author" w:initials="A">
+<w:p w14:paraId="4F07D699" w14:textId="2DBDB6D2" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Mietin, onko t‰ss‰ v‰h‰n p‰‰llekk‰isyytt‰ tuon ensimm‰isen tekstikappaleen kanssa</w:t>
+<w:r>
+<w:t>Eik√∂s yleistasoinen kysymys ole menetelm√§√§ ajatellen juuri hyv√§? Toki t√§m√§n voisi muotoilla jatkotutkimusaiheeksi, eli "aihetta voisi olla aiheellista tutkia my√∂s tarkemmalla rajauksella, esim...."</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1626646773">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="59FF5954" w14:textId="6739295B">
+<w:comment w:id="89" w:author="Author" w:initials="A">
+<w:p w14:paraId="35FB9BB4" w14:textId="60371105" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>t‰m‰ on v‰h‰n hassu muotoilu :) ehk‰ voisi k‰ytt‰‰ mieluummin "p‰‰asiallista l‰hdett‰", jos t‰m‰ jako on tehty tuolla aikaisemmin</w:t>
+<w:r>
+<w:t>Mik√§ oli ensimm√§inen tavoite?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1202472519">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="62A2C5AF" w14:textId="54EC1E88">
+<w:comment w:id="96" w:author="Author" w:initials="A">
+<w:p w14:paraId="47D7DA86" w14:textId="795D8242" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ on ehk‰ v‰h‰n itsest‰‰nselv‰ lause, olettaen, ett‰ lukija on jo lukenut tutkielman?</w:t>
+<w:r>
+<w:t>Jos t√§m√§ osio tulee mukaan, niin voisi tulla eri kohdassa ja v√§h√§n voisi tiivist√§√§, esim. "hakutulosten osuvuutta olisi mahdollisesti voinut parantaa laajentamalla kyselyiss√§ k√§ytetty√§ termist√∂√§ ja n√§iden yhdistelmi√§" tms.</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1194498263">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="293DF752" w14:textId="23AAB799">
+<w:comment w:id="99" w:author="Author" w:initials="A">
+<w:p w14:paraId="20E46382" w14:textId="730EDF42" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ ajatus tulee v‰hn yll‰tt‰en, ei kytkeydy edelliseen lauseeseen</w:t>
+<w:r>
+<w:t>Eik√∂ n√§m√§ lauseet ole kesken√§√§n v√§h√§n ristiriidassa?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1386307499">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="7610F9D4" w14:textId="49C5E7E5">
+<w:comment w:id="100" w:author="Author" w:initials="A">
+<w:p w14:paraId="341BCCDB" w14:textId="701AA249" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">T‰m‰ on taas aika itsest‰‰nselv‰ asia, olettaen, ett‰ lukija on lukenut tutkielman. </w:t>
+<w:r>
+<w:t>t√§m√§kin on sellainen yksityiskohta, joka on varmaan mainittu jo tutkielman puolella? voinee j√§tt√§√§ pois</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1618442437">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="37CCEA71" w14:textId="535CBB15">
+<w:comment w:id="104" w:author="Author" w:initials="A">
+<w:p w14:paraId="55A60CF0" w14:textId="39F2537A" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>ks. esim. t‰st‰ kandista ideaa rakenteen kannalta: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&amp;isAllowed=y</w:t>
+<w:r>
+<w:t>Mietin, onko t√§ss√§ v√§h√§n p√§√§llekk√§isyytt√§ tuon ensimm√§isen tekstikappaleen kanssa</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="613933795">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="7F4E9E9A" w14:textId="5F5A1216">
+<w:comment w:id="105" w:author="Author" w:initials="A">
+<w:p w14:paraId="62A2C5AF" w14:textId="54EC1E88" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t xml:space="preserve">Yleisesti siis hyv‰‰ asiaa, mutta monia asioita on k‰sitely melkoisen laajasti. Esimerkinomaisesti olen merkinnyt, mit‰ voisi j‰tt‰‰ kokonaan pois, lis‰ksi muutakin tiviist‰mistarvetta. </w:t>
+<w:r>
+<w:t>T√§m√§ on ehk√§ v√§h√§n itsest√§√§nselv√§ lause, olettaen, ett√§ lukija on jo lukenut tutkielman?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="606963773">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="341BCCDB" w14:textId="701AA249">
+<w:comment w:id="106" w:author="Author" w:initials="A">
+<w:p w14:paraId="59FF5954" w14:textId="6739295B" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>t‰m‰kin on sellainen yksityiskohta, joka on varmaan mainittu jo tutkielman puolella? voinee j‰tt‰‰ pois</w:t>
+<w:r>
+<w:t>t√§m√§ on v√§h√§n hassu muotoilu :) ehk√§ voisi k√§ytt√§√§ mieluummin "p√§√§asiallista l√§hdett√§", jos t√§m√§ jako on tehty tuolla aikaisemmin</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1640742353">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="71C3216A" w14:textId="75632F43">
+<w:comment w:id="107" w:author="Author" w:initials="A">
+<w:p w14:paraId="293DF752" w14:textId="23AAB799" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Eikˆs t‰m‰kin ole aika itsest‰‰nselv‰‰, jos tutkielma perustuu tarkasteltuun kirjallisuuteen?</w:t>
+<w:r>
+<w:t>T√§m√§ ajatus tulee v√§hn yll√§tt√§en, ei kytkeydy edelliseen lauseeseen</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1138964875">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="37864B08" w14:textId="2187EBE7">
+<w:comment w:id="109" w:author="Author" w:initials="A">
+<w:p w14:paraId="7610F9D4" w14:textId="49C5E7E5" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Olisiko joku toinen kohta t‰lle parempi, tai saisiko jotenkin selke‰mmin kytketty‰ t‰h‰n kappaleeseen? Tulee nyt v‰h‰n yll‰tt‰in</w:t>
+<w:r>
+<w:t xml:space="preserve">T√§m√§ on taas aika itsest√§√§nselv√§ asia, olettaen, ett√§ lukija on lukenut tutkielman. </w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="825759096">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="230DAC4B" w14:textId="49DF5BBB">
+<w:comment w:id="116" w:author="Author" w:initials="A">
+<w:p w14:paraId="71C3216A" w14:textId="75632F43" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>T‰m‰ j‰‰ v‰h‰n kellumaan, ja mietin, onko t‰h‰n hyv‰ lopettaa</w:t>
+<w:r>
+<w:t>Eik√∂s t√§m√§kin ole aika itsest√§√§nselv√§√§, jos tutkielma perustuu tarkasteltuun kirjallisuuteen?</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1659639112">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="147202A5" w14:textId="18E8F751">
+<w:comment w:id="124" w:author="Author" w:initials="A">
+<w:p w14:paraId="37864B08" w14:textId="2187EBE7" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>DOI-linkkej‰ ei yleens‰ sis‰llytet‰ l‰hdeluetteloon</w:t>
+<w:r>
+<w:t>Olisiko joku toinen kohta t√§lle parempi, tai saisiko jotenkin selke√§mmin kytketty√§ t√§h√§n kappaleeseen? Tulee nyt v√§h√§n yll√§tt√§in</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1313333942">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="4F07D699" w14:textId="2DBDB6D2">
+<w:comment w:id="130" w:author="Author" w:initials="A">
+<w:p w14:paraId="230DAC4B" w14:textId="49DF5BBB" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Eikˆs yleistasoinen kysymys ole menetelm‰‰ ajatellen juuri hyv‰? Toki t‰m‰n voisi muotoilla jatkotutkimusaiheeksi, eli "aihetta voisi olla aiheellista tutkia myˆs tarkemmalla rajauksella, esim...."</w:t>
+<w:r>
+<w:t>T√§m√§ j√§√§ v√§h√§n kellumaan, ja mietin, onko t√§h√§n hyv√§ lopettaa</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="660214090">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="5823C544" w14:textId="1BE380A8">
+<w:comment w:id="132" w:author="Author" w:initials="A">
+<w:p w14:paraId="147202A5" w14:textId="18E8F751" w:rsidR="23F95831" w:rsidRDefault="23F95831">
 <w:pPr>
-<w:pStyle w:val="CommentText" />
+<w:pStyle w:val="CommentText"/>
 </w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Nyt varsinkin kun 2. luku on jo menetelm‰luku, niin t‰m‰n johdannon merkitys korostuu. Mieti viel‰ rakennetta ja asioiden k‰sittelyj‰rjestyst‰, t‰ss‰ menn‰‰n nyt aika nopeasti asiaan taustoittamatta aihetta. Ks. rakenteeseen mallia: https://jyx.jyu.fi/bitstream/handle/123456789/75891/URN%3aNBN%3afi%3ajyu-202105243150.pdf?sequence=1&amp;isAllowed=y</w:t>
+<w:r>
+<w:t>DOI-linkkej√§ ei yleens√§ sis√§llytet√§ l√§hdeluetteloon</w:t>
 </w:r>
 <w:r>
 <w:rPr>
-<w:rStyle w:val="CommentReference" />
+<w:rStyle w:val="CommentReference"/>
 </w:rPr>
-<w:annotationRef />
-</w:r>
-</w:p>
-</w:comment>
-<w:comment w:initials="Ki" w:author="Kirjailija" w:id="1419772366">
-<w:p w:rsidR="23F95831" w:rsidRDefault="23F95831" w14:paraId="47D7DA86" w14:textId="795D8242">
-<w:pPr>
-<w:pStyle w:val="CommentText" />
-</w:pPr>
-<w:r w:rsidR="23F95831">
-<w:rPr />
-<w:t>Jos t‰m‰ osio tulee mukaan, niin voisi tulla eri kohdassa ja v‰h‰n voisi tiivist‰‰, esim. "hakutulosten osuvuutta olisi mahdollisesti voinut parantaa laajentamalla kyselyiss‰ k‰ytetty‰ termistˆ‰ ja n‰iden yhdistelmi‰" tms.</w:t>
-</w:r>
-<w:r>
-<w:rPr>
-<w:rStyle w:val="CommentReference" />
-</w:rPr>
-<w:annotationRef />
+<w:annotationRef/>
 </w:r>
 </w:p>
 </w:comment>
