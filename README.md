@@ -10,7 +10,7 @@ Keywords: project management, software projects, success factors, universality l
 
 ## Grading
 
-The thesis (7 cr) was given the grade 4.
+The thesis (7 cr) was given the grade 4. [The full assessment statement is available in Finnish.](LAUSUNTO.md)
 
 | ASSESSMENT                                                   | 5 | 4 | 3 | 2 | 1 | 0 |
 |--------------------------------------------------------------|---|---|---|---|---|---|
@@ -20,6 +20,8 @@ The thesis (7 cr) was given the grade 4.
 | Independence of the student and originality of the work      | x |   |   |   |   |   |
 | Clarity and linguistic form and style of the presentation    |   |   | x |   |   |   |
 
+[The assessment above is based on these instructions (in Finnish).](PERUSTEET.md)
+
 5 = excellent  
 4 = very good  
 3 = good  
@@ -27,10 +29,7 @@ The thesis (7 cr) was given the grade 4.
 1 = sufficient  
 0 = fail
 
-- [The full assessment statement in Finnish.](LAUSUNTO.md)
-- [The assessment instructions are also included in this repo (also in Finnish).](PERUSTEET.md)
-
-## How to transform the unzipped .docx's back to usable files
+## How to recreate .docx files
 
 Requirements: PowerShell and Windows Terminal.
 
