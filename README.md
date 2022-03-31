@@ -31,7 +31,7 @@ The thesis (7 cr) was given the grade 4.
 
 ## How to transform the unzipped .docx's back to usable files
 
-Requirements: PowerShell, Windows Terminal and git
+Requirements: PowerShell and Windows Terminal.
 
 To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `.\scripts\zi.ps1` to recreate the original files.
 
