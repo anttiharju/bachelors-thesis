@@ -1,6 +1,6 @@
 # Software project success factors and limitations of their universality
 
-This thesis has been written in Finnish, but the English abstract is available below. For the full PDF follow the link in the repository's 'about' section.
+This thesis has been written in Finnish, but the English abstract is available below. The full thesis is available in PDF format [on JYX](http://urn.fi/URN:NBN:fi:jyu-202203211936).
 
 ## Abstract
 
@@ -41,4 +41,4 @@ PowerShell is in theory cross platform software, but I haven't tried running the
 
 If you want to use the contents of this repository for anything (research etc.) please contact me at the email in my GitHub profile, although
 - the [.docx zip/unzip utility](https://github.com/anttiharju/zipsi-utility) is available in a separate MIT-licensed repository and
-- the final thesis is published as open access (follow the link in the repository's 'about' section).
+- the thesis has been published as open access [on JYX](http://urn.fi/URN:NBN:fi:jyu-202203211936).
