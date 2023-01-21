@@ -31,6 +31,8 @@ The thesis (7 cr) was given the grade 4. [The full assessment statement is avail
 
 ## How to recreate .docx files
 
+**If you simply want to observe the final files in their original format, simply download `bachelors-thesis.zip` from [releases](https://github.com/anttiharju/bachelors-thesis/releases/tag/final).** This way you don't need to anything below.
+
 Requirements: PowerShell and Windows Terminal.
 
 To track my thesis with git, I wrote [a small collection of scripts](https://github.com/anttiharju/zipsi-utility) to unzip and zip .docx files with. If you're on a Windows machine, simply download the repo as zip (Code > Download ZIP), unzip it and run `_open_terminal.bat`. From there, run `.\scripts\zi.ps1` to recreate the original files.
