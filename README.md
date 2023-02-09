@@ -31,7 +31,7 @@ The thesis (7 cr) was given the grade 4. [The full assessment statement is avail
 
 ## How to recreate .docx files
 
-**If you simply want to observe the final files in their original format, simply download `bachelors-thesis.zip` from [releases](https://github.com/anttiharju/bachelors-thesis/releases/tag/final).** This way you don't need to anything below.
+**If you simply want to observe the final files in their original format, download `bachelors-thesis.zip` from [releases](https://github.com/anttiharju/bachelors-thesis/releases/tag/final).** This way you don't need to do anything below.
 
 Requirements: PowerShell and Windows Terminal.
 
